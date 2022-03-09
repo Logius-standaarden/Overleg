@@ -1,0 +1,37 @@
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 5 * * *'
+
+name: Check issues
+jobs:
+  link-checker:
+    name: Check issues
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: pip install --upgrade PyGitHub
+      - name: Labels
+        env:
+          BEHEER: ${{ secrets.BEHEER }}
+        run: |
+          wget https://raw.githubusercontent.com/Logius-standaarden/Automatisering/main/scripts/labels.py
+          python labels.py
+      - name: Issues
+        env:
+          BEHEER: ${{ secrets.BEHEER }}
+        run: |
+          wget https://raw.githubusercontent.com/Logius-standaarden/Automatisering/main/scripts/issues.py
+          python issues.py
+      - name: RFCs
+        env:
+          BEHEER: ${{ secrets.BEHEER }}
+        run: |
+          wget https://raw.githubusercontent.com/Logius-standaarden/Automatisering/main/scripts/rfc.py
+          python rfc.py
+      - name: Clean-up
+        run: rm labels.py issues.py rfc.py
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update issue reports
