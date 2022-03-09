@@ -35,3 +35,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update issue reports
+          commit_user_name: GitHub Actions
+          commit_user_email: api@logius.nl
+          commit_author: Standaardenbeheer <api@logius.nl>
