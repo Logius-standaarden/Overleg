@@ -1,12 +1,26 @@
 
 ## Toelichting komende release
 
-Als REST API koppeling formeel is goedgekeurd door het OBDO kunnen we een release uitbrengen. 
-De uitbreiding van Digikoppeling met het REST API koppelvlak is doorgevoerd in de Digikoppeling documentatie (zie ook onderstaand wijzingingsvoorstel)
+Als de REST API koppelvlakspecificatie formeel is goedgekeurd door het OBDO kunnen we een release uitbrengen. Behandeling door het OBDO is geagendeerd voor 7 april 2022 Zie ook [Update Digikoppeling REST API Koppelvlak](https://digistandaarden.pleio.nl/groups/view/41aa788c-cd67-4b27-9154-373e9a83dd40/digikoppeling-community/discussion/view/6c1734c0-4f2c-499a-9b92-145f6392e2c9/update-uitbreiding-van-de-digikoppeling-standaard-met-het-rest-api-koppelvlak)
+
+De uitbreiding van Digikoppeling met het REST API koppelvlak is doorgevoerd in de Digikoppeling documentatie (Zie [Overzicht Wijzigingsvoorstellen en aanpassingen](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/rfc.md) ).
+
+Naast het toevoegen van de REST API koppelvlakspecificatie en het aanpassen van het architectuurdocument nav deze toevoeging zijn ook waar nodig de overige documenten tekstueel aangepast voor de toevoeging van deze nieuwe koppelvlakspecificatie.
+
+### Verzoek aan het TO:
+__Het TO wordt gevraagd om goedkeuring te verlenen aan het opnemen van deze wijzigingen in de komende release van Digikoppeling__
+
+
 
 ## StvZ lopende roadmap items
 
-_Peter_
+
+### Definitieve Roadmap
+
+[Roadmap Digikoppeling](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/main/Digikoppeling_Roadmap_2022_2023.md)
+
+####Verzoek aan het TO:
+__Het TO wordt gevraagd om de roadmap vast te stellen__
 
 ### Digikoppeling governance
 
@@ -22,17 +36,24 @@ We streven naar een vereenvoudiging van onze informatievoorziening.
 * we willen https://publicatie.centrumvoorstandaarden.nl/ uitfaseren en overgaan naar https://gitdocumentatie.logius.nl/
 * publicatie van agenda's via github
 
+### Signing & Encryptie toevoegen aan RESTful API profiel
+
+Onderzoek loopt in samenwerking met KP API werkgroep beveiliging
+
 ### Identificatie en Routering
 
-_Peter_
+Handreiking voor ondersteuning voor dit onderwerp is in ontwikkeling
 
-### MTOM security
+### Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing)
 
-_Peter_
+Voorbeeld berichten zijn besproken, Onderzoek heeft nog geen direkte oplossing opgeleverd;
 
 ### StvZ Respec
 
 _Alexander_
+
+### Verkennen mogelijk gebruik ebMS3/AS4
+?
 
 ## Toelichting: hoe beheren we issues en wijzigingsvoorstellen
 
