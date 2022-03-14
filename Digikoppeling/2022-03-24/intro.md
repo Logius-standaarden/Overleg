@@ -9,9 +9,12 @@ Zie ook:
 * [Digikoppeling - Koppelvlakspecificatie REST API](https://publicatie.centrumvoorstandaarden.nl/dk/restapi/)
 
 
+
 De uitbreiding van Digikoppeling met het REST API koppelvlak is doorgevoerd in de Digikoppeling documentatie (Zie [Overzicht Wijzigingsvoorstellen en aanpassingen](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/rfc.md) ).
 
 Naast het toevoegen van de REST API koppelvlakspecificatie en het aanpassen van het architectuurdocument nav deze toevoeging zijn ook waar nodig de overige documenten tekstueel aangepast voor de toevoeging van deze nieuwe koppelvlakspecificatie.
+
+Zie [Overzicht documenten komende release](https://logius-standaarden.github.io/Publicatie-Preview/Digikoppeling-Overzicht-Actuele-Documentatie-en-Compliance/Toevoegen_Rest_Api/#wat-zijn-de-huidige-versies-van-documenten).
 
 ### Verzoek aan het TO:
 __Het TO wordt gevraagd om goedkeuring te verlenen aan het opnemen van deze wijzigingen in de komende release van Digikoppeling__
