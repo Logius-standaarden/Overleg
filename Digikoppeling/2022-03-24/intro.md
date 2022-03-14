@@ -1,7 +1,7 @@
 
 ## Toelichting komende release
 
-Als de REST API koppelvlakspecificatie formeel is goedgekeurd door het OBDO kunnen we een release uitbrengen. Behandeling door het OBDO is geagendeerd voor 7 april 2022 Zie ook [Update Digikoppeling REST API Koppelvlak](https://digistandaarden.pleio.nl/groups/view/41aa788c-cd67-4b27-9154-373e9a83dd40/digikoppeling-community/discussion/view/6c1734c0-4f2c-499a-9b92-145f6392e2c9/update-uitbreiding-van-de-digikoppeling-standaard-met-het-rest-api-koppelvlak)
+Als toevoegen van de REST API koppelvlakspecificatie formeel is goedgekeurd door het OBDO kunnen we een release uitbrengen. Behandeling door het OBDO is geagendeerd voor 7 april 2022 Zie ook [Update Digikoppeling REST API Koppelvlak](https://digistandaarden.pleio.nl/groups/view/41aa788c-cd67-4b27-9154-373e9a83dd40/digikoppeling-community/discussion/view/6c1734c0-4f2c-499a-9b92-145f6392e2c9/update-uitbreiding-van-de-digikoppeling-standaard-met-het-rest-api-koppelvlak)
 
 De uitbreiding van Digikoppeling met het REST API koppelvlak is doorgevoerd in de Digikoppeling documentatie (Zie [Overzicht Wijzigingsvoorstellen en aanpassingen](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/rfc.md) ).
 
