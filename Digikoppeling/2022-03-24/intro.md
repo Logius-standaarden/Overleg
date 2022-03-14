@@ -18,8 +18,6 @@ Zie [Overzicht documenten komende release](https://logius-standaarden.github.io/
 ### Verzoek aan het TO:
 __Het TO wordt gevraagd om goedkeuring te verlenen aan het opnemen van deze wijzigingen in de komende release van Digikoppeling__
 
-
-
 ## StvZ lopende roadmap items
 
 
@@ -47,7 +45,7 @@ We streven naar een vereenvoudiging van onze informatievoorziening.
 * we willen https://publicatie.centrumvoorstandaarden.nl/ uitfaseren en overgaan naar https://gitdocumentatie.logius.nl/
 * publicatie van agenda's via github
 
-![Overzicht publicatiesites](Publicatie.png)
+[Overzicht publicatiesites](Publicatie.png)
 
 ### Signing & Encryptie toevoegen aan RESTful API profiel
 
