@@ -39,11 +39,15 @@ Logius heeft voorgesteld de governance van het standaardisatieproces te actualis
 * Technisch overleg blijft en adviseert
 * We vragen mandatering voor het doorvoeren van kleine wijzigingen door de beherorganisatie (nog te doen)
 
+[Schema beheerproces](Beheerproces.svf)
+
 ### Informatievoorziening
 
 We streven naar een vereenvoudiging van onze informatievoorziening. 
 * we willen https://publicatie.centrumvoorstandaarden.nl/ uitfaseren en overgaan naar https://gitdocumentatie.logius.nl/
 * publicatie van agenda's via github
+
+[Overzicht publicatiesites](Publicatie.png)
 
 ### Signing & Encryptie toevoegen aan RESTful API profiel
 
