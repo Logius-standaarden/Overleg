@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Gegenereerd door Microsoft Visio, SVG Export Beheerproces.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
+		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st20">
+	<v:documentProperties v:langID="1043" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {visibility:visible}
+		.st2 {fill:#5b9bd5;fill-opacity:0.22;filter:url(#filter_2)}
+		.st3 {fill:none;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.22}
+		.st4 {fill:#ffffff}
+		.st5 {stroke:#000000;stroke-width:0.25}
+		.st6 {fill:#000000;font-family:Calibri;font-size:0.833336em}
+		.st7 {fill:#5b9bd5;fill-opacity:0.22;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.22}
+		.st8 {fill:#000000;stroke:#000000;stroke-width:0.25}
+		.st9 {font-size:1em}
+		.st10 {marker-end:url(#mrkr4-47);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st11 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st12 {fill:#000000;stroke:#ffffff;stroke-width:0.25}
+		.st13 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st14 {fill:#000000;font-family:Calibri;font-size:0.666664em}
+		.st15 {fill:#000000}
+		.st16 {fill:#5b9bd5;fill-opacity:0.25;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.25}
+		.st17 {fill:#000000;stroke:#000000;stroke-width:0.75}
+		.st18 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st19 {marker-end:url(#mrkr4-47);stroke:#000000;stroke-dasharray:0,3;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st20 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-47" class="st11" v:arrowType="4" v:arrowSize="2" v:setback="7.04" refX="-7.04" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<defs id="Filters">
+		<filter id="filter_2">
+			<feGaussianBlur stdDeviation="2"/>
+		</filter>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>Pagina-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Stroomdiagram" v:index="0"/>
+		<v:layer v:name="Verbindingslijn" v:index="1"/>
+		<g id="shape13-1" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(70.9795,-481.89)">
+			<title>Persoon</title>
+			<desc>Gebruiker</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ConnGap" v:prompt="" v:val="VT0(0.00012908222537757):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="11.2252" cy="605.277" width="50.85" height="20.0036"/>
+			<g id="shadow13-2" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<path d="M18.14 562.67 L4.32 562.67 C3.32 562.67 2.4 563 1.67 563.56 C1.17 563.94 0.75 564.44 0.45 565.01 C0.16 565.57
+							 0 566.21 0 566.89 L0 582.91 L3.78 582.91 L3.78 595.28 L18.52 595.28 L18.52 582.91 L22.45 582.91 L22.45
+							 566.89 C22.45 565.91 22.11 565.02 21.54 564.3 C21.15 563.81 20.64 563.4 20.06 563.12 C19.48 562.83 18.83
+							 562.67 18.14 562.67 ZM17.68 554.74 A6.45673 6.23934 -180 1 0 4.77 554.74 A6.45673 6.23934 -180 1 0 17.68
+							 554.74 Z" class="st2"/>
+				<path d="M18.14 562.67 L4.32 562.67 C3.32 562.67 2.4 563 1.67 563.56 C1.17 563.94 0.75 564.44 0.45 565.01 C0.16 565.57
+							 0 566.21 0 566.89 L0 582.91 L3.78 582.91 L3.78 595.28 L18.52 595.28 L18.52 582.91 L22.45 582.91 L22.45
+							 566.89 C22.45 565.91 22.11 565.02 21.54 564.3 C21.15 563.81 20.64 563.4 20.06 563.12 C19.48 562.83 18.83
+							 562.67 18.14 562.67" class="st3"/>
+				<path d="M11.23 595.28 L11.23 585.39" class="st3"/>
+				<path d="M3.78 582.91 L3.78 574.37" class="st3"/>
+				<path d="M18.52 582.91 L18.52 574.37" class="st3"/>
+				<path d="M17.68 554.74 A6.45673 6.23934 -180 1 0 4.77 554.74 A6.45673 6.23934 -180 1 0 17.68 554.74" class="st3"/>
+			</g>
+			<path d="M18.14 562.67 L4.32 562.67 C3.32 562.67 2.4 563 1.67 563.56 C1.17 563.94 0.75 564.44 0.45 565.01 C0.16 565.57
+						 0 566.21 0 566.89 L0 582.91 L3.78 582.91 L3.78 595.28 L18.52 595.28 L18.52 582.91 L22.45 582.91 L22.45 566.89
+						 C22.45 565.91 22.11 565.02 21.54 564.3 C21.15 563.81 20.64 563.4 20.06 563.12 C19.48 562.83 18.83 562.67
+						 18.14 562.67 ZM17.68 554.74 A6.45673 6.23934 -180 1 0 4.77 554.74 A6.45673 6.23934 -180 1 0 17.68 554.74
+						 Z" class="st4"/>
+			<path d="M18.14 562.67 L4.32 562.67 C3.32 562.67 2.4 563 1.67 563.56 C1.17 563.94 0.75 564.44 0.45 565.01 C0.16 565.57
+						 0 566.21 0 566.89 L0 582.91 L3.78 582.91 L3.78 595.28 L18.52 595.28 L18.52 582.91 L22.45 582.91 L22.45 566.89
+						 C22.45 565.91 22.11 565.02 21.54 564.3 C21.15 563.81 20.64 563.4 20.06 563.12 C19.48 562.83 18.83 562.67
+						 18.14 562.67" class="st5"/>
+			<path d="M11.23 595.28 L11.23 585.39" class="st5"/>
+			<path d="M3.78 582.91 L3.78 574.37" class="st5"/>
+			<path d="M18.52 582.91 L18.52 574.37" class="st5"/>
+			<path d="M17.68 554.74 A6.45673 6.23934 -180 1 0 4.77 554.74 A6.45673 6.23934 -180 1 0 17.68 554.74" class="st5"/>
+			<text x="-9.07" y="608.28" class="st6" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>Gebruiker</text>		</g>
+		<g id="group14-18" transform="translate(56.6929,-361.417)" v:mID="14" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ConnGap" v:prompt="" v:val="VT0(0.00012908222537757):24"/>
+			</v:userDefs>
+			<title>Werkblad</title>
+			<desc>Voorstel tot wijziging of vraag</desc>
+			<g id="shape15-19" v:mID="15" v:groupContext="shape" v:layerMember="0">
+				<title>Blad.15</title>
+				<g id="shadow15-20" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+					<path d="M51.02 537.91 L38.34 524.41 L0 524.41 L0 595.28 L51.02 595.28 L51.02 537.91 Z" class="st7"/>
+				</g>
+				<path d="M51.02 537.91 L38.34 524.41 L0 524.41 L0 595.28 L51.02 595.28 L51.02 537.91 Z" class="st8"/>
+			</g>
+			<g id="shape16-24" v:mID="16" v:groupContext="shape" v:layerMember="0" transform="translate(5.31496,-5.53642)">
+				<title>Blad.16</title>
+				<v:userDefs>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT5(#000000)"/>
+				</v:userDefs>
+				<g id="shadow16-25" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+					<path d="M0 542.13 L12.1 542.13 L12.1 540.63 L0 540.63 L0 542.13 ZM0 548.77 L32.55 548.77 L32.55 547.27 L0 547.27
+								 L0 548.77 ZM32.69 530.22 L45.18 543.51 L32.66 543.48 L32.69 530.22 ZM0 595.28 L0 555.41 L40.39 555.41
+								 L40.39 595.28 L0 595.28 Z" class="st2"/>
+				</g>
+				<path d="M0 542.13 L12.1 542.13 L12.1 540.63 L0 540.63 L0 542.13 ZM0 548.77 L32.55 548.77 L32.55 547.27 L0 547.27
+							 L0 548.77 ZM32.69 530.22 L45.18 543.51 L32.66 543.48 L32.69 530.22 ZM0 595.28 L0 555.41 L40.39 555.41
+							 L40.39 595.28 L0 595.28 Z" class="st4"/>
+			</g>
+			<g id="shape17-32" v:mID="17" v:groupContext="shape" v:layerMember="0" transform="translate(7.44094,-7.75098)">
+				<title>Blad.17</title>
+				<g id="shadow17-33" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+					<path d="M25.82 571.07 L36.14 571.07 L36.14 565.7 L25.82 565.7 L25.82 571.07 ZM25.82 579.14 L36.14 579.14 L36.14
+								 573.76 L25.82 573.76 L25.82 579.14 ZM25.82 587.21 L36.14 587.21 L36.14 581.83 L25.82 581.83 L25.82
+								 587.21 ZM25.82 595.28 L36.14 595.28 L36.14 589.9 L25.82 589.9 L25.82 595.28 ZM12.91 571.07 L23.23
+								 571.07 L23.23 565.7 L12.91 565.7 L12.91 571.07 ZM12.91 579.14 L23.23 579.14 L23.23 573.76 L12.91
+								 573.76 L12.91 579.14 ZM12.91 587.21 L23.23 587.21 L23.23 581.83 L12.91 581.83 L12.91 587.21 ZM12.91
+								 595.28 L23.23 595.28 L23.23 589.9 L12.91 589.9 L12.91 595.28 ZM0 571.07 L10.33 571.07 L10.33 565.7
+								 L0 565.7 L0 571.07 ZM0 579.14 L10.33 579.14 L10.33 573.76 L0 573.76 L0 579.14 ZM0 587.21 L10.33
+								 587.21 L10.33 581.83 L0 581.83 L0 587.21 ZM0 595.28 L10.33 595.28 L10.33 589.9 L0 589.9 L0 595.28
+								 Z" class="st7"/>
+				</g>
+				<path d="M25.82 571.07 L36.14 571.07 L36.14 565.7 L25.82 565.7 L25.82 571.07 ZM25.82 579.14 L36.14 579.14 L36.14
+							 573.76 L25.82 573.76 L25.82 579.14 ZM25.82 587.21 L36.14 587.21 L36.14 581.83 L25.82 581.83 L25.82 587.21
+							 ZM25.82 595.28 L36.14 595.28 L36.14 589.9 L25.82 589.9 L25.82 595.28 ZM12.91 571.07 L23.23 571.07 L23.23
+							 565.7 L12.91 565.7 L12.91 571.07 ZM12.91 579.14 L23.23 579.14 L23.23 573.76 L12.91 573.76 L12.91 579.14
+							 ZM12.91 587.21 L23.23 587.21 L23.23 581.83 L12.91 581.83 L12.91 587.21 ZM12.91 595.28 L23.23 595.28
+							 L23.23 589.9 L12.91 589.9 L12.91 595.28 ZM0 571.07 L10.33 571.07 L10.33 565.7 L0 565.7 L0 571.07 ZM0
+							 579.14 L10.33 579.14 L10.33 573.76 L0 573.76 L0 579.14 ZM0 587.21 L10.33 587.21 L10.33 581.83 L0 581.83
+							 L0 587.21 ZM0 595.28 L10.33 595.28 L10.33 589.9 L0 589.9 L0 595.28 Z" class="st8"/>
+			</g>
+			<g id="shape14-37" v:mID="14" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="25.5118" cy="617.277" width="61" height="44.0037"/>
+				<g id="shadow14-38" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1"/>
+				<text x="1.28" y="608.28" class="st6" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>Voorstel tot <v:newlineChar/><tspan
+							x="7.99" dy="1.2em" class="st9">wijziging <v:newlineChar/></tspan><tspan x="9.07" dy="1.2em"
+							class="st9">of vraag</tspan></text>			</g>
+		</g>
+		<g id="shape18-42" v:mID="18" v:groupContext="shape" v:layerMember="1" transform="translate(75.1181,-481.88)">
+			<title>Dynamische verbindingslijn</title>
+			<path d="M7.09 595.28 L7.09 637.82" class="st10"/>
+		</g>
+		<g id="group23-48" transform="translate(188.504,-371.339)" v:mID="23" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ConnGap" v:prompt="" v:val="VT0(0.00012908222537757):24"/>
+			</v:userDefs>
+			<title>Gebruiker</title>
+			<desc>Beheerorganisatie</desc>
+			<g id="shape24-49" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(26.1962,-2.27374E-13)">
+				<title>Blad.24</title>
+				<g id="shadow24-50" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+					<path d="M40.8 562.98 A5.17725 4.97112 -180 1 0 30.45 562.98 A5.17725 4.97112 -180 1 0 40.8 562.98 ZM41.17 569.3
+								 L29.96 569.3 C29.15 569.3 28.41 569.56 27.82 570 C27.41 570.31 27.07 570.71 26.83 571.16 C26.59
+								 571.61 26.46 572.12 26.46 572.66 L26.46 585.42 L29.53 585.42 L29.53 595.28 L41.48 595.28 L41.48
+								 585.42 L44.67 585.42 L44.67 572.66 C44.67 571.88 44.4 571.17 43.93 570.6 C43.61 570.2 43.2 569.88
+								 42.73 569.65 C42.26 569.43 41.73 569.3 41.17 569.3 Z" class="st2"/>
+					<path d="M40.8 562.98 A5.17725 4.97112 -180 1 0 30.45 562.98 A5.17725 4.97112 -180 1 0 40.8 562.98" class="st3"/>
+					<path d="M41.17 569.3 L29.96 569.3 C29.15 569.3 28.41 569.56 27.82 570 C27.41 570.31 27.07 570.71 26.83 571.16
+								 C26.59 571.61 26.46 572.12 26.46 572.66 L26.46 585.42 L29.53 585.42 L29.53 595.28 L41.48 595.28
+								 L41.48 585.42 L44.67 585.42 L44.67 572.66 C44.67 571.88 44.4 571.17 43.93 570.6 C43.61 570.2 43.2
+								 569.88 42.73 569.65 C42.26 569.43 41.73 569.3 41.17 569.3" class="st3"/>
+					<path d="M35.57 595.28 L35.57 587.4" class="st3"/>
+					<path d="M29.53 585.42 L29.53 578.62" class="st3"/>
+					<path d="M41.48 585.42 L41.48 578.62" class="st3"/>
+					<path d="M0 585.42 L26.46 585.42" class="st3"/>
+				</g>
+				<path d="M40.8 562.98 A5.17725 4.97112 -180 1 0 30.45 562.98 A5.17725 4.97112 -180 1 0 40.8 562.98 ZM41.17 569.3
+							 L29.96 569.3 C29.15 569.3 28.41 569.56 27.82 570 C27.41 570.31 27.07 570.71 26.83 571.16 C26.59 571.61
+							 26.46 572.12 26.46 572.66 L26.46 585.42 L29.53 585.42 L29.53 595.28 L41.48 595.28 L41.48 585.42 L44.67
+							 585.42 L44.67 572.66 C44.67 571.88 44.4 571.17 43.93 570.6 C43.61 570.2 43.2 569.88 42.73 569.65 C42.26
+							 569.43 41.73 569.3 41.17 569.3 Z" class="st4"/>
+				<path d="M40.8 562.98 A5.17725 4.97112 -180 1 0 30.45 562.98 A5.17725 4.97112 -180 1 0 40.8 562.98" class="st5"/>
+				<path d="M41.17 569.3 L29.96 569.3 C29.15 569.3 28.41 569.56 27.82 570 C27.41 570.31 27.07 570.71 26.83 571.16 C26.59
+							 571.61 26.46 572.12 26.46 572.66 L26.46 585.42 L29.53 585.42 L29.53 595.28 L41.48 595.28 L41.48 585.42
+							 L44.67 585.42 L44.67 572.66 C44.67 571.88 44.4 571.17 43.93 570.6 C43.61 570.2 43.2 569.88 42.73 569.65
+							 C42.26 569.43 41.73 569.3 41.17 569.3" class="st5"/>
+				<path d="M35.57 595.28 L35.57 587.4" class="st5"/>
+				<path d="M29.53 585.42 L29.53 578.62" class="st5"/>
+				<path d="M41.48 585.42 L41.48 578.62" class="st5"/>
+				<path d="M0 585.42 L26.46 585.42" class="st5"/>
+			</g>
+			<g id="shape25-67" v:mID="25" v:groupContext="shape" v:layerMember="0" transform="translate(0,-15.8363)">
+				<title>Blad.25</title>
+				<g id="shadow25-68" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+					<path d="M41.43 563.16 C41.43 562.44 41.18 561.79 40.75 561.26 C40.46 560.91 40.08 560.61 39.65 560.41 C39.23
+								 560.2 38.74 560.09 38.23 560.09 L6.97 560.09 C6.22 560.09 5.53 560.33 4.99 560.74 C4.62 561.02 4.31
+								 561.38 4.1 561.79 C3.88 562.21 3.77 562.67 3.77 563.16 L3.77 583.01 L41.43 583.01 L41.43 563.16
+								 ZM41.61 585.44 L3.48 585.44 L0 591.43 L0 595.28 L45.31 595.28 L45.31 591.44 L41.61 585.44 Z"
+							class="st7"/>
+				</g>
+				<path d="M41.43 563.16 C41.43 562.44 41.18 561.79 40.75 561.26 C40.46 560.91 40.08 560.61 39.65 560.41 C39.23 560.2
+							 38.74 560.09 38.23 560.09 L6.97 560.09 C6.22 560.09 5.53 560.33 4.99 560.74 C4.62 561.02 4.31 561.38
+							 4.1 561.79 C3.88 562.21 3.77 562.67 3.77 563.16 L3.77 583.01 L41.43 583.01 L41.43 563.16 ZM41.61 585.44
+							 L3.48 585.44 L0 591.43 L0 595.28 L45.31 595.28 L45.31 591.44 L41.61 585.44 Z" class="st8"/>
+			</g>
+			<g id="shape26-72" v:mID="26" v:groupContext="shape" v:layerMember="0" transform="translate(6.27128,-30.5037)">
+				<title>Blad.26</title>
+				<v:userDefs>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT5(#000000)"/>
+				</v:userDefs>
+				<path d="M32.65 595.28 L32.65 577.83 C32.65 577.71 32.63 577.61 32.57 577.51 C32.51 577.4 32.41 577.3 32.29 577.24
+							 C32.19 577.19 32.08 577.16 31.96 577.16 L0.69 577.16 C0.57 577.16 0.46 577.19 0.37 577.24 C0.25 577.3
+							 0.15 577.4 0.08 577.51 C0.03 577.6 0 577.71 0 577.83 L0 595.28 L32.65 595.28 Z" class="st12"/>
+			</g>
+			<g id="shape27-74" v:mID="27" v:groupContext="shape" v:layerMember="0" transform="translate(3.88841,-20.3859)">
+				<title>Blad.27</title>
+				<v:userDefs>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT5(#000000)"/>
+				</v:userDefs>
+				<path d="M1.89 592.04 L0 595.28 L37.45 595.28 L35.56 592.04 L1.89 592.04 Z" class="st4"/>
+			</g>
+			<g id="shape23-77" v:mID="23" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="605.277" width="84.5" height="20.0036"/>
+				<g id="shadow23-78" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1"/>
+				<text x="-1.68" y="608.28" class="st6" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>Beheerorganisatie</text>			</g>
+		</g>
+		<g id="shape28-80" v:mID="28" v:groupContext="shape" v:layerMember="1" transform="translate(223.937,-422.371)">
+			<title>Dynamische verbindingslijn.28</title>
+			<desc>Antwoord op vraag</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-23.7969" cy="512.371" width="44.29" height="27.2035"/>
+			<path d="M0 595.28 L0 512.37 L-123.46 512.37" class="st10"/>
+			<rect v:rectContext="textBkgnd" x="-40.1268" y="502.772" width="32.6599" height="19.1997" class="st13"/>
+			<text x="-40.13" y="509.97" class="st14" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>Antwoord <v:newlineChar/><tspan
+						x="-37.83" dy="1.2em" class="st9">op vraag</tspan></text>		</g>
+		<g id="group30-88" transform="translate(188.504,-240.945)" v:mID="30" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ConnGap" v:prompt="" v:val="VT0(0.00012908222537757):24"/>
+			</v:userDefs>
+			<title>Executive</title>
+			<desc>Technisch overleg</desc>
+			<g id="shape31-89" v:mID="31" v:groupContext="shape" v:layerMember="0" transform="translate(27.2562,0)">
+				<title>Blad.31</title>
+				<g id="shadow31-90" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+					<path d="M39.83 563.79 A5.05439 4.84648 -180 1 0 29.72 563.79 A5.05439 4.84648 -180 1 0 39.83 563.79 ZM40.19
+								 569.95 L29.25 569.95 C28.46 569.95 27.74 570.21 27.16 570.64 C26.76 570.94 26.42 571.32 26.19 571.76
+								 C25.96 572.2 25.83 572.7 25.83 573.23 L25.83 585.67 L28.83 585.67 L28.83 595.28 L40.5 595.28 L40.5
+								 585.67 L43.61 585.67 L43.61 573.23 C43.61 572.47 43.34 571.77 42.89 571.22 C42.58 570.83 42.18 570.52
+								 41.72 570.29 C41.26 570.07 40.74 569.95 40.19 569.95 Z" class="st2"/>
+					<path d="M39.83 563.79 A5.05439 4.84648 -180 1 0 29.72 563.79 A5.05439 4.84648 -180 1 0 39.83 563.79"
+							class="st3"/>
+					<path d="M40.19 569.95 L29.25 569.95 C28.46 569.95 27.74 570.21 27.16 570.64 C26.76 570.94 26.42 571.32 26.19
+								 571.76 C25.96 572.2 25.83 572.7 25.83 573.23 L25.83 585.67 L28.83 585.67 L28.83 595.28 L40.5 595.28
+								 L40.5 585.67 L43.61 585.67 L43.61 573.23 C43.61 572.47 43.34 571.77 42.89 571.22 C42.58 570.83 42.18
+								 570.52 41.72 570.29 C41.26 570.07 40.74 569.95 40.19 569.95" class="st3"/>
+					<path d="M34.72 595.28 L34.72 587.6" class="st3"/>
+					<path d="M28.83 585.67 L28.83 579.04" class="st3"/>
+					<path d="M40.5 585.67 L40.5 579.04" class="st3"/>
+					<path d="M0 585.67 L25.83 585.67" class="st3"/>
+				</g>
+				<path d="M39.83 563.79 A5.05439 4.84648 -180 1 0 29.72 563.79 A5.05439 4.84648 -180 1 0 39.83 563.79 ZM40.19 569.95
+							 L29.25 569.95 C28.46 569.95 27.74 570.21 27.16 570.64 C26.76 570.94 26.42 571.32 26.19 571.76 C25.96
+							 572.2 25.83 572.7 25.83 573.23 L25.83 585.67 L28.83 585.67 L28.83 595.28 L40.5 595.28 L40.5 585.67 L43.61
+							 585.67 L43.61 573.23 C43.61 572.47 43.34 571.77 42.89 571.22 C42.58 570.83 42.18 570.52 41.72 570.29
+							 C41.26 570.07 40.74 569.95 40.19 569.95 Z" class="st4"/>
+				<path d="M39.83 563.79 A5.05439 4.84648 -180 1 0 29.72 563.79 A5.05439 4.84648 -180 1 0 39.83 563.79" class="st5"/>
+				<path d="M40.19 569.95 L29.25 569.95 C28.46 569.95 27.74 570.21 27.16 570.64 C26.76 570.94 26.42 571.32 26.19 571.76
+							 C25.96 572.2 25.83 572.7 25.83 573.23 L25.83 585.67 L28.83 585.67 L28.83 595.28 L40.5 595.28 L40.5 585.67
+							 L43.61 585.67 L43.61 573.23 C43.61 572.47 43.34 571.77 42.89 571.22 C42.58 570.83 42.18 570.52 41.72
+							 570.29 C41.26 570.07 40.74 569.95 40.19 569.95" class="st5"/>
+				<path d="M34.72 595.28 L34.72 587.6" class="st5"/>
+				<path d="M28.83 585.67 L28.83 579.04" class="st5"/>
+				<path d="M40.5 585.67 L40.5 579.04" class="st5"/>
+				<path d="M0 585.67 L25.83 585.67" class="st5"/>
+			</g>
+			<g id="shape32-107" v:mID="32" v:groupContext="shape" v:layerMember="0" transform="translate(7.99361E-15,-16.0865)">
+				<title>Blad.32</title>
+				<g id="shadow32-108" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+					<path d="M15.42 581.48 A4.51431 4.32778 -180 1 0 6.39 581.48 A4.51431 4.32778 -180 1 0 15.42 581.48 ZM27.68 581.48
+								 A4.51431 4.32778 -180 1 0 18.65 581.48 A4.51431 4.32778 -180 1 0 27.68 581.48 ZM39.95 581.48 A4.51431
+								 4.32778 -180 1 0 30.92 581.48 A4.51431 4.32778 -180 1 0 39.95 581.48 ZM7.15 591.85 A3.57738 3.42956
+								 -180 1 0 0 591.85 A3.57738 3.42956 -180 1 0 7.15 591.85 ZM14.99 591.85 A3.57738 3.42956 -180 1 0
+								 7.84 591.85 A3.57738 3.42956 -180 1 0 14.99 591.85 ZM22.83 591.85 A3.57738 3.42956 -180 1 0 15.67
+								 591.85 A3.57738 3.42956 -180 1 0 22.83 591.85 ZM30.66 591.85 A3.57738 3.42956 -180 1 0 23.51 591.85
+								 A3.57738 3.42956 -180 1 0 30.66 591.85 ZM38.5 591.85 A3.57738 3.42956 -180 1 0 31.34 591.85 A3.57738
+								 3.42956 -180 1 0 38.5 591.85 ZM46.34 591.85 A3.57737 3.42956 -180 1 0 39.18 591.85 A3.57737 3.42956
+								 -180 1 0 46.34 591.85 Z" class="st2"/>
+					<path d="M15.42 581.48 A4.51431 4.32778 -180 1 0 6.39 581.48 A4.51431 4.32778 -180 1 0 15.42 581.48"
+							class="st3"/>
+					<path d="M27.68 581.48 A4.51431 4.32778 -180 1 0 18.65 581.48 A4.51431 4.32778 -180 1 0 27.68 581.48"
+							class="st3"/>
+					<path d="M39.95 581.48 A4.51431 4.32778 -180 1 0 30.92 581.48 A4.51431 4.32778 -180 1 0 39.95 581.48"
+							class="st3"/>
+					<path d="M33.48 577.57 L29.22 570.98" class="st3"/>
+					<path d="M23.17 577.15 L23.17 572.74" class="st3"/>
+					<path d="M12.85 577.57 L17.12 570.98" class="st3"/>
+					<path d="M7.15 591.85 A3.57738 3.42956 -180 1 0 0 591.85 A3.57738 3.42956 -180 1 0 7.15 591.85" class="st3"/>
+					<path d="M14.99 591.85 A3.57738 3.42956 -180 1 0 7.84 591.85 A3.57738 3.42956 -180 1 0 14.99 591.85"
+							class="st3"/>
+					<path d="M22.83 591.85 A3.57738 3.42956 -180 1 0 15.67 591.85 A3.57738 3.42956 -180 1 0 22.83 591.85"
+							class="st3"/>
+					<path d="M30.66 591.85 A3.57738 3.42956 -180 1 0 23.51 591.85 A3.57738 3.42956 -180 1 0 30.66 591.85"
+							class="st3"/>
+					<path d="M38.5 591.85 A3.57738 3.42956 -180 1 0 31.34 591.85 A3.57738 3.42956 -180 1 0 38.5 591.85" class="st3"/>
+					<path d="M46.34 591.85 A3.57737 3.42956 -180 1 0 39.18 591.85 A3.57737 3.42956 -180 1 0 46.34 591.85"
+							class="st3"/>
+					<path d="M37.92 585.09 L40.89 588.92" class="st3"/>
+					<path d="M34.98 585.78 L34.92 588.42" class="st3"/>
+					<path d="M24.88 585.48 L25.69 588.69" class="st3"/>
+					<path d="M8.42 585.09 L5.44 588.92" class="st3"/>
+					<path d="M11.35 585.78 L11.41 588.42" class="st3"/>
+					<path d="M21.45 585.48 L20.65 588.69" class="st3"/>
+				</g>
+				<path d="M15.42 581.48 A4.51431 4.32778 -180 1 0 6.39 581.48 A4.51431 4.32778 -180 1 0 15.42 581.48 ZM27.68 581.48
+							 A4.51431 4.32778 -180 1 0 18.65 581.48 A4.51431 4.32778 -180 1 0 27.68 581.48 ZM39.95 581.48 A4.51431
+							 4.32778 -180 1 0 30.92 581.48 A4.51431 4.32778 -180 1 0 39.95 581.48 ZM7.15 591.85 A3.57738 3.42956
+							 -180 1 0 0 591.85 A3.57738 3.42956 -180 1 0 7.15 591.85 ZM14.99 591.85 A3.57738 3.42956 -180 1 0 7.84
+							 591.85 A3.57738 3.42956 -180 1 0 14.99 591.85 ZM22.83 591.85 A3.57738 3.42956 -180 1 0 15.67 591.85
+							 A3.57738 3.42956 -180 1 0 22.83 591.85 ZM30.66 591.85 A3.57738 3.42956 -180 1 0 23.51 591.85 A3.57738
+							 3.42956 -180 1 0 30.66 591.85 ZM38.5 591.85 A3.57738 3.42956 -180 1 0 31.34 591.85 A3.57738 3.42956
+							 -180 1 0 38.5 591.85 ZM46.34 591.85 A3.57737 3.42956 -180 1 0 39.18 591.85 A3.57737 3.42956 -180 1 0
+							 46.34 591.85 Z" class="st15"/>
+				<path d="M15.42 581.48 A4.51431 4.32778 -180 1 0 6.39 581.48 A4.51431 4.32778 -180 1 0 15.42 581.48" class="st5"/>
+				<path d="M27.68 581.48 A4.51431 4.32778 -180 1 0 18.65 581.48 A4.51431 4.32778 -180 1 0 27.68 581.48" class="st5"/>
+				<path d="M39.95 581.48 A4.51431 4.32778 -180 1 0 30.92 581.48 A4.51431 4.32778 -180 1 0 39.95 581.48" class="st5"/>
+				<path d="M33.48 577.57 L29.22 570.98" class="st5"/>
+				<path d="M23.17 577.15 L23.17 572.74" class="st5"/>
+				<path d="M12.85 577.57 L17.12 570.98" class="st5"/>
+				<path d="M7.15 591.85 A3.57738 3.42956 -180 1 0 0 591.85 A3.57738 3.42956 -180 1 0 7.15 591.85" class="st5"/>
+				<path d="M14.99 591.85 A3.57738 3.42956 -180 1 0 7.84 591.85 A3.57738 3.42956 -180 1 0 14.99 591.85" class="st5"/>
+				<path d="M22.83 591.85 A3.57738 3.42956 -180 1 0 15.67 591.85 A3.57738 3.42956 -180 1 0 22.83 591.85" class="st5"/>
+				<path d="M30.66 591.85 A3.57738 3.42956 -180 1 0 23.51 591.85 A3.57738 3.42956 -180 1 0 30.66 591.85" class="st5"/>
+				<path d="M38.5 591.85 A3.57738 3.42956 -180 1 0 31.34 591.85 A3.57738 3.42956 -180 1 0 38.5 591.85" class="st5"/>
+				<path d="M46.34 591.85 A3.57737 3.42956 -180 1 0 39.18 591.85 A3.57737 3.42956 -180 1 0 46.34 591.85" class="st5"/>
+				<path d="M37.92 585.09 L40.89 588.92" class="st5"/>
+				<path d="M34.98 585.78 L34.92 588.42" class="st5"/>
+				<path d="M24.88 585.48 L25.69 588.69" class="st5"/>
+				<path d="M8.42 585.09 L5.44 588.92" class="st5"/>
+				<path d="M11.35 585.78 L11.41 588.42" class="st5"/>
+				<path d="M21.45 585.48 L20.65 588.69" class="st5"/>
+			</g>
+			<g id="shape33-149" v:mID="33" v:groupContext="shape" v:layerMember="0" transform="translate(12.2653,-38.6236)">
+				<title>Blad.33</title>
+				<g id="shadow33-150" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+					<ellipse cx="10.9025" cy="584.824" rx="10.9025" ry="10.452" class="st16"/>
+				</g>
+				<ellipse cx="10.9025" cy="584.824" rx="10.9025" ry="10.452" class="st17"/>
+			</g>
+			<g id="shape30-154" v:mID="30" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="605.277" width="83.03" height="20.0036"/>
+				<g id="shadow30-155" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1"/>
+				<text x="-0.95" y="608.28" class="st6" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>Technisch overleg</text>			</g>
+		</g>
+		<g id="group35-157" transform="translate(333.071,-371.339)" v:mID="35" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ConnGap" v:prompt="" v:val="VT0(0.00012908222537757):24"/>
+			</v:userDefs>
+			<title>Gebruiker.35</title>
+			<g id="shape36-158" v:mID="36" v:groupContext="shape" v:layerMember="0" transform="translate(26.1962,-2.27374E-13)">
+				<title>Blad.36</title>
+				<g id="shadow36-159" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+					<path d="M40.8 562.98 A5.17725 4.97112 -180 1 0 30.45 562.98 A5.17725 4.97112 -180 1 0 40.8 562.98 ZM41.17 569.3
+								 L29.96 569.3 C29.15 569.3 28.41 569.56 27.82 570 C27.41 570.31 27.07 570.71 26.83 571.16 C26.59
+								 571.61 26.46 572.12 26.46 572.66 L26.46 585.42 L29.53 585.42 L29.53 595.28 L41.48 595.28 L41.48
+								 585.42 L44.67 585.42 L44.67 572.66 C44.67 571.88 44.4 571.17 43.93 570.6 C43.61 570.2 43.2 569.88
+								 42.73 569.65 C42.26 569.43 41.73 569.3 41.17 569.3 Z" class="st2"/>
+					<path d="M40.8 562.98 A5.17725 4.97112 -180 1 0 30.45 562.98 A5.17725 4.97112 -180 1 0 40.8 562.98" class="st3"/>
+					<path d="M41.17 569.3 L29.96 569.3 C29.15 569.3 28.41 569.56 27.82 570 C27.41 570.31 27.07 570.71 26.83 571.16
+								 C26.59 571.61 26.46 572.12 26.46 572.66 L26.46 585.42 L29.53 585.42 L29.53 595.28 L41.48 595.28
+								 L41.48 585.42 L44.67 585.42 L44.67 572.66 C44.67 571.88 44.4 571.17 43.93 570.6 C43.61 570.2 43.2
+								 569.88 42.73 569.65 C42.26 569.43 41.73 569.3 41.17 569.3" class="st3"/>
+					<path d="M35.57 595.28 L35.57 587.4" class="st3"/>
+					<path d="M29.53 585.42 L29.53 578.62" class="st3"/>
+					<path d="M41.48 585.42 L41.48 578.62" class="st3"/>
+					<path d="M0 585.42 L26.46 585.42" class="st3"/>
+				</g>
+				<path d="M40.8 562.98 A5.17725 4.97112 -180 1 0 30.45 562.98 A5.17725 4.97112 -180 1 0 40.8 562.98 ZM41.17 569.3
+							 L29.96 569.3 C29.15 569.3 28.41 569.56 27.82 570 C27.41 570.31 27.07 570.71 26.83 571.16 C26.59 571.61
+							 26.46 572.12 26.46 572.66 L26.46 585.42 L29.53 585.42 L29.53 595.28 L41.48 595.28 L41.48 585.42 L44.67
+							 585.42 L44.67 572.66 C44.67 571.88 44.4 571.17 43.93 570.6 C43.61 570.2 43.2 569.88 42.73 569.65 C42.26
+							 569.43 41.73 569.3 41.17 569.3 Z" class="st4"/>
+				<path d="M40.8 562.98 A5.17725 4.97112 -180 1 0 30.45 562.98 A5.17725 4.97112 -180 1 0 40.8 562.98" class="st5"/>
+				<path d="M41.17 569.3 L29.96 569.3 C29.15 569.3 28.41 569.56 27.82 570 C27.41 570.31 27.07 570.71 26.83 571.16 C26.59
+							 571.61 26.46 572.12 26.46 572.66 L26.46 585.42 L29.53 585.42 L29.53 595.28 L41.48 595.28 L41.48 585.42
+							 L44.67 585.42 L44.67 572.66 C44.67 571.88 44.4 571.17 43.93 570.6 C43.61 570.2 43.2 569.88 42.73 569.65
+							 C42.26 569.43 41.73 569.3 41.17 569.3" class="st5"/>
+				<path d="M35.57 595.28 L35.57 587.4" class="st5"/>
+				<path d="M29.53 585.42 L29.53 578.62" class="st5"/>
+				<path d="M41.48 585.42 L41.48 578.62" class="st5"/>
+				<path d="M0 585.42 L26.46 585.42" class="st5"/>
+			</g>
+			<g id="shape37-176" v:mID="37" v:groupContext="shape" v:layerMember="0" transform="translate(0,-15.8363)">
+				<title>Blad.37</title>
+				<g id="shadow37-177" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+					<path d="M41.43 563.16 C41.43 562.44 41.18 561.79 40.75 561.26 C40.46 560.91 40.08 560.61 39.65 560.41 C39.23
+								 560.2 38.74 560.09 38.23 560.09 L6.97 560.09 C6.22 560.09 5.53 560.33 4.99 560.74 C4.62 561.02 4.31
+								 561.38 4.1 561.79 C3.88 562.21 3.77 562.67 3.77 563.16 L3.77 583.01 L41.43 583.01 L41.43 563.16
+								 ZM41.61 585.44 L3.48 585.44 L0 591.43 L0 595.28 L45.31 595.28 L45.31 591.44 L41.61 585.44 Z"
+							class="st7"/>
+				</g>
+				<path d="M41.43 563.16 C41.43 562.44 41.18 561.79 40.75 561.26 C40.46 560.91 40.08 560.61 39.65 560.41 C39.23 560.2
+							 38.74 560.09 38.23 560.09 L6.97 560.09 C6.22 560.09 5.53 560.33 4.99 560.74 C4.62 561.02 4.31 561.38
+							 4.1 561.79 C3.88 562.21 3.77 562.67 3.77 563.16 L3.77 583.01 L41.43 583.01 L41.43 563.16 ZM41.61 585.44
+							 L3.48 585.44 L0 591.43 L0 595.28 L45.31 595.28 L45.31 591.44 L41.61 585.44 Z" class="st8"/>
+			</g>
+			<g id="shape38-181" v:mID="38" v:groupContext="shape" v:layerMember="0" transform="translate(6.27128,-30.5037)">
+				<title>Blad.38</title>
+				<v:userDefs>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT5(#000000)"/>
+				</v:userDefs>
+				<path d="M32.65 595.28 L32.65 577.83 C32.65 577.71 32.63 577.61 32.57 577.51 C32.51 577.4 32.41 577.3 32.29 577.24
+							 C32.19 577.19 32.08 577.16 31.96 577.16 L0.69 577.16 C0.57 577.16 0.46 577.19 0.37 577.24 C0.25 577.3
+							 0.15 577.4 0.08 577.51 C0.03 577.6 0 577.71 0 577.83 L0 595.28 L32.65 595.28 Z" class="st12"/>
+			</g>
+			<g id="shape39-183" v:mID="39" v:groupContext="shape" v:layerMember="0" transform="translate(3.88841,-20.3859)">
+				<title>Blad.39</title>
+				<v:userDefs>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT5(#000000)"/>
+				</v:userDefs>
+				<path d="M1.89 592.04 L0 595.28 L37.45 595.28 L35.56 592.04 L1.89 592.04 Z" class="st4"/>
+			</g>
+		</g>
+		<g id="shape41-186" v:mID="41" v:groupContext="shape" v:layerMember="1" transform="translate(107.726,-389.764)">
+			<title>Dynamische verbindingslijn.41</title>
+			<path d="M0 588.19 L73.73 588.19" class="st10"/>
+		</g>
+		<g id="shape42-191" v:mID="42" v:groupContext="shape" v:layerMember="1" transform="translate(216.85,-371.329)">
+			<title>Dynamische verbindingslijn.42</title>
+			<desc>Agenderen</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="630.699" width="45.55" height="17.6036"/>
+			<path d="M7.09 595.28 L7.09 659.08" class="st10"/>
+			<rect v:rectContext="textBkgnd" x="-10.7802" y="625.9" width="35.7339" height="9.59985" class="st18"/>
+			<text x="-10.78" y="633.1" class="st14" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>Agenderen</text>		</g>
+		<g id="shape43-198" v:mID="43" v:groupContext="shape" v:layerMember="1" transform="translate(259.379,-270.709)">
+			<title>Dynamische verbindingslijn.43</title>
+			<desc>Advies</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="38.2584" cy="533.622" width="40" height="17.6036"/>
+			<path d="M0 595.28 L38.26 595.28 L38.26 469.13 L66.64 469.13" class="st10"/>
+			<rect v:rectContext="textBkgnd" x="27.5633" y="528.822" width="21.3904" height="9.59985" class="st18"/>
+			<text x="27.56" y="536.02" class="st14" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>Advies</text>		</g>
+		<g id="group44-205" transform="translate(333.071,-240.945)" v:mID="44" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ConnGap" v:prompt="" v:val="VT0(0.00012908222537757):24"/>
+			</v:userDefs>
+			<title>Executive.44</title>
+			<desc>Programmeringstafel</desc>
+			<g id="shape45-206" v:mID="45" v:groupContext="shape" v:layerMember="0" transform="translate(27.2562,0)">
+				<title>Blad.45</title>
+				<g id="shadow45-207" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+					<path d="M39.83 563.79 A5.05439 4.84648 -180 1 0 29.72 563.79 A5.05439 4.84648 -180 1 0 39.83 563.79 ZM40.19
+								 569.95 L29.25 569.95 C28.46 569.95 27.74 570.21 27.16 570.64 C26.76 570.94 26.42 571.32 26.19 571.76
+								 C25.96 572.2 25.83 572.7 25.83 573.23 L25.83 585.67 L28.83 585.67 L28.83 595.28 L40.5 595.28 L40.5
+								 585.67 L43.61 585.67 L43.61 573.23 C43.61 572.47 43.34 571.77 42.89 571.22 C42.58 570.83 42.18 570.52
+								 41.72 570.29 C41.26 570.07 40.74 569.95 40.19 569.95 Z" class="st2"/>
+					<path d="M39.83 563.79 A5.05439 4.84648 -180 1 0 29.72 563.79 A5.05439 4.84648 -180 1 0 39.83 563.79"
+							class="st3"/>
+					<path d="M40.19 569.95 L29.25 569.95 C28.46 569.95 27.74 570.21 27.16 570.64 C26.76 570.94 26.42 571.32 26.19
+								 571.76 C25.96 572.2 25.83 572.7 25.83 573.23 L25.83 585.67 L28.83 585.67 L28.83 595.28 L40.5 595.28
+								 L40.5 585.67 L43.61 585.67 L43.61 573.23 C43.61 572.47 43.34 571.77 42.89 571.22 C42.58 570.83 42.18
+								 570.52 41.72 570.29 C41.26 570.07 40.74 569.95 40.19 569.95" class="st3"/>
+					<path d="M34.72 595.28 L34.72 587.6" class="st3"/>
+					<path d="M28.83 585.67 L28.83 579.04" class="st3"/>
+					<path d="M40.5 585.67 L40.5 579.04" class="st3"/>
+					<path d="M0 585.67 L25.83 585.67" class="st3"/>
+				</g>
+				<path d="M39.83 563.79 A5.05439 4.84648 -180 1 0 29.72 563.79 A5.05439 4.84648 -180 1 0 39.83 563.79 ZM40.19 569.95
+							 L29.25 569.95 C28.46 569.95 27.74 570.21 27.16 570.64 C26.76 570.94 26.42 571.32 26.19 571.76 C25.96
+							 572.2 25.83 572.7 25.83 573.23 L25.83 585.67 L28.83 585.67 L28.83 595.28 L40.5 595.28 L40.5 585.67 L43.61
+							 585.67 L43.61 573.23 C43.61 572.47 43.34 571.77 42.89 571.22 C42.58 570.83 42.18 570.52 41.72 570.29
+							 C41.26 570.07 40.74 569.95 40.19 569.95 Z" class="st4"/>
+				<path d="M39.83 563.79 A5.05439 4.84648 -180 1 0 29.72 563.79 A5.05439 4.84648 -180 1 0 39.83 563.79" class="st5"/>
+				<path d="M40.19 569.95 L29.25 569.95 C28.46 569.95 27.74 570.21 27.16 570.64 C26.76 570.94 26.42 571.32 26.19 571.76
+							 C25.96 572.2 25.83 572.7 25.83 573.23 L25.83 585.67 L28.83 585.67 L28.83 595.28 L40.5 595.28 L40.5 585.67
+							 L43.61 585.67 L43.61 573.23 C43.61 572.47 43.34 571.77 42.89 571.22 C42.58 570.83 42.18 570.52 41.72
+							 570.29 C41.26 570.07 40.74 569.95 40.19 569.95" class="st5"/>
+				<path d="M34.72 595.28 L34.72 587.6" class="st5"/>
+				<path d="M28.83 585.67 L28.83 579.04" class="st5"/>
+				<path d="M40.5 585.67 L40.5 579.04" class="st5"/>
+				<path d="M0 585.67 L25.83 585.67" class="st5"/>
+			</g>
+			<g id="shape46-224" v:mID="46" v:groupContext="shape" v:layerMember="0" transform="translate(7.99361E-15,-16.0865)">
+				<title>Blad.46</title>
+				<g id="shadow46-225" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+					<path d="M15.42 581.48 A4.51431 4.32778 -180 1 0 6.39 581.48 A4.51431 4.32778 -180 1 0 15.42 581.48 ZM27.68 581.48
+								 A4.51431 4.32778 -180 1 0 18.65 581.48 A4.51431 4.32778 -180 1 0 27.68 581.48 ZM39.95 581.48 A4.51431
+								 4.32778 -180 1 0 30.92 581.48 A4.51431 4.32778 -180 1 0 39.95 581.48 ZM7.15 591.85 A3.57738 3.42956
+								 -180 1 0 0 591.85 A3.57738 3.42956 -180 1 0 7.15 591.85 ZM14.99 591.85 A3.57738 3.42956 -180 1 0
+								 7.84 591.85 A3.57738 3.42956 -180 1 0 14.99 591.85 ZM22.83 591.85 A3.57738 3.42956 -180 1 0 15.67
+								 591.85 A3.57738 3.42956 -180 1 0 22.83 591.85 ZM30.66 591.85 A3.57738 3.42956 -180 1 0 23.51 591.85
+								 A3.57738 3.42956 -180 1 0 30.66 591.85 ZM38.5 591.85 A3.57738 3.42956 -180 1 0 31.34 591.85 A3.57738
+								 3.42956 -180 1 0 38.5 591.85 ZM46.34 591.85 A3.57737 3.42956 -180 1 0 39.18 591.85 A3.57737 3.42956
+								 -180 1 0 46.34 591.85 Z" class="st2"/>
+					<path d="M15.42 581.48 A4.51431 4.32778 -180 1 0 6.39 581.48 A4.51431 4.32778 -180 1 0 15.42 581.48"
+							class="st3"/>
+					<path d="M27.68 581.48 A4.51431 4.32778 -180 1 0 18.65 581.48 A4.51431 4.32778 -180 1 0 27.68 581.48"
+							class="st3"/>
+					<path d="M39.95 581.48 A4.51431 4.32778 -180 1 0 30.92 581.48 A4.51431 4.32778 -180 1 0 39.95 581.48"
+							class="st3"/>
+					<path d="M33.48 577.57 L29.22 570.98" class="st3"/>
+					<path d="M23.17 577.15 L23.17 572.74" class="st3"/>
+					<path d="M12.85 577.57 L17.12 570.98" class="st3"/>
+					<path d="M7.15 591.85 A3.57738 3.42956 -180 1 0 0 591.85 A3.57738 3.42956 -180 1 0 7.15 591.85" class="st3"/>
+					<path d="M14.99 591.85 A3.57738 3.42956 -180 1 0 7.84 591.85 A3.57738 3.42956 -180 1 0 14.99 591.85"
+							class="st3"/>
+					<path d="M22.83 591.85 A3.57738 3.42956 -180 1 0 15.67 591.85 A3.57738 3.42956 -180 1 0 22.83 591.85"
+							class="st3"/>
+					<path d="M30.66 591.85 A3.57738 3.42956 -180 1 0 23.51 591.85 A3.57738 3.42956 -180 1 0 30.66 591.85"
+							class="st3"/>
+					<path d="M38.5 591.85 A3.57738 3.42956 -180 1 0 31.34 591.85 A3.57738 3.42956 -180 1 0 38.5 591.85" class="st3"/>
+					<path d="M46.34 591.85 A3.57737 3.42956 -180 1 0 39.18 591.85 A3.57737 3.42956 -180 1 0 46.34 591.85"
+							class="st3"/>
+					<path d="M37.92 585.09 L40.89 588.92" class="st3"/>
+					<path d="M34.98 585.78 L34.92 588.42" class="st3"/>
+					<path d="M24.88 585.48 L25.69 588.69" class="st3"/>
+					<path d="M8.42 585.09 L5.44 588.92" class="st3"/>
+					<path d="M11.35 585.78 L11.41 588.42" class="st3"/>
+					<path d="M21.45 585.48 L20.65 588.69" class="st3"/>
+				</g>
+				<path d="M15.42 581.48 A4.51431 4.32778 -180 1 0 6.39 581.48 A4.51431 4.32778 -180 1 0 15.42 581.48 ZM27.68 581.48
+							 A4.51431 4.32778 -180 1 0 18.65 581.48 A4.51431 4.32778 -180 1 0 27.68 581.48 ZM39.95 581.48 A4.51431
+							 4.32778 -180 1 0 30.92 581.48 A4.51431 4.32778 -180 1 0 39.95 581.48 ZM7.15 591.85 A3.57738 3.42956
+							 -180 1 0 0 591.85 A3.57738 3.42956 -180 1 0 7.15 591.85 ZM14.99 591.85 A3.57738 3.42956 -180 1 0 7.84
+							 591.85 A3.57738 3.42956 -180 1 0 14.99 591.85 ZM22.83 591.85 A3.57738 3.42956 -180 1 0 15.67 591.85
+							 A3.57738 3.42956 -180 1 0 22.83 591.85 ZM30.66 591.85 A3.57738 3.42956 -180 1 0 23.51 591.85 A3.57738
+							 3.42956 -180 1 0 30.66 591.85 ZM38.5 591.85 A3.57738 3.42956 -180 1 0 31.34 591.85 A3.57738 3.42956
+							 -180 1 0 38.5 591.85 ZM46.34 591.85 A3.57737 3.42956 -180 1 0 39.18 591.85 A3.57737 3.42956 -180 1 0
+							 46.34 591.85 Z" class="st15"/>
+				<path d="M15.42 581.48 A4.51431 4.32778 -180 1 0 6.39 581.48 A4.51431 4.32778 -180 1 0 15.42 581.48" class="st5"/>
+				<path d="M27.68 581.48 A4.51431 4.32778 -180 1 0 18.65 581.48 A4.51431 4.32778 -180 1 0 27.68 581.48" class="st5"/>
+				<path d="M39.95 581.48 A4.51431 4.32778 -180 1 0 30.92 581.48 A4.51431 4.32778 -180 1 0 39.95 581.48" class="st5"/>
+				<path d="M33.48 577.57 L29.22 570.98" class="st5"/>
+				<path d="M23.17 577.15 L23.17 572.74" class="st5"/>
+				<path d="M12.85 577.57 L17.12 570.98" class="st5"/>
+				<path d="M7.15 591.85 A3.57738 3.42956 -180 1 0 0 591.85 A3.57738 3.42956 -180 1 0 7.15 591.85" class="st5"/>
+				<path d="M14.99 591.85 A3.57738 3.42956 -180 1 0 7.84 591.85 A3.57738 3.42956 -180 1 0 14.99 591.85" class="st5"/>
+				<path d="M22.83 591.85 A3.57738 3.42956 -180 1 0 15.67 591.85 A3.57738 3.42956 -180 1 0 22.83 591.85" class="st5"/>
+				<path d="M30.66 591.85 A3.57738 3.42956 -180 1 0 23.51 591.85 A3.57738 3.42956 -180 1 0 30.66 591.85" class="st5"/>
+				<path d="M38.5 591.85 A3.57738 3.42956 -180 1 0 31.34 591.85 A3.57738 3.42956 -180 1 0 38.5 591.85" class="st5"/>
+				<path d="M46.34 591.85 A3.57737 3.42956 -180 1 0 39.18 591.85 A3.57737 3.42956 -180 1 0 46.34 591.85" class="st5"/>
+				<path d="M37.92 585.09 L40.89 588.92" class="st5"/>
+				<path d="M34.98 585.78 L34.92 588.42" class="st5"/>
+				<path d="M24.88 585.48 L25.69 588.69" class="st5"/>
+				<path d="M8.42 585.09 L5.44 588.92" class="st5"/>
+				<path d="M11.35 585.78 L11.41 588.42" class="st5"/>
+				<path d="M21.45 585.48 L20.65 588.69" class="st5"/>
+			</g>
+			<g id="shape47-266" v:mID="47" v:groupContext="shape" v:layerMember="0" transform="translate(12.2653,-38.6236)">
+				<title>Blad.47</title>
+				<g id="shadow47-267" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+					<ellipse cx="10.9025" cy="584.824" rx="10.9025" ry="10.452" class="st16"/>
+				</g>
+				<ellipse cx="10.9025" cy="584.824" rx="10.9025" ry="10.452" class="st17"/>
+			</g>
+			<g id="shape44-271" v:mID="44" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="605.277" width="96.25" height="20.0036"/>
+				<g id="shadow44-272" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1"/>
+				<text x="-7.56" y="608.28" class="st6" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>Programmeringstafel</text>			</g>
+		</g>
+		<g id="shape48-274" v:mID="48" v:groupContext="shape" v:layerMember="1" transform="translate(259.379,-396.85)">
+			<title>Dynamische verbindingslijn.48</title>
+			<desc>Voorstel zonder technische impact</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="41.8017" cy="545.446" width="68.93" height="27.2035"/>
+			<path d="M0 595.28 L18.42 595.28 L18.42 545.45 L109.12 545.45 L109.12 562.71" class="st10"/>
+			<rect v:rectContext="textBkgnd" x="12.2459" y="535.846" width="59.1119" height="19.1997" class="st18"/>
+			<text x="15.92" y="543.05" class="st14" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>Voorstel zonder <v:newlineChar/><tspan
+						x="12.25" dy="1.2em" class="st9">technische impact</tspan></text>		</g>
+		<g id="shape50-282" v:mID="50" v:groupContext="shape" v:layerMember="1" transform="translate(361.417,-371.329)">
+			<title>Dynamische verbindingslijn.50</title>
+			<desc>Agenderen</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="630.699" width="45.55" height="17.6036"/>
+			<path d="M7.09 595.28 L7.09 659.08" class="st10"/>
+			<rect v:rectContext="textBkgnd" x="-10.7802" y="625.9" width="35.7339" height="9.59985" class="st18"/>
+			<text x="-10.78" y="633.1" class="st14" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>Agenderen</text>		</g>
+		<g id="group51-289" transform="translate(467.717,-371.339)" v:mID="51" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ConnGap" v:prompt="" v:val="VT0(0.00012908222537757):24"/>
+			</v:userDefs>
+			<title>Gebruiker.51</title>
+			<g id="shape52-290" v:mID="52" v:groupContext="shape" v:layerMember="0" transform="translate(26.1962,-2.27374E-13)">
+				<title>Blad.52</title>
+				<g id="shadow52-291" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+					<path d="M40.8 562.98 A5.17725 4.97112 -180 1 0 30.45 562.98 A5.17725 4.97112 -180 1 0 40.8 562.98 ZM41.17 569.3
+								 L29.96 569.3 C29.15 569.3 28.41 569.56 27.82 570 C27.41 570.31 27.07 570.71 26.83 571.16 C26.59
+								 571.61 26.46 572.12 26.46 572.66 L26.46 585.42 L29.53 585.42 L29.53 595.28 L41.48 595.28 L41.48
+								 585.42 L44.67 585.42 L44.67 572.66 C44.67 571.88 44.4 571.17 43.93 570.6 C43.61 570.2 43.2 569.88
+								 42.73 569.65 C42.26 569.43 41.73 569.3 41.17 569.3 Z" class="st2"/>
+					<path d="M40.8 562.98 A5.17725 4.97112 -180 1 0 30.45 562.98 A5.17725 4.97112 -180 1 0 40.8 562.98" class="st3"/>
+					<path d="M41.17 569.3 L29.96 569.3 C29.15 569.3 28.41 569.56 27.82 570 C27.41 570.31 27.07 570.71 26.83 571.16
+								 C26.59 571.61 26.46 572.12 26.46 572.66 L26.46 585.42 L29.53 585.42 L29.53 595.28 L41.48 595.28
+								 L41.48 585.42 L44.67 585.42 L44.67 572.66 C44.67 571.88 44.4 571.17 43.93 570.6 C43.61 570.2 43.2
+								 569.88 42.73 569.65 C42.26 569.43 41.73 569.3 41.17 569.3" class="st3"/>
+					<path d="M35.57 595.28 L35.57 587.4" class="st3"/>
+					<path d="M29.53 585.42 L29.53 578.62" class="st3"/>
+					<path d="M41.48 585.42 L41.48 578.62" class="st3"/>
+					<path d="M0 585.42 L26.46 585.42" class="st3"/>
+				</g>
+				<path d="M40.8 562.98 A5.17725 4.97112 -180 1 0 30.45 562.98 A5.17725 4.97112 -180 1 0 40.8 562.98 ZM41.17 569.3
+							 L29.96 569.3 C29.15 569.3 28.41 569.56 27.82 570 C27.41 570.31 27.07 570.71 26.83 571.16 C26.59 571.61
+							 26.46 572.12 26.46 572.66 L26.46 585.42 L29.53 585.42 L29.53 595.28 L41.48 595.28 L41.48 585.42 L44.67
+							 585.42 L44.67 572.66 C44.67 571.88 44.4 571.17 43.93 570.6 C43.61 570.2 43.2 569.88 42.73 569.65 C42.26
+							 569.43 41.73 569.3 41.17 569.3 Z" class="st4"/>
+				<path d="M40.8 562.98 A5.17725 4.97112 -180 1 0 30.45 562.98 A5.17725 4.97112 -180 1 0 40.8 562.98" class="st5"/>
+				<path d="M41.17 569.3 L29.96 569.3 C29.15 569.3 28.41 569.56 27.82 570 C27.41 570.31 27.07 570.71 26.83 571.16 C26.59
+							 571.61 26.46 572.12 26.46 572.66 L26.46 585.42 L29.53 585.42 L29.53 595.28 L41.48 595.28 L41.48 585.42
+							 L44.67 585.42 L44.67 572.66 C44.67 571.88 44.4 571.17 43.93 570.6 C43.61 570.2 43.2 569.88 42.73 569.65
+							 C42.26 569.43 41.73 569.3 41.17 569.3" class="st5"/>
+				<path d="M35.57 595.28 L35.57 587.4" class="st5"/>
+				<path d="M29.53 585.42 L29.53 578.62" class="st5"/>
+				<path d="M41.48 585.42 L41.48 578.62" class="st5"/>
+				<path d="M0 585.42 L26.46 585.42" class="st5"/>
+			</g>
+			<g id="shape53-308" v:mID="53" v:groupContext="shape" v:layerMember="0" transform="translate(0,-15.8363)">
+				<title>Blad.53</title>
+				<g id="shadow53-309" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+					<path d="M41.43 563.16 C41.43 562.44 41.18 561.79 40.75 561.26 C40.46 560.91 40.08 560.61 39.65 560.41 C39.23
+								 560.2 38.74 560.09 38.23 560.09 L6.97 560.09 C6.22 560.09 5.53 560.33 4.99 560.74 C4.62 561.02 4.31
+								 561.38 4.1 561.79 C3.88 562.21 3.77 562.67 3.77 563.16 L3.77 583.01 L41.43 583.01 L41.43 563.16
+								 ZM41.61 585.44 L3.48 585.44 L0 591.43 L0 595.28 L45.31 595.28 L45.31 591.44 L41.61 585.44 Z"
+							class="st7"/>
+				</g>
+				<path d="M41.43 563.16 C41.43 562.44 41.18 561.79 40.75 561.26 C40.46 560.91 40.08 560.61 39.65 560.41 C39.23 560.2
+							 38.74 560.09 38.23 560.09 L6.97 560.09 C6.22 560.09 5.53 560.33 4.99 560.74 C4.62 561.02 4.31 561.38
+							 4.1 561.79 C3.88 562.21 3.77 562.67 3.77 563.16 L3.77 583.01 L41.43 583.01 L41.43 563.16 ZM41.61 585.44
+							 L3.48 585.44 L0 591.43 L0 595.28 L45.31 595.28 L45.31 591.44 L41.61 585.44 Z" class="st8"/>
+			</g>
+			<g id="shape54-313" v:mID="54" v:groupContext="shape" v:layerMember="0" transform="translate(6.27128,-30.5037)">
+				<title>Blad.54</title>
+				<v:userDefs>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT5(#000000)"/>
+				</v:userDefs>
+				<path d="M32.65 595.28 L32.65 577.83 C32.65 577.71 32.63 577.61 32.57 577.51 C32.51 577.4 32.41 577.3 32.29 577.24
+							 C32.19 577.19 32.08 577.16 31.96 577.16 L0.69 577.16 C0.57 577.16 0.46 577.19 0.37 577.24 C0.25 577.3
+							 0.15 577.4 0.08 577.51 C0.03 577.6 0 577.71 0 577.83 L0 595.28 L32.65 595.28 Z" class="st12"/>
+			</g>
+			<g id="shape55-315" v:mID="55" v:groupContext="shape" v:layerMember="0" transform="translate(3.88841,-20.3859)">
+				<title>Blad.55</title>
+				<v:userDefs>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT5(#000000)"/>
+				</v:userDefs>
+				<path d="M1.89 592.04 L0 595.28 L37.45 595.28 L35.56 592.04 L1.89 592.04 Z" class="st4"/>
+			</g>
+		</g>
+		<g id="shape56-318" v:mID="56" v:groupContext="shape" v:layerMember="1" transform="translate(403.946,-270.709)">
+			<title>Dynamische verbindingslijn.56</title>
+			<desc>Advies</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="34.6778" cy="535.002" width="40" height="17.6036"/>
+			<path d="M0 595.28 L34.68 595.28 L34.68 469.13 L56.72 469.13" class="st10"/>
+			<rect v:rectContext="textBkgnd" x="23.9827" y="530.202" width="21.3904" height="9.59985" class="st13"/>
+			<text x="23.98" y="537.4" class="st14" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>Advies</text>		</g>
+		<g id="shape57-325" v:mID="57" v:groupContext="shape" v:layerMember="1" transform="translate(403.946,-396.85)">
+			<title>Dynamische verbindingslijn.57</title>
+			<desc>Technisch voorstel</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="36.8411" cy="546.042" width="43.84" height="27.2035"/>
+			<path d="M0 595.28 L21.26 595.28 L21.26 546.04 L99.2 546.04 L99.2 562.71" class="st10"/>
+			<rect v:rectContext="textBkgnd" x="20.732" y="536.443" width="32.2182" height="19.1997" class="st13"/>
+			<text x="20.73" y="543.64" class="st14" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>Technisch <v:newlineChar/><tspan
+						x="23.61" dy="1.2em" class="st9">voorstel</tspan></text>		</g>
+		<g id="group58-333" transform="translate(467.717,-240.945)" v:mID="58" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ConnGap" v:prompt="" v:val="VT0(0.00012908222537757):24"/>
+			</v:userDefs>
+			<title>Executive.58</title>
+			<desc>OBDO of Programmeringstafel GDI</desc>
+			<g id="shape59-334" v:mID="59" v:groupContext="shape" v:layerMember="0" transform="translate(27.2562,0)">
+				<title>Blad.59</title>
+				<g id="shadow59-335" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+					<path d="M39.83 563.79 A5.05439 4.84648 -180 1 0 29.72 563.79 A5.05439 4.84648 -180 1 0 39.83 563.79 ZM40.19
+								 569.95 L29.25 569.95 C28.46 569.95 27.74 570.21 27.16 570.64 C26.76 570.94 26.42 571.32 26.19 571.76
+								 C25.96 572.2 25.83 572.7 25.83 573.23 L25.83 585.67 L28.83 585.67 L28.83 595.28 L40.5 595.28 L40.5
+								 585.67 L43.61 585.67 L43.61 573.23 C43.61 572.47 43.34 571.77 42.89 571.22 C42.58 570.83 42.18 570.52
+								 41.72 570.29 C41.26 570.07 40.74 569.95 40.19 569.95 Z" class="st2"/>
+					<path d="M39.83 563.79 A5.05439 4.84648 -180 1 0 29.72 563.79 A5.05439 4.84648 -180 1 0 39.83 563.79"
+							class="st3"/>
+					<path d="M40.19 569.95 L29.25 569.95 C28.46 569.95 27.74 570.21 27.16 570.64 C26.76 570.94 26.42 571.32 26.19
+								 571.76 C25.96 572.2 25.83 572.7 25.83 573.23 L25.83 585.67 L28.83 585.67 L28.83 595.28 L40.5 595.28
+								 L40.5 585.67 L43.61 585.67 L43.61 573.23 C43.61 572.47 43.34 571.77 42.89 571.22 C42.58 570.83 42.18
+								 570.52 41.72 570.29 C41.26 570.07 40.74 569.95 40.19 569.95" class="st3"/>
+					<path d="M34.72 595.28 L34.72 587.6" class="st3"/>
+					<path d="M28.83 585.67 L28.83 579.04" class="st3"/>
+					<path d="M40.5 585.67 L40.5 579.04" class="st3"/>
+					<path d="M0 585.67 L25.83 585.67" class="st3"/>
+				</g>
+				<path d="M39.83 563.79 A5.05439 4.84648 -180 1 0 29.72 563.79 A5.05439 4.84648 -180 1 0 39.83 563.79 ZM40.19 569.95
+							 L29.25 569.95 C28.46 569.95 27.74 570.21 27.16 570.64 C26.76 570.94 26.42 571.32 26.19 571.76 C25.96
+							 572.2 25.83 572.7 25.83 573.23 L25.83 585.67 L28.83 585.67 L28.83 595.28 L40.5 595.28 L40.5 585.67 L43.61
+							 585.67 L43.61 573.23 C43.61 572.47 43.34 571.77 42.89 571.22 C42.58 570.83 42.18 570.52 41.72 570.29
+							 C41.26 570.07 40.74 569.95 40.19 569.95 Z" class="st4"/>
+				<path d="M39.83 563.79 A5.05439 4.84648 -180 1 0 29.72 563.79 A5.05439 4.84648 -180 1 0 39.83 563.79" class="st5"/>
+				<path d="M40.19 569.95 L29.25 569.95 C28.46 569.95 27.74 570.21 27.16 570.64 C26.76 570.94 26.42 571.32 26.19 571.76
+							 C25.96 572.2 25.83 572.7 25.83 573.23 L25.83 585.67 L28.83 585.67 L28.83 595.28 L40.5 595.28 L40.5 585.67
+							 L43.61 585.67 L43.61 573.23 C43.61 572.47 43.34 571.77 42.89 571.22 C42.58 570.83 42.18 570.52 41.72
+							 570.29 C41.26 570.07 40.74 569.95 40.19 569.95" class="st5"/>
+				<path d="M34.72 595.28 L34.72 587.6" class="st5"/>
+				<path d="M28.83 585.67 L28.83 579.04" class="st5"/>
+				<path d="M40.5 585.67 L40.5 579.04" class="st5"/>
+				<path d="M0 585.67 L25.83 585.67" class="st5"/>
+			</g>
+			<g id="shape60-352" v:mID="60" v:groupContext="shape" v:layerMember="0" transform="translate(7.99361E-15,-16.0865)">
+				<title>Blad.60</title>
+				<g id="shadow60-353" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+					<path d="M15.42 581.48 A4.51431 4.32778 -180 1 0 6.39 581.48 A4.51431 4.32778 -180 1 0 15.42 581.48 ZM27.68 581.48
+								 A4.51431 4.32778 -180 1 0 18.65 581.48 A4.51431 4.32778 -180 1 0 27.68 581.48 ZM39.95 581.48 A4.51431
+								 4.32778 -180 1 0 30.92 581.48 A4.51431 4.32778 -180 1 0 39.95 581.48 ZM7.15 591.85 A3.57738 3.42956
+								 -180 1 0 0 591.85 A3.57738 3.42956 -180 1 0 7.15 591.85 ZM14.99 591.85 A3.57738 3.42956 -180 1 0
+								 7.84 591.85 A3.57738 3.42956 -180 1 0 14.99 591.85 ZM22.83 591.85 A3.57738 3.42956 -180 1 0 15.67
+								 591.85 A3.57738 3.42956 -180 1 0 22.83 591.85 ZM30.66 591.85 A3.57738 3.42956 -180 1 0 23.51 591.85
+								 A3.57738 3.42956 -180 1 0 30.66 591.85 ZM38.5 591.85 A3.57738 3.42956 -180 1 0 31.34 591.85 A3.57738
+								 3.42956 -180 1 0 38.5 591.85 ZM46.34 591.85 A3.57737 3.42956 -180 1 0 39.18 591.85 A3.57737 3.42956
+								 -180 1 0 46.34 591.85 Z" class="st2"/>
+					<path d="M15.42 581.48 A4.51431 4.32778 -180 1 0 6.39 581.48 A4.51431 4.32778 -180 1 0 15.42 581.48"
+							class="st3"/>
+					<path d="M27.68 581.48 A4.51431 4.32778 -180 1 0 18.65 581.48 A4.51431 4.32778 -180 1 0 27.68 581.48"
+							class="st3"/>
+					<path d="M39.95 581.48 A4.51431 4.32778 -180 1 0 30.92 581.48 A4.51431 4.32778 -180 1 0 39.95 581.48"
+							class="st3"/>
+					<path d="M33.48 577.57 L29.22 570.98" class="st3"/>
+					<path d="M23.17 577.15 L23.17 572.74" class="st3"/>
+					<path d="M12.85 577.57 L17.12 570.98" class="st3"/>
+					<path d="M7.15 591.85 A3.57738 3.42956 -180 1 0 0 591.85 A3.57738 3.42956 -180 1 0 7.15 591.85" class="st3"/>
+					<path d="M14.99 591.85 A3.57738 3.42956 -180 1 0 7.84 591.85 A3.57738 3.42956 -180 1 0 14.99 591.85"
+							class="st3"/>
+					<path d="M22.83 591.85 A3.57738 3.42956 -180 1 0 15.67 591.85 A3.57738 3.42956 -180 1 0 22.83 591.85"
+							class="st3"/>
+					<path d="M30.66 591.85 A3.57738 3.42956 -180 1 0 23.51 591.85 A3.57738 3.42956 -180 1 0 30.66 591.85"
+							class="st3"/>
+					<path d="M38.5 591.85 A3.57738 3.42956 -180 1 0 31.34 591.85 A3.57738 3.42956 -180 1 0 38.5 591.85" class="st3"/>
+					<path d="M46.34 591.85 A3.57737 3.42956 -180 1 0 39.18 591.85 A3.57737 3.42956 -180 1 0 46.34 591.85"
+							class="st3"/>
+					<path d="M37.92 585.09 L40.89 588.92" class="st3"/>
+					<path d="M34.98 585.78 L34.92 588.42" class="st3"/>
+					<path d="M24.88 585.48 L25.69 588.69" class="st3"/>
+					<path d="M8.42 585.09 L5.44 588.92" class="st3"/>
+					<path d="M11.35 585.78 L11.41 588.42" class="st3"/>
+					<path d="M21.45 585.48 L20.65 588.69" class="st3"/>
+				</g>
+				<path d="M15.42 581.48 A4.51431 4.32778 -180 1 0 6.39 581.48 A4.51431 4.32778 -180 1 0 15.42 581.48 ZM27.68 581.48
+							 A4.51431 4.32778 -180 1 0 18.65 581.48 A4.51431 4.32778 -180 1 0 27.68 581.48 ZM39.95 581.48 A4.51431
+							 4.32778 -180 1 0 30.92 581.48 A4.51431 4.32778 -180 1 0 39.95 581.48 ZM7.15 591.85 A3.57738 3.42956
+							 -180 1 0 0 591.85 A3.57738 3.42956 -180 1 0 7.15 591.85 ZM14.99 591.85 A3.57738 3.42956 -180 1 0 7.84
+							 591.85 A3.57738 3.42956 -180 1 0 14.99 591.85 ZM22.83 591.85 A3.57738 3.42956 -180 1 0 15.67 591.85
+							 A3.57738 3.42956 -180 1 0 22.83 591.85 ZM30.66 591.85 A3.57738 3.42956 -180 1 0 23.51 591.85 A3.57738
+							 3.42956 -180 1 0 30.66 591.85 ZM38.5 591.85 A3.57738 3.42956 -180 1 0 31.34 591.85 A3.57738 3.42956
+							 -180 1 0 38.5 591.85 ZM46.34 591.85 A3.57737 3.42956 -180 1 0 39.18 591.85 A3.57737 3.42956 -180 1 0
+							 46.34 591.85 Z" class="st15"/>
+				<path d="M15.42 581.48 A4.51431 4.32778 -180 1 0 6.39 581.48 A4.51431 4.32778 -180 1 0 15.42 581.48" class="st5"/>
+				<path d="M27.68 581.48 A4.51431 4.32778 -180 1 0 18.65 581.48 A4.51431 4.32778 -180 1 0 27.68 581.48" class="st5"/>
+				<path d="M39.95 581.48 A4.51431 4.32778 -180 1 0 30.92 581.48 A4.51431 4.32778 -180 1 0 39.95 581.48" class="st5"/>
+				<path d="M33.48 577.57 L29.22 570.98" class="st5"/>
+				<path d="M23.17 577.15 L23.17 572.74" class="st5"/>
+				<path d="M12.85 577.57 L17.12 570.98" class="st5"/>
+				<path d="M7.15 591.85 A3.57738 3.42956 -180 1 0 0 591.85 A3.57738 3.42956 -180 1 0 7.15 591.85" class="st5"/>
+				<path d="M14.99 591.85 A3.57738 3.42956 -180 1 0 7.84 591.85 A3.57738 3.42956 -180 1 0 14.99 591.85" class="st5"/>
+				<path d="M22.83 591.85 A3.57738 3.42956 -180 1 0 15.67 591.85 A3.57738 3.42956 -180 1 0 22.83 591.85" class="st5"/>
+				<path d="M30.66 591.85 A3.57738 3.42956 -180 1 0 23.51 591.85 A3.57738 3.42956 -180 1 0 30.66 591.85" class="st5"/>
+				<path d="M38.5 591.85 A3.57738 3.42956 -180 1 0 31.34 591.85 A3.57738 3.42956 -180 1 0 38.5 591.85" class="st5"/>
+				<path d="M46.34 591.85 A3.57737 3.42956 -180 1 0 39.18 591.85 A3.57737 3.42956 -180 1 0 46.34 591.85" class="st5"/>
+				<path d="M37.92 585.09 L40.89 588.92" class="st5"/>
+				<path d="M34.98 585.78 L34.92 588.42" class="st5"/>
+				<path d="M24.88 585.48 L25.69 588.69" class="st5"/>
+				<path d="M8.42 585.09 L5.44 588.92" class="st5"/>
+				<path d="M11.35 585.78 L11.41 588.42" class="st5"/>
+				<path d="M21.45 585.48 L20.65 588.69" class="st5"/>
+			</g>
+			<g id="shape61-394" v:mID="61" v:groupContext="shape" v:layerMember="0" transform="translate(12.2653,-38.6236)">
+				<title>Blad.61</title>
+				<g id="shadow61-395" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+					<ellipse cx="10.9025" cy="584.824" rx="10.9025" ry="10.452" class="st16"/>
+				</g>
+				<ellipse cx="10.9025" cy="584.824" rx="10.9025" ry="10.452" class="st17"/>
+			</g>
+			<g id="shape58-399" v:mID="58" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="611.277" width="113.49" height="32.0037"/>
+				<g id="shadow58-400" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1"/>
+				<text x="17.72" y="608.28" class="st6" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>OBDO of<v:newlineChar/><tspan
+							x="-16.18" dy="1.2em" class="st9">Programmeringstafel GDI</tspan></text>			</g>
+		</g>
+		<g id="shape62-403" v:mID="62" v:groupContext="shape" v:layerMember="1" transform="translate(496.063,-371.329)">
+			<title>Dynamische verbindingslijn.62</title>
+			<desc>Agenderen voor besluitvorming</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="630.699" width="75.15" height="27.2035"/>
+			<path d="M7.09 595.28 L7.09 659.08" class="st10"/>
+			<rect v:rectContext="textBkgnd" x="-25.5791" y="621.1" width="65.3316" height="19.1997" class="st18"/>
+			<text x="-10.78" y="628.3" class="st14" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>Agenderen<v:newlineChar/><tspan
+						x="-25.58" dy="1.2em" class="st9">voor besluitvorming</tspan></text>		</g>
+		<g id="shape63-411" v:mID="63" v:groupContext="shape" v:layerMember="1" transform="translate(368.504,-422.371)">
+			<title>Dynamische verbindingslijn.63</title>
+			<path d="M0 595.28 L0 512.37 L-268.02 512.37" class="st19"/>
+		</g>
+		<g id="group65-416" transform="translate(566.929,-371.339)" v:mID="65" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ConnGap" v:prompt="" v:val="VT0(0.00012908222537757):24"/>
+			</v:userDefs>
+			<title>Gebruiker.65</title>
+			<desc>Doorvoeren door beheerorganisatie</desc>
+			<g id="shape66-417" v:mID="66" v:groupContext="shape" v:layerMember="0" transform="translate(26.1962,-2.27374E-13)">
+				<title>Blad.66</title>
+				<g id="shadow66-418" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+					<path d="M40.8 562.98 A5.17725 4.97112 -180 1 0 30.45 562.98 A5.17725 4.97112 -180 1 0 40.8 562.98 ZM41.17 569.3
+								 L29.96 569.3 C29.15 569.3 28.41 569.56 27.82 570 C27.41 570.31 27.07 570.71 26.83 571.16 C26.59
+								 571.61 26.46 572.12 26.46 572.66 L26.46 585.42 L29.53 585.42 L29.53 595.28 L41.48 595.28 L41.48
+								 585.42 L44.67 585.42 L44.67 572.66 C44.67 571.88 44.4 571.17 43.93 570.6 C43.61 570.2 43.2 569.88
+								 42.73 569.65 C42.26 569.43 41.73 569.3 41.17 569.3 Z" class="st2"/>
+					<path d="M40.8 562.98 A5.17725 4.97112 -180 1 0 30.45 562.98 A5.17725 4.97112 -180 1 0 40.8 562.98" class="st3"/>
+					<path d="M41.17 569.3 L29.96 569.3 C29.15 569.3 28.41 569.56 27.82 570 C27.41 570.31 27.07 570.71 26.83 571.16
+								 C26.59 571.61 26.46 572.12 26.46 572.66 L26.46 585.42 L29.53 585.42 L29.53 595.28 L41.48 595.28
+								 L41.48 585.42 L44.67 585.42 L44.67 572.66 C44.67 571.88 44.4 571.17 43.93 570.6 C43.61 570.2 43.2
+								 569.88 42.73 569.65 C42.26 569.43 41.73 569.3 41.17 569.3" class="st3"/>
+					<path d="M35.57 595.28 L35.57 587.4" class="st3"/>
+					<path d="M29.53 585.42 L29.53 578.62" class="st3"/>
+					<path d="M41.48 585.42 L41.48 578.62" class="st3"/>
+					<path d="M0 585.42 L26.46 585.42" class="st3"/>
+				</g>
+				<path d="M40.8 562.98 A5.17725 4.97112 -180 1 0 30.45 562.98 A5.17725 4.97112 -180 1 0 40.8 562.98 ZM41.17 569.3
+							 L29.96 569.3 C29.15 569.3 28.41 569.56 27.82 570 C27.41 570.31 27.07 570.71 26.83 571.16 C26.59 571.61
+							 26.46 572.12 26.46 572.66 L26.46 585.42 L29.53 585.42 L29.53 595.28 L41.48 595.28 L41.48 585.42 L44.67
+							 585.42 L44.67 572.66 C44.67 571.88 44.4 571.17 43.93 570.6 C43.61 570.2 43.2 569.88 42.73 569.65 C42.26
+							 569.43 41.73 569.3 41.17 569.3 Z" class="st4"/>
+				<path d="M40.8 562.98 A5.17725 4.97112 -180 1 0 30.45 562.98 A5.17725 4.97112 -180 1 0 40.8 562.98" class="st5"/>
+				<path d="M41.17 569.3 L29.96 569.3 C29.15 569.3 28.41 569.56 27.82 570 C27.41 570.31 27.07 570.71 26.83 571.16 C26.59
+							 571.61 26.46 572.12 26.46 572.66 L26.46 585.42 L29.53 585.42 L29.53 595.28 L41.48 595.28 L41.48 585.42
+							 L44.67 585.42 L44.67 572.66 C44.67 571.88 44.4 571.17 43.93 570.6 C43.61 570.2 43.2 569.88 42.73 569.65
+							 C42.26 569.43 41.73 569.3 41.17 569.3" class="st5"/>
+				<path d="M35.57 595.28 L35.57 587.4" class="st5"/>
+				<path d="M29.53 585.42 L29.53 578.62" class="st5"/>
+				<path d="M41.48 585.42 L41.48 578.62" class="st5"/>
+				<path d="M0 585.42 L26.46 585.42" class="st5"/>
+			</g>
+			<g id="shape67-435" v:mID="67" v:groupContext="shape" v:layerMember="0" transform="translate(0,-15.8363)">
+				<title>Blad.67</title>
+				<g id="shadow67-436" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+					<path d="M41.43 563.16 C41.43 562.44 41.18 561.79 40.75 561.26 C40.46 560.91 40.08 560.61 39.65 560.41 C39.23
+								 560.2 38.74 560.09 38.23 560.09 L6.97 560.09 C6.22 560.09 5.53 560.33 4.99 560.74 C4.62 561.02 4.31
+								 561.38 4.1 561.79 C3.88 562.21 3.77 562.67 3.77 563.16 L3.77 583.01 L41.43 583.01 L41.43 563.16
+								 ZM41.61 585.44 L3.48 585.44 L0 591.43 L0 595.28 L45.31 595.28 L45.31 591.44 L41.61 585.44 Z"
+							class="st7"/>
+				</g>
+				<path d="M41.43 563.16 C41.43 562.44 41.18 561.79 40.75 561.26 C40.46 560.91 40.08 560.61 39.65 560.41 C39.23 560.2
+							 38.74 560.09 38.23 560.09 L6.97 560.09 C6.22 560.09 5.53 560.33 4.99 560.74 C4.62 561.02 4.31 561.38
+							 4.1 561.79 C3.88 562.21 3.77 562.67 3.77 563.16 L3.77 583.01 L41.43 583.01 L41.43 563.16 ZM41.61 585.44
+							 L3.48 585.44 L0 591.43 L0 595.28 L45.31 595.28 L45.31 591.44 L41.61 585.44 Z" class="st8"/>
+			</g>
+			<g id="shape68-440" v:mID="68" v:groupContext="shape" v:layerMember="0" transform="translate(6.27128,-30.5037)">
+				<title>Blad.68</title>
+				<v:userDefs>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT5(#000000)"/>
+				</v:userDefs>
+				<path d="M32.65 595.28 L32.65 577.83 C32.65 577.71 32.63 577.61 32.57 577.51 C32.51 577.4 32.41 577.3 32.29 577.24
+							 C32.19 577.19 32.08 577.16 31.96 577.16 L0.69 577.16 C0.57 577.16 0.46 577.19 0.37 577.24 C0.25 577.3
+							 0.15 577.4 0.08 577.51 C0.03 577.6 0 577.71 0 577.83 L0 595.28 L32.65 595.28 Z" class="st12"/>
+			</g>
+			<g id="shape69-442" v:mID="69" v:groupContext="shape" v:layerMember="0" transform="translate(3.88841,-20.3859)">
+				<title>Blad.69</title>
+				<v:userDefs>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT5(#000000)"/>
+				</v:userDefs>
+				<path d="M1.89 592.04 L0 595.28 L37.45 595.28 L35.56 592.04 L1.89 592.04 Z" class="st4"/>
+			</g>
+			<g id="shape65-445" v:mID="65" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="611.277" width="84.32" height="32.0037"/>
+				<g id="shadow65-446" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+						transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1"/>
+				<text x="0.33" y="608.28" class="st6" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>Doorvoeren door <v:newlineChar/><tspan
+							x="-1.59" dy="1.2em" class="st9">beheerorganisatie</tspan></text>			</g>
+		</g>
+		<g id="shape70-449" v:mID="70" v:groupContext="shape" v:layerMember="1" transform="translate(538.592,-270.709)">
+			<title>Dynamische verbindingslijn.70</title>
+			<desc>Besluit tot wijziging</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7702" cy="576.85" width="45.03" height="27.2035"/>
+			<path d="M0 595.28 L63.77 595.28 L63.77 501.69" class="st10"/>
+			<rect v:rectContext="textBkgnd" x="47.0695" y="567.251" width="33.4015" height="19.1997" class="st18"/>
+			<text x="47.07" y="574.45" class="st14" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>Besluit tot <v:newlineChar/><tspan
+						x="49.75" dy="1.2em" class="st9">wijziging</tspan></text>		</g>
+		<g id="shape71-457" v:mID="71" v:groupContext="shape" v:layerMember="1" transform="translate(602.362,-422.371)">
+			<title>Dynamische verbindingslijn.71</title>
+			<desc>Statusmelding</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-213.009" cy="512.371" width="56.23" height="17.6036"/>
+			<path d="M0 595.28 L0 512.37 L-501.88 512.37" class="st19"/>
+			<rect v:rectContext="textBkgnd" x="-236.216" y="507.572" width="46.4131" height="9.59985" class="st18"/>
+			<text x="-236.22" y="514.77" class="st14" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>Statusmelding</text>		</g>
+		<g id="shape73-464" v:mID="73" v:groupContext="shape" v:layerMember="1" transform="translate(503.15,-422.371)">
+			<title>Dynamische verbindingslijn.73</title>
+			<path d="M0 595.28 L0 512.37 L-402.67 512.37" class="st19"/>
+		</g>
+	</g>
+</svg>
