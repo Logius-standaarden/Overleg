@@ -55,7 +55,7 @@ Handreiking voor ondersteuning voor dit onderwerp is in ontwikkeling
 
 ### Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing)
 
-Voorbeeld berichten zijn besproken, Onderzoek heeft nog geen direkte oplossing opgeleverd;
+Voorbeeld berichten van datapower zijn besproken, Aanpassingen op de standaard om de interoperabiliteit te vergroten zouden grote impact hebben op bestaande implementaties;
 
 ### StvZ Respec
 
