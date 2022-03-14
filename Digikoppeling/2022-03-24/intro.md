@@ -64,7 +64,8 @@ Voorbeeld berichten van datapower zijn onderzocht. Aanpassingen op de WUS standa
 _Alexander_
 
 ### Verkennen mogelijk gebruik ebMS3/AS4
-?
+
+Zie [grote wijzigingen](#Grote-wijzigingen) hieronder.
 
 ## Toelichting: hoe beheren we issues en wijzigingsvoorstellen
 
