@@ -1,4 +1,10 @@
 
+## Toelichting: hoe beheren we issues en wijzigingsvoorstellen
+
+In het kader van de nieuwe governance willen we het proces van wijzigingsvoorstellen standaardiseren. We accepteren wijzigingsverzoeken als git issues. We labellen issues om scope, status en te agenderen overleg aan te geven. Onderstaande lijst zijn issues gelabelled voor het Technisch Overleg. Issues worden gegroepeerd naar scope. De lijst is automatisch gemaakt aan de hand van de labels.
+
+We vragen het Technische Overleg advies of goedkeuring op de wijzigingsvoorstellen afhankelijk van de status.
+
 ## Toelichting komende release
 
 Als toevoegen van de REST API koppelvlakspecificatie formeel is goedgekeurd door het OBDO kunnen we een release uitbrengen. Behandeling door het OBDO is geagendeerd voor 7 april 2022. Zie ook [Update Digikoppeling REST API Koppelvlak](https://digistandaarden.pleio.nl/groups/view/41aa788c-cd67-4b27-9154-373e9a83dd40/digikoppeling-community/discussion/view/6c1734c0-4f2c-499a-9b92-145f6392e2c9/update-uitbreiding-van-de-digikoppeling-standaard-met-het-rest-api-koppelvlak)
@@ -62,8 +68,3 @@ _Alexander_
 
 Zie voorstel in [grote wijzigingen](#Grote-wijzigingen).
 
-## Toelichting: hoe beheren we issues en wijzigingsvoorstellen
-
-In het kader van de nieuwe governance willen we het proces van wijzigingsvoorstellen standaardiseren. We accepteren wijzigingsverzoeken als git issues. We labellen issues om scope, status en te agenderen overleg aan te geven. Onderstaande lijst zijn issues gelabelled voor het Technisch Overleg. Issues worden gegroepeerd naar scope. De lijst is automatisch gemaakt aan de hand van de labels.
-
-We vragen het Technische Overleg advies op de onderstaande wijzigingsvoorstellen.
