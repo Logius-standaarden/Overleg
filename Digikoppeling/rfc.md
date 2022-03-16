@@ -1,8 +1,10 @@
 # RFC-lijst
 ## RFC: Toevoegen Rest API profiel
-Aanpassen documentatie nav het toevoegen van het rest api koppelvlak aan de standaard;
+Aanpassen documentatie n.a.v. het toevoegen van het rest API koppelvlak aan de standaard;
 
-Dwz voor teksten waar nu verwezen wordt naar WUS/EBMS koppelvlakken zal de tekst of algemener moeten worden gemaakt of het REST API koppelvlak zal moeten worden toegevoegd , bv bij opsommingen.
+D.w.z. voor teksten waar nu verwezen wordt naar WUS/EBMS koppelvlakken zal de tekst of algemener moeten worden gemaakt of het REST API koppelvlak zal moeten worden toegevoegd , bv bij opsommingen. Dit moet gedaan worden in een aantal documenten. Ook documenten over de WUS en ebMS koppelvlakken noemen alleen deze koppelvlakken, hierin moet ook naar het REST API koppelvlak verwezen worden als alternatief. Zo bevatten alle documenten een diagram met de verschillende koppelvlakken. Al deze diagrammen moeten worden vervangen door een bijgewerkte versie.
+
+[Aanpassingen in de documentatie](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/rfc.md#rfc-toevoegen-rest-api-profiel)
 ### Aangepaste documenten
 
 #### Digikoppeling-Koppelvlakstandaard-WUS
@@ -323,7 +325,7 @@ index 138d427..54fd9b5 100644
      Best Practices voor Grote Berichten implementatie;
  
 diff --git a/ch04_Wat zijn de huidige versies van documenten.md b/ch04_Wat zijn de huidige versies van documenten.md
-index 55e81e8..2e8e231 100644
+index 55e81e8..a6c4991 100644
 --- a/ch04_Wat zijn de huidige versies van documenten.md	
 +++ b/ch04_Wat zijn de huidige versies van documenten.md	
 @@ -4,19 +4,20 @@ De onderstaande tabel geeft de huidige versies van de Digikoppeling documenten w
@@ -357,6 +359,36 @@ index 55e81e8..2e8e231 100644
  
  Tabel 1: Digikoppeling document versies
  
+@@ -28,19 +29,28 @@ De onderstaande tabel geeft de voorgaande versies van de Digikoppeling documente
+ 
+ | Document                                        | Versie | Normatief | Geldig vanaf | Geldig tot |
+ |-------------------------------------------------|--------|-----------|--------------|------------|
++| DK Koppelvlakstandaard EBMS2                    | 3.3    | X         | 16-05-2019   | 14-04-2022 | 
+ | DK Koppelvlakstandaard ebMS2                    | 3.2    | x         | 19-10-2017   | 16-05-2019 |
++| DK Best Practices EBMS2                         | 3.2    |           | 16-05-2019   | 14-04-2022 |
+ | DK Best Practices ebMS2                         | 3.1    |           | 19-10-2017   | 16-05-2019 |
++| DK Koppelvlakstandaard WUS                      | 3.8    | X         | 11-01-2021   | 14-04-2022 |
+ | DK Koppelvlakstandaard WUS                      | 3.7    | X         | 16-05-2019   | 10-01-2021 |
+ | DK Koppelvlakstandaard WUS                      | 3.6    | X         | 21-08-2018   | 16-05-2019 |
+ | DK Koppelvlakstandaard WUS                      | 3.5    | X         | 19-07-2018   | 21-08-2018 |
++| DK Best Practices WUS                           | 1.10   |           | 19-10-2017   | 14-04-2022 |
++| Wat is Digikoppeling                            | 1.1.1  |           | 23-07-2018   | 14-04-2022 | 
+ | Wat is Digikoppeling                            | 1.1    |           | 19-10-2017   | 23-07-2018 |
++| DK Architectuur                                 | 1.5.1  | X         | 23-07-2018   | 14-04-2022 |
+ | DK Architectuur                                 | 1.5    | X         | 19-10-2017   | 23-07-2018 |
+-| DK Koppel vlakstandaard Grote Berichten         | 3.2    | X         | 19-10-2017   | 14-10-2020 |
++| DK Koppelvlakstandaard Grote Berichten          | 3.3    | X         | 14-10-2020   | 14-04-2022 |
++| DK Koppelvlakstandaard Grote Berichten          | 3.2    | X         | 19-10-2017   | 14-10-2020 |
+ | DK Beveiliging standaarden en voorschriften     | 1.1    | X         | 19-10-2017   | 17-12-2019 |
+ | DK Beveiliging standaarden en voorschriften     | 1.2    | X         | 17-12-2019   | 02-09-2020 |
+ | DK Beveiliging standaarden en voorschriften     | 1.3    | X         | 02-09-2020   | 12-03-2021 |
++| DK Gebruik en achtergrond certificaten          | 1.6.1  |           | 12-03-2021   | 14-04-2022 |
+ | DK Gebruik en achtergrond certificaten          | 1.5    |           | 19-10-2017   | 02-09-2020 |
+ | DK Gebruik en achtergrond certificaten          | 1.6    |           | 02-09-2020   | 12-03-2020 |
++| DK Identificatie en Authenticatie               | 1.4    | X         | 19-10-2017   | 14-04-2022 |
+ | DK Overzicht Actuele Documentatie en Compliance | 1.7    | X         | 10-01-2021   | 12-03-2021 |
+ | DK Overzicht Actuele Documentatie en Compliance | 1.6    | X         | 14-10-2020   | 10-01-2021 |
+ | DK Overzicht Actuele Documentatie en Compliance | 1.5    | X         | 02-09-2020   | 14-10-2020 |
 diff --git a/ch05_Wanneer ben ik Digikoppeling compliant.md b/ch05_Wanneer ben ik Digikoppeling compliant.md
 index 263a593..7577c95 100644
 --- a/ch05_Wanneer ben ik Digikoppeling compliant.md	
@@ -579,6 +611,8 @@ index 05c0dc4..a386c25 100644
 
 ## RFC: Aanpassen Bijlage OIN Tabel
 Aanpassen Bijlage OIN Tabel conform OIN Beleid
+
+[Aanpassingen in de documentatie](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/rfc.md#rfc-aanpassen-bijlage-oin-tabel)
 ### Aangepaste documenten
 
 #### Digikoppeling-Identificatie-en-Authenticatie
