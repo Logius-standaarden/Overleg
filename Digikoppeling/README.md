@@ -6,7 +6,7 @@ Deze map bevat de agenda, notulen en vergaderstukken van het Technisch Overleg D
 
 | Datum | Tijd | Locatie | Stukken | Bijzonderheden |
 | ----- | ---- | ------- | ------- | -------------- |
-|24 maart 2022|13:30 -15:00|Webex|[2022_03_24](2022_03_24)|||
+|24 maart 2022|13:30 -15:00|Webex|[2022_03_24](https://github.com/Logius-standaarden/Overleg/tree/main/Digikoppeling/2022-03-24)|||
 
 
 ## Archief Technisch Overleg
