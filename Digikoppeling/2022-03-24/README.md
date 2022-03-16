@@ -17,7 +17,7 @@ Zie hiervoor : ~~
 * [Overzicht Wijzigingsvoorstellen en aanpassingen](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/rfc.md).
 * [Overzicht documenten komende release](https://logius-standaarden.github.io/Publicatie-Preview/Digikoppeling-Overzicht-Actuele-Documentatie-en-Compliance/Toevoegen_Rest_Api/#wat-zijn-de-huidige-versies-van-documenten).
 
-_De wijzigingen in de documentatie zijn vastgelegd in twee wijzigingsvoorstellen:
+De wijzigingen in de documentatie zijn vastgelegd in twee wijzigingsvoorstellen:
 * Digikoppeling-Algemeen [issue #1] [Toevoegen Rest API profiel](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/1) (01 Feb. 2022), _Status: Klaar voor release_
 * Digikoppeling-Algemeen [issue #2] [Aanpassen Bijlage OIN Tabel](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/2) (26 Jan. 2022), _Status: Klaar voor release_
 
