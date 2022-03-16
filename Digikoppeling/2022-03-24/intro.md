@@ -62,7 +62,7 @@ Voorbeeld berichten van datapower zijn onderzocht. Aanpassingen op de WUS standa
 
 ### StvZ Respec
 
-_Alexander_
+Het [ReSpec-profiel](https://github.com/Logius-standaarden/respec) is stabiel en in gebruik in alle Digikoppeling-documenten. De wens is het profiel meer modulair op te zetten om onderhoud te vergemakkelijken en gebruik buiten Logius te faciliteren.
 
 ### Verkennen mogelijk gebruik ebMS3/AS4
 

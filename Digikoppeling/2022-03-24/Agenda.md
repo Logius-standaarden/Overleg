@@ -1,8 +1,4 @@
-
-
-
-Agenda
-======
+# Agenda
 
 |  |   |
 |------------------------|-------------------------------------|
@@ -12,7 +8,7 @@ Agenda
 <br>
   
 
-**Onderwerpen**
+## Onderwerpen
 
 
 | Tijd | Onderwerp | Opmerking |
