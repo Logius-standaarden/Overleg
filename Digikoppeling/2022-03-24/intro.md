@@ -32,9 +32,7 @@ __Het TO wordt gevraagd om de roadmap vast te stellen__
 
 ### Digikoppeling governance
 
-Zie voorstel in [grote wijzigingen](#Grote-wijzigingen).
-
-![Schema beheerproces](Beheerproces.svg)
+Zie voorstel in [grote wijzigingen](#Grote-wijzigingen). [Schema beheerproces](Beheerproces.svg)
 
 ### Informatievoorziening
 
