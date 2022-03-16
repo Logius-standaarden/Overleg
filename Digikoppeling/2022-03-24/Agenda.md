@@ -7,7 +7,7 @@ Agenda
 |  |   |
 |------------------------|-------------------------------------|
 | Betreft  | **Technisch Overleg Digikoppeling** |
-| Vergaderdatum en -tijd | 24-04-2021 - 13:30 uur  |
+| Vergaderdatum en -tijd | 24-03-2022 - 13:30 uur  |
 | Vergaderplaats  | Webex  |
 <br>
   
