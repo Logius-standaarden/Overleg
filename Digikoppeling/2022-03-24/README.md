@@ -23,7 +23,6 @@
 
 
 
-
 # Wijzigingen
 
 ## Grote wijzigingen
@@ -65,16 +64,17 @@ Zie hiervoor :
 ### Verzoek aan het TO:
 __Het TO wordt gevraagd om goedkeuring te verlenen aan het opnemen van deze wijzigingen in de komende release van Digikoppeling__
 
-## StvZ lopende roadmap items
-
-
-### Definitieve Roadmap
+## Definitieve Roadmap
 
 De concept roadmap is in het vorige overleg besproken en goedgekeurd.
 Zie [Roadmap Digikoppeling](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/main/Digikoppeling_Roadmap_2022_2023.md)
 
 #### Verzoek aan het TO:
 __Het TO wordt gevraagd om de roadmap vast te stellen__
+
+
+## StvZ lopende roadmap items
+
 
 ### Digikoppeling governance
 
