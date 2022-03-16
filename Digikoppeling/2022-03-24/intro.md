@@ -60,7 +60,7 @@ _Alexander_
 
 ### Verkennen mogelijk gebruik ebMS3/AS4
 
-Zie voorstel in [grote wijzigingen](#Grote-wijzigingen) hieronder.
+Zie voorstel in [grote wijzigingen](#Grote-wijzigingen).
 
 ## Toelichting: hoe beheren we issues en wijzigingsvoorstellen
 
