@@ -32,11 +32,7 @@ __Het TO wordt gevraagd om de roadmap vast te stellen__
 
 ### Digikoppeling governance
 
-Logius heeft voorgesteld de governance van het standaardisatieproces te actualiseren n.a.v. de MIDO governance.
-* De programmeringstafels worden onze tactische overleglaag
-* We agenderen wijzigingsvoorstellen in de programmeringstafels voor advies
-* Technisch overleg blijft en adviseert
-* We vragen mandatering voor het doorvoeren van kleine wijzigingen door de beherorganisatie (nog te doen)
+Zie voorstel in [grote wijzigingen](#Grote-wijzigingen).
 
 ![Schema beheerproces](Beheerproces.svg)
 
@@ -66,7 +62,7 @@ _Alexander_
 
 ### Verkennen mogelijk gebruik ebMS3/AS4
 
-Zie [grote wijzigingen](#Grote-wijzigingen) hieronder.
+Zie voorstel in [grote wijzigingen](#Grote-wijzigingen) hieronder.
 
 ## Toelichting: hoe beheren we issues en wijzigingsvoorstellen
 
