@@ -38,7 +38,9 @@
 
 ## Toelichting: hoe beheren we issues en wijzigingsvoorstellen
 
-In het kader van de nieuwe governance willen we het proces van wijzigingsvoorstellen standaardiseren. We accepteren wijzigingsverzoeken als git issues. We labellen issues om scope, status en te agenderen overleg aan te geven. Onderstaande lijst zijn issues gelabelled voor het Technisch Overleg. Issues worden gegroepeerd naar scope. De lijst is automatisch gemaakt aan de hand van de labels.
+In het kader van de nieuwe governance willen we het proces van wijzigingsvoorstellen standaardiseren. We accepteren wijzigingsverzoeken als git issues. We labellen issues om scope, status en te agenderen overleg aan te geven. Bovenstaande lijst zijn issues gelabelled voor het Technisch Overleg. Issues worden gegroepeerd naar scope. De lijst is automatisch gemaakt aan de hand van de labels.
+
+![Schema beheerproces](Beheerproces.svg)
 
 We vragen het Technische Overleg advies of goedkeuring op de wijzigingsvoorstellen afhankelijk van de status.
 

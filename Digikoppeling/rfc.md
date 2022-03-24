@@ -41,6 +41,19 @@ index 37940c6..e8be320 100644
  
  ## Koppelvlak & koppelvlakstandaard
  
+diff --git a/js/config.js b/js/config.js
+index 9f0d518..6290e2d 100644
+--- a/js/config.js
++++ b/js/config.js
+@@ -11,7 +11,7 @@ var respecConfig = {
+   // TG: Versie teruggetrokken
+   // BASIS, GN-BASIS: 'geen status'
+ 
+-  specStatus: "DEF",
++  specStatus: "WV",
+   // SpecType currently supported
+   // NO: "Norm"
+   // ST: "Standaard"
 diff --git a/media/DK_Specificatie_structuur.svg b/media/DK_Specificatie_structuur.svg
 index 05c0dc4..a386c25 100644
 --- a/media/DK_Specificatie_structuur.svg
@@ -177,6 +190,19 @@ index 27a2e2a..f2427be 100644
  in combinatie met WUS) betreft, is dit niet noodzakelijk maar
  hoogstwaarschijnlijk wenselijk.
  
+diff --git a/js/config.js b/js/config.js
+index 6a7f198..5d775e9 100644
+--- a/js/config.js
++++ b/js/config.js
+@@ -11,7 +11,7 @@ var respecConfig = {
+   // TG: Versie teruggetrokken
+   // BASIS, GN-BASIS: 'geen status'
+ 
+-  specStatus: "DEF",
++  specStatus: "WV",
+   // SpecType currently supported
+   // NO: "Norm"
+   // ST: "Standaard"
 diff --git a/media/DK_Specificatie_structuur.svg b/media/DK_Specificatie_structuur.svg
 index 05c0dc4..a386c25 100644
 --- a/media/DK_Specificatie_structuur.svg
@@ -215,6 +241,19 @@ index 1ce8749..8e44c1d 100644
  							<li> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/wus/">DK Koppelvlakstandaard WUS</a>*
  								<ul>
  									<li><i><a href="https://publicatie.centrumvoorstandaarden.nl/dk/bpwus">Best-practice WUS</a></i>† </li>
+diff --git a/js/config.js b/js/config.js
+index 079abdc..dc9947d 100644
+--- a/js/config.js
++++ b/js/config.js
+@@ -10,7 +10,7 @@ var respecConfig = {
+   // EO: Einde ondersteuning, verouderde versie, vervangen door nieuwe versie
+   // TG: Versie teruggetrokken
+   // BASIS, GN-BASIS: 'geen status'
+-  specStatus: "DEF",
++  specStatus: "WV",
+ 
+   // SpecType currently supported
+   // NO: "Norm"
 diff --git a/media/DK_Specificatie_structuur.svg b/media/DK_Specificatie_structuur.svg
 index 05c0dc4..a386c25 100644
 --- a/media/DK_Specificatie_structuur.svg
@@ -325,7 +364,7 @@ index 138d427..54fd9b5 100644
      Best Practices voor Grote Berichten implementatie;
  
 diff --git a/ch04_Wat zijn de huidige versies van documenten.md b/ch04_Wat zijn de huidige versies van documenten.md
-index 55e81e8..a6c4991 100644
+index 55e81e8..fec00fe 100644
 --- a/ch04_Wat zijn de huidige versies van documenten.md	
 +++ b/ch04_Wat zijn de huidige versies van documenten.md	
 @@ -4,19 +4,20 @@ De onderstaande tabel geeft de huidige versies van de Digikoppeling documenten w
@@ -333,29 +372,29 @@ index 55e81e8..a6c4991 100644
  | Document                                         | Versie | Normatief | Geldig vanaf | Geldig  tot |
  |--------------------------------------------------|--------|-----------|--------------|-------------|
 -| Wat is Digikoppeling                             | 1.1.1  |           | 23-07-2018   |             |
-+| Wat is Digikoppeling                             | 1.1.2  |           | 14-04-2022   |             |
++| Wat is Digikoppeling                             | 1.1.2  |           | 11-04-2022   |             |
  | DK Beheermodel en releasebeleid                  | 1.5    |           | 19-10-2017   |             |
 -| DK Architectuur                                  | 1.5.1  | X         | 23-07-2018   |             |
 -| DK Koppelvlakstandaard WUS                       | 3.8    | X         | 11-01-2021   |             |
 -| DK Koppelvlakstandaard EBMS2                     | 3.3    | X         | 16-05-2019   |             |
 -| DK Koppelvlakstandaard Grote Berichten           | 3.3    | X         | 14-10-2020   |             |
 -| DK Identificatie en Authenticatie                | 1.4    | X         | 19-10-2017   |             |
-+| DK Architectuur                                  | 2.0    | X         | 14-04-2022   |             |
-+| DK Koppelvlakstandaard REST API                  | 1.0   | X          | 14-04-2022   |             |
-+| DK Koppelvlakstandaard WUS                       | 3.8.1   | X         | 14-04-2022   |             |
-+| DK Koppelvlakstandaard EBMS2                     | 3.3.1    | X         | 14-04-2022   |             |
-+| DK Koppelvlakstandaard Grote Berichten           | 3.3.1    | X         | 14-04-2022   |             |
-+| DK Identificatie en Authenticatie                | 1.4.1    | X         | 14-04-2022  |             |
++| DK Architectuur                                  | 2.0    | X         | 11-04-2022   |             |
++| DK Koppelvlakstandaard REST API                  | 1.0   | X          | 11-04-2022   |             |
++| DK Koppelvlakstandaard WUS                       | 3.8.1   | X         | 11-04-2022   |             |
++| DK Koppelvlakstandaard EBMS2                     | 3.3.1    | X         | 11-04-2022   |             |
++| DK Koppelvlakstandaard Grote Berichten           | 3.3.1    | X         | 11-04-2022   |             |
++| DK Identificatie en Authenticatie                | 1.4.1    | X         | 11-04-2022  |             |
  | DK Beveiliging standaarden en voorschriften      | 1.4    | X         | 12-03-2021   |             |
 -| DK Overzicht  Actuele Documentatie en Compliance | 1.8    | X         | 12-03-2021   |             |
 -| DK Best Practices WUS                            | 1.10   |           | 19-10-2017   |             |
 -| DK Best Practices EBMS2                          | 3.2    |           | 16-05-2019   |             |
-+| DK Overzicht  Actuele Documentatie en Compliance | 1.9    | X         | 14-04-2022   |             |
-+| DK Best Practices WUS                            | 1.10.1   |           | 14-04-2022   |             |
-+| DK Best Practices EBMS2                          | 3.2.1    |           | 14-04-2022   |             |
++| DK Overzicht  Actuele Documentatie en Compliance | 1.9    | X         | 11-04-2022   |             |
++| DK Best Practices WUS                            | 1.10.1   |           | 11-04-2022   |             |
++| DK Best Practices EBMS2                          | 3.2.1    |           | 11-04-2022   |             |
  | DK Best Practices Grote Berichten                | 3.1    |           | 19-10-2017   |             |
 -| DK Gebruik en achtergrond certificaten           | 1.6.1  |           | 12-03-2021   |             |
-+| DK Gebruik en achtergrond certificaten           | 1.6.2  |           | 14-04-2022|
++| DK Gebruik en achtergrond certificaten           | 1.6.2  |           | 11-04-2022|
  
  Tabel 1: Digikoppeling document versies
  
@@ -363,29 +402,29 @@ index 55e81e8..a6c4991 100644
  
  | Document                                        | Versie | Normatief | Geldig vanaf | Geldig tot |
  |-------------------------------------------------|--------|-----------|--------------|------------|
-+| DK Koppelvlakstandaard EBMS2                    | 3.3    | X         | 16-05-2019   | 14-04-2022 | 
++| DK Koppelvlakstandaard EBMS2                    | 3.3    | X         | 16-05-2019   | 11-04-2022 | 
  | DK Koppelvlakstandaard ebMS2                    | 3.2    | x         | 19-10-2017   | 16-05-2019 |
-+| DK Best Practices EBMS2                         | 3.2    |           | 16-05-2019   | 14-04-2022 |
++| DK Best Practices EBMS2                         | 3.2    |           | 16-05-2019   | 11-04-2022 |
  | DK Best Practices ebMS2                         | 3.1    |           | 19-10-2017   | 16-05-2019 |
-+| DK Koppelvlakstandaard WUS                      | 3.8    | X         | 11-01-2021   | 14-04-2022 |
++| DK Koppelvlakstandaard WUS                      | 3.8    | X         | 11-01-2021   | 11-04-2022 |
  | DK Koppelvlakstandaard WUS                      | 3.7    | X         | 16-05-2019   | 10-01-2021 |
  | DK Koppelvlakstandaard WUS                      | 3.6    | X         | 21-08-2018   | 16-05-2019 |
  | DK Koppelvlakstandaard WUS                      | 3.5    | X         | 19-07-2018   | 21-08-2018 |
-+| DK Best Practices WUS                           | 1.10   |           | 19-10-2017   | 14-04-2022 |
-+| Wat is Digikoppeling                            | 1.1.1  |           | 23-07-2018   | 14-04-2022 | 
++| DK Best Practices WUS                           | 1.10   |           | 19-10-2017   | 11-04-2022 |
++| Wat is Digikoppeling                            | 1.1.1  |           | 23-07-2018   | 11-04-2022 | 
  | Wat is Digikoppeling                            | 1.1    |           | 19-10-2017   | 23-07-2018 |
-+| DK Architectuur                                 | 1.5.1  | X         | 23-07-2018   | 14-04-2022 |
++| DK Architectuur                                 | 1.5.1  | X         | 23-07-2018   | 11-04-2022 |
  | DK Architectuur                                 | 1.5    | X         | 19-10-2017   | 23-07-2018 |
 -| DK Koppel vlakstandaard Grote Berichten         | 3.2    | X         | 19-10-2017   | 14-10-2020 |
-+| DK Koppelvlakstandaard Grote Berichten          | 3.3    | X         | 14-10-2020   | 14-04-2022 |
-+| DK Koppelvlakstandaard Grote Berichten          | 3.2    | X         | 19-10-2017   | 14-10-2020 |
++| DK Koppelvlakstandaard Grote Berichten          | 3.3    | X         | 14-10-2020   | 11-04-2022 |
++| DK Koppelvlakstandaard Grote Berichten          | 3.2    | X         | 19-10-2017   | 11-10-2020 |
  | DK Beveiliging standaarden en voorschriften     | 1.1    | X         | 19-10-2017   | 17-12-2019 |
  | DK Beveiliging standaarden en voorschriften     | 1.2    | X         | 17-12-2019   | 02-09-2020 |
  | DK Beveiliging standaarden en voorschriften     | 1.3    | X         | 02-09-2020   | 12-03-2021 |
-+| DK Gebruik en achtergrond certificaten          | 1.6.1  |           | 12-03-2021   | 14-04-2022 |
++| DK Gebruik en achtergrond certificaten          | 1.6.1  |           | 12-03-2021   | 11-04-2022 |
  | DK Gebruik en achtergrond certificaten          | 1.5    |           | 19-10-2017   | 02-09-2020 |
  | DK Gebruik en achtergrond certificaten          | 1.6    |           | 02-09-2020   | 12-03-2020 |
-+| DK Identificatie en Authenticatie               | 1.4    | X         | 19-10-2017   | 14-04-2022 |
++| DK Identificatie en Authenticatie               | 1.4    | X         | 19-10-2017   | 11-04-2022 |
  | DK Overzicht Actuele Documentatie en Compliance | 1.7    | X         | 10-01-2021   | 12-03-2021 |
  | DK Overzicht Actuele Documentatie en Compliance | 1.6    | X         | 14-10-2020   | 10-01-2021 |
  | DK Overzicht Actuele Documentatie en Compliance | 1.5    | X         | 02-09-2020   | 14-10-2020 |
@@ -408,6 +447,19 @@ index 263a593..7577c95 100644
          </tr>
          <tr>
              <td>DK Koppelvlakstandaard WUS</td>
+diff --git a/js/config.js b/js/config.js
+index e5f2176..4c8585c 100644
+--- a/js/config.js
++++ b/js/config.js
+@@ -10,7 +10,7 @@ var respecConfig = {
+   // EO: Einde ondersteuning, verouderde versie, vervangen door nieuwe versie
+   // TG: Versie teruggetrokken
+   // BASIS, GN-BASIS: 'geen status'
+-  specStatus: "DEF",
++  specStatus: "WV",
+ 
+   // SpecType currently supported
+   // NO: "Norm"
 diff --git a/media/DK_Specificatie_structuur.svg b/media/DK_Specificatie_structuur.svg
 index 05c0dc4..a386c25 100644
 --- a/media/DK_Specificatie_structuur.svg
@@ -457,6 +509,19 @@ index 47dbc9a..bdd29ce 100644
  							<li> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/wus/">DK Koppelvlakstandaard WUS</a>*
  								<ul>
  									<li><i><a href="https://publicatie.centrumvoorstandaarden.nl/dk/bpwus">Best-practice WUS</a></i>† </li>
+diff --git a/js/config.js b/js/config.js
+index 022fa66..af24147 100644
+--- a/js/config.js
++++ b/js/config.js
+@@ -10,7 +10,7 @@ var respecConfig = {
+   // EO: Einde ondersteuning, verouderde versie, vervangen door nieuwe versie
+   // TG: Versie teruggetrokken
+   // BASIS, GN-BASIS: 'geen status'
+-  specStatus: "DEF",
++  specStatus: "WV",
+ 
+   // SpecType currently supported
+   // NO: "Norm"
 diff --git a/media/DK_Specificatie_structuur.png b/media/DK_Specificatie_structuur.png
 deleted file mode 100644
 index dc49a87..0000000
@@ -512,6 +577,19 @@ index 65acd53..8b543bc 100644
  
  ## Wat is een CPA?
  
+diff --git a/js/config.js b/js/config.js
+index faa2adb..b576b78 100644
+--- a/js/config.js
++++ b/js/config.js
+@@ -10,7 +10,7 @@ var respecConfig = {
+   // EO: Einde ondersteuning, verouderde versie, vervangen door nieuwe versie
+   // TG: Versie teruggetrokken
+   // BASIS, GN-BASIS: 'geen status'
+-  specStatus: "CV",
++  specStatus: "WV",
+ 
+   // SpecType currently supported
+   // NO: "Norm"
 diff --git a/media/DK_Specificatie_structuur.svg b/media/DK_Specificatie_structuur.svg
 index 05c0dc4..a386c25 100644
 --- a/media/DK_Specificatie_structuur.svg
@@ -577,9 +655,18 @@ index 2d1cdac..a69d95f 100644
  <section data-format="markdown" data-include="ch04_Bestellen certificaat.md"></section>
  <section data-format="markdown" data-include="ch05_Installatie certificaat.md"></section>
 diff --git a/js/config.js b/js/config.js
-index 3a99a40..9b25edc 100644
+index 3a99a40..6171947 100644
 --- a/js/config.js
 +++ b/js/config.js
+@@ -10,7 +10,7 @@ var respecConfig = {
+   // EO: Einde ondersteuning, verouderde versie, vervangen door nieuwe versie
+   // TG: Versie teruggetrokken
+   // BASIS, GN-BASIS: 'geen status'
+-  specStatus: "DEF",
++  specStatus: "WV",
+ 
+   // SpecType currently supported
+   // NO: "Norm"
 @@ -233,6 +233,11 @@ var respecConfig = {
        title: "Digikoppeling Compliance Voorziening",
        publisher: "Logius",
@@ -686,9 +773,18 @@ index d18b1ce..ae8c1a1 100644
  
  OIN o.b.v. RSIN: 00000001123456789000
 diff --git a/js/config.js b/js/config.js
-index 079abdc..dec53f4 100644
+index 079abdc..b0d421e 100644
 --- a/js/config.js
 +++ b/js/config.js
+@@ -10,7 +10,7 @@ var respecConfig = {
+   // EO: Einde ondersteuning, verouderde versie, vervangen door nieuwe versie
+   // TG: Versie teruggetrokken
+   // BASIS, GN-BASIS: 'geen status'
+-  specStatus: "DEF",
++  specStatus: "WV",
+ 
+   // SpecType currently supported
+   // NO: "Norm"
 @@ -45,8 +45,8 @@ var respecConfig = {
    // A YYYY-MM-DD date. When a previousPublishDate is specified, this is typically required as well in order to generate the "Previous Version"
    //previousMaturity: "WV",
