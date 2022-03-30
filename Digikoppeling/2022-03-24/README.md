@@ -29,6 +29,7 @@
 * Digikoppeling-Algemeen [issue #1] [Toevoegen Rest API profiel](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/1) (01 Feb. 2022), _Status: Klaar voor release_
 
 ## Kleine wijzigingen
+* Digikoppeling-Koppelvlakstandaard-GB [issue #3] [XSD's](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-GB/issues/3) (22 Mar. 2022), _Status: In onderzoek_
 * Digikoppeling-Identificatie-en-Authenticatie [issue #4] [Correctie samenvatting](https://github.com/Logius-standaarden/Digikoppeling-Identificatie-en-Authenticatie/issues/4) (21 Feb. 2022)
 * Digikoppeling-Algemeen [issue #2] [Aanpassen Bijlage OIN Tabel](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/2) (26 Jan. 2022), _Status: Klaar voor release_
 
