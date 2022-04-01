@@ -84,6 +84,7 @@ StvZ lopende roadmap items
 
 Digikoppeling governance
 ------------------------
+https://github.com/Logius-standaarden/Digikoppeling-Beheermodel/issues/3
 
 *Edwin Wisse*
 
@@ -104,6 +105,7 @@ Informatievoorziening
 
 Signing & Encryptie toevoegen aan RESTful API profiel
 -----------------------------------------------------
+https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/11
 
 *Peter Haasnoot*
 
@@ -133,6 +135,7 @@ Signing & Encryptie toevoegen aan RESTful API profiel
 
 WUS / MTOM
 ----------
+https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/6
 
 > Voorbeeldberichten van DataPower zijn onderzocht. Aanpassingen op de WUS-standaard om de interoperabiliteit te vergroten zouden grote impact hebben op bestaande implementaties die gebruik maken van andere platformen.
 
@@ -151,11 +154,13 @@ WUS / MTOM
 
 ReSpec
 ------
+https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/7
 
 **Green:** toelichting en oproep om Respec te hergebruiken
 
 ebMS3
 -----
+https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-ebMS2/issues/6
 
 *Edwin Wisse*
 
