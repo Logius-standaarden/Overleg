@@ -11,7 +11,3 @@ We vragen de programmeringstafel Gegevensuitwisseling advies of goedkeuring op d
 Vragen aan de leden van de programmeringstafel:
 - Wat is de impact van een overgang van ebMS2 naar ebMS3 in Digikoppeling voor uw organisatie?
 - Binnen welke termijn is overgang naar een nieuwe versie (met nieuwe software) mogelijk?
-
-## REST API koppelvlakstandaard, ter info
-
-_Ter info_ Op 11 april heeft Logius de vastgestelde nieuwe release van de Digikoppeling standaard.
