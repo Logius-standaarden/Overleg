@@ -1,4 +1,3 @@
-# Toelichting
 
 ## ebMS3 transitie
 
