@@ -12,7 +12,7 @@
 | Tijd | Onderwerp | 
 | --- | --- | 
 | 13:30-13:35 | Welkom & Mededelingen |     
-| 13:35-13:40 | Verslag vorig TO:<br> [Verslag TO Digikoppeling 24-03-2022](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2022-03-24/20220324_Verslag_Technisch_Overleg Digikoppeling.md) |   
+| 13:35-13:40 | Verslag vorig TO:<br> [Verslag TO Digikoppeling 24-03-2022](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2022-03-24/20220324_Verslag_Technisch_Overleg%20Digikoppeling.md) |   
 | 13:40-13:50 |    | 
 | 13:50-14:10 | |
 | 14:10-14:15 | |     
