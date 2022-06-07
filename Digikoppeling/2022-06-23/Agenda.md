@@ -11,10 +11,10 @@
 
 | Tijd | Onderwerp | 
 | --- | --- | 
-| 13:30-13:35 | Welkom & Mededelingen |     
-| 13:35-13:40 | Verslag vorig TO:<br> [Verslag TO Digikoppeling 24-03-2022](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2022-03-24/20220324_Verslag_Technisch_Overleg%20Digikoppeling.md) |   
-| 13:40-13:50 |    | 
-| 13:50-14:10 | |
-| 14:10-14:15 | |     
-| 14:15-14:45 | Roadmap : [Stand van zaken Roadmap onderdelen](#stvz-lopende-roadmap-items) |     
-| 14:45-15:00 | Rondvraag & Afsluiting. |     
+| 10:00-10:05 | Welkom & Mededelingen |     
+| 10:05-10:10 | Verslag vorig TO:<br> [Verslag TO Digikoppeling 24-03-2022](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2022-03-24/20220324_Verslag_Technisch_Overleg%20Digikoppeling.md) |   
+| 10:05-10:10 |    | 
+| 10:05-10:10 | |
+| 10:05-10:10 | |     
+| 10:05-10:10 | Roadmap : [Stand van zaken Roadmap onderdelen](#stvz-lopende-roadmap-items) |     
+| 11:25-11:30 | Rondvraag & Afsluiting. |     
