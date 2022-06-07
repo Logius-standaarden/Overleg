@@ -5,17 +5,47 @@
 
 ## KvK nummers in OIN
 
+## StvZ lopende roadmap items
 
-Toevoegen RESTful API profiel aan Digikoppeling		 	 	 
-Signing & Encryptie toevoegen aan RESTful API profiel		 	 	 	 
-Onderzoek verwijzing naar de 'ADR API Security Extensie' vanuit de Digikoppeling Beveiligingsvoorschriften		 	 	 	 
-Aanvulling Digikoppeling governance	 	 	 	 
-Verbeteren Informatievoorziening / Nieuwe wijze van Publiceren		 	 
-Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen	 	 	 	 	 	 
-Analyse knelpunten Routering en Intermediairs in gegevensverkeer 	 	 	 	 	 
-Verkennen mogelijk gebruik ebMS3/AS4	 	 
-Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing) 	 	 	 	 	 
-Doorontwikkeling RESPEC/Digikoppeling template voor publicatie van specificaties	
-Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance	 	 	 	 	 
-Lange termijn visie : Hoe om te gaan met uitfasering/vervanging van profielen	 	 		 	 
-Periodiek actualiseren architectuur
+
+### Digikoppeling governance
+
+Zie voorstel in [grote wijzigingen](#Grote-wijzigingen). [Schema beheerproces](Beheerproces.svg)
+
+### Informatievoorziening
+
+We streven naar een vereenvoudiging van onze informatievoorziening. 
+* we willen https://publicatie.centrumvoorstandaarden.nl/ uitfaseren en overgaan naar https://gitdocumentatie.logius.nl/
+* publicatie van agenda's via github
+
+[Overzicht publicatiesites](Publicatie.png)
+
+### Signing & Encryptie toevoegen aan RESTful API profiel
+
+Onderzoek loopt in samenwerking met KP API werkgroep beveiliging
+
+### Identificatie en Routering
+
+Handreiking voor ondersteuning voor dit onderwerp is in ontwikkeling
+(Zie apart agenda punt)
+
+### Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing)
+
+Voorbeeld berichten van datapower zijn onderzocht. Aanpassingen op de WUS standaard om de interoperabiliteit te vergroten zouden grote impact hebben op bestaande implementaties die gebruik maken van andere platformen;
+(Zie apart agenda punt)
+
+### Doorontwikkeling RESPEC/Digikoppeling template voor publicatie van specificaties	
+
+Het [ReSpec-profiel](https://github.com/Logius-standaarden/respec) is stabiel en in gebruik in alle Digikoppeling-documenten. De wens is het profiel meer modulair op te zetten om onderhoud te vergemakkelijken en gebruik buiten Logius te faciliteren.
+
+### Onderzoek verwijzing naar de 'ADR API Security Extensie' vanuit de Digikoppeling Beveiligingsvoorschriften		 	 	 	 
+(Zie apart agenda punt)
+-> API-58 regel
+
+### Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance	 	 	 	 	 
+
+Ontwikkeling BOMOS generiek model loopt.
+
+### Verkennen mogelijk gebruik ebMS3/AS4
+
+Zie voorstel in [grote wijzigingen](#Grote-wijzigingen).
