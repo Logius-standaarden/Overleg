@@ -17,7 +17,7 @@ Concept
 | --- | --- | 
 | 10:00-10:05 | Welkom & Mededelingen |     
 | 10:05-10:10 | Verslag vorig TO:<br> [Verslag TO Digikoppeling 24-03-2022](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2022-03-24/20220324_Verslag_Technisch_Overleg%20Digikoppeling.md) |   
-| 10:05-10:10 |    | 
+| 10:05-10:10 | Behandelen Issuelijst    | 
 | 10:05-10:10 | |
 | 10:05-10:10 | |     
 | 10:05-10:10 | Roadmap : [Stand van zaken Roadmap onderdelen](#stvz-lopende-roadmap-items) |     
