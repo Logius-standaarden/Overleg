@@ -43,8 +43,8 @@ Voorbeeld berichten van datapower zijn onderzocht. Aanpassingen op de WUS standa
 Het [ReSpec-profiel](https://github.com/Logius-standaarden/respec) is stabiel en in gebruik in alle Digikoppeling-documenten. De wens is het profiel meer modulair op te zetten om onderhoud te vergemakkelijken en gebruik buiten Logius te faciliteren.
 
 ### Onderzoek verwijzing naar de 'ADR API Security Extensie' vanuit de Digikoppeling Beveiligingsvoorschriften		 	 	 	 
-(Zie apart agenda punt)
--> API-58 regel
+
+Onderzoek loopt
 
 ### Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance	 	 	 	 	 
 
