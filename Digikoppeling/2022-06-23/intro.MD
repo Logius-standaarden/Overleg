@@ -9,6 +9,11 @@ Logius wil strategische vragen agenderen voor de programmeringstafel Gegevensuit
 
 ## KvK nummers in OIN
 
+## Toelichting Interoperabiliteit MTOM
+
+Voorbeeld berichten van datapower zijn onderzocht. Aanpassingen op de WUS standaard om de interoperabiliteit te vergroten zouden grote impact hebben op bestaande implementaties die gebruik maken van andere platformen. Advies vanuit Digikoppeling Beheer is daarom om geen aanpassingen op de standaard door te voeren en dit issue te sluiten.<BR>
+__Vraag aan het TO: Is het TO akkoord met voorstel om geen aanpassingen aan de standaard te doen op dit punt?__ 
+
 ## StvZ lopende roadmap items
 
 
