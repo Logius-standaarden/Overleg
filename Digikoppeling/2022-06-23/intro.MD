@@ -1,4 +1,8 @@
 
+## MIDO governance
+
+Logius wil strategische vragen agenderen voor de programmeringstafel Gegevensuitwisseling. De rol, het doel en de bezetting van de programmertafel zijn nog in ontwikkeling.
+
 ## ebMS3 transitie
 
 ## SaaS en OIN
