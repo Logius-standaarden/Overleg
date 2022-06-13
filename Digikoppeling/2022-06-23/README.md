@@ -21,7 +21,7 @@ Concept
 | 10:10-10:15 | Digikoppeling-Algemeen [issue #9] [Analyse knelpunten Routering en Intermediairs in gegevensverkeer](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/9) <BR> _[Verzoek aan het TO is de (concept) uitwerking te reviewen]_|  
 | 10:15-10:25 | Digikoppeling-Algemeen [issue #10] [Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/10) <BR> _[Verzoek aan het TO is de (concept) uitwerking te reviewen]_|
 | 10:25-10:30 | OIN-Stelsel [issue #5] [Kvk nummer leidend voor OIN  ](https://github.com/Logius-standaarden/OIN-Stelsel/issues/5) |  
-| 10:30-10:40 |  Digikoppeling-Algemeen [issue #6] [Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing)](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/6) <BR> Zie [Toelichting](#toelichting-MTOM) |   
+| 10:30-10:40 |  Digikoppeling-Algemeen [issue #6] [Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing)](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/6) <BR> Zie [Toelichting](#toelichting-interoperabiliteit-mtom)  
 | 10:40-10:45 | Voorstel publicatie van PATCH releases <BR> _[Goedkeuring door TO]_|   
 | 10:45-11:15 | Roadmap : [Stand van zaken Roadmap onderdelen](#stvz-lopende-roadmap-items) |     
 | 11:15-11:30 | Rondvraag & Afsluiting. |     
@@ -54,6 +54,11 @@ Logius wil strategische vragen agenderen voor de programmeringstafel Gegevensuit
 ## SaaS en OIN
 
 ## KvK nummers in OIN
+
+## Toelichting Interoperabiliteit MTOM
+
+Voorbeeld berichten van datapower zijn onderzocht. Aanpassingen op de WUS standaard om de interoperabiliteit te vergroten zouden grote impact hebben op bestaande implementaties die gebruik maken van andere platformen. Advies vanuit Digikoppeling Beheer is daarom om geen aanpassingen op de standaard door te voeren en dit issue te sluiten.<BR>
+__Vraag aan het TO: Is het TO akkoord met voorstel om geen aanpassingen aan de standaard te doen op dit punt?__ 
 
 ## StvZ lopende roadmap items
 
