@@ -1,9 +1,13 @@
 
+## Signing en encryptie in REST API profiel
+
 ## MIDO governance
 
-Logius wil strategische vragen agenderen voor de programmeringstafel Gegevensuitwisseling. De rol, het doel en de bezetting van de programmertafel zijn nog in ontwikkeling.
+Logius wil strategische vragen agenderen voor de programmeringstafel Gegevensuitwisseling. De rol, het doel en de bezetting van de programmertafel zijn nog in ontwikkeling. Er is een eerste programmeringstafel GU geweest, een kick
 
 ## ebMS3 transitie
+
+De openstaande vraag over transitie naar ebMS3 is een strategische vraag. Op welke termijn en tegen welke kosten kunnen de stakeholders over naar een nieuwe versie van hun koppeling. We stellen deze vraag in de programmeringstafel, maar de programmeringstafel zijn nog in ontwikkeling. 
 
 ## SaaS en OIN
 
