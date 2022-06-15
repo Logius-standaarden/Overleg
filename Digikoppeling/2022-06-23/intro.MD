@@ -3,13 +3,13 @@
 
 ## MIDO governance
 
-Logius wil strategische vragen agenderen voor de programmeringstafel Gegevensuitwisseling. De rol, het doel en de bezetting van de programmertafel zijn nog in ontwikkeling. Er is een eerste programmeringstafel GU geweest, een kick
+Logius wil strategische vragen agenderen voor de programmeringstafel Gegevensuitwisseling. De rol, het doel en de bezetting van de programmertafel zijn nog in ontwikkeling. Er is een eerste programmeringstafel GU geweest, een kick-off waarbij nog geen inhoudelijke punten zijn besproken. Eind juni volgt een tweede overleg waarbij we nog geen punten vanuit standaardisatie gaan agenderen omdat we nog in overleg zijn welk soort wijzigingsvoorstellen geschikt zijn om te agenderen.
 
 ## ebMS3 transitie
 
-De openstaande vraag over transitie naar ebMS3 is een strategische vraag. Op welke termijn en tegen welke kosten kunnen de stakeholders over naar een nieuwe versie van hun koppeling. We stellen deze vraag in de programmeringstafel, maar de programmeringstafel zijn nog in ontwikkeling. 
+De openstaande vraag over transitie naar ebMS3 is een strategische vraag. Op welke termijn en tegen welke kosten kunnen de stakeholders over naar een nieuwe versie van hun koppeling. We stellen deze vraag in de programmeringstafel, maar de programmeringstafels zijn nog in ontwikkeling. 
 
-## KvK nummers in OIN
+We willen dit punt agenderen wanneer we ook een alternatief scenario kunnen schetsen. Een aantal Nederlandse overheden heeft een _API first_ strategie aangenomen. Bij het uitfaseren van een ebMS2 gebaseerd koppelvlak zijn er twee mogelikheden voor een overheid: transitie naar een ebMS3 koppelvlak of over gaan naar een REST API koppelvlak. 
 
 ## Toelichting Interoperabiliteit MTOM
 
