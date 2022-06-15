@@ -36,7 +36,7 @@ Concept
 ## Kleine wijzigingen
 * Digikoppeling-Algemeen [issue #10] [Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/10) (30 May. 2022), _Status: In bewerking_
 * Digikoppeling-Algemeen [issue #9] [Analyse knelpunten Routering en Intermediairs in gegevensverkeer](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/9) (30 May. 2022), _Status: In bewerking_
-* OIN-Stelsel [issue #5] [Kvk nummer leidend voor OIN  ](https://github.com/Logius-standaarden/OIN-Stelsel/issues/5) (29 Mar. 2022), _Status: In onderzoek_
+* OIN-Stelsel [issue #5] [Kvk nummer leidend voor OIN  ](https://github.com/Logius-standaarden/OIN-Stelsel/issues/5) (29 Mar. 2022), _Status: In review_
 
 ## Overige punten
 * Digikoppeling-Algemeen [issue #6] [Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing)](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/6) (29 Mar. 2022), _Status: In onderzoek_
@@ -45,11 +45,15 @@ Concept
 
 
 
+## Signing en encryptie in REST API profiel
+
 ## MIDO governance
 
-Logius wil strategische vragen agenderen voor de programmeringstafel Gegevensuitwisseling. De rol, het doel en de bezetting van de programmertafel zijn nog in ontwikkeling.
+Logius wil strategische vragen agenderen voor de programmeringstafel Gegevensuitwisseling. De rol, het doel en de bezetting van de programmertafel zijn nog in ontwikkeling. Er is een eerste programmeringstafel GU geweest, een kick
 
 ## ebMS3 transitie
+
+De openstaande vraag over transitie naar ebMS3 is een strategische vraag. Op welke termijn en tegen welke kosten kunnen de stakeholders over naar een nieuwe versie van hun koppeling. We stellen deze vraag in de programmeringstafel, maar de programmeringstafel zijn nog in ontwikkeling. 
 
 ## SaaS en OIN
 
