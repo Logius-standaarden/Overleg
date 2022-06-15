@@ -55,8 +55,6 @@ Logius wil strategische vragen agenderen voor de programmeringstafel Gegevensuit
 
 De openstaande vraag over transitie naar ebMS3 is een strategische vraag. Op welke termijn en tegen welke kosten kunnen de stakeholders over naar een nieuwe versie van hun koppeling. We stellen deze vraag in de programmeringstafel, maar de programmeringstafel zijn nog in ontwikkeling. 
 
-## SaaS en OIN
-
 ## KvK nummers in OIN
 
 ## Toelichting Interoperabiliteit MTOM
@@ -99,7 +97,10 @@ Het [ReSpec-profiel](https://github.com/Logius-standaarden/respec) is stabiel en
 
 ### Onderzoek verwijzing naar de 'ADR API Security Extensie' vanuit de Digikoppeling Beveiligingsvoorschriften		 	 	 	 
 
-Onderzoek loopt
+Onderzoek loopt.
+  
+Toelichting relatie REST-API profiel en ADR extensies
+![DK](media/Digikoppeling%20gebaseerd%20op%20ADR.drawio.svg)
 
 ### Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance	 	 	 	 	 
 
