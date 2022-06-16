@@ -72,7 +72,7 @@ __Vraag aan het TO: Is het TO akkoord met voorstel om geen aanpassingen aan de s
 
 ### Digikoppeling governance
 
-Zie hierboven en issue onder [grote wijzigingen](#Grote-wijzigingen). [Schema beheerproces](Beheerproces.svg)
+Zie hierboven en issue onder [grote wijzigingen](#Grote-wijzigingen). [Schema beheerproces](media/Beheerproces.svg)
 
 ### Informatievoorziening
 
@@ -80,7 +80,7 @@ We streven naar een vereenvoudiging van onze informatievoorziening.
 * we willen https://publicatie.centrumvoorstandaarden.nl/ uitfaseren en overgaan naar https://gitdocumentatie.logius.nl/
 * publicatie van agenda's via github
 
-[Overzicht publicatiesites](Publicatie.png)
+[Overzicht publicatiesites](media/Publicatie.png)
 
 ### Signing & Encryptie toevoegen aan RESTful API profiel
 
