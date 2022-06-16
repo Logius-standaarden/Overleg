@@ -1,5 +1,4 @@
 
-## Signing en encryptie in REST API profiel
 
 ## MIDO governance
 
