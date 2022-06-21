@@ -55,7 +55,11 @@ Het [ReSpec-profiel](https://github.com/Logius-standaarden/respec) is stabiel en
 
 Onderzoek loopt.
 
-Toelichting relatie REST-API profiel en ADR extensies
+Toelichting relatie REST-API profiel en ADR extensies:
+  
+Het Digikoppeling REST-API profiel is gebaseerd op het normatieve deel van de ADR, daarnaast worden enkele (relevante) regels overgenomen uit de (informatieve) ADR extensies;
+(Deze regels worden daarmee voor het Digikoppeling REST-API profiel normatief.)
+  
 ![DK](media/Digikoppeling%20gebaseerd%20op%20ADR.drawio.svg)
 
 ### Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance	 	 	 	 	 
