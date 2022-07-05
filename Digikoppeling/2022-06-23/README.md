@@ -43,8 +43,6 @@
 ## Overige punten
 * Digikoppeling-Koppelvlakstandaard-REST-API [issue #11] [Signing & Encryptie toevoegen aan RESTful API profiel](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/11) (01 Apr. 2022)
 * Digikoppeling-Algemeen [issue #6] [Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing)](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/6) (29 Mar. 2022), _Status: In onderzoek_
-* OAuth-NL-profiel [issue #13] [PKCE beschrijving in Sectie 2.3.1 klopt niet](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/13) (19 Aug. 2020)
-* OAuth-NL-profiel [issue #7] [3.2.1 JWT Bearer Tokens - "sub" claim](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/7) (19 Nov. 2019), _Status: Klaar voor release_
 
 # Toelichting
 
