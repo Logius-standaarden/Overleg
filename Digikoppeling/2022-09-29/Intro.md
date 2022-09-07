@@ -1,4 +1,4 @@
-# Toelichting
+# Toelichting op de wijzigingen
 
 ## Aanpassing beheermodel op BOMOS principes en MIDO governance
 
@@ -13,6 +13,10 @@ __Ter review__
 Om de business case voor transitie door stakeholders te kunnen maken zijn we op zoek naar use cases voor toepassing van eDelivery (ebMS3/AS4) als koppelvlakspecificatie. Tevens leggen we contacten in de EU om de eDelivery ontwikkelingen nauw te kunnen volgen.
 
 __Ter info__
+
+## RSIN of Kvk nummer leidend voor OIN?
+
+We hebben onderzocht of een OIN nummer gebaseerd zou moeten zijn op het RSIN of het KvK nummer. De vraag kwam op omdat in de implementatie nu de facto een voorkeur wordt gegeven aan KvK nummers omdat deze eenvoudig via de interface zijn op te vragen. De vraag was om dit formeel te documenteren. In het [Digikoppeling Identificatie en Authenticatie document](https://github.com/Logius-standaarden/Digikoppeling-Identificatie-en-Authenticatie) staat echter dat het RSIN de voorkeur heeft als identificerend nummer. Documentatie van het OIN stelsel wordt hierop aangepast. [Gedocumenteerd in het issue met link naar het pull request](https://github.com/Logius-standaarden/OIN-Stelsel/issues/5). 
 
 ## StvZ lopende roadmap items
 
