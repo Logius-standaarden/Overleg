@@ -20,6 +20,7 @@
 | 10:10-10:20 | Bespreken [grote wijzigingen](#Grote-wijzigingen), zie ook toelichtingen [governance](#MIDO-governance) en [ebMS3](#ebMS3-transitie) |
 | 10:20-11:00| Bespreken [kleine wijzigingen](#Kleine-wijzigingen) en [overige punten](#Overige-punten) |
 |  |  Graag specifiek aandacht hierbij voor: |  
+|             | _Review opmerkingen zijn verwerkt, Handreiking is gepubliceerd_  <br>- [Analyse knelpunten Routering en Intermediairs in gegevensverkeer](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/9) <br>- [Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/10) |
 | 11:00-11:20 | Roadmap : [Stand van zaken Roadmap onderdelen](#stvz-lopende-roadmap-items) |     
 | 11:20-11:30 | Rondvraag & Afsluiting. |     
 
@@ -41,19 +42,19 @@
 # Toelichting
 
 
-
-
-(oud)
+# Toelichting
 
 ## Aanpassing beheermodel op BOMOS principes en MIDO governance
 
-Wat is er veranderd... **TODO**
+Het Digikoppeling beheermodel is geheel herschreven. Het nieuwe beheermodel is gebaseerd op de [BOMOS template](https://github.com/Logius-standaarden/BOMOS-voorbeeld-beheermodel). Het beheermodel behandelt achtereenvolgens de BOMOS componenten strategie, tactiek, operationeel, implementatieondersteuning en communicatie. Daarmee wordt duidelijker gemaakt hoe Digikoppeling BOMOS toepast. In de nieuwe versie is ook de nieuwe governance structuur beschreven. Deze is passend gemaakt binnen de GDI governance.
+
+Daarnaast zijn de algemene operationele aspecten zoals toepassing van respec, gebruik van Github actions and pages beschreven. Tevens is de versienummering toegelicht. Nieuw is dat in de versienummering we uitgaan van [Semantic Versioning](https://semver.org/).
 
 __Ter review__
 
 ## ebMS3 transitie
 
-Stand van zaken... **TODO**
+Om de business case voor transitie door stakeholders te kunnen maken zijn we op zoek naar use cases voor toepassing van eDelivery (ebMS3/AS4) als koppelvlakspecificatie. Tevens leggen we contacten in de EU om de eDelivery ontwikkelingen nauw te kunnen volgen.
 
 __Ter info__
 
@@ -82,8 +83,7 @@ Handreiking voor ondersteuning voor dit onderwerp is in ontwikkeling
 
 ### Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing)
 
-Voorbeeld berichten van datapower zijn onderzocht. Aanpassingen op de WUS standaard om de interoperabiliteit te vergroten zouden grote impact hebben op bestaande implementaties die gebruik maken van andere platformen;
-(Zie apart agenda punt)
+Voorbeeld berichten van datapower zijn onderzocht. Aanpassingen op de WUS standaard om de interoperabiliteit te vergroten zouden grote impact hebben op bestaande implementaties die gebruik maken van andere platformen. In het overleg 23-6-2022 is besloten de standaard op dit punt niet aan te passen
 
 ### Doorontwikkeling RESPEC/Digikoppeling template voor publicatie van specificaties
 
