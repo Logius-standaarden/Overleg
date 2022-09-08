@@ -17,7 +17,7 @@
 | --- | --- |
 | 10:00-10:05 | Welkom & Mededelingen |     
 | 10:05-10:10 | Verslag vorig TO:<br> [Verslag TO Digikoppeling 23-06-2022](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2022-06-23/20220623_Verslag_Technisch_Overleg%20Digikoppeling.md) |   
-| 10:10-10:20 | Bespreken [grote wijzigingen](#Grote-wijzigingen), zie ook toelichtingen [governance](#MIDO-governance) en [ebMS3](#ebMS3-transitie) |
+| 10:10-10:20 | Bespreken [grote wijzigingen](#Grote-wijzigingen), zie ook toelichtingen |
 | 10:20-11:00| Bespreken [kleine wijzigingen](#Kleine-wijzigingen) en [overige punten](#Overige-punten) |
 |  |  Graag specifiek aandacht hierbij voor: |  
 |             | _Review opmerkingen zijn verwerkt, Handreiking is gepubliceerd_  <br>- [Analyse knelpunten Routering en Intermediairs in gegevensverkeer](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/9) <br>- [Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/10) |
@@ -42,6 +42,10 @@
 # Toelichting
 
 
+## Algemeen
+
+Wijzigingsvoorstellen zijn gedocumenteerd in het issue. Klik in de overzichte grote en kleine wijzigingen op een issue en de discussie, en eventueel het bijbehorende pull request met wijzigingen zijn in te zien. Hier kan iedereen, dus zeker ook de leden van het Technisch Overleg, commentaar geven op een wijzigingsvoorstel.
+
 ## Aanpassing beheermodel op BOMOS principes en MIDO governance
 
 Het Digikoppeling beheermodel is geheel herschreven. Het nieuwe beheermodel is gebaseerd op de [BOMOS template](https://github.com/Logius-standaarden/BOMOS-voorbeeld-beheermodel). Het beheermodel behandelt achtereenvolgens de BOMOS componenten strategie, tactiek, operationeel, implementatieondersteuning en communicatie. Daarmee wordt duidelijker gemaakt hoe Digikoppeling BOMOS toepast. In de nieuwe versie is ook de nieuwe governance structuur beschreven. Deze is passend gemaakt binnen de GDI governance.
@@ -58,19 +62,19 @@ __Ter info__
 
 ## RSIN of Kvk nummer leidend voor OIN?
 
-We hebben onderzocht of een OIN nummer gebaseerd zou moeten zijn op het RSIN of het KvK nummer. De vraag kwam op omdat in de implementatie nu de facto een voorkeur wordt gegeven aan KvK nummers omdat deze eenvoudig via de interface zijn op te vragen. De vraag was om dit formeel te documenteren. In het [Digikoppeling Identificatie en Authenticatie document](https://github.com/Logius-standaarden/Digikoppeling-Identificatie-en-Authenticatie) staat echter dat het RSIN de voorkeur heeft als identificerend nummer. Documentatie van het OIN stelsel wordt hierop aangepast. [Gedocumenteerd in het issue met link naar het pull request](https://github.com/Logius-standaarden/OIN-Stelsel/issues/5). 
+We hebben onderzocht of een OIN nummer gebaseerd zou moeten zijn op het RSIN of het KvK nummer. De vraag kwam op omdat in de implementatie nu de facto een voorkeur wordt gegeven aan KvK nummers omdat deze eenvoudig via de interface zijn op te vragen. De vraag was om dit formeel te documenteren. In het [Digikoppeling Identificatie en Authenticatie document](https://github.com/Logius-standaarden/Digikoppeling-Identificatie-en-Authenticatie) staat echter dat het RSIN de voorkeur heeft als identificerend nummer. Documentatie van het OIN stelsel wordt hierop aangepast. [Gedocumenteerd in het issue met link naar het pull request](https://github.com/Logius-standaarden/OIN-Stelsel/issues/5).
 
 ## StvZ lopende roadmap items
 
 ### Digikoppeling governance
 
-Zie hierboven en issue onder [grote wijzigingen](#Grote-wijzigingen). [Schema beheerproces](media/Beheerproces.svg)
+Zie hierboven en issue onder [grote wijzigingen](#Grote-wijzigingen).
 
 ### Informatievoorziening
 
 We streven naar een vereenvoudiging van onze informatievoorziening.
-* we willen https://publicatie.centrumvoorstandaarden.nl/ uitfaseren en overgaan naar https://gitdocumentatie.logius.nl/
-* publicatie van agenda's via github
+* We publiceren onze documentatie via https://gitdocumentatie.logius.nl/.
+  De oude locatie https://git.centrumvoorstandaarden.nl/ is inmiddels vrijwel uitgefaseerd.
 
 [Overzicht publicatiesites](media/Publicatie.png)
 
