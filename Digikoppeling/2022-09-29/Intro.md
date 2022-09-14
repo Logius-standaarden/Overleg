@@ -2,7 +2,7 @@
 
 Wijzigingsvoorstellen zijn gedocumenteerd in het issue. Klik in de overzichte grote en kleine wijzigingen op een issue en de discussie, en eventueel het bijbehorende pull request met wijzigingen zijn in te zien. Hier kan iedereen, dus zeker ook de leden van het Technisch Overleg, commentaar geven op een wijzigingsvoorstel.
 
-## Publieke consultatie API-58 No sensitive information in URI's
+## Publieke consultatie RFC Toevoegen API-58 No sensitive information in URIs
 
 Uit de publieke consultatie is als opmerking gekomen dat het wenselijk is om aan te geven hoe gevoelige informatie in URI's dient te worden overgebracht.
 Dit is ook als Voorstel/Pull Request aangegeven bij de extensie security van de ADR. Voor het RFC API-58 No sensitive information in URI's is daarom voorgesteld om in dit geval HTTP POST te gebruiken.<BR>
