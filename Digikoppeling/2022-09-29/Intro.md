@@ -5,7 +5,9 @@ Wijzigingsvoorstellen zijn gedocumenteerd in het issue. Klik in de overzichte gr
 ## Publieke consultatie API-58 No sensitive information in URI's
 
 Uit de publieke consultatie is als opmerking gekomen dat het wenselijk is om aan te geven hoe gevoelige informatie in URI's dient te worden overgebracht.
-Dit is ook als Voorstel/Pull Request aangegeven bij de extensie security van de ADR. Voor het RFC API-58 No sensitive information in URI's is daarom voorgesteld om in dit geval HTTP POST te gebruiken. (Zie voorstel en preview).
+Dit is ook als Voorstel/Pull Request aangegeven bij de extensie security van de ADR. Voor het RFC API-58 No sensitive information in URI's is daarom voorgesteld om in dit geval HTTP POST te gebruiken.<BR>
+ - [Voorstel nav resultaat publieke consultatie ](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/pull/20/files#diff-f9866e428c8e44bb537ed5fdddcbc14d754a99c615463c6d7c7f5dd1a7e2ee22) <BR> 
+ - [Preview voorgestelde aanpassing](https://logius-standaarden.github.io/Publicatie-Preview/Digikoppeling-Koppelvlakstandaard-REST-API/API-58-BP/#afspraken-api-design-rules-extensies)
 
 ## Aanpassing beheermodel op BOMOS principes en MIDO governance
 
