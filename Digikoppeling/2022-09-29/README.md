@@ -18,6 +18,8 @@
 | 10:00-10:05 | Welkom & Mededelingen |     
 | 10:05-10:10 | Verslag vorig TO:<br> [Verslag TO Digikoppeling 23-06-2022](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2022-06-23/20220623_Verslag_Technisch_Overleg%20Digikoppeling.md) |   
 | 10:10-10:20 | Bespreken [grote wijzigingen](#Grote-wijzigingen), zie ook toelichtingen |
+|  |  Graag specifiek aandacht hierbij voor: |  
+|             | RFC Toevoegen API-58 No sensitive information in URIs <BR> - [ Voorstel nav resultaat publieke consultatie ](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/pull/20/files#diff-f9866e428c8e44bb537ed5fdddcbc14d754a99c615463c6d7c7f5dd1a7e2ee22)<BR> - [Preview voorgestelde aanpassing](https://logius-standaarden.github.io/Publicatie-Preview/Digikoppeling-Koppelvlakstandaard-REST-API/API-58-BP/#afspraken-api-design-rules-extensies) <BR>Zie [Toelichting](#publieke-consultatie-rfc-toevoegen-api-58-no-sensitive-information-in-uris) _<BR>[We vragen het TO om het voorstel goed te keuren]_|
 | 10:20-11:00| Bespreken [kleine wijzigingen](#Kleine-wijzigingen) en [overige punten](#Overige-punten) |
 |  |  Graag specifiek aandacht hierbij voor: |  
 |             | _Review opmerkingen zijn verwerkt, Handreiking is gepubliceerd_  <br>- [Analyse knelpunten Routering en Intermediairs in gegevensverkeer](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/9) <br>- [Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/10) |
@@ -45,6 +47,15 @@
 ## Algemeen
 
 Wijzigingsvoorstellen zijn gedocumenteerd in het issue. Klik in de overzichte grote en kleine wijzigingen op een issue en de discussie, en eventueel het bijbehorende pull request met wijzigingen zijn in te zien. Hier kan iedereen, dus zeker ook de leden van het Technisch Overleg, commentaar geven op een wijzigingsvoorstel.
+
+## Publieke consultatie RFC Toevoegen API-58 No sensitive information in URIs
+
+Uit de publieke consultatie is als opmerking gekomen dat het wenselijk is om aan te geven hoe gevoelige informatie in URI's dient te worden overgebracht.
+Dit is ook als Voorstel/Pull Request aangegeven bij de extensie security van de ADR. Voor het RFC API-58 No sensitive information in URI's is daarom voorgesteld om in dit geval HTTP POST te gebruiken.<BR>
+ - [Voorstel nav resultaat publieke consultatie ](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/pull/20/files#diff-f9866e428c8e44bb537ed5fdddcbc14d754a99c615463c6d7c7f5dd1a7e2ee22) <BR> 
+ - [Preview voorgestelde aanpassing](https://logius-standaarden.github.io/Publicatie-Preview/Digikoppeling-Koppelvlakstandaard-REST-API/API-58-BP/#afspraken-api-design-rules-extensies)
+ 
+ __Ter goedkeuring__
 
 ## Aanpassing beheermodel op BOMOS principes en MIDO governance
 
