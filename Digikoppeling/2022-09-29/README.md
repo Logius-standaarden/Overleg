@@ -24,7 +24,7 @@
 |  |  Graag specifiek aandacht hierbij voor: |  
 |             | _Review opmerkingen zijn verwerkt, Handreiking is gepubliceerd_  <br>- [Analyse knelpunten Routering en Intermediairs in gegevensverkeer](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/9) <br>- [Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/10) |
 | 10:50-11:10 | Roadmap : [Stand van zaken Roadmap onderdelen](#stvz-lopende-roadmap-items) |     
-| 11:20-11:20 | Ontwikkelingen eDelivery: API pilot (Ter kennisneming) |
+| 11:10-11:20 | Ontwikkelingen eDelivery: API pilot (Ter kennisneming) |
 | 11:20-11:30 | Rondvraag & Afsluiting. |     
 
 # Punten
@@ -85,31 +85,27 @@ Zie hierboven en issue onder [grote wijzigingen](#Grote-wijzigingen).
 ### Informatievoorziening
 
 We streven naar een vereenvoudiging van onze informatievoorziening.
-* We publiceren onze documentatie via https://gitdocumentatie.logius.nl/.
-  De oude locatie https://git.centrumvoorstandaarden.nl/ is inmiddels vrijwel uitgefaseerd.
+* Plan is om de documentatie te gaan publiceren via https://gitdocumentatie.logius.nl/.
 
 [Overzicht publicatiesites](media/Publicatie.png)
 
 ### Signing & Encryptie toevoegen aan RESTful API profiel
 
-Onderzoek loopt in samenwerking met KP API werkgroep beveiliging
+Onderzoek loopt in samenwerking met KP API werkgroep beveiliging.
 
 ### Identificatie en Routering
 
-Handreiking voor ondersteuning voor dit onderwerp is in ontwikkeling
+Handreiking voor ondersteuning voor dit onderwerp is ontwikkeld.
 (Zie apart agenda punt)
-
-### Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing)
-
-Voorbeeld berichten van datapower zijn onderzocht. Aanpassingen op de WUS standaard om de interoperabiliteit te vergroten zouden grote impact hebben op bestaande implementaties die gebruik maken van andere platformen. In het overleg 23-6-2022 is besloten de standaard op dit punt niet aan te passen
 
 ### Doorontwikkeling RESPEC/Digikoppeling template voor publicatie van specificaties
 
-Het [ReSpec-profiel](https://github.com/Logius-standaarden/respec) is stabiel en in gebruik in alle Digikoppeling-documenten. De wens is het profiel meer modulair op te zetten om onderhoud te vergemakkelijken en gebruik buiten Logius te faciliteren.
+Het [ReSpec-profiel](https://github.com/Logius-standaarden/respec) is stabiel en in gebruik in alle Digikoppeling-documenten. De wens is het profiel meer modulair op te zetten om onderhoud te vergemakkelijken en gebruik buiten Logius te faciliteren. 
 
+Zie ook het [ReSpec-Logius-template](https://github.com/Logius-standaarden/respec-template)
 ### Onderzoek verwijzing naar de 'ADR API Security Extensie' vanuit de Digikoppeling Beveiligingsvoorschriften		 	 	 	 
 
-Onderzoek loopt.
+Onderzoek is afgerond, uit het onderzoek is de _RFC API-58 No sensitive information in URIs_ gekomen als kandidaat regel om op te nemen (zie apart agenda punt)
 
 Toelichting relatie REST-API profiel en ADR extensies:
 
