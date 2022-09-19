@@ -22,5 +22,5 @@
 |  |  Graag specifiek aandacht hierbij voor: |  
 |             | _Review opmerkingen zijn verwerkt, Handreiking is gepubliceerd_  <br>- [Analyse knelpunten Routering en Intermediairs in gegevensverkeer](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/9) <br>- [Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/10) |
 | 10:50-11:10 | Roadmap : [Stand van zaken Roadmap onderdelen](#stvz-lopende-roadmap-items) |     
-| 11:20-11:20 | Ontwikkelingen eDelivery: API pilot (Ter kennisneming) |
+| 11:10-11:20 | Ontwikkelingen eDelivery: API pilot (Ter kennisneming) |
 | 11:20-11:30 | Rondvraag & Afsluiting. |     
