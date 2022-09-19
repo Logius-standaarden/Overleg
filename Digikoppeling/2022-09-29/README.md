@@ -63,7 +63,7 @@ Het Digikoppeling beheermodel is geheel herschreven. Het nieuwe beheermodel is g
 
 Daarnaast zijn de algemene operationele aspecten zoals toepassing van respec, gebruik van Github actions and pages beschreven. Tevens is de versienummering toegelicht. Nieuw is dat in de versienummering we uitgaan van [Semantic Versioning](https://semver.org/).
 
-__Ter review__
+__Ter review__, bijlage over Semantic Versioning __Ter goedkeuring__
 
 ## ebMS3 transitie
 
