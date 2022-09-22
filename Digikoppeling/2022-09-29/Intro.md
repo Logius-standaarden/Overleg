@@ -19,7 +19,7 @@ Bij governance is het nog een open vraag of de Digikoppeling stakeholders verteg
 
 Daarnaast zijn de algemene operationele aspecten zoals toepassing van respec, gebruik van Github actions and pages beschreven. Tevens is de versienummering toegelicht. Nieuw is dat in de versienummering we uitgaan van [Semantic Versioning](https://semver.org/).
 
-__Ter review__, bijlage over Semantic Versioning __Ter goedkeuring__
+__Ter review__, bijlage over [Semantic Versioning](https://logius-standaarden.github.io/Publicatie-Preview/Digikoppeling-Beheermodel/nieuwe_governance/#versioneringsmethodiek) __Ter goedkeuring__
 
 ## ebMS3 transitie
 
