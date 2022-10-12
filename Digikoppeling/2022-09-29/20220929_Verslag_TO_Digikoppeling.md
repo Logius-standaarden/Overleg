@@ -19,6 +19,7 @@
 | Sinnige        | Hans      | Rinis       |
 | Van der Plas   | Martin    | Logius      |
 | Van der Velde  | Johan     | RDW         |
+| Van Kester     | Jos       | VNG         |
 | Vijlbrief      | Tom       | Kadaster    |
 | Welmer         | Han       | TNO         |
 | Wisse          | Edwin     | Logius      |
