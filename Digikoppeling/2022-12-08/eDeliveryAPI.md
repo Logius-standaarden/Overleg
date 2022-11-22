@@ -28,11 +28,12 @@ API architectuur van het KP API's worden opgenomen.
 
 ## Authorisatie
 oAuth 2.0 en OpenID zijn verplicht in het eDelivery profile. Er zijn restricties op 
-oAuth gezet, het is een volwaardig profiel. Aan een aantal verschillende cases zijn 
-_architecture profiles_ gehangen. Er zijn vier verschillende topologien, met of zonder 
-authorisation server etc. In de eDelivery REST API specificatie verwijzen ze verder 
-naar de topologien. Daardoor is duidelijk voor iemand die implementeert om te zien 
-welke configuratie relevant is.
+oAuth gezet, het is daarmee een volwaardig profiel. Een aantal verschillende cases 
+zijn uitgewerkt in  _architecture topologies_. Er zijn vier verschillende topologiën,
+respectievelijk met interne  en externe authorization servers en identity providers. 
+In de eDelivery _REST API specificatie_ en in de _implementation overview_ wordt 
+eenvoudigwweg verwezen naar deze topologiën. Daardoor is duidelijk bij implementatie 
+te zien welke configuratie relevant is.
 
 Zie secties onder 5.1 in het _REST API Profile Version 1.0_.
 
@@ -49,9 +50,10 @@ JAdES  met de standaard HTTP Message Signatures.
 Zie sectie 5.2.2 in het _REST API Profile Version 1.0_.
 
 ## API life cycle
-Life cycle management van de eDelivery REST API is overeenkomstig ADR regels. 
-Wat is backwards compatible? De life cycle beschrijving is wel uitgebreider dan die
-in de ADR en kan gebruikt worden om de ADR specifieker te maken op dit punt.
+Life cycle management van de eDelivery REST API is op grote lijnen overeenkomstig 
+ADR regels. Wat is backwards compatible? 
+De life cycle beschrijving is wel uitgebreider dan die in de ADR en kan gebruikt
+worden om de ADR specifieker te maken op dit punt.
 
 Zie 5.3 in het _REST API Profile Version 1.0_.
 
