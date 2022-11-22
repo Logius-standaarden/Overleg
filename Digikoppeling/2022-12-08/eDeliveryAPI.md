@@ -11,10 +11,11 @@ en Digital Governance Act (DGA) van belang.
 Om deze acts mogelijk te maken heeft de EU een aantal projecten en werkgroepen. 
 eDelivery is hierin een bouwsteen. 
 
-In ISA^2 is een pilot uitgevoerd om een eDelivery REST API profiel op te stellen en 
-te beproeven. De documentatie van de pilot is onlangs gepubliceerd door EU Digit. 
+In ISA<sup>2</sup> is een pilot uitgevoerd om een eDelivery REST API profiel op te 
+stellen en te beproeven. De documentatie van de pilot is onlangs gepubliceerd door EU Digit. 
 De documentatie geeft een aantal oplossingen die ook in ADR, NL-oAuth en in het 
-Digikoppeling REST API profile kunnen worden toegepast.
+Digikoppeling REST API profile kunnen worden toegepast. Twee van de documenten zijn bijgevoegd: 
+_ISA² IPS REST API Profile Version 1.0_ en _REST API Pilot: Implementation Overview_
 
 ## Architectuur
 
@@ -33,12 +34,7 @@ authorisation server etc. In de eDelivery REST API specificatie verwijzen ze ver
 naar de topologien. Daardoor is duidelijk voor iemand die implementeert om te zien 
 welke configuratie relevant is.
 
-## OpenAPI
-
-## API life cycle
-Life cycle management van de eDelivery REST API is overeenkomstig ADR regels. 
-Wat is backwards compatible? De life cycle beschrijving is wel uitgebreider dan die
-in de ADR en kan gebruikt worden om de ADR specifieker te maken op dit punt.
+Zie secties onder 5.1 in het _REST API Profile Version 1.0_.
 
 ## Signing
 eDelivery profiel maakt gebruik van JAdES . De eDelivery invulling is gedeeld met de (sub)werkgroep 
@@ -49,3 +45,15 @@ Signing module voor ADR en Digikoppeling REST API profiel.
 
 Zie ook Vergelijking REST API Signing Standaarden (geonovum.github.io) voor een vergelijking van 
 JAdES  met de standaard HTTP Message Signatures.
+
+Zie sectie 5.2.2 in het _REST API Profile Version 1.0_.
+
+## API life cycle
+Life cycle management van de eDelivery REST API is overeenkomstig ADR regels. 
+Wat is backwards compatible? De life cycle beschrijving is wel uitgebreider dan die
+in de ADR en kan gebruikt worden om de ADR specifieker te maken op dit punt.
+
+Zie 5.3 in het _REST API Profile Version 1.0_.
+
+## OpenAPI
+Zie 6.3 in het _REST API Profile Version 1.0_.
