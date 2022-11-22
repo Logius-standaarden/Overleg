@@ -58,4 +58,8 @@ worden om de ADR specifieker te maken op dit punt.
 Zie 5.3 in het _REST API Profile Version 1.0_.
 
 ## OpenAPI
+Implementatie van JaAdES en life cycle management zijn gespecificeerd in OpenAPI. De eisen die in het algemeen hier aan gebruik van OpenAPI worden gesteld maken de API beter testbaar.
+
+Zie ook https://github.com/isa2-api4ips/rest-api-profile/blob/main/api-documentation/openapi.yml
+
 Zie 6.3 in het _REST API Profile Version 1.0_.
