@@ -18,7 +18,6 @@ Digikoppeling REST API profile kunnen worden toegepast. Twee van de documenten z
 _ISA² IPS REST API Profile Version 1.0_ en _REST API Pilot: Implementation Overview_
 
 ## Architectuur
-
 Om in de pilot een concrete implementatie te maken van de eDelivery API zijn keuzes 
 gemaakt, bijvoorbeeld in het gebruik van velden die binnen gebruikte standaarden 
 vrij gelaten waren. Daarmee is een aantal profielen gemaakt die kunnen worden 
@@ -36,6 +35,10 @@ eenvoudigwweg verwezen naar deze topologiën. Daardoor is duidelijk bij implemen
 te zien welke configuratie relevant is.
 
 Zie secties onder 5.1 in het _REST API Profile Version 1.0_.
+
+In sectie 5.4.1.2 _Resource identifiers_ staat een stuk over gebruik van hash values als
+identifiers. Dit biedt mogelijk een oplossing voor een issue uit het Kennisplatform API's:
+https://github.com/Geonovum/KP-APIs/pull/464 
 
 ## Signing
 eDelivery profiel maakt gebruik van JAdES . De eDelivery invulling is gedeeld met de (sub)werkgroep 
