@@ -27,7 +27,7 @@
 * Digikoppeling-Handreiking-Adressering-en-Routering [issue #4] [RFC Voor wie werkt een SAAS eigenlijk?](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering/issues/4) (22 Nov. 2022), _Status: In onderzoek_
 * Digikoppeling-Handreiking-Adressering-en-Routering [issue #3] [PKI sleutel deponeren?](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering/issues/3) (21 Oct. 2022), _Status: In onderzoek_
 * Digikoppeling-Handreiking-Adressering-en-Routering [issue #2] [routeren op de berichtbody?](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering/issues/2) (21 Oct. 2022), _Status: In onderzoek_
-* Digikoppeling-Architectuur [issue #8] [Review ph](https://github.com/Logius-standaarden/Digikoppeling-Architectuur/pull/8) (06 Oct. 2022), _Status: In review_
+* Digikoppeling-Architectuur [issue #8] [Tekstcorrecties](https://github.com/Logius-standaarden/Digikoppeling-Architectuur/pull/8) (06 Oct. 2022), _Status: In review_
 * Digikoppeling-Architectuur [issue #3] [Verantwoordelijkheid voor informatiebeveiliging](https://github.com/Logius-standaarden/Digikoppeling-Architectuur/issues/3) (06 Jul. 2022), _Status: In onderzoek_
 * OIN-Stelsel [issue #5] [RSIN of Kvk nummer leidend voor OIN?](https://github.com/Logius-standaarden/OIN-Stelsel/issues/5) (29 Mar. 2022), _Status: In review_
 
