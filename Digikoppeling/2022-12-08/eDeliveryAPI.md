@@ -36,6 +36,8 @@ te zien welke configuratie relevant is.
 
 Zie secties onder 5.1 in het _REST API Profile Version 1.0_.
 
+We hebben hiervoor [een wijzigingsvoorstel op oAuth ingediend](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/27)
+
 In sectie 5.4.1.2 _Resource identifiers_ staat een stuk over gebruik van hash values als
 identifiers. Dit biedt mogelijk een oplossing voor een issue uit het Kennisplatform API's:
 https://github.com/Geonovum/KP-APIs/pull/464 
