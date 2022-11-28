@@ -6,7 +6,7 @@ Deze map bevat de agenda, notulen en vergaderstukken van het Technisch Overleg D
 
 | Datum | Tijd | Locatie | Stukken | Bijzonderheden |
 | ----- | ---- | ------- | ------- | -------------- |
-|       |      |         |         |                |
+|   8 december 2022    | 10:00     | Webex        |  [2022-12-08](2022-12-08)       |                |
 
 
 ## Archief Technisch Overleg
