@@ -49,10 +49,12 @@ signing van de KPAPI werkgroep beveiliging;
 De signing uitwerking in eDelivery is in principe bruikbaar voor de invulling van een JAdES 
 Signing module voor ADR en Digikoppeling REST API profiel.
 
-Zie ook Vergelijking REST API Signing Standaarden (geonovum.github.io) voor een vergelijking van 
-JAdES  met de standaard HTTP Message Signatures.
+JAdES is gebaseerd op _Detached JWS_,  Appendix F - RFC 7515: JSON Web Signature (JWS)  en daarmee op standaard JWS/JWE principes)
+Zie : https://datatracker.ietf.org/doc/rfc7515/
 
-Zie sectie 5.2.2 in het _REST API Profile Version 1.0_.
+Zie ook de KPAPI handreiking van de werkgroep Signing [Vergelijking REST API Signing Standaarden](https://geonovum.github.io/KP-APIs/publicaties/REST_API_Signing_Standaarden/) voor een vergelijking van JAdES  met de standaard HTTP Message Signatures.
+
+Zie voor de invulling van Signing sectie 5.2.2 in het _REST API Profile Version 1.0_.
 
 ## API life cycle
 Life cycle management van de eDelivery REST API is op grote lijnen overeenkomstig 
