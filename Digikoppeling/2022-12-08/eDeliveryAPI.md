@@ -43,7 +43,7 @@ identifiers. Dit biedt mogelijk een oplossing voor een issue uit het Kennisplatf
 https://github.com/Geonovum/KP-APIs/pull/464 
 
 ## Signing
-eDelivery profiel maakt gebruik van JAdES . De eDelivery invulling is gedeeld met de (sub)werkgroep 
+eDelivery profiel maakt gebruik van JAdES voor Signing. De eDelivery invulling is gedeeld met de (sub)werkgroep 
 Signing van de KPAPI werkgroep beveiliging;
 
 De signing uitwerking in eDelivery is in principe bruikbaar voor de invulling van een JAdES 
