@@ -15,8 +15,11 @@
 | --- | --- |
 | 10:00-10:05 | Welkom & Mededelingen        |    
 | 10:05-10:30 | OOTS toelichting door Ivar Vennekens & discussie |
-|             | Grote en kleine wijzigingen, issues en pull requests  | 
-|             | eDelivery REST API lessons learned                    |
+| 10:30-10:50 | Grote en kleine wijzigingen, issues en pull requests  | 
+| 10:50-11:10 | eDelivery REST API lessons learned                    |
+| 11:10-11:15 |[Status API-58 in ADR extensie beveiliging](#status-api-58-in-adr-extensie-beveiliging)                         |
+| 11:15-11:20 |[Gebruik eIDAS certificaten voor signing in Digikoppeling](#gebruik-eidas-certificaten-voor-signing-in-digikoppeling)|
+| 11:20-11:30 |[Update Respec Generiek Profiel](#update-respec-generiek-profiel)|
 
 # Punten
 
@@ -39,4 +42,22 @@
 
 ## Algemeen
 
-Wijzigingsvoorstellen zijn gedocumenteerd in het issue. Klik in de overzichte grote en kleine wijzigingen op een issue en de discussie, en eventueel het bijbehorende pull request met wijzigingen zijn in te zien. Hier kan iedereen, dus zeker ook de leden van het Technisch Overleg, commentaar geven op een wijzigingsvoorstel.
+Wijzigingsvoorstellen zijn gedocumenteerd in het issue. Klik in de overzichten grote en kleine wijzigingen op een issue en de discussie, en eventueel het bijbehorende pull request met wijzigingen zijn in te zien. Hier kan iedereen, dus zeker ook de leden van het Technisch Overleg, commentaar geven op een wijzigingsvoorstel.
+
+## Status API-58 in ADR extensie beveiliging
+
+Zie [Update ext-security.md API-58](https://github.com/Geonovum/KP-APIs/pull/464)
+
+
+## Gebruik eIDAS certificaten voor signing in Digikoppeling
+
+Zie huidige beschrijving
+
+* WUS : https://publicatie.centrumvoorstandaarden.nl/dk/wus/#end-to-end-beveiliging
+* ebMS : https://publicatie.centrumvoorstandaarden.nl/dk/ebms/#profile-requirement-item-signature-generation
+
+## Update Respec Generiek Profiel
+
+https://github.com/Logius-standaarden/respec-template
+
+
