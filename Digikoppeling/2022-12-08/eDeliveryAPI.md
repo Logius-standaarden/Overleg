@@ -44,7 +44,7 @@ https://github.com/Geonovum/KP-APIs/pull/464
 
 ## Signing
 eDelivery profiel maakt gebruik van JAdES . De eDelivery invulling is gedeeld met de (sub)werkgroep 
-signing van de KPAPI werkgroep beveiliging;
+Signing van de KPAPI werkgroep beveiliging;
 
 De signing uitwerking in eDelivery is in principe bruikbaar voor de invulling van een JAdES 
 Signing module voor ADR en Digikoppeling REST API profiel.
