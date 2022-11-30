@@ -1,7 +1,7 @@
 # Verslag - Technische Architectuur Groep OAuth-NL
 
 datum: 22-12-2021
-status: concept
+status: definitief vatgesteld op 29-06-2022
 
 ## Aanwezigen
 | Voornaam  | Achternaam   | Organisatie |
