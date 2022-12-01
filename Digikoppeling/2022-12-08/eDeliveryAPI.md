@@ -26,17 +26,17 @@ te passen. Het gebruik van de profielen (en de profielen zelf) kunnen in de
 API architectuur van het KP API's worden opgenomen.
 
 ## Authorisatie
-oAuth 2.0 en OpenID zijn verplicht in het eDelivery profile. Er zijn restricties op 
-oAuth gezet, het is daarmee een volwaardig profiel. Een aantal verschillende cases 
+OAuth 2.0 en OpenID zijn verplicht in het eDelivery profile. Er zijn restricties op 
+OAuth gezet, het is daarmee een volwaardig profiel. Een aantal verschillende cases 
 zijn uitgewerkt in  _architecture topologies_. Er zijn vier verschillende topologiën,
 respectievelijk met interne  en externe authorization servers en identity providers. 
 In de eDelivery _REST API specificatie_ en in de _implementation overview_ wordt 
-eenvoudigwweg verwezen naar deze topologiën. Daardoor is duidelijk bij implementatie 
+eenvoudigweg verwezen naar deze topologiën. Daardoor is duidelijk bij implementatie 
 te zien welke configuratie relevant is.
 
-Zie secties onder 5.1 in het _REST API Profile Version 1.0_.
+Zie secties onder 5.1 in het[ _REST API Profile Version 1.0_](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2022-12-08/(ISA2).(eDelivery).(Piloting%20a%20REST%20API%20extension%20of%20CEF%20eDelivery).(ISA%C2%B2%20IPS%20REST%20API%20Profile).(v1.0).pdf).
 
-We hebben hiervoor [een wijzigingsvoorstel op oAuth ingediend](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/27)
+We hebben hiervoor [een wijzigingsvoorstel op OAuth ingediend](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/27)
 
 In sectie 5.4.1.2 _Resource identifiers_ staat een stuk over gebruik van hash values als
 identifiers. Dit biedt mogelijk een oplossing voor een issue uit het Kennisplatform API's:
