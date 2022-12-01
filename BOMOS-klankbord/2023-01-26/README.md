@@ -1,5 +1,5 @@
 # BOMOS klankbord
-# Punten
+# Onderwerpen
 
 ## Kleine wijzigingen
 * BOMOS-Verdieping [issue #10] [Figuren aanpassen (tekst uit figuren en layout)](https://github.com/Logius-standaarden/BOMOS-Verdieping/issues/10) (23 Nov. 2022), _Status: In bewerking_

@@ -1,5 +1,5 @@
 # TO-OAuth
-# Punten
+# Onderwerpen
 
 ## Kleine wijzigingen
 * OAuth-NL-profiel [issue #26] [Inhoud access token in lijn brengen met RFC9068](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/26) (09 Nov. 2022), _Status: In onderzoek_
