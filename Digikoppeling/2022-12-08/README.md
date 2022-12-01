@@ -15,13 +15,23 @@
 | --- | --- |
 | 10:00-10:05 | Welkom & Mededelingen        |    
 | 10:05-10:30 | OOTS toelichting door Ivar Vennekens & discussie |
-| 10:30-10:50 | Grote en kleine wijzigingen, issues en pull requests  | 
-|  |  Graag specifiek aandacht hierbij voor: |  
-|             | Digikoppeling-Handreiking-Adressering-en-Routering <BR>• [RFC Voor wie werkt een SAAS eigenlijk](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering/issues/4) / [Voorgestelde aanpassing](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering/pull/7/files)<BR>• [PKI sleutel deponeren?](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering/issues/3) / [Voorgestelde aanpassing](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering/pull/6/files)<BR>• [Routeren op de berichtbody](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering/issues/2) / [Voorgestelde aanpassing](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering/pull/5/files) _<BR>[We vragen het TO om het voorstel goed te keuren]_|
+| 10:30-10:50 | Grote en kleine wijzigingen, issues en pull requests <br>_Graag specifiek aandacht hierbij voor [deze punten](#aandachtspunten)._  | 
 | 10:50-11:00 |[eDelivery REST API lessons learned](eDeliveryAPI.md)  |
 | 11:00-11:10 |[Status API-58 in ADR extensie beveiliging](#status-api-58-in-adr-extensie-beveiliging)                         |
 | 11:10-11:20 |[Gebruik eIDAS certificaten voor signing in Digikoppeling](#gebruik-eidas-certificaten-voor-signing-in-digikoppeling)|
 | 11:20-11:30 |[Update Respec Generiek Profiel](#update-respec-generiek-profiel)|
+
+### Aandachtspunten
+Wij vragen het TO om deze voorstellen goed te keuren.
+
+#### Digikoppeling-Handreiking-Adressering-en-Routering
+* [RFC Voor wie werkt een SAAS eigenlijk](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering/issues/4) | [Voorgestelde aanpassing](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering/pull/7/files)
+* [PKI sleutel deponeren?](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering/issues/3) | [Voorgestelde aanpassing](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering/pull/6/files)
+* [Routeren op de berichtbody](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering/issues/2) | [Voorgestelde aanpassing](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering/pull/5/files)
+
+#### Digikoppeling-Architectuur
+* [Periodieke review](https://github.com/Logius-standaarden/Digikoppeling-Architectuur/pull/11) | [Voorgestelde aanpassing](https://github.com/Logius-standaarden/Digikoppeling-Architectuur/pull/11/files)
+* [Verantwoordelijkheid voor informatiebeveiliging](https://github.com/Logius-standaarden/Digikoppeling-Architectuur/pull/3) | [Voorgestelde aanpassing](https://github.com/Logius-standaarden/Digikoppeling-Architectuur/pull/3/files)
 
 # Punten
 
@@ -29,11 +39,11 @@
 * Digikoppeling-Koppelvlakstandaard-ebMS2 [issue #6] [Digikoppeling baseren op ebMS3](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-ebMS2/issues/6) (03 Feb. 2022), _Status: In onderzoek_
 
 ## Kleine wijzigingen
-* Digikoppeling-Handreiking-Adressering-en-Routering [issue #4] [RFC Voor wie werkt een SAAS eigenlijk?](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering/issues/4) (22 Nov. 2022), _Status: In onderzoek_
-* Digikoppeling-Handreiking-Adressering-en-Routering [issue #3] [PKI sleutel deponeren?](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering/issues/3) (21 Oct. 2022), _Status: In onderzoek_
+* Digikoppeling-Architectuur [issue #11] [Periodieke review](https://github.com/Logius-standaarden/Digikoppeling-Architectuur/pull/11) (30 Nov. 2022), _Status: In review_
+* Digikoppeling-Handreiking-Adressering-en-Routering [issue #4] [RFC Voor wie werkt een SAAS eigenlijk?](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering/issues/4) (22 Nov. 2022), _Status: In review_
+* Digikoppeling-Handreiking-Adressering-en-Routering [issue #3] [PKI sleutel deponeren?](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering/issues/3) (21 Oct. 2022), _Status: In review_
 * Digikoppeling-Handreiking-Adressering-en-Routering [issue #2] [routeren op de berichtbody?](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering/issues/2) (21 Oct. 2022), _Status: In onderzoek_
-* Digikoppeling-Architectuur [issue #8] [Tekstcorrecties](https://github.com/Logius-standaarden/Digikoppeling-Architectuur/pull/8) (06 Oct. 2022), _Status: In review_
-* Digikoppeling-Architectuur [issue #3] [Verantwoordelijkheid voor informatiebeveiliging](https://github.com/Logius-standaarden/Digikoppeling-Architectuur/issues/3) (06 Jul. 2022), _Status: In onderzoek_
+* Digikoppeling-Architectuur [issue #3] [Verantwoordelijkheid voor informatiebeveiliging](https://github.com/Logius-standaarden/Digikoppeling-Architectuur/pull/3) (06 Jul. 2022), _Status: In review_
 * OIN-Stelsel [issue #5] [RSIN of Kvk nummer leidend voor OIN?](https://github.com/Logius-standaarden/OIN-Stelsel/issues/5) (29 Mar. 2022), _Status: In review_
 
 ## Overige punten
