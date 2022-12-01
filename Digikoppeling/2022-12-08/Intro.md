@@ -20,13 +20,23 @@ Wij vragen het TO om deze voorstellen goed te keuren:
 
 Zie [Update ext-security.md API-58](https://github.com/Geonovum/KP-APIs/pull/464)
 
+Voorstel is nav de bespreking van API-58 in de werkgroep Beveiliging van het Kennisplatform API's een toelichting toe te voegen aan API-58 in het Digikoppeling REST API profiel:
+| Categorie | Principe | Extensie | Toelichting | Link |
+| --- | --- | --- | --- | --- |
+| Verplicht | API-58  No sensitive information in URIs | Security | Alleen verplicht indien er sprake is van logging in systemen die niet onder controle van de betrokken client- en serverorganisatie staan | [API-58 No sensitive information in URIs  ](https://docs.geostandaarden.nl/api/def-hr-API-Strategie-ext-20211013/#api-58)|
+
+Zie [Toelichting API-58](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/pull/22) 
 
 ## Gebruik eIDAS certificaten voor signing in Digikoppeling
 
-Zie huidige beschrijving
+Vraag/Discussie: (hoe) worden eIDAS certificaten gebruikt op dit moment?
+
+(
+Zie huidige beschrijving gebruik PKIO
 
 * WUS : https://publicatie.centrumvoorstandaarden.nl/dk/wus/#end-to-end-beveiliging
 * ebMS : https://publicatie.centrumvoorstandaarden.nl/dk/ebms/#profile-requirement-item-signature-generation
+)
 
 ## Update Respec Generiek Profiel
 
