@@ -18,4 +18,6 @@ Zie huidige beschrijving
 
 https://github.com/Logius-standaarden/respec-template
 
-
+## Tot slot
+Voor wie wil participeren in eDelivery in relatie to OOTS. De EU organiseert op 13 december een _projectathon_ over toepassing van eDelivery in OOTS:
+- [eDelivery & OOTS Projectathon Process](https://ec.europa.eu/digital-building-blocks/wikis/pages/viewpage.action?pageId=610468539)
