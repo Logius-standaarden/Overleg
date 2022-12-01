@@ -9,7 +9,7 @@ jobs:
     name: Check issues
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - run: pip install --upgrade PyGitHub
       - name: Labels
         env:
