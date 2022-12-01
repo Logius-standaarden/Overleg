@@ -76,3 +76,9 @@ Implementatie van JaAdES en life cycle management zijn gespecificeerd in OpenAPI
 Zie ook https://github.com/isa2-api4ips/rest-api-profile/blob/main/api-documentation/openapi.yml
 
 Zie 6.3 in het _REST API Profile Version 1.0_.
+
+# Links
+
+- [Project API4IPS in ISA² action "Innovative Public Services" deliverables](https://ec.europa.eu/digital-building-blocks/wikis/display/EDELCOMMUNITY/Project+deliverables)
+- [eDelivery & OOTS Projectathon Process](https://ec.europa.eu/digital-building-blocks/wikis/pages/viewpage.action?pageId=610468539)
+
