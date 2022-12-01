@@ -63,7 +63,7 @@ Life cycle management van de eDelivery REST API is op grote lijnen overeenkomsti
 - Net als [API rule 19](API-19) vereist het eDelivery REST API profiel een transition period for new major versions, beschreven in par 5.3.1.2 ook dit onderwerp wordt in de ADR  wel benoemd maar niet zo uitvoerig gespecificeerd als in het eDelivery REST API profiel. We kunnen rule 19 dus hiermee verrijken.
 - Net als [API rule 56](API-56) vereist het eDelivery REST API profiel SEMVER, beschreven in par 5.3.1.
 - sunsetting van operations is niet expliciet benoemd in de ADR maar wel in het eDelivery REST API profiel. dit kunnen we in de ADR dus toevoegen.
-- Net als [API rule 20](API-20) vereist het eDelivery REST API profiel een major version nummer in de URI
+- Net als [API rule 20](https://logius-standaarden.github.io/API-Design-Rules/#versioning) vereist het eDelivery REST API profiel een major version nummer in de URI
 
 Verder is ook uitgebreider beschreven wat  backwards compatibility inhoud. 
 Kortom de life cycle beschrijving is  uitgebreider dan die in de ADR en kan gebruikt worden om de ADR specifieker te maken op deze punten.
