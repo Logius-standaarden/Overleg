@@ -28,6 +28,7 @@
 * Digikoppeling-Koppelvlakstandaard-ebMS2 [issue #6] [Digikoppeling baseren op ebMS3](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-ebMS2/issues/6) (03 Feb. 2022), _Status: In onderzoek_
 
 ## Kleine wijzigingen
+* Digikoppeling-Koppelvlakstandaard-REST-API [issue #22] [Toelichting API-58](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/pull/22) (01 Dec. 2022)
 * Digikoppeling-Architectuur [issue #11] [Periodieke review](https://github.com/Logius-standaarden/Digikoppeling-Architectuur/pull/11) (30 Nov. 2022), _Status: In review_
 * Digikoppeling-Handreiking-Adressering-en-Routering [issue #4] [RFC Voor wie werkt een SAAS eigenlijk?](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering/issues/4) (22 Nov. 2022), _Status: In review_
 * Digikoppeling-Handreiking-Adressering-en-Routering [issue #3] [PKI sleutel deponeren?](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering/issues/3) (21 Oct. 2022), _Status: In review_
