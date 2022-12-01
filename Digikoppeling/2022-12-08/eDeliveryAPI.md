@@ -58,10 +58,10 @@ Zie voor de invulling van Signing sectie 5.2.2 in het _eDelivery REST API Profil
 
 ## API life cycle
 Life cycle management van de eDelivery REST API is op grote lijnen overeenkomstig ADR regels.
-- Net als [API rule 16](API-16) vereist het eDelivery REST API profiel het gebruik van OAS voor documentatie van API's. Er is wel een verschil in de gebruikte versie 3.1 tov 3.0
-- Net als [API rule 18](API-18) vereist het eDelivery REST API profiel een deprication schedule, dit is uitvoeriger beschreven par 5.3.2. In de ADR wordt dit wel benoemd maar niet gespecificeerd. We kunnen rule 18 dus hiermee verrijken.
-- Net als [API rule 19](API-19) vereist het eDelivery REST API profiel een transition period for new major versions, beschreven in par 5.3.1.2 ook dit onderwerp wordt in de ADR  wel benoemd maar niet zo uitvoerig gespecificeerd als in het eDelivery REST API profiel. We kunnen rule 19 dus hiermee verrijken.
-- Net als [API rule 56](API-56) vereist het eDelivery REST API profiel SEMVER, beschreven in par 5.3.1.
+- Net als [API rule 16](https://logius-standaarden.github.io/API-Design-Rules/#documentation) vereist het eDelivery REST API profiel het gebruik van OAS voor documentatie van API's. Er is wel een verschil in de gebruikte versie 3.1 tov 3.0
+- Net als [API rule 18](https://logius-standaarden.github.io/API-Design-Rules/#versioning) vereist het eDelivery REST API profiel een deprication schedule, dit is uitvoeriger beschreven par 5.3.2. In de ADR wordt dit wel benoemd maar niet gespecificeerd. We kunnen rule 18 dus hiermee verrijken.
+- Net als [API rule 19](https://logius-standaarden.github.io/API-Design-Rules/#versioning) vereist het eDelivery REST API profiel een transition period for new major versions, beschreven in par 5.3.1.2 ook dit onderwerp wordt in de ADR  wel benoemd maar niet zo uitvoerig gespecificeerd als in het eDelivery REST API profiel. We kunnen rule 19 dus hiermee verrijken.
+- Net als [API rule 56](https://logius-standaarden.github.io/API-Design-Rules/#versioning) vereist het eDelivery REST API profiel SEMVER, beschreven in par 5.3.1.
 - sunsetting van operations is niet expliciet benoemd in de ADR maar wel in het eDelivery REST API profiel. dit kunnen we in de ADR dus toevoegen.
 - Net als [API rule 20](https://logius-standaarden.github.io/API-Design-Rules/#versioning) vereist het eDelivery REST API profiel een major version nummer in de URI
 
