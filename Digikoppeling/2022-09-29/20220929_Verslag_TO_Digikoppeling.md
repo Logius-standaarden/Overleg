@@ -84,7 +84,7 @@ Best practice is al in uitwerking. Te bespreken opmerking Gerald: kan handreikin
 
 ### Analyse knelpunten Routering en Intermediairs in gegevensverkeer
 
-Groot Roessink: Concrete casus waarbij we dit willen toepassen (onderwijs). Analyse bekeken, goed, maar ontbreekt conclusie/voorkeur. Optie 2 wordt gewisseld tussen eindverantwoordelijke geeft … aan SAAS-leverancier (sleutelbosprobleem). Vergeleken met Edukoppeling mist verzender. Bij WUS staat niet specifiek de verzender en ontvanger. Bij Edukoppeling doen we het allebei ook bij REST. From en To parameter wordt gebruikt bij Edukoppeling, bij Digikoppeling enkel ontvanger. Leek me handig te verwijzen naar dit concrete werkende voorbeeld.
+Groot Roessink: Concrete casus waarbij we dit willen toepassen (buiten het onderwijs).  Analyse bekeken, goed, maar ontbreekt conclusie/voorkeur. In het onderwijs is er voor gekozen om SAAS-leveranciers met een eigen certificaat te laten werken en aanvullende machtigingsinfo uit een centraal register te halen. Dat wil DUO ook graag buiten het onderwijs. Daarom een beroep op Digikoppeling om dit als good-practice op te nemen.
 
 Haasnoot: to staat vermeld in voorbeeld, maar mist inderdaad nog uit tekst.
 
