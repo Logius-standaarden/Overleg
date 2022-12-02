@@ -1,6 +1,9 @@
 # TO-OAuth
 # Onderwerpen
 
+## Grote wijzigingen
+* OAuth-NL-profiel [issue #27] [Lessons learned uit eDelivery REST API toepassen](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/27) (25 Nov. 2022), _Status: In onderzoek_
+
 ## Kleine wijzigingen
 * OAuth-NL-profiel [issue #26] [Inhoud access token in lijn brengen met RFC9068](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/26) (09 Nov. 2022), _Status: In onderzoek_
 * OAuth-NL-profiel [issue #13] [PKCE beschrijving in Sectie 2.3.1 klopt niet](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/13) (19 Aug. 2020), _Status: In bewerking_
