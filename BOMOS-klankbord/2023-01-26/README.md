@@ -7,7 +7,7 @@
 * BOMOS-LinkedData [issue #9] [Link naar VocBench is dode link](https://github.com/Logius-standaarden/BOMOS-LinkedData/issues/9) (04 Oct. 2022)
 
 ## Overige punten
-* BOMOS-Verdieping [issue #12] [RFC ...Praktijkvoorbeelden toevoegen aan BOMOS de  verdieping ](https://github.com/Logius-standaarden/BOMOS-Verdieping/issues/12) (28 Nov. 2022), _Status: Aangenomen_
+* BOMOS-Verdieping [issue #12] [RFC ...Praktijkvoorbeelden toevoegen aan BOMOS de  verdieping ](https://github.com/Logius-standaarden/BOMOS-Verdieping/issues/12) (28 Nov. 2022), _Status: In bewerking_
 
 # Toelichting
 
