@@ -4,26 +4,26 @@
 
 ## Aanwezigen
 
-| Achternaam     | Voornaam       | Organisatie     |
-|----------------|----------------|-----------------|
-| Bijen          | Bijen          | Justid          |
-| De Boer        | De Boer        | enable-u        |
-| De Bruijn      | De Bruijn      | Logius          |
-| Green          | Green          | Logius          |
-| Groot Roessink | Groot Roessink | DUO             |
-| Haasnoot       | Haasnoot       | Logius          |
-| Welmer         | Han            | TNO             |
-| IJzermans      | IJzermans      | UWV             |
-| Vennekens      | Ivar           | Ictu            |
-| Kuiper         | Kuiper         | Dictu           |
-| Pauw           | Pauw           | UWV             |
-| Quanjer        | Quanjer        | VNG             |
-| Reinhoud       | Reinhoud       | Kennisnet       |
-| Van den Brink  | Van den Brink  | Belastingdienst |
-| Van der Plas   | Van der Plas   | Logius          |
-| Van der Velde  | Van der Velde  | RDW             |
-| Van Kester     | Van Kester     | VNG             |
-| Wisse          | Wisse          | Logius          |
+| Achternaam     | Voornaam  | Organisatie     |
+|----------------|-----------|-----------------|
+| Bijen          | Antoon    | Justid          |
+| De Boer        | Karl      | enable-u        |
+| De Bruijn      | Rick      | Logius          |
+| Green          | Alexander | Logius          |
+| Groot Roessink | Gerald    | DUO             |
+| Haasnoot       | Peter     | Logius          |
+| IJzermans      | Jochem    | UWV             |
+| Kuiper         | Erwin     | Dictu           |
+| Pauw           | Elzo      | UWV             |
+| Quanjer        | Arnoud    | VNG             |
+| Reinhoud       | Erwin     | Kennisnet       |
+| Van den Brink  | Melis     | Belastingdienst |
+| Van der Plas   | Martin    | Logius          |
+| Van der Velde  | Johan     | RDW             |
+| Van Kester     | Jos       | VNG             |
+| Vennekens      | Ivar      | Ictu            |
+| Welmer         | Han       | TNO             |
+| Wisse          | Edwin     | Logius          |
 
 ## Onderwerpen
 
