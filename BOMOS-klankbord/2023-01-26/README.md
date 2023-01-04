@@ -41,4 +41,4 @@ wijzigingen die uit een verzoek voortkomen worden in  een _branch_
 verwerkt. Een _branch_ is een aftakking van de werktekst. Een branch 
 bevat _pull requests_ met stukjes aangepaste tekst.
 
-Iedere _branch_ bevat een overzicht van de wijzigingen [(voorbeeld)]](https://github.com/Logius-standaarden/BOMOS-Verdieping/pull/15/files#diff-75b97fe2be1953715b6c674a83eb404a8956a938e6855c23ad5cc5d0f1ad3ac9). De versie van het document van een branch wordt als apart document klaargezet [(voorbeeld)](https://logius-standaarden.github.io/Publicatie-Preview/BOMOS-Verdieping/202212_kwaliteit/)
+Iedere _branch_ bevat een overzicht van de wijzigingen [(voorbeeld)](https://github.com/Logius-standaarden/BOMOS-Verdieping/pull/15/files#diff-75b97fe2be1953715b6c674a83eb404a8956a938e6855c23ad5cc5d0f1ad3ac9). De versie van het document van een branch wordt als apart document klaargezet [(voorbeeld)](https://logius-standaarden.github.io/Publicatie-Preview/BOMOS-Verdieping/202212_kwaliteit/)
