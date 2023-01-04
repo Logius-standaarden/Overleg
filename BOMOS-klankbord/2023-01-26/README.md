@@ -5,7 +5,7 @@
 |  |   |
 |------------------------|-------------------------------------|
 | Betreft  | **Klankbord BOMOS** |
-| Vergaderdatum en -tijd | 26-1-2023 - 10:00 uur - 11:30  |
+| Vergaderdatum en -tijd | 26-1-2023 - 10:00 uur - 11:30 uur  |
 | Vergaderplaats  | Logius  |
 
 | Tijd | Onderwerp |
