@@ -6,11 +6,11 @@ eventueel het bijbehorende pull request met wijzigingen zijn in te zien.
 Hier kan iedereen, dus zeker ook de leden van het Klankbord, commentaar 
 geven op een wijzigingsvoorstel.
 
-## Issues, branches en pulls
+## Uitleg over issues, branches en pulls
 
 Een aantal wijzigingsverzoeken is behandeld in het kwartaal sinds het 
 vorige klankbord. Deze staan als _issues_ in het overzicht. De 
-wijzigingen die uit een verzoek voortkomen worden in  een _branch_ 
+wijzigingen die uit een verzoek voortkomen worden in een _branch_ 
 verwerkt. Een _branch_ is een aftakking van de werktekst. Een branch 
 bevat _pull requests_ met stukjes aangepaste tekst.
 
