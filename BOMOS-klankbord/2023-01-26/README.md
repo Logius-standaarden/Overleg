@@ -26,7 +26,6 @@
 * BOMOS-LinkedData [issue #9] [Link naar VocBench is dode link](https://github.com/Logius-standaarden/BOMOS-LinkedData/issues/9) (04 Oct. 2022), _Status: In onderzoek_
 
 ## Overige punten
-* BOMOS-LinkedData [issue #11] [RFC ...](https://github.com/Logius-standaarden/BOMOS-LinkedData/issues/11) (05 Jan. 2023), _Status: In bewerking_
 * BOMOS-Fundament [issue #16] [Lifecyclemanagement van standaarden in BOMOS?](https://github.com/Logius-standaarden/BOMOS-Fundament/issues/16) (05 Jan. 2023), _Status: In onderzoek_
 
 # Toelichting
@@ -43,6 +42,10 @@ In bovenstaande lijst staan issues met status _in review_. Dit zijn de
 issues waar we commentaar van het klankbord op vragen. Deze issues 
 kunnen hierna doorgevoerd worden. Bij issues die _in onderzoek_ 
 of _in bewerking_ is commentaar uiteraard ook welkom.
+
+## Governace modules
+
+De aanvullende modules zijn duidelijk met BOMOS verbonden maar hebben een eigen governance daarom worden de modules; “Stelsels en Linked Data” aangevuld met een korte tekst dat ze een eigen governance hebben met een verwijzing naar BOMOS. 
 
 ## Uitleg over issues, branches en pulls
 
