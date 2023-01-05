@@ -19,7 +19,7 @@
 * BOMOS-Verdieping [issue #18] [Text over kwaliteitsinstrument herzien](https://github.com/Logius-standaarden/BOMOS-Verdieping/issues/18) (03 Jan. 2023), _Status: In review_
 * BOMOS-Verdieping [issue #12] [Praktijkvoorbeelden toevoegen aan BOMOS de  verdieping ](https://github.com/Logius-standaarden/BOMOS-Verdieping/issues/12) (28 Nov. 2022), _Status: In review_
 * BOMOS-Verdieping [issue #10] [Figuren aanpassen (tekst uit figuren en layout)](https://github.com/Logius-standaarden/BOMOS-Verdieping/issues/10) (23 Nov. 2022), _Status: In bewerking_
-* BOMOS-Fundament [issue #15] [Nummering van _Ad n_ en _Stap n_ secties overbodig](https://github.com/Logius-standaarden/BOMOS-Fundament/issues/15) (23 Nov. 2022), _Status: In bewerking_
+* BOMOS-Verdieping [issue #19] [Nummering van _Ad n_ en _Stap n_ secties overbodig](https://github.com/Logius-standaarden/BOMOS-Verdieping/issues/19) (23 Nov. 2022), _Status: In bewerking_
 * BOMOS-LinkedData [issue #9] [Link naar VocBench is dode link](https://github.com/Logius-standaarden/BOMOS-LinkedData/issues/9) (04 Oct. 2022), _Status: In onderzoek_
 
 # Toelichting
@@ -33,11 +33,11 @@ eventueel het bijbehorende pull request met wijzigingen zijn in te zien.
 Hier kan iedereen, dus zeker ook de leden van het Klankbord, commentaar 
 geven op een wijzigingsvoorstel.
 
-## Issues, branches en pulls
+## Uitleg over issues, branches en pulls
 
 Een aantal wijzigingsverzoeken is behandeld in het kwartaal sinds het 
 vorige klankbord. Deze staan als _issues_ in het overzicht. De 
-wijzigingen die uit een verzoek voortkomen worden in  een _branch_ 
+wijzigingen die uit een verzoek voortkomen worden in een _branch_ 
 verwerkt. Een _branch_ is een aftakking van de werktekst. Een branch 
 bevat _pull requests_ met stukjes aangepaste tekst.
 
