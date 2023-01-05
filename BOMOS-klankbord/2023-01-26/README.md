@@ -17,6 +17,7 @@
 # Onderwerpen
 
 ## Kleine wijzigingen
+* BOMOS-LinkedData [issue #11] [De aanvullende modules zijn duidelijk met BOMOS verbonden maar hebben een eigen governance](https://github.com/Logius-standaarden/BOMOS-LinkedData/issues/11) (05 Jan. 2023), _Status: In bewerking_
 * BOMOS-Beheermodel [issue #9] [Beheer document van BOMOS bij strategie:  Financieel en Governance nog verder uitwerken om een definitieve versie te maken](https://github.com/Logius-standaarden/BOMOS-Beheermodel/issues/9) (05 Jan. 2023), _Status: In review_
 * BOMOS-Verdieping [issue #18] [Text over kwaliteitsinstrument herzien](https://github.com/Logius-standaarden/BOMOS-Verdieping/issues/18) (03 Jan. 2023), _Status: In review_
 * BOMOS-Verdieping [issue #13] [Breng verwijzing naar sectie 3.2 Architectuur aan in sectie 4.1.7](https://github.com/Logius-standaarden/BOMOS-Verdieping/issues/13) (04 Dec. 2022), _Status: In bewerking_
@@ -42,10 +43,6 @@ In bovenstaande lijst staan issues met status _in review_. Dit zijn de
 issues waar we commentaar van het klankbord op vragen. Deze issues 
 kunnen hierna doorgevoerd worden. Bij issues die _in onderzoek_ 
 of _in bewerking_ is commentaar uiteraard ook welkom.
-
-## Governace modules
-
-De aanvullende modules zijn duidelijk met BOMOS verbonden maar hebben een eigen governance daarom worden de modules; “Stelsels en Linked Data” aangevuld met een korte tekst dat ze een eigen governance hebben met een verwijzing naar BOMOS. 
 
 ## Uitleg over issues, branches en pulls
 
