@@ -3,8 +3,12 @@
 Wijzigingsvoorstellen zijn gedocumenteerd in de issues. Klik in de 
 overzichte grote en kleine wijzigingen op een issue en de discussie, en 
 eventueel het bijbehorende pull request met wijzigingen zijn in te zien. 
-Hier kan iedereen, dus zeker ook de leden van het Klankbord, commentaar 
-geven op een wijzigingsvoorstel.
+Hier kan iedereen commentaar geven op een wijzigingsvoorstel.
+
+In bovenstaande lijst staan issues met status _in review_. Dit zijn de 
+issues waar we commentaar van het klankbord op vragen. Deze issues 
+kunnen hierna doorgevoerd worden. Bij issues die _in onderzoek_ 
+of _in bewerking_ is commentaar uiteraard ook welkom.
 
 ## Uitleg over issues, branches en pulls
 
