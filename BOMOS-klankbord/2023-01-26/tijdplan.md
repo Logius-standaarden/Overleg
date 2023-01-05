@@ -8,6 +8,6 @@
 
 | Tijd | Onderwerp |
 | --- | --- |
-| 10:00-10:05 | Welkom & Mededelingen        | 
-| 10:15-11:15 |  Actiepunten en issues (github)  |
-|  11:15-11:30  |     |
+| 10:00-10:15 | Welkom & Mededelingen        | 
+| 10:15-11:15 | Actiepunten en issues (github)  |
+| 11:15-11:30|  wvtt en afsluiten  |
