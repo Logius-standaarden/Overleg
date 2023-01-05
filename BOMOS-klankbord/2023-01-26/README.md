@@ -24,6 +24,9 @@
 * BOMOS-Verdieping [issue #19] [Nummering van _Ad n_ en _Stap n_ secties overbodig](https://github.com/Logius-standaarden/BOMOS-Verdieping/issues/19) (23 Nov. 2022), _Status: In bewerking_
 * BOMOS-LinkedData [issue #9] [Link naar VocBench is dode link](https://github.com/Logius-standaarden/BOMOS-LinkedData/issues/9) (04 Oct. 2022), _Status: In onderzoek_
 
+## Overige punten
+* BOMOS-Fundament [issue #16] [Lifecyclemanagement van standaarden in BOMOS?](https://github.com/Logius-standaarden/BOMOS-Fundament/issues/16) (05 Jan. 2023), _Status: In onderzoek_
+
 # Toelichting
 
 
