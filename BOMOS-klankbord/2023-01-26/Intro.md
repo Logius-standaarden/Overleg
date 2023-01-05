@@ -10,6 +10,10 @@ issues waar we commentaar van het klankbord op vragen. Deze issues
 kunnen hierna doorgevoerd worden. Bij issues die _in onderzoek_ 
 of _in bewerking_ is commentaar uiteraard ook welkom.
 
+## Governace modules
+
+De aanvullende modules zijn duidelijk met BOMOS verbonden maar hebben een eigen governance daarom worden de modules; “Stelsels en Linked Data” aangevuld met een korte tekst dat ze een eigen governance hebben met een verwijzing naar BOMOS. 
+
 ## Uitleg over issues, branches en pulls
 
 Een aantal wijzigingsverzoeken is behandeld in het kwartaal sinds het 
