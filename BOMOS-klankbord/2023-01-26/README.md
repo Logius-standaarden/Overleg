@@ -10,14 +10,9 @@
 
 | Tijd | Onderwerp |
 | --- | --- |
-| 10:00-10:15 |  Welkom & Mededelingen   
-        
-| 10:15-11:15    Actiepunten en issues (github) 
-  
-  11:15-11:30   
-
-
-
+| 10:00-10:15 | Welkom & Mededelingen        | 
+| 10:15-11:15 | Actiepunten en issues (github)  |
+| 11:15-11:30|  wvtt en afsluiten  |
 
 # Onderwerpen
 
@@ -30,6 +25,10 @@
 * BOMOS-Verdieping [issue #19] [Nummering van _Ad n_ en _Stap n_ secties overbodig](https://github.com/Logius-standaarden/BOMOS-Verdieping/issues/19) (23 Nov. 2022), _Status: In bewerking_
 * BOMOS-LinkedData [issue #9] [Link naar VocBench is dode link](https://github.com/Logius-standaarden/BOMOS-LinkedData/issues/9) (04 Oct. 2022), _Status: In onderzoek_
 
+## Overige punten
+* BOMOS-LinkedData [issue #11] [RFC ...](https://github.com/Logius-standaarden/BOMOS-LinkedData/issues/11) (05 Jan. 2023), _Status: In bewerking_
+* BOMOS-Fundament [issue #16] [Lifecyclemanagement van standaarden in BOMOS?](https://github.com/Logius-standaarden/BOMOS-Fundament/issues/16) (05 Jan. 2023), _Status: In onderzoek_
+
 # Toelichting
 
 
@@ -38,8 +37,12 @@
 Wijzigingsvoorstellen zijn gedocumenteerd in de issues. Klik in de 
 overzichte grote en kleine wijzigingen op een issue en de discussie, en 
 eventueel het bijbehorende pull request met wijzigingen zijn in te zien. 
-Hier kan iedereen, dus zeker ook de leden van het Klankbord, commentaar 
-geven op een wijzigingsvoorstel.
+Hier kan iedereen commentaar geven op een wijzigingsvoorstel.
+
+In bovenstaande lijst staan issues met status _in review_. Dit zijn de 
+issues waar we commentaar van het klankbord op vragen. Deze issues 
+kunnen hierna doorgevoerd worden. Bij issues die _in onderzoek_ 
+of _in bewerking_ is commentaar uiteraard ook welkom.
 
 ## Uitleg over issues, branches en pulls
 
