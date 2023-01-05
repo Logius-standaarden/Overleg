@@ -12,3 +12,4 @@
 ## Overige punten
 * OAuth-NL-profiel [issue #25] [Aanbevelen of verplichten van response_mode=form_post](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/25) (02 Aug. 2022), _Status: In onderzoek_
 * OAuth-NL-profiel [issue #7] [3.2.1 JWT Bearer Tokens - "sub" claim](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/7) (19 Nov. 2019), _Status: Klaar voor release_
+  * [Wijzigingsvoorstel](https://github.com//Logius-standaarden/OAuth-NL-profiel/pull/21/files)
