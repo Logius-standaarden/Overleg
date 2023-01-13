@@ -67,12 +67,12 @@ De volgende voorstellen zijn goedgekeurd door het TO:
 
 Zie [Update ext-security.md API-58](https://github.com/Geonovum/KP-APIs/pull/464)
 
-Voorstel is nav de bespreking van API-58 in de werkgroep Beveiliging van het Kennisplatform API's een toelichting toe te voegen aan API-58 in het Digikoppeling REST API profiel. 
-TO is hiermee akkoord;
+Voorstel is nav de bespreking van API-58 in de werkgroep Beveiliging van het Kennisplatform API's een toelichting toe te voegen aan API-58 in het Digikoppeling REST API profiel.
+
+TO is hiermee akkoord.
 
 ### Gebruik eIDAS certificaten voor signing in Digikoppeling
 
 Vraag/Discussie: (hoe) worden eIDAS certificaten gebruikt op dit moment?
 
-Op dit moment speelt dit niet bij de TO Leden
-
+Op dit moment speelt dit niet bij de TO-leden.
