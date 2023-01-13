@@ -1,6 +1,6 @@
 # Verslag Technisch Overleg Digikoppeling
 
-12 december 2022
+8 december 2022
 
 ## Aanwezigen
 
