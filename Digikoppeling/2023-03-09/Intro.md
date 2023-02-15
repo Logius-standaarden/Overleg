@@ -51,3 +51,18 @@ __- (Afgerond)__
 
 * periodieke review beveiligingsvoorschriften
 * certificaat wisseling
+
+(
+Bij het Kennisplatform API's waren mn de volgende onderwerpen genoemd:
+
+API:
+
+- filtering
+- discovery
+- management
+- extensies / modules op lijst veelgebruikte standaarden (plaatsen)
+- orchestratie (gelaagde API's / data combineren)
+- security, rechten delegatie (saas, organisaties delegeren rechten aan leveranciers)
+- (baseren op) semantische info modellen
+- relatie ADR/API strategie met ODATA/GraphQL en grpc
+)
