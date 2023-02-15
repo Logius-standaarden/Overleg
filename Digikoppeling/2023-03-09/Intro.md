@@ -15,8 +15,8 @@ __- (Afgerond)__
 Werkgroep Beveiliging (specifiek sub-werkgroep signing) heeft een vergelijking gemaakt van 2 standaarden voor signing van REST-API's :
 [Vergelijking REST API Signing Standaarden](https://geonovum.github.io/KP-APIs/publicaties/REST_API_Signing_Standaarden)
 
-Momenteel doet Politie ervaring op met het gebruik van : https://datatracker.ietf.org/doc/draft-ietf-httpbis-message-signatures/
-Deze ervaring zal meegenomen worden bij de verdere invulling van signing binnen het REST-API profiel
+Momenteel doet Politie ervaring op met het gebruik van de standaard : [httpbis-message-signatures](https://datatracker.ietf.org/doc/draft-ietf-httpbis-message-signatures/) voor intern gebruik;
+Deze ervaring zal meegenomen worden bij de verdere keuzes en invulling van signing binnen het REST-API profiel
  
 * Onderzoek verwijzing naar de 'ADR API Security Extensie' vanuit de Digikoppeling Beveiligingsvoorschriften		
 __- (Afgerond)__
