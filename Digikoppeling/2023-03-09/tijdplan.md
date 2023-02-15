@@ -1,4 +1,15 @@
 
+Fysieke bijeenkomst (met live stream), bv in Utrecht 
+
+Mogelijke thema's
+
+DK REST & OAuth samenhang (casus Koop)?
+EU/Internationaal 
+centrale voorzieningen - team Paul
+vergelijken eigen centrale vz met eDelivery centrale vz
+optie is team eProcurement - peppol = eDelivery
+eDelivery profiel
+
 Indeling
 
 *	10:30-12:00 presentaties en discussie
