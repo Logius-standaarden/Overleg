@@ -29,7 +29,7 @@ Indeling
 | 10:40-11:00 |  Presentatie eDelivery ebms3/as4 - case Domibus , aandachtspunten bij gebruik van eDelivery ebms3/as4 specificatie binnen Digikoppeling of als Digikoppeling ebms3/as4 profiel |
 | 11:00-11:20 | Advies voor Programmeringstafel vanuit TO mbt uitfasering ebMS2 (mbt termijnen)                    |
 | 11:20-11:40 | Digikoppeling REST-API profiel icm OAuth - ( bijvoorbeeld eDelivery API profiel & case KOOP ) |
-| 11:40-12:00 | Discussie Digikoppeling in 2035 - Toekomstvisie / Ontwikkelingen |
+| 11:40-12:00 | Discussie Digikoppeling in 2030 - Toekomstvisie / Ontwikkelingen |
 | 12:00-12:30 | Lunch |
 | 12:30-13:00 | Inventarisatie (nieuwe) onderwerpen voor Roadmap |
 | 13:00-13:30 | Wrap-up Toekomstvisie / afsluiting |
