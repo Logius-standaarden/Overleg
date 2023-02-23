@@ -49,8 +49,10 @@ __- (Afgerond)__
 
 ### Inventarisatie nieuwe onderwerpen voor Roadmap
 
-* periodieke review beveiligingsvoorschriften
-* certificaat wisseling
+* Periodieke review beveiligingsvoorschriften
+* Certificaat wisseling
+* Onderhoud en versiebeheer van koppelingen
+* Standaarden en voorzieningen voor onboarding
 
 (
 Bij het Kennisplatform API's waren mn de volgende onderwerpen genoemd:
