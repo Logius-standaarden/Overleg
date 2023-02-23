@@ -30,7 +30,7 @@ Indeling
 | 11:10-11:30 | Casus Digikoppeling REST-API profiel icm OAuth - ( bijvoorbeeld eDelivery API profiel & casus KOOP ) |
 | 11:30-12:00 | Discussie Digikoppeling in 2030 - Toekomstvisie / Ontwikkelingen |
 | 12:00-12:30 | Lunch |
-| 12:30-13:00 | Inventarisatie (nieuwe) onderwerpen voor Roadmap |
+| 12:30-13:00 | Inventarisatie (nieuwe) onderwerpen voor Roadmap Digikoppeling 2030 |
 | 13:00-13:30 | Wrap-up Toekomstvisie / afsluiting |
 
 # Onderwerpen
