@@ -23,7 +23,11 @@ __- (Afgerond)__
 
 * Aanvulling Digikoppeling governance
 
+We hebben onze governance beschreven in nieuwe beheermodellen (zie hieronder). In de Programmeringstafel van later vandaag hebben we een memo geagendeerd over [de nieuwe governance volgens MIDO](Memo%20Governance%20Logius%20Standaarden.pdf).
+
 * Verbeteren Informatievoorziening / Nieuwe wijze van Publiceren
+
+We willen pleio afvoeren. OP onze aankondiging op pleio hebben we verder geen reactie gekregen dus we gaan onze pleio site sluiten. Tenzij het TO daar bezwaar tegen heeft. Verder: onze publicatiewesite was centrumvoorstandaarden.nl en wordt gitdocumentatie.logius.nl/publicaties.
 
 * Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen	
 __- (Afgerond)__
@@ -32,6 +36,8 @@ __- (Afgerond)__
 __- (Afgerond)__
 
 * Verkennen mogelijk gebruik ebMS3/AS4	
+
+Om de impact van een overgang naar ebMS3/AS4 in te kunnen schatten hebben we een vraag naar de impact uitgezet in een [memo over modernisering Digikoppeling ebMS](Memo%20Modernisering%20Digikoppeling%20ebMS.pdf) voor de Programmeringstafel van vandaag. 
 
 * Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing)				
 __- (Afgerond)__
