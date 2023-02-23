@@ -20,6 +20,7 @@ Indeling
 | Vergaderdatum en -tijd | 09-03-2023 - 10:30-13:30 uur  |
 | Vergaderplaats  | Amersfoort - _Congrescentrum Eenhoorn Barchman Wuytierslaan 2, 3818 LH Amersfoort_ |
 
+
 | Tijd | Onderwerp |
 | --- | --- |
 | 10:00-10:05 | Welkom & Mededelingen        |    
@@ -30,8 +31,8 @@ Indeling
 | 11:10-11:30 | Casus Digikoppeling REST-API profiel icm OAuth - ( bijvoorbeeld eDelivery API profiel & casus KOOP ) |
 | 11:30-12:00 | Discussie Digikoppeling in 2030 - Toekomstvisie / Ontwikkelingen |
 | 12:00-12:30 | Lunch |
-| 12:30-13:00 | Inventarisatie (nieuwe) onderwerpen voor Roadmap Digikoppeling 2030 |
-| 13:00-13:30 | Wrap-up Toekomstvisie / afsluiting |
+| 12:30-13:15 | Inventarisatie (nieuwe) onderwerpen voor Roadmap Digikoppeling 2030 |
+| 13:15-13:30 | Wrap-up Toekomstvisie / afsluiting |
 
 # Onderwerpen
 
@@ -73,7 +74,11 @@ __- (Afgerond)__
 
 * Aanvulling Digikoppeling governance
 
+We hebben onze governance beschreven in nieuwe beheermodellen (zie hieronder). In de Programmeringstafel van later vandaag hebben we een memo geagendeerd over [de nieuwe governance volgens MIDO](Memo%20Governance%20Logius%20Standaarden.pdf).
+
 * Verbeteren Informatievoorziening / Nieuwe wijze van Publiceren
+
+We willen pleio afvoeren. OP onze aankondiging op pleio hebben we verder geen reactie gekregen dus we gaan onze pleio site sluiten. Tenzij het TO daar bezwaar tegen heeft. Verder: onze publicatiewesite was centrumvoorstandaarden.nl en wordt gitdocumentatie.logius.nl/publicaties.
 
 * Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen	
 __- (Afgerond)__
@@ -82,6 +87,8 @@ __- (Afgerond)__
 __- (Afgerond)__
 
 * Verkennen mogelijk gebruik ebMS3/AS4	
+
+Om de impact van een overgang naar ebMS3/AS4 in te kunnen schatten hebben we een vraag naar de impact uitgezet in een [memo over modernisering Digikoppeling ebMS](Memo%20Modernisering%20Digikoppeling%20ebMS.pdf) voor de Programmeringstafel van vandaag. 
 
 * Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing)				
 __- (Afgerond)__
@@ -99,8 +106,10 @@ __- (Afgerond)__
 
 ### Inventarisatie nieuwe onderwerpen voor Roadmap
 
-* periodieke review beveiligingsvoorschriften
-* certificaat wisseling
+* Periodieke review beveiligingsvoorschriften
+* Certificaat wisseling
+* Onderhoud en versiebeheer van koppelingen
+* Standaarden en voorzieningen voor onboarding
 
 (
 Bij het Kennisplatform API's waren mn de volgende onderwerpen genoemd:
