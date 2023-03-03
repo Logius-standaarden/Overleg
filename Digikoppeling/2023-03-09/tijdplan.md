@@ -1,15 +1,3 @@
-
-
-AGENDA
-
-Indeling
-
-*	10:30-12:00 presentaties en discussie
-*	Lunch tot 12:30
-*	Wrap up 12:30 – 13:30
-
-
-
 # Agenda
 
 |  |   |
