@@ -3,7 +3,7 @@
 |  |   |
 |------------------------|-------------------------------------|
 | Betreft  | **Technisch Overleg Digikoppeling** |
-| Vergaderdatum en -tijd | 09-03-2023 - 10:30-13:30 uur  |
+| Vergaderdatum en -tijd | 09-03-2023 - 10:00-13:30 uur  |
 | Vergaderplaats  | Amersfoort - _Congrescentrum Eenhoorn Barchman Wuytierslaan 2, 3818 LH Amersfoort_ |
 
 
