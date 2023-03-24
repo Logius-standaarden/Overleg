@@ -2,6 +2,27 @@
 
 Donderdag 9 maart 2023 te Amersfoort
 
+## Aanwezigen
+
+| Achternaam    | Voornaam  | Organisatie |
+|---------------|-----------|-------------|
+| Bijen         | Antoon    | Justid      |
+| Coemans       | Maarten   | SNG         |
+| Fieten        | Sander    | Casquis     |
+| Green         | Alexander | Logius      |
+| Haasnoot      | Peter     | Logius      |
+| IJzermans     | Jochem    | UWV         |
+| Kruijs        | Paul      | Logius      |
+| Pauw          | Elzo      | UWV         |
+| Reinhoud      | Erwin     | Kennisnet   |
+| Rutte         | Laura     | BKWI        |
+| Sinnige       | Hans      | RINIS       |
+| Van der Plas  | Martin    | Logius      |
+| Van der Velde | Johan     | RDW         |
+| Welmer        | Han       | TNO         |
+| Wisse         | Edwin     | Logius      |
+| Zwaan         | Tonkie    | BKWI        |
+
 ## Welkom & Mededelingen
 
 dhr. Kuijpers van Dictu afwezig en geïnteresseerd in API Management.
