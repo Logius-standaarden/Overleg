@@ -42,11 +42,11 @@ Als TO akkoord gaat wordt geactualiseerde versie gepubliceerd.
 
 ### Signing & Encryptie toevoegen aan RESTful API profiel
 
-Signing & Encryptie loopt in samenwerking met Kennisplatform API’s Werkgroep Beveiliging. Het is een kleine subwerkgroep, bij interesse in men welkom om aan te schuiven. Een vergelijking tussen JAdES en HTTP Message Signatures is gepubliceerd:
+Signing & Encryptie sit onderdeel loopt in samenwerking met Kennisplatform API’s Werkgroep Beveiliging. Het is een kleine subwerkgroep, bij interesse in men welkom om aan te schuiven. Een vergelijking tussen JAdES en HTTP Message Signatures is gepubliceerd:
 
 https://geonovum.github.io/KP-APIs/publicaties/REST_API_Signing_Standaarden/
 
-Er wordt naar een pilot bij de Politie gekeken voor een keuze tussen de twee. Het gaat tijd kosten het netjes op papier te krijgen.
+Er wordt momenteel een pilot bij de Politie uitgevoerd met HTTP Message Signatures. De uitkomsten zullen meegenomen worden bij het maken van een keuze tussen de twee.
 
 ### Aanvulling Digikoppeling governance
 
@@ -74,13 +74,13 @@ De online community digistandaarden.pleio.nl is een vrij rustige omgeving. Het v
 
 Vanmiddag bij de Programmeringstafel ligt vraag over impact. Vraag over impact op verschillende stakeholders moeilijk te dekken door enkel het Technisch Overleg.
 
-**Antoon Bijen:** Een migratie heeft ontzettend veel impact. ebMS2 heeft functionaliteit dat mist in ebMS3: CPA om afspraken vast te leggen. Vraag aan Programmeringstafel: willen afnemers dit wel?
+**Antoon Bijen:** Een migratie heeft ontzettend veel impact. ebMS2 heeft functionaliteit welke mist in ebMS3: CPA om afspraken vast te leggen. Vraag aan Programmeringstafel: willen afnemers dit wel?
 
-**Hans Sinnige:** De CPA-functionaliteit wordt in eDelivery door SML/P aangeboden. Er is geen functionaliteit dat niet aangeboden wordt, wel anders.
+**Hans Sinnige:** De CPA-functionaliteit wordt in eDelivery door SML/P aangeboden. (Dit is deels vergelijkbare functionaliteit, dit werkt wel anders).
 
 ### Doorontwikkeling ReSpec
 
-Een stagiair heeft generiek profiel gemaakt dat is toegepast bij DK beheermodel. Gemakkelijker toepasbaar voor andere organisaties ([template](https://github.com/Logius-standaarden/ReSpec-template)).
+Een stagiair heeft een generiek profiel gemaakt dat is toegepast bij DK beheermodel. Gemakkelijker toepasbaar voor andere organisaties ([template](https://github.com/Logius-standaarden/ReSpec-template)).
 
 ### Update Beheermodel
 
@@ -128,3 +128,16 @@ Suggestie sub-OIN toe te passen
 ## Discussie/Poll Digikoppeling in 2030
 
 [Resultaten poll](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2023-03-09/media/2023_03_09_TO-Digikoppeling-poll-results.pdf)
+
+In Discussie & Wrap-up genoemde behoeften & onderwerpen voor roadmap Digikoppeling:
+
+-	Notificaties 
+
+-	Machtigingen / oplossing voor sleutelbos probleem SAAS levernaciers
+
+-	OAuth gebruik in Digikoppeling REST_API
+
+-	WUS Signing – wannneer wel/niet gebruiken (meer) in documentatie toelichten (wordt regelmatig onnodig gebruikt bij koppelingen)
+
+- Beveiligingsvoorschriften relateren aan BIO
+
