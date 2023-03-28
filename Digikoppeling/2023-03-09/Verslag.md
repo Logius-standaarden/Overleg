@@ -50,7 +50,7 @@ Er wordt momenteel een pilot bij de Politie uitgevoerd met HTTP Message Signatur
 
 ### Aanvulling Digikoppeling governance
 
-Edwin Wisse: Overgegaan in GDI naar Programmeringstafel als tactische laag en Programmeringstafel strategisch. Lagen gevolgd uit MIDO. Vanmiddag vindt een Programmeringstafel overleg plaats. Het resultaat zal teruggekoppeld worden met TO. TO behoudt de rol van operationele laag.
+Edwin Wisse: Overgegaan in GDI naar Programmeringstafel als tactische laag en Programmeringstafel strategisch. Lagen gevolgd uit MIDO. Vanmiddag vindt een Programmeringstafel overleg plaats. Het resultaat zal teruggekoppeld worden met TO. TO behoudt de rol van operationele laag. [(zie bijlage hieronder)](#bijlage-governance)
 
 <details>
 <summary>Tabel MIDO-structuur</summary>
@@ -143,7 +143,9 @@ In Discussie & Wrap-up genoemde behoeften & onderwerpen voor roadmap Digikoppeli
 
 
 
-## Bijlage: Verslag agendapunt governance Programmeringstafel
+## Bijlage: Governance
+
+### Uit het verslag van de programmeringstafel
 
 Standaarden binnen de GDI (Presentatie Maarten van der Veen en Edwin Wisse). 
 
@@ -163,3 +165,19 @@ Governance GDI standaarden:
 Modernisering Digikoppeling ebMS koppelvlak: 
 1. Dit wordt aangepast in: de PT GU vraagt om een zo breed mogelijke impactanalyse met stakeholders en hun achterban. Initiatief hiervan ligt bij Logius. Tevens wordt afgesproken de opzet van de impactanalyse voor te leggen aan de tafel, dit wordt als actiepunt opgenomen; 
 2. Planning: op een zo kort mogelijke termijn, maar wel realistisch. 
+
+### Opmerkingen van Belastingdienst, Kadaster en DUO 
+
+_Een aantal uitvoeringsorganisaties was afwezig bij de vergadering maar hadden wel een aantal vragen en opmerkingen bij het agendapunt. Deze zijn in de vergadering besproken._
+
+*	Geef in de roadmap het verschil aan tussen grote wijzigingen (waar de PGDI over beslist) en kleine wijzigingen (die voor de tafel zijn). Goed om kleine wijzigingen in principe door de beheerorganisatie Logius af te laten doen. Wel opletten dat wijzigingen die een 'zeer kleine impact' lijken te hebben, soms in de praktijk toch groter gaan worden. Dan ontstaat het risico dat de beheerorganisatie gaandeweg serieuze wijzigingen ongemerkt en onbewust doorvoert. Suggestie: neem in het beheermodel een maatregel op om dit te voorkomen.
+*	We missen nog inzicht en overzicht van de bestaande en te verwachte standaarden. Verzoek om daarin te voorzien.
+*	De voorgestelde governance kan pas in werking treden als ook de PGDI ermee akkoord gaat.
+*	Voorgesteld wordt om aan organisaties zelf over te laten om te migreren. We zien echter geen echte driver voor de organisaties om een werkende ebms2 koppeling 'zomaar' te gaan vervangen voor een nieuwe techniek, zeker als ze die nog niet in huis hebben.
+*	Dan nog een min of meer tekstuele: In hetzelfde stuk modernisering ebms, staat (pag. 2) dat de NL en EU standaard in de pas lopen en mogelijk dezelfde standaard zijn. Dit klinkt wat strijdig met de tekst in het beheerstuk waarin staat dat eDelivery niet een alternatief voor Digikoppeling is maar dat beide standaarden elkaar aanvullen. Dat lijkt ook beter dan twee dezelfde standaarden uitwerken, als dit klopt is het beter om alleen een verwijzing naar de eDelivery standaard opnemen.
+*	Dat Logius belangrijke rol heeft in het beheer van standaarden staat wat mij niet ter discussie. Wat opzet over het hoofd lijkt te zien is dat GDI (nu en straks nog meer) gevoed zal worden door input (zeker waar het afspraken en standaarden betreft) uit de sectoren. Sommige van die afspraken worden generiek (en daarmee meer GDI), maar vraag is waar de transitie van sector naar generiek ligt.
+*	Concreet voorbeeld is de geo-sector: die omvat zo ongeveer de helft van de basisregistraties. Met Geonovum (onder aansturing van het GI-beraad dat adviseert aan de minister voor VRO als coördinerend bewindspersoon, namens alle partijen in de geo-sector) worden veel afspraken, standaarden en soms zelfs voorzieningen ontwikkeld. Die standaarden lopen netjes de weg langs Bureau Forum Standaardisatie (BFS) dat gepositioneerd is binnen Logius. Op een gegeven moment zijn de API’s uit onze sector zo generiek geworden dat overdracht is geweest van ons afsprakenstelsel rond API’s naar Logius, maar dat laat onverlet dat ook in de GDI er nog steeds sectorale oplossingen zijn. Ik spreek uit mijn ervaring als voorzitter van de programmaraad Geonovum, maar ik kan me voorstellen dat bijvoorbeeld in de sociale sector (bijv. BKWI) hetzelfde speelt.
+*	Daarmee wordt overigens totale opzet van standaarden niet ingewikkelder, maar kan afhankelijk van de sector/vraagstuk beheer en ontwikkeling ook bij een andere partij liggen (ook al raakt dat de GDI).
+*	Stuk is nu heel erg geschreven op inbedding bij Logius (ik had ook meer tekst over BFS verwacht), terwijl ook standaardenwereld steeds federatiever wordt met de groei van de digitale overheid.
+*	In welke mate worden de operationele besluiten afgestemd met afnemers?
+*	In welke mate is er rekening gehouden met Frameworks zoals REST API’s van vandaag de dag? Dit is actuelere kennis die aansluit bij wat er op scholen wordt geleerd en op de arbeidsmarkt meer beschikbaar is. Hier loopt de EU wetgeving op achter. Investeren we hier niet in een verouderde koppelvlakspecificatie?
