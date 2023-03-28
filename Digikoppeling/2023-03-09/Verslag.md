@@ -141,3 +141,25 @@ In Discussie & Wrap-up genoemde behoeften & onderwerpen voor roadmap Digikoppeli
 
 - Beveiligingsvoorschriften relateren aan BIO
 
+
+
+## Bijlage: Verslag agendapunt governance Programmeringstafel
+
+Standaarden binnen de GDI (Presentatie Maarten van der Veen en Edwin Wisse). 
+
+Voor het beheren van een standaard is afstemming op operationeel, tactisch én strategisch niveau nodig. Op dit moment is alleen de operationele laag ingevuld. Ter besluitvorming aan tafel worden diverse zaken voorgelegd, in grote lijnen kan de tafel zich vinden in de onderwerpen. Het geeft de tafel ook een mogelijkheid om scherper af te bakenen welke rol de tafel kan spelen. Opmerkingen van de tafel: 
+* Het ligt voor de hand dat de tafel de PGDI adviseert over grote wijzigingen; 
+* Het is lastig om vanuit de stukken goed te kunnen bepalen wat er onder grote of kleine wijzigingen valt; 
+* De formele besluitvorming over deze opzet van de governance, moet echter via OBDO en daarna mogelijk de staatssecretaris lopen. De tafels en de PGDI zijn nl. adviesorganen zonder beslisbevoegdheid. Het akkoord dat wordt gevraagd is feitelijk een positief advies. 
+* Het ontwikkelen van een standaard is één, het beheer, bijhouden en stimuleren van gebruik is in de praktijk voor succes essentieel, graag ook aandacht voor adoptie van standaarden; 
+* De tafel vraagt verheldering over de rollen van de beheerorganisatie Logius versus Forum standaardisatie. 
+* Overige suggesties van onder meer de Belastingdienst, Kadaster en DUO worden schriftelijk verstrekt aan Logius. 
+* Ook beleidsdepartementen vragen hoe zij het beste met dit soort vraagstukken om kunnen gaan. 
+
+Naar aanleiding van het agendapunt beslist de tafel als volgt: 
+Governance GDI standaarden: 
+1. Besluitvorming wordt aangepast in advisering dit werkt door in de andere vragen. Vraag drie wordt geschrapt. Logius krijgt de vraag zelf initiatief te nemen om een voorstel op te stellen waarmee de achterban en uitvoeringsorganisaties van leden geraadpleegd kunnen worden (en niet als open vraag). Tevens wordt ook aandacht gevraagd om scherper de scheiding van rollen tussen afd. standaarden en Forum standaardisatie mee te nemen in de verdere uitwerking. 
+
+Modernisering Digikoppeling ebMS koppelvlak: 
+1. Dit wordt aangepast in: de PT GU vraagt om een zo breed mogelijke impactanalyse met stakeholders en hun achterban. Initiatief hiervan ligt bij Logius. Tevens wordt afgesproken de opzet van de impactanalyse voor te leggen aan de tafel, dit wordt als actiepunt opgenomen; 
+2. Planning: op een zo kort mogelijke termijn, maar wel realistisch. 
