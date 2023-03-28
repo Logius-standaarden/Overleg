@@ -160,7 +160,7 @@ Voor het beheren van een standaard is afstemming op operationeel, tactisch én s
 
 Naar aanleiding van het agendapunt beslist de tafel als volgt: 
 Governance GDI standaarden: 
-1. Besluitvorming wordt aangepast in advisering dit werkt door in de andere vragen. Vraag drie wordt geschrapt. Logius krijgt de vraag zelf initiatief te nemen om een voorstel op te stellen waarmee de achterban en uitvoeringsorganisaties van leden geraadpleegd kunnen worden (en niet als open vraag). Tevens wordt ook aandacht gevraagd om scherper de scheiding van rollen tussen afd. standaarden en Forum standaardisatie mee te nemen in de verdere uitwerking. 
+1. Besluitvorming wordt aangepast in advisering → dit werkt door in de andere vragen. Vraag drie wordt geschrapt. Logius krijgt de vraag zelf initiatief te nemen om een voorstel op te stellen waarmee de achterban en uitvoeringsorganisaties van leden geraadpleegd kunnen worden (en niet als open vraag). Tevens wordt ook aandacht gevraagd om scherper de scheiding van rollen tussen afd. standaarden en Forum standaardisatie mee te nemen in de verdere uitwerking. 
 
 Modernisering Digikoppeling ebMS koppelvlak: 
 1. Dit wordt aangepast in: de PT GU vraagt om een zo breed mogelijke impactanalyse met stakeholders en hun achterban. Initiatief hiervan ligt bij Logius. Tevens wordt afgesproken de opzet van de impactanalyse voor te leggen aan de tafel, dit wordt als actiepunt opgenomen; 
