@@ -25,13 +25,13 @@ Donderdag 9 maart 2023 te Amersfoort
 
 ## Welkom & Mededelingen
 
-dhr. Kuijpers van Dictu afwezig en geïnteresseerd in API Management.
+dhr. Kuijpers van Dictu is afwezig en geïnteresseerd in andere deelnemers die kennis en ervaring hebben met API Management. Om in contact te komen kan men rechtstreeks mailen of een bericht sturen aan digikoppeling@logius.nl.
 
 ## Verslag vorig TO
 
 https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2022-12-08/Verslag.md
 
-Geen opmerkingen
+Het verslag van het overleg  dd 8 december 2022 is doorgenomen en er zijn geen opmerkingen.
 
 ## Stand van zaken Roadmap
 https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2023/Digikoppeling_Roadmap_2022_2023.md#tijdlijn-roadmap-digikoppeling-standaarden
@@ -40,13 +40,13 @@ De dikgedrukte kruisjes geven de verwachte uitloop van onderwerpen aan.
 
 Als TO akkoord gaat wordt geactualiseerde versie gepubliceerd.
 
-### Signing & Encryptie toevoegen aan RESTful API profiel
+### Signing & Encryptie toevoegen aan Digikoppeling - "Reliable REST API profiel"
 
-Signing & Encryptie dit onderdeel loopt in samenwerking met Kennisplatform API’s Werkgroep Beveiliging. Het is een kleine subwerkgroep, bij interesse in men welkom om aan te schuiven. Een vergelijking tussen JAdES en HTTP Message Signatures is gepubliceerd:
+Signing & Encryptie: dit onderdeel loopt in samenwerking met Kennisplatform API’s Werkgroep Beveiliging. Het is een kleine subwerkgroep, bij interesse is men welkom om aan te schuiven. Een vergelijking tussen JAdES en HTTP Message Signatures is gepubliceerd op:
 
 https://geonovum.github.io/KP-APIs/publicaties/REST_API_Signing_Standaarden/
 
-Er wordt momenteel een pilot bij de Politie uitgevoerd met HTTP Message Signatures. De uitkomsten zullen meegenomen worden bij het maken van een keuze tussen de twee.
+Er wordt momenteel een pilot bij de Politie uitgevoerd met HTTP Message Signatures. De uitkomsten zullen meegenomen worden bij het maken van verdere keuzes voor het Reliable REST API profiel.
 
 ### Aanvulling Digikoppeling governance
 
@@ -80,7 +80,7 @@ Vanmiddag bij de Programmeringstafel ligt vraag over impact. Vraag over impact o
 
 ### Doorontwikkeling ReSpec
 
-Een stagiair heeft een generiek profiel gemaakt dat is toegepast bij DK beheermodel. Gemakkelijker toepasbaar voor andere organisaties ([template](https://github.com/Logius-standaarden/ReSpec-template)).
+Onze Logius stagiair (Rick de Bruin) heeft een generiek profiel gemaakt dat is toegepast bij DK beheermodel. Dit profiel is gemakkelijker toepasbaar voor andere organisaties ([template](https://github.com/Logius-standaarden/ReSpec-template)).
 
 ### Update Beheermodel
 
@@ -160,7 +160,7 @@ Voor het beheren van een standaard is afstemming op operationeel, tactisch én s
 
 Naar aanleiding van het agendapunt beslist de tafel als volgt: 
 Governance GDI standaarden: 
-1. Besluitvorming wordt aangepast in advisering → dit werkt door in de andere vragen. Vraag drie wordt geschrapt. Logius krijgt de vraag zelf initiatief te nemen om een voorstel op te stellen waarmee de achterban en uitvoeringsorganisaties van leden geraadpleegd kunnen worden (en niet als open vraag). Tevens wordt ook aandacht gevraagd om scherper de scheiding van rollen tussen afd. standaarden en Forum standaardisatie mee te nemen in de verdere uitwerking. 
+1. Besluitvorming wordt aangepast in advisering dit werkt door in de andere vragen. Vraag drie wordt geschrapt. Logius krijgt de vraag zelf initiatief te nemen om een voorstel op te stellen waarmee de achterban en uitvoeringsorganisaties van leden geraadpleegd kunnen worden (en niet als open vraag). Tevens wordt ook aandacht gevraagd om scherper de scheiding van rollen tussen afd. standaarden en Forum standaardisatie mee te nemen in de verdere uitwerking. 
 
 Modernisering Digikoppeling ebMS koppelvlak: 
 1. Dit wordt aangepast in: de PT GU vraagt om een zo breed mogelijke impactanalyse met stakeholders en hun achterban. Initiatief hiervan ligt bij Logius. Tevens wordt afgesproken de opzet van de impactanalyse voor te leggen aan de tafel, dit wordt als actiepunt opgenomen; 
