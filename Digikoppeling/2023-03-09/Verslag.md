@@ -72,7 +72,7 @@ De online community digistandaarden.pleio.nl is een vrij rustige omgeving. Het v
 
 ### Verkennen mogelijk gebruik ebMS3/AS4
 
-Vanmiddag bij de Programmeringstafel ligt vraag over impact. Vraag over impact op verschillende stakeholders moeilijk te dekken door enkel het Technisch Overleg.
+Vanmiddag bij de Programmeringstafel ligt vraag over impact. Vraag over impact op verschillende stakeholders moeilijk te dekken door enkel het Technisch Overleg. Ook dit punt wordt besproken in de Programmeringstafel [(zie bijlage hieronder)](#bijlage-governance)
 
 **Antoon Bijen:** Een migratie heeft ontzettend veel impact. ebMS2 heeft functionaliteit welke mist in ebMS3: CPA om afspraken vast te leggen. Vraag aan Programmeringstafel: willen afnemers dit wel?
 
