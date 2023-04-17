@@ -52,13 +52,13 @@ Deze standaard beschrijft vereisten voor de API (Resource Server), Authorization
 
 ### 4. Protected Resource (API) profiel
 
-- De API geeft de Client toegang wanneer deze een geldig access token en de correcte Scope heeft. De API vertrouwd erop dat de Authorization Server de security en access control borgt ([§  4.1](https://publicatie.centrumvoorstandaarden.nl/api/oauth/v1.0/#protecting-resources))
+- De API geeft de Client toegang wanneer deze een geldig access token en de correcte Scope heeft. De API vertrouwt erop dat de Authorization Server de security en access control borgt ([§  4.1](https://publicatie.centrumvoorstandaarden.nl/api/oauth/v1.0/#protecting-resources))
 - De API (met vertrouwelijke data) die een hoger vertrouwensniveau vereist van de eindgebruiker moet de data alleen beschikbaar stellen binnen een unieke Scope ([§  4.1](https://publicatie.centrumvoorstandaarden.nl/api/oauth/v1.0/#protecting-resources))
 - De Client die vertrouwelijke data wil opvragen bij de API moet een hoger vertrouwensniveau Scope meegeven in het verzoek aan de Authorization Server ([§  4.1](https://publicatie.centrumvoorstandaarden.nl/api/oauth/v1.0/#protecting-resources))
 - De Authorization Server moet de authenticatie van de eindgebruiker op het juiste vertrouwensniveau vaststellen ([§  4.1](https://publicatie.centrumvoorstandaarden.nl/api/oauth/v1.0/#protecting-resources))
-- Een API moet Bearer tokens accepteren in de authorization header en mag deze ook accepteren als form parameter ([§  4.2](https://publicatie.centrumvoorstandaarden.nl/api/oauth/v1.0/#protecting-resources))
-- Een API mag geen access tokens accepteren als query parameter ([§  4.2](https://publicatie.centrumvoorstandaarden.nl/api/oauth/v1.0/#protecting-resources))
-- Een API moet documenteren welke scopes vereist zijn voor toegang tot vertrouwelijke data ([§  4.2](https://publicatie.centrumvoorstandaarden.nl/api/oauth/v1.0/#protecting-resources))
+- Een API moet Bearer tokens accepteren in de authorization header en mag deze ook accepteren als form parameter ([§  4.2](https://publicatie.centrumvoorstandaarden.nl/api/oauth/v1.0/#connections-with-clients-0))
+- Een API mag geen access tokens accepteren als query parameter ([§  4.2](https://publicatie.centrumvoorstandaarden.nl/api/oauth/v1.0/#connections-with-clients-0))
+- Een API moet documenteren welke scopes vereist zijn voor toegang tot vertrouwelijke data ([§  4.2](https://publicatie.centrumvoorstandaarden.nl/api/oauth/v1.0/#connections-with-clients-0))
 - Een API moet een access token verifiëren ([§  4.3](https://publicatie.centrumvoorstandaarden.nl/api/oauth/v1.0/#connections-with-authorization-servers))
 - Een API moet limiteren welke Authorization Servers het vertrouwt ([§  4.3](https://publicatie.centrumvoorstandaarden.nl/api/oauth/v1.0/#connections-with-authorization-servers))
 
