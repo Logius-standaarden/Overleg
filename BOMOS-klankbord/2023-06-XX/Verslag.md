@@ -3,9 +3,13 @@
 ## Mededelingen
 
 TNO werkt mee aan een nieuwe versie van de International Data Space (IDS) standaard, de IDS Reference Architecture Mode (IDS RAM).Dat is een Europese standaard waarmee je onafhankelijk van het domein een datadeelinfrastructuur en -netwerk kan inrichten. TNO schrijft nu een hoofdstuk over het beheer van semantische standaarden en zullen daar de kennis en wijsheid van BOMOS inbrengen.
-Lifecyclemanagement @Wisse, Edwin wil lifecyclemanagement voor standaarden agenderen voor de Architectuurraad GDI. En vraagt advies aan de BOMOS klankbordgroep of het zinnig is om dit ook op te nemen in BOMOS. Lifecycle management voor standaarden - Afdeling Standaarden - Programma Epics, Stelsels en Standaarden (odc-noord.nl)
+
+Lifecyclemanagement @Wisse, Edwin wil lifecyclemanagement voor standaarden agenderen voor de Architectuurraad GDI. En vraagt advies aan de BOMOS klankbordgroep of het zinnig is om dit ook op te nemen in BOMOS.
+
 Terugkoppeling vanuit de BOMOS klankbordgroep hierover is; aan Edwin te vragen welke delen mis je in de huidige versie van BOMOS? Want versiebeheer staat al in BOMOS. Verder geeft Ludwig aan dat binnenkort de architectuurraad en MIDO bij elkaar komen en wil dit daar op de agenda te zetten met de vraag; hoe hiermee om te gaan? En daarna te verder te kijken m.b.t. het opnemen in BOMOS.
+
 @erwin.folmer@utwente.nl, geeft aan dat hij het fijn vindt als we de nieuwe versie van BOMOS nu echt final kunnen gaan maken, dus de laatste 5%. Om dit te kunnen realiseren moeten we meer praktijk voorbeelden toevoegen dan nu is toegevoegd en de figuren moeten voldoen aan de Logius huisstijl. Dus we gaan meer voorbeelden uitvragen en verzamelen. Erwin Folmer gaat hierbij helpen, tevens is er ook reeds contact opgenomen met het Beeldcentrum m.b.t. de figuren die aan de Rijksoverheid en Logius standaarden moet voldoen. De komende tijd (Q1) zal hieraan worden gewerkt.
+
 @Boer, Sander pleit ook voor een Engelse versie van BOMOS, een mooie ambitie voor op de agenda nadat de nieuwe versie van BOMOS final is.
 
 ## Actiepunten
