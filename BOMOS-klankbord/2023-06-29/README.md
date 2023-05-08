@@ -13,3 +13,5 @@
 
 ## Overige punten
 * BOMOS-Verdieping [issue #22] [Lifecyclemanagement van standaarden in BOMOS](https://github.com/Logius-standaarden/BOMOS-Verdieping/issues/22) (05 Jan. 2023), _Status: In onderzoek_
+
+https://github.com/Logius-standaarden/BOMOS-LinkedData/issues/3
