@@ -2,8 +2,8 @@
 |  Tijd  | Over | Door |
 |--------|------|------|
 | 10:00 | Welkom en opening | Logius |
-| 10:05 | Waar staan we met DMKS | Logius |
-| 10:25 | API ontwikkelingen en Kennisplatform | Martin van der Plas, Logius |
+| 10:05 | API ontwikkelingen en Kennisplatform | Martin van der Plas, Logius |
+| 10:25 | DMKS en Makkelijk melden | Dennis Passage, Logius |
 | 10:45 | Gegevensknooppunt Groningen | Harm Olthof |
 | 11:00 | Pauze voor koffie e.d. |
 | 11:10 | Verbeter de Kaart | Hein Baan, Kadaster |
