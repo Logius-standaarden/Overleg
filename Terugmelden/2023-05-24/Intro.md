@@ -2,12 +2,12 @@ Graag nodigen we u uit voor een hernieuwd Technisch Overleg DMKS/terugmelden. Lo
 Dit hernieuwde overleg is bedoeld om de stand van zaken van DMKS te delen en ervaringen op te halen uit de verschillende oplossingen en pilots. Het is onze bedoeling weer een regelmatig TO terugmelden te organiseren. 
 We stellen een aantal bespreekpunten voor:
 - Stand van zaken:
-  -	Digimelding, status en documentatie: [werkversie op git](https://github.com/Logius-standaarden/Digimelding-Koppelvlakspecificatie) en [gepubliceerde versie](https://gitdocumentatie.logius.nl/publicatie/digimelding/koppelvlak/)
-  -	Kennisplatform API’s en de API design rules.
-  -	Wijzigingsproces van Logius.
+    -	Digimelding, status en documentatie: [werkversie op git](https://github.com/Logius-standaarden/Digimelding-Koppelvlakspecificatie) en [gepubliceerde versie](https://gitdocumentatie.logius.nl/publicatie/digimelding/koppelvlak/)
+    -	Kennisplatform API’s en de API design rules.
+    -	Wijzigingsproces van Logius.
 -	Use cases:
-  -	Wat zijn de lessons learned uit de pilot met de politie?
-  -	Hoe werkt Kadaster met terugmelding (verbeter de kaart) ?
-  -	Welke use cases zijn er buiten het huidige gebruik? 
+    -	Wat zijn de lessons learned uit de pilot met de politie?
+    -	Hoe werkt Kadaster met terugmelding (verbeter de kaart) ?
+    -	Welke use cases zijn er buiten het huidige gebruik? 
 -	Hoe kunnen actuele (API) standaarden worden toegepast voor autorisatie?
 -	Willen er naar een API versie van DMKS voor alle basisregistraties?
