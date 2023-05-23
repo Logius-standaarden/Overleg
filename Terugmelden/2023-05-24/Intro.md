@@ -2,7 +2,7 @@ Graag nodigen we u uit voor een hernieuwd Technisch Overleg DMKS/terugmelden. Lo
 Dit hernieuwde overleg is bedoeld om de stand van zaken van DMKS te delen en ervaringen op te halen uit de verschillende oplossingen en pilots. Het is onze bedoeling weer een regelmatig TO terugmelden te organiseren. 
 We stellen een aantal bespreekpunten voor:
 - Stand van zaken:
-  -	Digimelding, status en documentatie van de standaard.
+  -	Digimelding, status en [documentatie van de standaard](https://github.com/Logius-standaarden/Digimelding-Koppelvlakspecificatie)
   -	Kennisplatform API’s en de API design rules.
   -	Wijzigingsproces van Logius.
 -	Use cases:
