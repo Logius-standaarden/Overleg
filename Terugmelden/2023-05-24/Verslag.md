@@ -78,3 +78,5 @@ en daardoor geen probleem.
 Toelichting op het beheerproces. Toelichten van indienen en behandelen van wijzigingsvoorstellen. 
 
 Open vragen die bedoeld waren voor de discussie worden via mail gedeeld.
+
+Er wordt een [repository aangemaakt om kennis te delen over een Terugmeld API](https://github.com/Logius-standaarden/Terugmelden-API).
