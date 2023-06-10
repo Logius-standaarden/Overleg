@@ -15,7 +15,7 @@
 | 10:05 | Verslag vorig TO:<br> [Verslag TO Digikoppeling 2023-03-09](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2023-03-09/Verslag.md) | 
 | 10:10 | Vernieuwing FSC / NLX. Wat dit betekent voor Digikoppeling API|           
 | 10:40 | OIN : Stelsel - veld doel tbv (wettelijke) taak <BR> OIN : Scope |          
-| 11:00 | Stand van zaken Roadmap : [Roadmap](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2023/Digikoppeling_Roadmap_2022_2023.md) |
+| 11:00 | Stand van zaken Roadmap : [Roadmap](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/-/Digikoppeling_Roadmap_2022_2023.md) |
 | 11:10 | Grote en kleine wijzigingen, issues en pull requests   | 
 | 11:20 | Rondvraag / Afsluiting |
 
@@ -25,6 +25,10 @@
 * Digikoppeling-Koppelvlakstandaard-ebMS2 [issue #6] [Digikoppeling baseren op ebMS3](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-ebMS2/issues/6) (03 Feb. 2022), _Status: In onderzoek_
 
 ## Kleine wijzigingen
+* Digikoppeling-Gebruik-en-achtergrond-certificaten [issue #8] [Review 2023](https://github.com/Logius-standaarden/Digikoppeling-Gebruik-en-achtergrond-certificaten/issues/8) (09 Jun. 2023), _Status: In review_
+* Digikoppeling-Best-Practices-ebMS2 [issue #8] [Review 2023](https://github.com/Logius-standaarden/Digikoppeling-Best-Practices-ebMS2/issues/8) (09 Jun. 2023), _Status: In review_
+* Digikoppeling-Best-Practices-GB [issue #8] [Review 2023](https://github.com/Logius-standaarden/Digikoppeling-Best-Practices-GB/issues/8) (09 Jun. 2023), _Status: In review_
+* Digikoppeling-Best-Practices-WUS [issue #8] [Review 2023](https://github.com/Logius-standaarden/Digikoppeling-Best-Practices-WUS/issues/8) (09 Jun. 2023), _Status: In review_
 * OIN-Stelsel [issue #5] [RSIN of Kvk nummer leidend voor OIN?](https://github.com/Logius-standaarden/OIN-Stelsel/issues/5) (29 Mar. 2022), _Status: In review_
   * [Wijzigingsvoorstel](https://github.com//Logius-standaarden/OIN-Stelsel/pull/7/files)
 
