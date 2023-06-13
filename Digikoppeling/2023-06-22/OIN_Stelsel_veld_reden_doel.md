@@ -39,7 +39,7 @@ OIN                      Naam                          SubOIN                   
 * Reden/doel centraal registreren kan de gebruiker helpen om overzicht te houden over de eigen aangevraagde suboins;
 
 ### Enkele aandachtspunten :
-* Een subOIN (organisatieonderdeel of systeem) kan meerdere wettelijke taken hebben !
+* Een subOIN (organisatieonderdeel of systeem) kan meerdere wettelijke taken hebben. In feite is alleen een reden/doel aan te geven per _koppeling_. Het is niet nodig per taak een subOIN aan te vragen.
 * Als de invalshoek van 'doel' wettelijke taken zijn , vraagt dit om standaardisatie van naamgeving; als doel een __ vrij veld__ is waar ook andere invalshoeken worden gebruikt is het mogelijk gevaar dat allerlei contexten en classificaties door elkaar gebruikt worden waardoor , bv ook door dubbele naamgeving, niet duidelijk is welke betekenis wordt bedoeld of om welk domein het precies gaat 
 
 ## Vragen voor de discussie in het TO Digikoppeling:
