@@ -14,8 +14,8 @@ Voorbeeld Scenario: Gemeente X voor participatiewet met applicatie A
 
 COR toont dan:
 
-| Naam | Nummer | Reden | Taak | Doel | Status | Afgifte datum |
-|---|---|---|---|---|---|---|
+| Naam | Nummer | Reden | Taak / Doel| Status | Afgifte datum |
+|---|---|---|---|---|---|
 |  Team Armoede bestrijding Gemeente X |00000004000001500|Onderdeel Organisatie| Participatiewet-uitkeren|Actief|21-11-2021| 
  
 
