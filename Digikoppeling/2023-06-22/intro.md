@@ -8,4 +8,4 @@ Dit wordt toegelicht in **[toelichting aanpak ebMS transitie](impact_ebMS.md)**.
 
 ### Bij Best practices
 
-De best practices zijn gectualiseerd. Verzoek aan het TO is de  best practices door te nemen zodat ze in de vergadering goed kunnen worden gekeurd en kunnen worden gepubliceerd.
+De best practices zijn geactualiseerd. Verzoek aan het TO is de  best practices door te nemen zodat ze in de vergadering kunnen worden goedgekeurd en vervolgens kunnen worden gepubliceerd.
