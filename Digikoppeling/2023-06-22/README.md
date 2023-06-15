@@ -6,7 +6,7 @@
 |------------------------|-------------------------------------| 
 | Betreft  | **Technisch Overleg Digikoppeling** |
 | Vergaderdatum en -tijd | 22-06-2023 - 10:00-11:30 uur  |
-| Vergaderplaats  | webex |
+| Vergaderplaats  | Microsoft Teams |
 
 
 | Tijd | Onderwerp |
@@ -14,9 +14,9 @@
 | 10:00 | Welkom & Mededelingen        |    
 | 10:05 | Verslag vorig TO:<br> [Verslag TO Digikoppeling 2023-03-09](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2023-03-09/Verslag.md) | 
 | 10:10 | Vernieuwing FSC / NLX. Wat dit betekent voor Digikoppeling API|           
-| 10:40 | * [OIN : Stelsel - veld doel tbv (wettelijke) taak](OIN_Stelsel_veld_reden_doel.md) <BR> * [OIN : Scope](OIN_Stelsel_Scope.md)  |          
+| 10:40 | • [OIN : Stelsel - veld doel tbv (wettelijke) taak](OIN_Stelsel_veld_reden_doel.md) <BR> • [OIN : Scope](OIN_Stelsel_Scope.md)  |          
 | 11:00 | Stand van zaken Roadmap : [Roadmap](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/-/Digikoppeling_Roadmap_2022_2023.md) |
-| 11:10 | Grote en kleine wijzigingen, issues en pull requests  <BR> _Best practices zijn geactualiseerd, verzoek aan TO Digikoppeling is publicatie goed te keuren_ | 
+| 11:10 | Grote en kleine wijzigingen, issues en pull requests  | 
 | 11:20 | Rondvraag / Afsluiting |
 
 # Onderwerpen
@@ -44,6 +44,8 @@ We hebben de transitie van ebMS2 naar ebMS3/AS4 geagendeerd in de Programmerings
 Naar aanleiding van de discussie in de vergadering is Logius gevraagd een impactanalyse te laten opstellen. 
 Dit wordt toegelicht in **[toelichting aanpak ebMS transitie](impact_ebMS.md)**.
 
-## Bij Best practices
+## Kleine Wijzingen
 
-BEst practices zijn gectualiseerd. Verzoek aan het TOP is deze door te nemen zodat ze in de vergadering goed kunnen worden gekeurd en kunnen worden gepubliceerd.
+### Bij Best practices
+
+De best practices zijn geactualiseerd. Verzoek aan het TO is de  best practices door te nemen zodat ze in de vergadering kunnen worden goedgekeurd en vervolgens kunnen worden gepubliceerd.
