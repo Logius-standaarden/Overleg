@@ -3,7 +3,7 @@
 Aanwezig: Hein Baan (Kadaster), Alexander Green, Edwin Wisse (Logius)
 
 Webex: Mirian van Ansem (BZK), Harm Olthof (GKG, GEON), Ronald van Dijk (Belastingdienst), 
-Jan Karel van gent (KvK)
+Jan Karel van gent (KvK), Martin van der Plas en Dennis Passage (Logius)
 
 ## Opening en welkom
 
@@ -52,22 +52,25 @@ het een afzonderlijke standaard (die wel de API Design Rules toepast).
 
 ## Makkelijk melden, Dennis Passage
 
-Presentatie over de _Makkelijk Melden_ pilot. Het as-is Digimelding was één geheel waarin systeem 
+Presentatie over de _Makkelijk melden_ pilot. In de _Makkelijk melden_ pilot is een vereenvoudigde invoer portaal ontwikkeld om terugmeldingen op de BRP laagdrempeliger te maken. Het as-is Digimelding was één geheel waarin systeem 
 en gebruikersinterface (portal) geïntegreerd waren. De invoerschermen waren uitgebreid en bleken in 
 de praktijk remmend voor gebruik. Met de politie en woningcorporaties is samengewerkt om een eenvoudiger 
 invoerdienst te maken aan de hand van klantreizen. Hiervoor is de portal losgemaakt van het Digimelding systeem. 
+
+Op de vraag van Jan Karel van Gent of burgers ook toegang zouden kunnen krijgen tot _Makkelijk melden_ gaf Dennis Passage aan dat de pilot daar niet voor bedoeld was.
 
 ## Verbeter de Kaart, Hein Baan
 
 Presentatie en demonstratie van _Verbeter de Kaart_, de terugmelddienst van Kadaster. Ook hier 
 was vóór het project een groot invulformulier de interface vergelijkbaar met het Digimelding 
-formulier. Achter _Verbeter de Kaart_ zitten twee API’s: een terugmelding API en een bronhouder API. 
-De terugmelding API ondersteunt het indien en opvragen van een terugmelding. De bronhouder API geeft 
+formulier. Achter _Verbeter de Kaart_ zitten een API (de terugmelding API) die terugmeldingen 
+vanuit de gebruikersinterface ontvangt. Er is nog een bronhouder API die het beheerscherm (de terugmeldbeheerapplicatie) ondersteunt. 
+De terugmelding API ondersteunt het indienen en opvragen van een terugmelding. De bronhouder API geeft 
 toegang tot niet-openbare informatie om bronhouders meldingen te laten verwerken. De bronhouder API 
-maakt gebruik van API key beveiliging en sluit aan op DMKS.
+maakt gebruik van OAuth voor authorisatie en sluit aan op DMKS.
 
 Gebruikers voegen een melding toe via de kaart (zoals bij de Waterketenpilot van GKG). Bronhouders 
-krijgen een overzicht van de meldingen voor hun basisregistratie. Omdat de BRT vele bronhouders kent 
+krijgen een overzicht van de meldingen voor hun basisregistratie. Omdat de BAG en BRT vele bronhouders kent 
 kunnen meldingen doorgezet worden naar andere bronhouders. 
 
 _Verbeter de Kaart_ bleek tot veel meer meldingen te leiden. Onzinnige meldingen zijn klein in aantal 
