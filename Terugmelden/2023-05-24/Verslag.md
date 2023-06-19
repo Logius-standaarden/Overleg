@@ -63,7 +63,7 @@ Op de vraag van Jan Karel van Gent of burgers ook toegang zouden kunnen krijgen 
 
 Presentatie en demonstratie van _Verbeter de Kaart_, de terugmelddienst van Kadaster. Ook hier 
 was vóór het project een groot invulformulier de interface vergelijkbaar met het Digimelding 
-formulier. Achter _Verbeter de Kaart_ zitten een API (de terugmelding API) die terugmeldingen 
+formulier. Achter _Verbeter de Kaart_ zit een API (de terugmelding API) die terugmeldingen 
 vanuit de gebruikersinterface ontvangt. Er is nog een bronhouder API die het beheerscherm (de terugmeldbeheerapplicatie) ondersteunt. 
 De terugmelding API ondersteunt het indienen en opvragen van een terugmelding. De bronhouder API geeft 
 toegang tot niet-openbare informatie om bronhouders meldingen te laten verwerken. De bronhouder API 
