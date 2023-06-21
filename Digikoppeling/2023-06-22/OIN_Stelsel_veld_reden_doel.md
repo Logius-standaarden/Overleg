@@ -51,6 +51,8 @@ OIN                      Naam                          SubOIN                   
 # Bijlage Relevante Achtergrondinformatie:
 
 ## Identificatie, authenticatie en autorisatie met het OIN en subOIN
+_Auteur: Martin van der Plas (Logius)_
+
 
 ### Identificatie (wie ben je)
 Het OIN vormt de identificatie van een organisatie en is gebaseerd op de juridische entiteit van een organisatie zoals vastgelegd door het KvK, de Belastingdienst, Logius of een andere organisatie.
