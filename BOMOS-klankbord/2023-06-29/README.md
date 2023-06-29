@@ -14,7 +14,7 @@
 * BOMOS-Verdieping [issue #10] [Figuren aanpassen (tekst uit figuren en layout)](https://github.com/Logius-standaarden/BOMOS-Verdieping/issues/10) (23 Nov. 2022), _Status: In bewerking_
 
 ## Overige punten
-* BOMOS-Verdieping [issue #22] [Lifecyclemanagement van standaarden in BOMOS](https://github.com/Logius-standaarden/BOMOS-Verdieping/issues/22) (05 Jan. 2023), _Status: In onderzoek_
+* BOMOS-Verdieping [issue #22] [Lifecyclemanagement van standaarden in BOMOS](https://github.com/Logius-standaarden/BOMOS-Verdieping/issues/22) (05 Jan. 2023), _Status: In review_
 
 # Toelichting
 
