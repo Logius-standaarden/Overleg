@@ -40,11 +40,7 @@ De presentatie van Edward van Gelderen is [hier](https://github.com/Logius-stand
 
 ### Vergelijking met bestaande implementatie
 
-**Maarten Coemans:** Wij implementeren dezelfde logica al in transacties. Wij hebben zelf ook gewoon een administratie die los contracten tussen bijvoorbeeld in Centric en een gemeente administreert. Maar Centric meldt zich bij ons aan met certificaat van Centric en niet met certificaat van een gemeente om dezelfde redenen als jullie, dus het idee begrijpen wij.
-
-**Edward van Gelderen:** Wat is jullie geval?
-
-**Maarten Coemans:** SNG, Stichting Netwerk Gerechtsdeurwaarders.
+**Maarten Coemans:** Wij [SNG] implementeren dezelfde logica al in transacties. Wij hebben zelf ook gewoon een administratie die los contracten tussen bijvoorbeeld in Centric en een gemeente administreert. Maar Centric meldt zich bij ons aan met certificaat van Centric en niet met certificaat van een gemeente om dezelfde redenen als jullie, dus het idee begrijpen wij.
 
 **Edward van Gelderen:** Dan zitten we op hetzelfde spoor en ben je het snel op veel punten met elkaar eens. Wij bekijken het vooral vanuit de gemeenten, maar ik denk dat die behoefte veel breder is. Men heeft vooral de behoefte om op dezelfde manier samen te werken, derhalve moet je het verheffen tot een standaard. In dit geval is die standaard er uiteraard al, namelijk het Digikoppeling Koppelvlakstandaard REST API. Alleen hebben wij het idee dat dat dat daar veel meer keuzes vastgelegd zouden kunnen worden, zodat we daadwerkelijk met zijn allen op dezelfde manier met die koppelingen omgaan en alleen dan kunnen we echt technisch interoperabel gaan worden. Iedere variant bedraagt een unieke situatie en je wilt dat eigenlijk proberen te vermijden.
 
