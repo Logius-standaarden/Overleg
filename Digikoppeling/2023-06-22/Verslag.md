@@ -102,6 +102,23 @@ Peter Haasnoot meldt dat Edward van Gelderen dit onderwerp onlangs bij de Werkgr
 
 Peter Haasnoot presenteert het discussiestuk om de sub-OIN registratie uit te breiden met het veld "doel", zie [hier](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2023-06-22/OIN_Stelsel_veld_reden_doel.md).
 
+Arnoud Quanjer heeft schriftelijk de volgende reactie gegeven.
+<details>
+<summary>e-mail</summary>
+
+> Het op sub-OIN vastleggen van doelbinding lijkt de VNG niet de juiste oplossing voor het geschetste probleem. Conceptueel is het OIN vergelijkbaar met een BSN nummer dat je uit DigiD krijgt voor personen: het identificeert een organisatie uniek en levert de authenticatie er bij. Je weet dus zeker dat een identiteit klopt. Net zoals je niet een apart BSN nummer hebt voor elke overheidsdienst waar je als persoon contact mee hebt, is het ook niet wenselijk dat organisaties een apart OIN nummer hebben per wettelijke taak / grondslag. De identiteit zou iedere keer hetzelfde moeten zijn voor de gehele organisatie. Het is mogelijk om meerdere van elkaar te onderscheiden certificaten aan te vragen die allemaal hetzelfde OIN hebben. Dus je kan de ene applicatie / afdeling een ander certificaat en zelfs beheerproces geven dan een andere organisatie, en toch hetzelfde OIN gebruiken.
+>
+> Door de VNG wordt in samenwerking met Logius en het Kennisplatform API’s gewerkt aan de Federated Services Connectivity (FSC) standaard met als doel deze onderdeel te van het Digikoppeling REST profiel. In de FSC-standaard wordt onder meer de problematiek van het kunnen instellen van de  bevoegdheden tussen bronnen, afnemers en intermediars opgelost. De standaard stelt voor dat:
+> 
+> -	een Organisatie (Peer) wordt geïdentificeerd door OIN
+> -	Een organisatie talloze verschillende certificaten kan hebben, allemaal met zelfde OIN, maar wel uniek identificeerbaar (met thumbprint)
+> -	Contracten worden ingeregeld op het niveau van de thumbprint
+>
+> Het koppelen van grondslagen aan organisaties kan hiermee dus op het niveau van de thumbprint worden geregeld. In aanvulling op de FSC methode om contracten op certificaat vast te leggen ipv op OIN, zou het COR register de mogelijkheid moeten bieden om specifieke certificaten per OIN te registreren. Organisaties zouden dan de gelegenheid moeten hebben om aan ieder certificaat uitleg toe te voegen over het gebruik / het doel / contactinfo van het certificaat.
+>
+> Het lijkt ons verstandig om voordat over het voorliggende voorstel wordt besloten de ontwikkelingen rondom de FSC-standaard en het Digikoppeling REST-profiel mee te nemen in de discussie om te voorkomen dat we elkaar in de wielen rijden.
+</details>
+
 **Elzo Pauw:** Probeer je hiermee te voorkomen dat iemand een onzin sub-OIN gebruikt? Ik zie geen use case waarin het veld reden relevant is voor ons.
 
 **Antoon Bijen:** Binnen justitie hebben we te maken met samenwerkingsverbanden waarbij meerdere partijen samenwerken voor een specifieke taak.
