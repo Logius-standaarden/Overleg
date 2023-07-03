@@ -36,7 +36,7 @@ Geen opmerkingen
 
 **Peter Haasnoot:** Korte introductie op de FSC-standaard. Het is een vervolg op de eerdere NLX-software ontwikkelprojecten. We hebben al vaker contact gehad over de ontwikkelingen in NLX, echter was dit louter in de context van ontwikkeling van Open Source software en software modules. Wij hebben ook eerder gekeken naar de relatie tussen de Digikoppeling en NLX; Hier zagen wij dat NLX zaken invult die niet in Digikoppeling zitten en andersom; je zou kunnen zeggen dat zij elkaar aankunnen vullen. Wellicht interessant om een mogelijke aansluiting met elkaar te bekijken.
 
-De presentatie van Edward van Gelderen is [hier](https://github.com/Logius-standaarden/Overleg/raw/main/Digikoppeling/2023-06-22/FSC-delegation-animatie.pptx) te vinden. Vragen of opmerkingen zijn welkom op het adres op de eerste slide.
+De presentatie van Edward van Gelderen is [hier](https://github.com/Logius-standaarden/Overleg/raw/main/Digikoppeling/2023-06-22/FSC-delegation-animatie.pptx) [.pptx, 109 KB] te vinden. Vragen of opmerkingen zijn welkom op het adres op de eerste slide.
 
 ### Vergelijking met bestaande implementatie
 
