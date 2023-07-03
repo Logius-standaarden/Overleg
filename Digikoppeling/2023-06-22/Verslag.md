@@ -126,7 +126,7 @@ Peter Haasnoot presenteert het discussiestuk om de sub-OIN registratie uit te br
 
 **Maarten Coemans:** Als je meerdere sub-OIN's gaat vastleggen moet het altijd duidelijk zijn. Bij het OM krijgen wij echter het OIN door van de meewerkende organisatie, dus ik zie het niet als een concrete noodzaak. In ons proces moet de ketenpartner in het contract aangeven welk OIN zij gebruiken. Waar wordt het OIN-register wel voor gebruikt? Heel beperkt in ons geval.
 
-**Karl de Boer:** Wij gebruiken de API om de juiste KVK-nummers op te halen van OIN's. De ene werkt met OIN's, de ander met KVK-nummers en de andere weer met andere nummers. We gebruiken het register dus altijd om te verifiëren wanneer we een weer een nieuwe tent inrichten. Dat doen we vooral via de user interface, maar de API wordt ook gebruikt.
+**Karl de Boer:** Wij gebruiken de API om de juiste KVK-nummers op te halen van OIN's. De ene werkt met OIN's, de ander met KVK-nummers en de andere weer met andere nummers. We gebruiken het register dus altijd om te verifiëren wanneer we een weer een nieuwe tennant inrichten. Dat doen we vooral via de user interface, maar de API wordt ook gebruikt.
 
 ### Scope
 
