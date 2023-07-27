@@ -80,13 +80,13 @@ De presentatie van Edward van Gelderen is [hier](https://github.com/Logius-stand
 
 **Jos van Kester:** Is er een centraal of decentraal service register nodig of lokaal. Indien het centraal is, wie beheert dat dan?
 
-**Edward van Gelderen:** Met betrekking tot service tot service discovery heeft een groep samenwerkende organisaties een telefoonboek ("directory"). Daar melden die organisaties ("peers") zich bij aan. De directory zorgt ervoor dat het inzichtelijk is welk services er zijn en waar ze staan.
+**Edward van Gelderen:** Met betrekking tot service discovery heeft een groep samenwerkende organisaties een telefoonboek ("directory"). Daar melden die organisaties ("peers") zich bij aan. De directory zorgt ervoor dat het inzichtelijk is welk services er zijn en waar ze staan.
 
 **Jos van Kester:** Wie beheert dat telefoonboek en hoe kunnen wijzigingen aangebracht worden?
 
 **Edward van Gelderen:** Tot op heden beheerde VNG Realisatie dat. Tijdelijk is de hosting en exploitatie door RINIS opgepakt. De subsidie loopt tot 2024.
 
-**Jos van Kester:** Ik zit in de inburgeringswet en vanuit die hoek hebben we uitgebreid gekeken naar NLX. FSC zal morgen nog geen standaard zijn die Logius ie uitgevaardigd en gepubliceerd, maar wij volgen het zeker met grote interesse.
+**Jos van Kester:** Ik zit in de inburgeringswet en vanuit die hoek hebben we uitgebreid gekeken naar NLX. FSC zal morgen nog geen standaard zijn die Logius heeft uitgevaardigd en gepubliceerd, maar wij volgen het zeker met grote interesse.
 
 **Edward van Gelderen:** Dit zijn de eerste stappen op landelijk niveau, maar op gemeentelijk niveau je soortgelijke discussie en wat lastig blijkt is dat veel logische use cases liever even wachten totdat het een standaard is. Het vervelende daarvan is dat het lang duurt voordat het een standaard is, omdat je namelijk die use cases moet hebben om te kunnen bewijzen. Vanuit gemeentelijk perspectief is het me nog niet gelukt dat te doorbreken.
 
@@ -135,7 +135,7 @@ Arnoud Quanjer heeft schriftelijk de volgende reactie gegeven.
 
 **Elzo Pauw:** Wij houden zelf de koppelingen bij, dus ik zie niet wat we met die extra informatie zouden doen. Wat voor type informatie is het en waar zouden we op zoeken in dat veld?
 
-**Antoon Bijen:** Wellicht kan het de naam van de toepassing bevatten waar je op kan letter bij een nieuwe koppeling met een partij die je op dat moment nog niet kent. Je kunt te maken krijgen met een grote organisatie met meerdere afdelingen. Die zou je zelfstandig kunnen registeren, maar het kan handig zijn om het juiste OIN op te zoeken op basis van een taakomschrijving. Goed dat we dit onderling overleggen. Het is geen noodzaak dit op te nemen, maar het kan dienen als additionele toelichting.
+**Antoon Bijen:** Wellicht kan het de naam van de toepassing bevatten waar je op kan letten bij een nieuwe koppeling met een partij die je op dat moment nog niet kent. Je kunt te maken krijgen met een grote organisatie met meerdere afdelingen. Die zou je zelfstandig kunnen registeren, maar het kan handig zijn om het juiste OIN op te zoeken op basis van een taakomschrijving. Goed dat we dit onderling overleggen. Het is geen noodzaak dit op te nemen, maar het kan dienen als additionele toelichting.
 
 **Pauw Elzo:** Als meer beter is, waar houdt het dan op? Dan zouden we nog heel veel dingen toe kunnen voegen.
 
