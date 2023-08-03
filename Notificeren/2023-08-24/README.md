@@ -1,11 +1,14 @@
 # Notificeren
 
-|  Tijd  | Over | Door |
-|--------|------|------|
-| | Welkom | Logius |
-| | CloudEvents ontwikkeling en bevindingen | Ad Gerrits, VNG |
-| | Use cases in notificatie | Allen |
-| | Beheerproces en indienen wijzigingsvoorstellen | Edwin Wisse, Logius |
+Voorlopige agenda
+
+|  Tijd  | Over                                         | Door                       |
+|--------|----------------------------------------------|----------------------------|
+|  10:00 | Welkom                                       | Logius                     |
+|  10:05 | Stand van zaken en plannenn met Digilevering | Logius                     |
+|  10:20 | CloudEvents ontwikkeling en bevindingen      | Ad Gerrits, VNG            |
+|  10:50 | De signaal- en updateservice                 | Pauline van Zadelhoff, KvK |
+|  11:10 | Beheerproces en wijzigingsvoorstellen        | Edwin Wisse, Logius        |
 
 # Onderwerpen
 
