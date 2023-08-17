@@ -9,4 +9,3 @@ CloudEvents is een standaard voor notificaties, ontwikkeld vanuit een consortium
 - [NL GOV profile for CloudEvents](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents)
 - [Handreikingen voor het NL profiel CloudEvents](https://github.com/Logius-standaarden/CloudEvents-NL-Guidelines)
 
-### De signaal en updateservice van de Belastingdienst.
