@@ -2,6 +2,7 @@
 Notificaties voor de basisregistraties worden gebruikt om gebruikers op de hoogte te houden van wijzigingen in de basisregistraties.
 
 ### Digilevering
+Status van Digilevering. Plaats van notificeren in het stelseel van basisregistraties.
 
 ### Cloudevents
 CloudEvents is een standaard voor notificaties, ontwikkeld vanuit een consortium van cloudaanbieders. VNG heeft een Nederlands profiel ontwikkeld en een handreiking opgesteld. Het is in beheer gegeven bij Logius. Actief beheer is gepland voor 2023.
