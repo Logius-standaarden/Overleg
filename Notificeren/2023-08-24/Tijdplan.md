@@ -7,3 +7,4 @@ Voorlopige agenda
 |  10:20 | CloudEvents ontwikkeling en bevindingen      | Ad Gerrits, VNG            |
 |  10:50 | De signaal- en updateservice                 | Pauline van Zadelhoff, KvK |
 |  11:10 | Beheerproces en wijzigingsvoorstellen        | Edwin Wisse, Logius        |
+|  11:20 | Rondvraag en sluiting                        | Allen                      |
