@@ -9,6 +9,7 @@ Voorlopige agenda
 |  10:20 | CloudEvents ontwikkeling en bevindingen      | Ad Gerrits, VNG            |
 |  10:50 | De signaal- en updateservice                 | Pauline van Zadelhoff, KvK |
 |  11:10 | Beheerproces en wijzigingsvoorstellen        | Edwin Wisse, Logius        |
+|  11:20 | Rondvraag en sluiting                        | Allen                      |
 
 # Onderwerpen
 
@@ -19,12 +20,14 @@ Voorlopige agenda
 # Toelichting
 
 
-## Wat gaan we doen
-CloudEvents is een standaard voor notificaties, ontwikkeld vanuit een consortium van cloudaanbieders. VNG heeft een Nederlands profiel ontwikkeld en een handreiking opgesteld. Het is in beheer gegeven bij Logius. Actief beheer is gepland voor 2023.
-Mogelijke use cases zijn:
-- de signaal en updateservice van de Belastingdienst.
+## Wat gaan we bespreken
+Notificaties voor de basisregistraties worden gebruikt om gebruikers op de hoogte te houden van wijzigingen in de basisregistraties.
 
-### Bespreekpunten
-1.	Use cases. Waar wordt CloudEvents nu toegepast?
-2.	NL-profiel. Welke ontwikkelingen zien we?
-3.	Voorgestelde wijzigingen.
+### Digilevering
+Status van Digilevering. Plaats van notificeren in het stelseel van basisregistraties.
+
+### Cloudevents
+CloudEvents is een standaard voor notificaties, ontwikkeld vanuit een consortium van cloudaanbieders. VNG heeft een Nederlands profiel ontwikkeld en een handreiking opgesteld. Het is in beheer gegeven bij Logius. Actief beheer is gepland voor 2023.
+- [NL GOV profile for CloudEvents](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents)
+- [Handreikingen voor het NL profiel CloudEvents](https://github.com/Logius-standaarden/CloudEvents-NL-Guidelines)
+
