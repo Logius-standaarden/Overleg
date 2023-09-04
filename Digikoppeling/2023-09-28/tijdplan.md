@@ -10,5 +10,6 @@
 | Tijd | Onderwerp |
 | --- | --- |
 | 10:00 | Welkom & Mededelingen        |    
-| 10:05 |  | 
+|  | Consultatie eDelivery AS4 profile 2.0                        | 
+|  | Stvz: governance standaarden, eDelivery stakeholderonderzoek |
 | 11:20 | Rondvraag / Afsluiting |
