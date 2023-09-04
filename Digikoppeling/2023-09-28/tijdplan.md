@@ -15,4 +15,5 @@
 |  | Roadmap huidig & nieuw |
 |  | Stand van zaken FSC |
 |  | OIN scenario onafhankelijke maatregelen mbt de standaard |
+|  | Gebruik van OAuth in DK API profiel beveiliging naast mTLS |  
 | 11:20 | Rondvraag / Afsluiting |
