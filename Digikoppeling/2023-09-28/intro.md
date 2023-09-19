@@ -54,11 +54,3 @@ _Graag de mening van het TO over de geschiktheid van JAdES signing voor het Digi
 
 ## Gebruik van OAuth in DK API profiel beveiliging naast mTLS 
 
-## Roadmap Stand van zaken
- 
-### Aanvulling Digikoppeling governance
-
-We hebben onze governance beschreven in nieuwe beheermodellen.  Via MIDO worden de afspraken mbt de nieuwe governance besproken. 
-
-...
-
