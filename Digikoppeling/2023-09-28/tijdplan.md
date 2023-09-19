@@ -13,6 +13,7 @@
 |  | Consultatie eDelivery AS4 profile 2.0                        | 
 |  | MIDO governance standaarden |
 |  | eDelivery EBMS3/AS4 stakeholderonderzoek |
+|  | Signing & Encryptie toevoegen aan RESTful API profiel | 	
 |  | Roadmap: huidig 2023-Q4  & nieuw (concept) 2024-2025 |
 |  | Stand van zaken FSC |
 |  | OIN scenario onafhankelijke maatregelen mbt de standaard | 
