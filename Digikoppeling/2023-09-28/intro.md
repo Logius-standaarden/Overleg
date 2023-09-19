@@ -18,6 +18,10 @@ Zie https://ec.europa.eu/digital-building-blocks/wikis/display/DIGITAL/2023/06/1
 
 ## eDelivery EBMS3/AS4 stakeholderonderzoek 
 
+Logius heeft opdracht gegeven voor het uitvoeren van een stakeholder onderzoek naar de impact van 
+een overgang naar een eDelivery koppelvlakspecificatie voor Digikoppeling. Dit onderzoek wordt 
+uitgeveord door PBLQ. Peter Seignette van PBLQ ligt het onderzoek kort toe.
+
 ## Roadmap: huidig 2023-Q4  & nieuw (concept) 2024-2025
 
 ### Huidige Roadmap 2022-2023
