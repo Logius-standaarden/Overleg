@@ -41,30 +41,17 @@
 ## Mededelingen
 
 - ADR 2.0 in consultatie incl. modulaire opbouw , Digikoppeling REST API profiel zal hierop worden aangepast
+- EBMS2 Vraag kadaster - Welke partijen gebruiken Clockwork ebMS?
+-  Ontwikkelingen rond Compliance voorzieningen API/WUS/ebMS 
 
-
-## Grote Wijzigingen
-
-### Bij [Digikoppeling baseren op ebMS3](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-ebMS2/issues/6)
-
-(__vorige toelichting TO__:
-We hebben de transitie van ebMS2 naar ebMS3/AS4 geagendeerd in de Programmeringstafel. 
-Naar aanleiding van de discussie in de vergadering is Logius gevraagd een impactanalyse te laten opstellen. 
-Dit wordt toegelicht in **[toelichting aanpak ebMS transitie](impact_ebMS.md)**.
-)
-
-## Kleine Wijzingen
-
-Bij ....
 
 ## Consultatie eDelivery AS4 profile 2.0                        
 
-## MIDO governance standaarden 
+
 
 ## eDelivery EBMS3/AS4 stakeholderonderzoek 
 
 ## Roadmap: huidig 2023-Q4  & nieuw (concept) 2024-2025
-
 
 ### Huidige Roadmap 2022-2023
 Zie voor geactualiseerde tijdlijn Roadmap :
@@ -95,5 +82,4 @@ _Graag de mening van het TO over de geschiktheid van JAdES signing voor het Digi
 
 ## OIN scenario onafhankelijke maatregelen mbt de standaard  
 
-## Gebruik van OAuth in DK API profiel beveiliging naast mTLS 
 
