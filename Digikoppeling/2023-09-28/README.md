@@ -105,7 +105,8 @@ Toelichting door FSC
 
 - Datakwaliteit
 - Samenhang met Bronregistraties
-- Gebruik van OIN, bv in PKIO, eHerkenning , PEPPOL eDelivery 
+- Gebruik van OIN, bv in PKIO, eHerkenning , PEPPOL eDelivery
+- Rol van OIN register
   
 
 
