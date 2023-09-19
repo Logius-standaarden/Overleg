@@ -11,8 +11,9 @@
 | --- | --- |
 | 10:00 | Welkom & Mededelingen        |    
 |  | Consultatie eDelivery AS4 profile 2.0                        | 
-|  | Stvz: governance standaarden, eDelivery stakeholderonderzoek |
-|  | Roadmap huidig 2023-Q4  & nieuw (concept) 2024-2025<BR> _Is TO akkoord met aanpassing huidige roadmap?, Geactualiseerde versie zal dan gepubliceerd worden_  |
+|  | MIDO governance standaarden |
+|  | eDelivery EBMS3/AS4 stakeholderonderzoek |
+|  | Roadmap: huidig 2023-Q4  & nieuw (concept) 2024-2025 |
 |  | Stand van zaken FSC |
 |  | OIN scenario onafhankelijke maatregelen mbt de standaard | 
 |  | Gebruik van OAuth in DK API profiel beveiliging naast mTLS |  
