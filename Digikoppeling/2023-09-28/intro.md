@@ -8,7 +8,11 @@
 
 ## Consultatie eDelivery AS4 profile 2.0                        
 
+_The eDelivery team is opening two Public Consultations on the new draft Specifications of the eDelivery AS4 profile 2.0 and eDelivery SMP profile 2.0. The proposed changes have already been presented in early May 2023 during the eDelivery Informal Cooperation Forum (slides available here) and now members of the eDelivery community are invited to share their views, comments and suggestions on both proposals before the specifications are finalised and published (the next step of eDelivery Specification Change Process – see the visual below).  
 
+The community is invited to either post its feedback as comments on the public consultation pages linked underneath or send it by email to EC-EDELIVERY-SUPPORT@ec.europa.eu by the 20th October 2023. _
+
+Zie https://ec.europa.eu/digital-building-blocks/wikis/display/DIGITAL/2023/06/16/Your+views+are+important%3A+consultation+on+AS4+2.0+and+SMP+2.0
 
 ## eDelivery EBMS3/AS4 stakeholderonderzoek 
 
