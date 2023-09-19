@@ -18,7 +18,14 @@ Dit wordt toegelicht in **[toelichting aanpak ebMS transitie](impact_ebMS.md)**.
 
 Bij ....
 
-## Roadmap Stand van zaken
+## Consultatie eDelivery AS4 profile 2.0                        
+
+## MIDO governance standaarden 
+
+## eDelivery EBMS3/AS4 stakeholderonderzoek 
+
+## Roadmap: huidig 2023-Q4  & nieuw (concept) 2024-2025
+
 
 Zie voor geactualiseerde tijdlijn Roadmap :
 
@@ -40,6 +47,14 @@ Laatste ontwikkelingen:
 
 _Graag de mening van het TO over de geschiktheid van JAdES signing voor het Digikoppeling REST API profiel_
 
+
+## Stand van zaken FSC 
+
+## OIN scenario onafhankelijke maatregelen mbt de standaard  
+
+## Gebruik van OAuth in DK API profiel beveiliging naast mTLS 
+
+## Roadmap Stand van zaken
  
 ### Aanvulling Digikoppeling governance
 
@@ -47,10 +62,3 @@ We hebben onze governance beschreven in nieuwe beheermodellen.  Via MIDO worden 
 
 ...
 
-
-
-## Stand van zaken
-
-### Governance
-
-### eDelivery stakeholderonderzoek
