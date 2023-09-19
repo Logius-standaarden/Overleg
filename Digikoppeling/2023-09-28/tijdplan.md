@@ -12,7 +12,7 @@
 | 10:00 | Welkom & Mededelingen        |    
 |  | Consultatie eDelivery AS4 profile 2.0                        | 
 |  | MIDO governance standaarden |
-|  | eDelivery EBMS3/AS4 stakeholderonderzoek |
+|  | eDelivery EBMS3/AS4 stakeholderonderzoek (PBLQ) |
 |  | Signing & Encryptie toevoegen aan RESTful API profiel | 	
 |  | Roadmap: huidig 2023-Q4  & nieuw (concept) 2024-2025 |
 |  | Stand van zaken FSC |
