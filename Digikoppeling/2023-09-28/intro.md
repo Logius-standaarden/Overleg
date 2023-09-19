@@ -27,13 +27,17 @@ Bij ....
 ## Roadmap: huidig 2023-Q4  & nieuw (concept) 2024-2025
 
 
+### Huidige Roadmap 2022-2023
 Zie voor geactualiseerde tijdlijn Roadmap :
 
 https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/update_Q4/Digikoppeling_Roadmap_2022_2023.md
 
 (Dikgedrukt zijn de lopende onderdelen)
 
-### Signing & Encryptie toevoegen aan RESTful API profiel	
+### Concept 2024-2025
+https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2022_2023.md
+
+## Signing & Encryptie toevoegen aan RESTful API profiel	
 
 Werkgroep ADR Beveiliging (specifiek sub-werkgroep signing) heeft een vergelijking gemaakt van 2 standaarden voor signing van REST-API's :
 [Vergelijking REST API Signing Standaarden](https://geonovum.github.io/KP-APIs/publicaties/REST_API_Signing_Standaarden)
