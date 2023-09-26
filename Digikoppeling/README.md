@@ -6,17 +6,9 @@ Deze map bevat de agenda, notulen en vergaderstukken van het Technisch Overleg D
 
 | Datum | Tijd | Locatie | Stukken | Bijzonderheden |
 | ----- | ---- | ------- | ------- | -------------- |
-|   9 maart 2023    | 10:30- 13:30    |  Amersfoort       |[2023-03-09](2023-03-09)| fysieke bijeenkomst      |
+|   28 september 2023    | 10:00- 11:30    |  Online       |[28-09-2023](https://github.com/Logius-standaarden/Overleg/tree/main/Digikoppeling/2023-09-28)| fysieke bijeenkomst      |
 
 
 ## Archief Technisch Overleg
 
-| Datum | Tijd | Locatie | Stukken | Bijzonderheden |
-| ----- | ---- | ------- | ------- | -------------- |
-| 4 maart 2021 | 13:30 - 15:00 | Webex | [2021-03-04](2021-03-04) ||
-|27 mei 2021|13:30 - 15:00|Webex|[2021-05-27](2021-05-27)||
-|23 sep 2021|13:30 - 15:00|Webex|[2021-09-23](2021-09-23)||
-|2 dec 2021|13:30 - 15:00|Webex|[2021-12-02](2021-12-02)||
-|24 maart 2022|13:30 - 15:00|Webex|[2022-03-24](2022-03-24)||
-|23 juni 2022|10:00 - 11:30|Webex|[2022-06-23](2022-06-23)||
-|   8 december 2022    | 10:00 -11:30    | Webex        |  [2022-12-08](2022-12-08)       |                |
+Zie de bovenstaande folders voor de eerdere overleggen 
