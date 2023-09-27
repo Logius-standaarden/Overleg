@@ -48,6 +48,7 @@ donderdag 28 september 2023
 
 ### Kleine wijzigingen
 * OIN-Stelsel [issue #10] [Sub-OIN Beheerder](https://github.com/Logius-standaarden/OIN-Stelsel/issues/10) (20 december 2022), _Status: In review_
+  * [Wijzigingsvoorstel](https://github.com//Logius-standaarden/OIN-Stelsel/pull/13/files)
 * OIN-Stelsel [issue #5] [RSIN of Kvk nummer leidend voor OIN?](https://github.com/Logius-standaarden/OIN-Stelsel/issues/5) (29 maart 2022), _Status: Klaar voor release_
   * [Wijzigingsvoorstel](https://github.com//Logius-standaarden/OIN-Stelsel/pull/7/files)
 
