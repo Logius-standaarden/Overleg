@@ -34,7 +34,7 @@
 
 ### ADR 2.0
 
-Peter Haasnoot: Van de standaard "API Design Rules" die bij het Kennisplatsform API's wordt ontwikkeld wordt momenteel versie 2.0 voorbereid. Deze zal binnenkort in consultatie gaan. De belangrijkste wijziging is de modulaire opbouw, waarbij de voorheen losse extensies nu in modules gegoten zijn om samenhang te bevorderen. Wanneer het door de benodigde gremia is goedgekeurd zal het Digikoppeling API profiel hierop worden aangepast.
+Peter Haasnoot: Van de standaard "API Design Rules" die bij het Kennisplatsform API's wordt ontwikkeld wordt momenteel versie 2.0 voorbereid. Deze zal binnenkort in consultatie gaan. De belangrijkste wijziging is de modulaire opbouw, waarbij de voorheen losse extensies nu in modules gegoten zijn om samenhang te bevorderen. Wanneer het door de benodigde gremia is goedgekeurd zal het Digikoppeling API profiel hierop worden aangepast. [Meer informatie over de conultatie is beschikbaar op de site van Geonovum].(https://www.geonovum.nl/over-geonovum/actueel/consultatie-api-first-en-verplichte-modules-api-design-rules)
 
 ### Vraag Kadaster: ebMS2-adapter
 
