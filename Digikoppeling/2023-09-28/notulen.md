@@ -120,7 +120,7 @@ Er ligt een keuze tussen twee standaarden of mogelijk een combinatie. Naar verwa
 
 Tom Vijlbrief: Wij gebruiken allerlei AdES-standaarden (XAdES, PadES), maar nog geen JAdES.
 
-Elze Pauw: Binnen UWV gebruiken wij nog geen JAdES, maar gaan wij nu wel een proof-of-concept opzetten. Gekeken wordt naar mogelijke beperkingen binnen onze API Gateway. Terugkoppeling volgt.
+Elzo Pauw: Binnen UWV gebruiken wij nog geen JAdES, maar gaan wij nu wel een proof-of-concept opzetten. Gekeken wordt naar mogelijke beperkingen binnen onze API Gateway. Terugkoppeling volgt.
 
 Karl de Boer: Geen ervaring met Jades, afhankelijk van het besluit zullen wij dit direct implementeren.
 
