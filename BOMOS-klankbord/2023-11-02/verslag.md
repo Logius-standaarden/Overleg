@@ -1,6 +1,6 @@
 # Verslag BOMOS klankbord 26 juni 2023
 
-## Verslag vorige vergadering:  Overleg/BOMOS-klankbord/2023-06-29
+## [Verslag vorige vergadering](https://github.com/Logius-standaarden/Overleg/blob/main/BOMOS-klankbord/2023-06-29/Verslag.md)
 
 Goedgekeurd, verder geen opmerkingen of aanvullingen 
 
