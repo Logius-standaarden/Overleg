@@ -37,6 +37,8 @@ donderdag 2 november 2023
 ## Onderwerpen
 
 ### Kleine wijzigingen
+* BOMOS-Verdieping [issue #12] [Praktijkvoorbeelden toevoegen aan BOMOS de  verdieping ](https://github.com/Logius-standaarden/BOMOS-Verdieping/issues/12) (28 november 2022), _Status: In review_
+  * [Wijzigingsvoorstel](https://github.com//Logius-standaarden/BOMOS-Verdieping/pull/14/files)
 * BOMOS-Verdieping [issue #10] [Figuren aanpassen (tekst uit figuren en layout)](https://github.com/Logius-standaarden/BOMOS-Verdieping/issues/10) (23 november 2022), _Status: In bewerking_
 
 ### Overige punten
@@ -56,4 +58,6 @@ Logius heeft beheermodellen conform BOMOS opgesteld om de governance van de stan
 
 We hebben kennis genaakt met de open source programme officer van BZK en BOMOS in relatie tot open source besproken. We hebben de intentie een module *BOMOS voor open source* toe te voegen overeenkomstig de *stelsels* en *linked data* modules. 
 
-## Toelichting op de agenda
+## Wijzigingen
+
+De geagendeerde wijzingen zijn ter review open gehouden. Als het klankbord akkoord is met de wijzigingen kunnen deze gesloten worden.
