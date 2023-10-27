@@ -29,9 +29,10 @@ donderdag 2 november 2023
 
 | Tijd | Onderwerp |
 | --- | --- |
-| 11:00-11:15 | Welkom & Mededelingen        | 
-| 11:15-12:15 | Actiepunten en issues (github)  |
-| 12:15-12:30|  wvtt en afsluiten  |
+| 11:00-11:05 | Welkom en opening                          |
+| 11:05-11:30 | Verslag vorige vergadering en mededelingen | 
+| 11:30-12:15 | Actiepunten en issues (github)             |
+| 12:15-12:30 | Wvtt en afsluiten                          |
 
 ## Onderwerpen
 
@@ -49,8 +50,10 @@ donderdag 2 november 2023
 
 ### Beheermodellen Logius
 
-Logius heeft beheermodellen cnform 
+Logius heeft beheermodellen conform BOMOS opgesteld om de governance van de standaarden in overeenstemming het brengen met de governance van de GDI. We hebben ook een [template beheermodel voor onze standaarden](https://github.com/Logius-standaarden/Logius-Beheermodel).
 
 ### BOMOS en open source
+
+We hebben kennis genaakt met de open source programme officer van BZK en BOMOS in relatie tot open source besproken. We hebben de intentie een module *BOMOS voor open source* toe te voegen overeenkomstig de *stelsels* en *linked data* modules. 
 
 ## Toelichting op de agenda
