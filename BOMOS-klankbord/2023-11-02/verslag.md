@@ -1,4 +1,4 @@
-# Verslag BMOS klankbord 26 juni 2023
+# Verslag BOMOS klankbord 26 juni 2023
 
 ## Verslag vorige vergadering:  Overleg/BOMOS-klankbord/2023-06-29
 
@@ -12,34 +12,34 @@ TNO werkt mee aan een nieuwe versie van de International Data Space (IDS) standa
 
 ## Actiepunten:
 
-BOMOS-LinkedData [issue #11] De aanvullende modules zijn duidelijk met BOMOS verbonden maar hebben een eigen governance (05 Jan. 2023), Status: Gereed
+### BOMOS-LinkedData [issue #11] De aanvullende modules zijn duidelijk met BOMOS verbonden maar hebben een eigen governance (05 Jan. 2023), Status: Gereed
 Voor beide modules LinkedData en Stelsel volgende tekst toegevoegd: De aanvullende modules zijn nauw verbonden met BOMOS en hebben tegelijkertijd een eigen governancestructuur. Zo wordt er binnen de context van het bredere BOMOS-kader duidelijk gemaakt dat de genoemde modules hun eigen governancestructuur hebben. Dit biedt transparantie en verduidelijking aan de betrokken partijen en stakeholders, zodat zij begrijpen dat hoewel er een verbinding bestaat met BOMOS, deze modules afzonderlijk worden beheerd en bestuurd.
 
-BOMOS-Verdieping Kwaliteitsinstrument: [issue #18] Text over kwaliteitsinstrument herzien (03 Jan. 2023), Status: In review Wijzigingsvoorstel
+### BOMOS-Verdieping Kwaliteitsinstrument: [issue #18] Text over kwaliteitsinstrument herzien (03 Jan. 2023), Status: In review Wijzigingsvoorstel
 Het tekstvoorstel voor het kwaliteitsinstrument is gereed om als definitieve versie te worden gepubliceerd. We zijn echter altijd open voor feedback en verbeteringen. Indien er opmerkingen of suggesties naar voren komen, nodigen we iedereen uit om deze via GitHub te delen door middel van het aanmaken van een 'issue'. Op die manier kunnen we de ontvangen feedback adequaat oppakken en eventuele verdere aanpassingen doorvoeren.
 Praktijdvoorbeelden en kwaliteitsintrument-tekst is voor nu gemerged in develop. Dus dit zijn de links naar de nieuwe development versies:
-BOMOS, het fundament (logius-standaarden.github.io)
-BOMOS Deel 2: de verdieping (logius-standaarden.github.io)
+- BOMOS, het fundament (logius-standaarden.github.io)
+- BOMOS Deel 2: de verdieping (logius-standaarden.github.io)
 
-BOMOS-Verdieping Praktijkvoorbeelden [issue #12] Praktijkvoorbeelden toevoegen aan BOMOS de verdieping (28 Nov. 2022), Status: In review Wijzigingsvoorstel
+### BOMOS-Verdieping Praktijkvoorbeelden [issue #12] Praktijkvoorbeelden toevoegen aan BOMOS de verdieping (28 Nov. 2022), Status: In review Wijzigingsvoorstel
 @klankbordleden worden vriendelijk verzocht om gedurende de komende periode een actieve rol te spelen bij het reviewen van de praktijkvoorbeelden. De deadline voor het afronden van de reviews en het bereiken van consensus is gesteld op 1 september. 
 Praktijdvoorbeelden en kwaliteitsintrument-tekst is gemerged in develop. Dus dit zijn de links naar de nieuwe development versies:
 BOMOS, het fundament (logius-standaarden.github.io)
 BOMOS Deel 2: de verdieping (logius-standaarden.github.io)
 
-BOMOS-Verdieping Breng verwijzing naar sectie 3.2  [issue #13] Breng verwijzing naar sectie 3.2 Architectuur aan in sectie 4.1.7 (04 Dec. 2022), Status: Gereed
+### BOMOS-Verdieping Breng verwijzing naar sectie 3.2  [issue #13] Breng verwijzing naar sectie 3.2 Architectuur aan in sectie 4.1.7 (04 Dec. 2022), Status: Gereed
 huidige tekst:
 In een ander deel wordt dieper ingegaan op de relatie met andere standaarden.
 suggestie:
 In sectie 3.2 wordt dieper ingegaan op de relatie met andere standaarden.
 Verwijzing aangebracht en afgesloten. zie 4.1.7 “relatie met andere standaarden”
 
-## BOMOS-Verdieping Lifecyclemanagement [issue #22] Lifecyclemanagement van standaarden in BOMOS (05 Jan. 2023), Status: In review
+### BOMOS-Verdieping Lifecyclemanagement [issue #22] Lifecyclemanagement van standaarden in BOMOS (05 Jan. 2023), Status: In review
 De architecten hebben aangegeven dat Lifecycle Management een belangrijk aspect is dat moet worden opgenomen in BOMOS.   
 Binnen BOMOS wordt lifecyclemanagment al beschreven alleen is het belangrijk om een integrale context te bieden voor het onderwerp LifecycleManagement, met specifieke aandacht voor ondersteuning van nieuwe versies en de uitfasering van bestaande versies. Het is van belang om een samenhangende benadering te hanteren om ervoor te zorgen dat alle relevante aspecten worden behandeld.
 De klankbordleden worden vriendelijk verzocht om gedurende de komende periode een actieve rol te spelen bij het reviewen. Voor het afronden van de reviews en het bereiken van consensus over lifecyclemanagement wordt een deadline gesteld van 1 september.
 
-## BOMOS-Verdieping Figuren [issue #10] Figuren aanpassen (tekst uit figuren en layout) (23 Nov. 2022), Status: In bewerking
+### BOMOS-Verdieping Figuren [issue #10] Figuren aanpassen (tekst uit figuren en layout) (23 Nov. 2022), Status: In bewerking
 Voor de vormgeving van de figuren in BOMOS werken we samen met een vormgevingsbureau. Hierbij wordt er zorgvuldig aandacht besteed aan het voldoen aan de toegankelijkheidseisen, evenals de richtlijnen van de Rijkshuisstijl en de Logiushuisstijl. Door deze samenwerking zorgen we ervoor dat de figuren binnen BOMOS niet alleen esthetisch aantrekkelijk zijn, maar ook consistent en in lijn met de geldende richtlijnen en normen. Daarnaast wordt er tevens gekeken naar mogelijke nieuwe figuren die goed passen bij BOMOS. Deze aanvulling wordt meegenomen als actiepunt, waarbij de deadline is gesteld op 1 september. Op die manier streven we ernaar om BOMOS te verrijken met relevante en passende nieuwe figuren. 
 
 ## BOMOS papieren versie: 
