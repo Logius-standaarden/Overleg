@@ -16,3 +16,8 @@ Links naar de aangepaste documenten:
 
 ## Figuren
 
+De figuren in Fundament en Verdieping zijn aangepast om te voldoen aan digitoegankelijkheidscriteria.
+
+Gewijzigde (en oorspronkelijke) figuren staan in twee pull requests:
+- [BOMOS Fundament](https://github.com/Logius-standaarden/BOMOS-Fundament/pull/20/files?short_path=e700cdb#diff-e700cdbc4e64f7c32e5d1acf1bc24dc97f63f72a9c127cc5ea642b5daa119ef3)
+- [BOMOS Verdieping](https://github.com/Logius-standaarden/BOMOS-Verdieping/pull/20/files?short_path=75b97fe#diff-75b97fe2be1953715b6c674a83eb404a8956a938e6855c23ad5cc5d0f1ad3ac9)
