@@ -6,6 +6,8 @@ Logius heeft beheermodellen conform BOMOS opgesteld om de governance van de stan
 
 We hebben kennis genaakt met de open source programme officer van BZK en BOMOS in relatie tot open source besproken. We hebben de intentie een module *BOMOS voor open source* toe te voegen overeenkomstig de *stelsels* en *linked data* modules. We denkan dat de BOMOS principes kunnen helpen om vanuit strategische en tactische lagen de ontwikkeling van open source code sturing te kunnen geven. 
 
+Vraag aan het TO: is er belangstelling mee te werken aan een mogelijke module _open source_?
+
 ## Wijzigingen
 
 De geagendeerde wijzingen zijn ter review open gehouden. Als het klankbord akkoord is met de wijzigingen kunnen deze gesloten worden.
