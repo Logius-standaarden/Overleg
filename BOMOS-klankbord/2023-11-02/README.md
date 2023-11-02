@@ -39,7 +39,7 @@ donderdag 2 november 2023
 ## Onderwerpen
 
 ### Kleine wijzigingen
-* BOMOS-Verdieping [issue #18] [Text over kwaliteitsinstrument herzien](https://github.com/Logius-standaarden/BOMOS-Verdieping/issues/18) (3 januari 2023), _Status: In review_
+* BOMOS-Verdieping [issue #18] [Text over kwaliteitsinstrument herzien](https://github.com/Logius-standaarden/BOMOS-Verdieping/issues/18) (3 januari 2023), _Status: Gereed_
   * [Wijzigingsvoorstel](https://github.com//Logius-standaarden/BOMOS-Verdieping/pull/15/files)
 * BOMOS-Verdieping [issue #12] [Praktijkvoorbeelden toevoegen aan BOMOS de  verdieping ](https://github.com/Logius-standaarden/BOMOS-Verdieping/issues/12) (28 november 2022), _Status: In review_
   * [Wijzigingsvoorstel](https://github.com//Logius-standaarden/BOMOS-Verdieping/pull/14/files)
