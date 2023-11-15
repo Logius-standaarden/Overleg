@@ -24,9 +24,9 @@ Voorlopige agenda
 
 |  Tijd          | Over                                         | Door                       |
 |----------------|----------------------------------------------|----------------------------|
-|  10:30 - 10:35 | Welkom                                       | Logius                     |
-|  10:35 - 10:45 | Van TO notificeren naar TO CloudEvents       | Logius                     |
-|  10:45 - 11:00 | Issues en wijzigingsvoorstellen              |                            |
+|  09:30 - 09:35 | Welkom                                       | Logius                     |
+|  09:35 - 09:45 | Van TO notificeren naar TO CloudEvents       | Logius                     |
+|  09:45 - 10:00 | Issues en wijzigingsvoorstellen              |                            |
 
 ## Onderwerpen
 
