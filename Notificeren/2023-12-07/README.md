@@ -19,6 +19,13 @@
 # Notificeren
 
 donderdag 7 december 2023
+
+Voorlopige agenda
+
+|  Tijd  | Over                                         | Door                       |
+|--------|----------------------------------------------|----------------------------|
+|  10:30 | Welkom                                       | Logius                     |
+
 ## Onderwerpen
 
 ### Kleine wijzigingen
