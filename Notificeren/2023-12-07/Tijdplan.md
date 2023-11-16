@@ -3,5 +3,7 @@ Voorlopige agenda
 |  Tijd          | Over                                         | Door                       |
 |----------------|----------------------------------------------|----------------------------|
 |  09:30 - 09:35 | Welkom                                       | Logius                     |
-|  09:35 - 09:45 | Van TO notificeren naar TO CloudEvents       | Logius                     |
-|  09:45 - 10:00 | Issues en wijzigingsvoorstellen              |                            |
+| | Van TO notificeren naar TO CloudEvents       | Logius                     |
+| | Issues en wijzigingsvoorstellen              |                            |
+| | Presentatie: Kadaster over hun gebruik van de notificatiestandaard CloudEvents    | Dennis Nass, Kadaster |
+| | Presentatie: BRO toepassing binnen de overheid - notificatiestandaard CloudEvents | Sjaak Derksen, TNO    |
