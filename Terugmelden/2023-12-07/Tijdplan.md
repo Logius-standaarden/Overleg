@@ -2,5 +2,6 @@ Voorlopige agenda
 
 |  Tijd          | Over                                                          | Door                       |
 |----------------|---------------------------------------------------------------|----------------------------|
-|  10:30         | Welkom                                                        | Logius                     |
-|  10:35 - 11:00 | Van DMKS naar technische standaarden, laatste TO terugmelden? | Logius                     |
+|  10:30         | Welkom en mededelingen                                        | Logius                     |
+|  10:35 - 10:50 | Van DMKS naar technische standaarden, laatste TO terugmelden? | Edwin Wisse, Logius        |
+|                | Praatplaat terugmelden                                        | Bas Kooij, Logius          |
