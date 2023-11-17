@@ -1,3 +1,3 @@
-## Toelichting 
+## Mededelingen en mail
 
-Toelichting op de agenda
+Binnengekomen mail met vraag (en antwoord) over het beheerproces: [mail Ad Gerrits, 28 augustus](mail.md)
