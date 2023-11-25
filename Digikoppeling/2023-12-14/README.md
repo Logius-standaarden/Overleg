@@ -18,27 +18,26 @@
 ----------------------------->
 # Technisch Overleg Digikoppeling
 
-donderdag 28 september 2023
+donderdag 14 december 2023
 
 ## Agenda
 
 |  |   |
 |------------------------|-------------------------------------| 
 | Betreft  | **Technisch Overleg Digikoppeling** |
-| Vergaderdatum en -tijd | 28-09-2023 - 10:00-11:30 uur  |
+| Vergaderdatum en -tijd | 14-12-2023 - 11:00-12:00 uur  |
 | Vergaderplaats  | Microsoft Teams |
 
 
 | Tijd | Onderwerp |
 | --- | --- |
-| 10:00 | Welkom & Mededelingen        |    
-| 10:05 | Consultatie eDelivery AS4 profile 2.0                        | 
-| 10:10 | eDelivery EBMS3/AS4 stakeholderonderzoek (PBLQ) |
-| 10:40 | Grote en kleine wijzigingen -zie onderstaand |
-| 10:50 | Roadmap: huidig 2023-Q4  & nieuw (concept) 2024-2025 |
-| 11:05 | Stand van zaken FSC |
-| 11:15 | OIN stelsel ontwikkelingen  | 
-| 11:25 | Rondvraag / Afsluiting |
+| 11:00 | Welkom & Mededelingen        |    
+| 11:05 | eDelivery EBMS3/AS4 stakeholderonderzoek (PBLQ) |
+| 11:30 | Grote en kleine wijzigingen -zie onderstaand |
+| 11:40 | Roadmap: (concept) 2024-2025 |
+| - | Stand van zaken FSC |
+| - | OIN stelsel ontwikkelingen  | 
+| 11:55 | Rondvraag / Afsluiting |
 
 ## Onderwerpen
 
@@ -47,10 +46,9 @@ donderdag 28 september 2023
 * Digikoppeling-Koppelvlakstandaard-ebMS2 [issue #6] [Digikoppeling baseren op ebMS3](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-ebMS2/issues/6) (3 februari 2022), _Status: In onderzoek_
 
 ### Kleine wijzigingen
+* Digikoppeling-Beveiligingsstandaarden-en-voorschriften [issue #4] [[ebcore] Additional XML Security Uniform Resource Identifiers (URIs)](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/issues/4) (24 oktober 2023)
 * OIN-Stelsel [issue #10] [Sub-OIN Beheerder](https://github.com/Logius-standaarden/OIN-Stelsel/issues/10) (20 december 2022), _Status: In review_
   * [Wijzigingsvoorstel](https://github.com//Logius-standaarden/OIN-Stelsel/pull/13/files)
-* OIN-Stelsel [issue #5] [RSIN of Kvk nummer leidend voor OIN?](https://github.com/Logius-standaarden/OIN-Stelsel/issues/5) (29 maart 2022), _Status: Klaar voor release_
-  * [Wijzigingsvoorstel](https://github.com//Logius-standaarden/OIN-Stelsel/pull/7/files)
 
 ### Overige punten
 * Digikoppeling-Koppelvlakstandaard-REST-API [issue #11] [Signing & Encryptie toevoegen aan RESTful API profiel](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/11) (1 april 2022), _Status: In onderzoek_
@@ -83,16 +81,6 @@ _Graag de mening van het TO over de geschiktheid van de JAdES signing module voo
 
 
 
-### Consultatie eDelivery AS4 profile 2.0                        
-
-_Last call_
-
-The eDelivery team is opening two Public Consultations on the new draft Specifications of the [eDelivery AS4 profile 2.0](https://ec.europa.eu/digital-building-blocks/wikis/x/NabXGw) and [eDelivery SMP profile 2.0](https://ec.europa.eu/digital-building-blocks/wikis/x/xqfXGw). The proposed changes have already been presented in early May 2023 during the [eDelivery Informal Cooperation Forum](https://ec.europa.eu/digital-building-blocks/wikis/x/Wi7ZJw) ([slides available here](https://europa.eu/!q6vcQG)) and now members of the eDelivery community are invited to share their views, comments and suggestions on both proposals before the specifications are finalised and published.  
-
-The community is invited to either post its feedback as comments on the public consultation pages linked underneath or send it by email to EC-EDELIVERY-SUPPORT@ec.europa.eu by the 20th October 2023.
-
-Zie https://ec.europa.eu/digital-building-blocks/wikis/display/DIGITAL/2023/06/16/Your+views+are+important%3A+consultation+on+AS4+2.0+and+SMP+2.0
-
 ### eDelivery EBMS3/AS4 stakeholderonderzoek 
 
 Logius heeft opdracht gegeven voor het uitvoeren van een stakeholder onderzoek naar de impact van 
@@ -120,7 +108,6 @@ _Verzoek aan het TO is commentaar en aanvullingen te geven op de opgenomen conce
 
 ### Stand van zaken FSC 
 
-Toelichting door FSC
 
 ### OIN stelsel ontwikkelingen
 
