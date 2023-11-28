@@ -1,7 +1,7 @@
 
 ### Mededelingen
 
-- ADR 2.0 in consultatie incl. modulaire opbouw , Digikoppeling REST API profiel zal hierop worden aangepast
+- ADR 2.0 in consultatie geweest incl. modulaire opbouw , Digikoppeling REST API profiel zal hierop worden aangepast
 
 
 ### Toelichting bij Overige Punten
