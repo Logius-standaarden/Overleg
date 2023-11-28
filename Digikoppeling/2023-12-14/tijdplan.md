@@ -11,8 +11,6 @@
 | --- | --- |
 | 11:00 | Welkom & Mededelingen        |    
 | 11:05 | eDelivery EBMS3/AS4 stakeholderonderzoek (PBLQ) |
-| 11:30 | Roadmap: (concept) 2024-2025 |
-| 11:40 | Grote en kleine wijzigingen -zie onderstaand |
-| - | Stand van zaken FSC |
-| - | OIN stelsel ontwikkelingen  | 
+| 11:35 | Grote en kleine wijzigingen -zie onderstaand |
+| 11:40 | Roadmap: (concept) 2024-2025 |
 | 11:55 | Rondvraag / Afsluiting |
