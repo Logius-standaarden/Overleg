@@ -60,7 +60,7 @@ donderdag 14 december 2023
 ### Mededelingen
 
 - ADR 2.0 in consultatie geweest incl. modulaire opbouw , Digikoppeling REST API profiel zal hierop worden aangepast
-
+- Digipoort is onderzoek en voorbereiding aan het doen naar toepassing van APIs binnen de Digipoort koppelvlakken op basis van eDelivery REST.
 
 ### Toelichting bij Overige Punten
 
