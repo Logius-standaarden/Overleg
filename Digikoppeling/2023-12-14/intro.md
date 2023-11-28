@@ -2,8 +2,7 @@
 ### Mededelingen
 
 - ADR 2.0 in consultatie incl. modulaire opbouw , Digikoppeling REST API profiel zal hierop worden aangepast
-- EBMS2 Vraag kadaster - Welke partijen gebruiken Clockwork ebMS?
--  Ontwikkelingen rond Compliance voorzieningen API/WUS/ebMS 
+
 
 ### Toelichting bij Overige Punten
 
@@ -29,20 +28,12 @@ Logius heeft opdracht gegeven voor het uitvoeren van een stakeholder onderzoek n
 een overgang naar een eDelivery koppelvlakspecificatie voor Digikoppeling. Dit onderzoek wordt 
 uitgeveord door PBLQ. Peter Seignette van PBLQ ligt het onderzoek kort toe.
 
-### Roadmap: huidig 2023-Q4  & nieuw (concept) 2024-2025
-
-#### Huidige Roadmap 2022-2023
-Zie voor geactualiseerde tijdlijn Roadmap Q4 :
-
-https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/update_Q4/Digikoppeling_Roadmap_2022_2023.md
-
-_Bij akkoord van het TO voor de bijgewerkte Roadmap , zal deze versie worden gepubliceerd_
 
 
-(Dikgedrukt zijn de lopende onderdelen)
 
-#### Concept Roadmap 2024-2025
-https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2022_2023.md
+
+### Concept Roadmap 2024-2025
+https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2024_2025.md
 
 
 _Verzoek aan het TO is commentaar en aanvullingen te geven op de opgenomen concept onderwerpen - Deze zullen nog begin 2024 definitief door het TO worden vastgesteld_
