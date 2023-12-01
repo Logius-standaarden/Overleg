@@ -45,8 +45,6 @@ donderdag 14 december 2023
 
 ### Kleine wijzigingen
 * Digikoppeling-Beveiligingsstandaarden-en-voorschriften [issue #4] [[ebcore] Additional XML Security Uniform Resource Identifiers (URIs)](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/issues/4) (24 oktober 2023)
-* OIN-Stelsel [issue #10] [Sub-OIN Beheerder](https://github.com/Logius-standaarden/OIN-Stelsel/issues/10) (20 december 2022), _Status: In review_
-  * [Wijzigingsvoorstel](https://github.com//Logius-standaarden/OIN-Stelsel/pull/13/files)
 
 ### Overige punten
 * Digikoppeling-Koppelvlakstandaard-REST-API [issue #11] [Signing & Encryptie toevoegen aan RESTful API profiel](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/11) (1 april 2022), _Status: In onderzoek_
