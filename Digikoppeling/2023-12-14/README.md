@@ -72,7 +72,7 @@ Laatste ontwikkelingen:
 1.	(markdown) https://github.com/Geonovum/KP-APIs/blob/add-module-signing-jades/API-strategie-modules/signing-jades/ch01.md
 2.	(pdf) https://github.com/Geonovum/KP-APIs/blob/add-module-signing-jades/API-strategie-modules/signing-jades/print-module-signing-jades.pdf
 
-_Graag de mening van het TO over de geschiktheid van de JAdES signing module voor het Digikoppeling REST API profiel_
+_Vraag aan het TO : zijn er op dit gebied ontwikkelingen binnen de eigen organisatie? (of specifiek op gebied van JAdES of Message Signatures?)_
 
 
 
@@ -80,7 +80,7 @@ _Graag de mening van het TO over de geschiktheid van de JAdES signing module voo
 
 Logius heeft opdracht gegeven voor het uitvoeren van een stakeholder onderzoek naar de impact van 
 een overgang naar een eDelivery koppelvlakspecificatie voor Digikoppeling. Dit onderzoek wordt 
-uitgeveord door PBLQ. Peter Seignette van PBLQ ligt het onderzoek kort toe.
+uitgevoerd door PBLQ. Peter Seignette van PBLQ ligt het onderzoek kort toe.
 
 
 
@@ -92,13 +92,3 @@ https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2
 
 _Verzoek aan het TO is commentaar en aanvullingen te geven op de opgenomen concept onderwerpen - Deze zullen nog begin 2024 definitief door het TO worden vastgesteld_
 
-
-### Stand van zaken FSC 
-
-
-### OIN stelsel ontwikkelingen
-
-- Datakwaliteit
-- Samenhang met Bronregistraties
-- Gebruik van OIN, bv in PKIO, eHerkenning , PEPPOL eDelivery
-- Rol van OIN register
