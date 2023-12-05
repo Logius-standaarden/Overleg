@@ -6,8 +6,8 @@
 
 
 
-   Dit bestand wordt automatisch gegenereerd.
-   Handmatige toevoegingen worden overschreven.
+   :warning: Dit bestand wordt automatisch gegenereerd.
+   :warning: Handmatige toevoegingen worden overschreven.
 
 
 
