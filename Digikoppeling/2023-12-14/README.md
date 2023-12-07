@@ -40,11 +40,11 @@ donderdag 14 december 2023
 ## Onderwerpen
 
 ### Grote wijzigingen
-* Digikoppeling-Beheermodel [issue #3] [Aanpassing beheermodel op BOMOS principes en MIDO governance](https://github.com/Logius-standaarden/Digikoppeling-Beheermodel/issues/3) (16 maart 2022), _Status: Gereed_
 * Digikoppeling-Koppelvlakstandaard-ebMS2 [issue #6] [Digikoppeling baseren op ebMS3](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-ebMS2/issues/6) (3 februari 2022), _Status: In onderzoek_
 
 ### Kleine wijzigingen
 * Digikoppeling-Beveiligingsstandaarden-en-voorschriften [issue #4] [[ebcore] Additional XML Security Uniform Resource Identifiers (URIs)](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/issues/4) (24 oktober 2023)
+  * [Wijzigingsvoorstel](https://github.com//Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/pull/5/files)
 
 ### Overige punten
 * Digikoppeling-Koppelvlakstandaard-REST-API [issue #11] [Signing & Encryptie toevoegen aan RESTful API profiel](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/11) (1 april 2022), _Status: In onderzoek_
