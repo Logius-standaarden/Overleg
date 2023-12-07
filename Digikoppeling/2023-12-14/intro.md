@@ -28,6 +28,8 @@ Logius heeft opdracht gegeven voor het uitvoeren van een stakeholder onderzoek n
 een overgang naar een eDelivery koppelvlakspecificatie voor Digikoppeling. Dit onderzoek wordt 
 uitgevoerd door PBLQ. Peter Seignette van PBLQ ligt het onderzoek kort toe.
 
+_Zie Rapport "Impactanalyse modernisering Digikoppeling ebMS - van ebMS2 naar eDelivery" (stuk volgt)_
+
 
 
 
