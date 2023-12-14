@@ -76,7 +76,7 @@ De standaard is omgezet van IETF-formaat naar een formaat dat meer in samenloopt
 
 #### Best practice Gebruik OAuth icm Digikoppeling REST_API
 
-Oauth 2.0 biedt mogelijkheden tot gedetaileerde rechtendelegatie. Er is een Nederlands profiel geschreven op deze standaard (NLGOV). Hierin mist nog de Client Credentials Flow voor Machine-to-Machine-verkeer. Er staat een wijzigingsvoorstel klaar om deze toe te voegen. Wanneer dit gedaan is zou het als autorisatieoptie aan het REST API koppelvlak van Digikoppeling toegevoegd kunnen worden. Een Best Practice document staat voor de tweede helft van 2024 in de planning.
+Oauth 2.0 biedt mogelijkheden tot gedetaileerde rechtendelegatie. Er is een Nederlands profiel geschreven op deze standaard ([NL GOV Assurance profile for OAuth 2.0](https://gitdocumentatie.logius.nl/publicatie/api/oauth/)). Hierin mist nog de Client Credentials Flow voor Machine-to-Machine-verkeer. Er staat een wijzigingsvoorstel klaar om deze toe te voegen. Wanneer dit gedaan is zou het als autorisatieoptie aan het REST API koppelvlak van Digikoppeling toegevoegd kunnen worden. Een Best Practice document staat voor de tweede helft van 2024 in de planning.
 
 Edward van Gelderen merkt op dat dit enorme raakvlakken heeft met FSC.
 
