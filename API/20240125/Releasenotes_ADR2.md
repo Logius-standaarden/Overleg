@@ -1,8 +1,10 @@
-# Releasenotes API Design Rules versie 2.0.0-rc.1 (ADR2)
+# Releasenotes API Design Rules versie 2.0.0-rc.2 (ADR2)
 
 ## Inleiding
 Op 09-07-2020 is besloten om versie 1.0 van de API Design Rules "Verplicht" te stellen op de lijst van open standaarden van het forum standaardisatie. zie ook https://forumstandaardisatie.nl/open-standaarden/rest-api-design-rules
-In samenwerking met het Kennisplatform APIs is afgelopen jaren gewerkt om de designrules modulair op te zetten, nauw te verbinden met de tests op developer.overheid.nl en verschillende kleine verbeteringen door te voeren. Deze werkzaamheden hebben geleid tot deze nieuwe versie 2 Die nu wordt gedeeld in een publieke consultatie van 06-10-2023 tot 06-11-2023.
+In samenwerking met het Kennisplatform APIs is afgelopen jaren gewerkt om de designrules modulair op te zetten, nauw te verbinden met de tests op developer.overheid.nl en verschillende kleine verbeteringen door te voeren. Deze werkzaamheden hebben geleid tot deze nieuwe versie 2.
+Deze versie is in een publieke consultatie van 06-10-2023 tot 06-11-2023 beoordeeld door de betrokkenen van het kennisplatform API's.
+Op 25-01-2024 is de feedback van de consultatie toegelicht in de Werkgroep en daar is besloten de laatste aanpassingen te verwerken in release candidate 2 en deze aan te melden bij Forum Standaardisatie voor opname op de lijst verplichte standaarden.
 
 ## Samenvatting wijzigingen
 
