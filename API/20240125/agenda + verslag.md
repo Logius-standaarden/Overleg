@@ -1,29 +1,24 @@
-# Agenda en Verslag 
+# Agenda en Verslag
 
-Agenda en Verslag van de Werkgroep API Design Rules 5 september 2023 - Online overleg via MS-Teams 14:00 - 15:30 uur. 
+Agenda en Verslag van de Werkgroep API Design Rules 25 januari 2024 - Online overleg via Webex 11:00 - 12:00 uur.
 
-## Deelnemers 
-- Pieter Dijkstra (Kadaster)
-- Joost Farla (Geonovum)
-- Alexander Green (Logius)
-- Edwin Wisse (Logius) 
-- Martin van der Plas (Logius) 
-- Paul dan der Zijden (Gemeente Rotterdam)
+## Deelnemers
 
+- Martin van der Plas (Logius)
+- Lizzy Wellink (Logius)
+-
 
 ## Agenda/Verslag
 
-1. Opening, welkom 
+1. Opening, welkom en mededelingen
    
-2. Bespreken API designrules versie 2.0 
-   Martin neemt de aanwezigen mee door de nieuwe versie van de API designrules. Zie: https://github.com/Geonovum/KP-APIs/blob/master/overleggen/Werkgroep%20API%20design%20rules/Verslagen/20230905/Releasenotes_ADR2.md 
-   De werkgroep gaat akkoord met alle voorstellen. Bij enkele voorstellen vindt nog een review plaats. 
-   
-3. Rondvraag
-   Joost geeft aan dat er twee werkgroepen worden opgestart. 
-   - Filtering 
-   - Orchestration
-
-Joost stelt een tekst op voor een uitvraag voor deelnemers aan deze werkgroepen. Pieter stuurt deze uitvraag vervolgens toe aan de deelnemers van de werkgroep.   
-   
-4. Sluiting
+2. Toelichting feedback Publieke consultatie
+3. Wijzigingen in v2.0.0-rc.2 (https://gitdocumentatie.logius.nl/publicatie/api/adr/2.0.0-rc.2/ )
+   -      Aanpassing titel
+   -      Bijgewerkte links naar testset
+4. Te nemen besluiten:
+   -      Akkoord laatste 2 wijzigingen in rc.2
+   -      Aanmelden bij het MIDO
+   -      Aanmelden bij Buro Forum Standaardisatie
+5. SemVer voor de normatieve modules
+6. Sluiting
