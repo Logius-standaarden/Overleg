@@ -27,8 +27,6 @@ woensdag 6 maart 2024
 * Digikoppeling-Koppelvlakstandaard-ebMS2 [issue #6] [Digikoppeling baseren op ebMS3](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-ebMS2/issues/6) (3 februari 2022), _Status: In onderzoek_
 
 ### Kleine wijzigingen
-* Digikoppeling-Beveiligingsstandaarden-en-voorschriften [issue #4] [[ebcore] Additional XML Security Uniform Resource Identifiers (URIs)](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/issues/4) (24 oktober 2023)
-  * [Wijzigingsvoorstel](https://github.com//Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/pull/5/files)
 * OIN-Stelsel [issue #5] [RSIN of Kvk nummer leidend voor OIN?](https://github.com/Logius-standaarden/OIN-Stelsel/issues/5) (29 maart 2022), _Status: Klaar voor release_
   * [Wijzigingsvoorstel](https://github.com//Logius-standaarden/OIN-Stelsel/pull/7/files)
 
