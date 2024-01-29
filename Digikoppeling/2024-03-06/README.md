@@ -25,19 +25,22 @@ woensdag 6 maart 2024
 |  |   |
 |------------------------|-------------------------------------| 
 | Betreft  | **Technisch Overleg Digikoppeling** |
-| Vergaderdatum en -tijd | 06-03-2024 - 11:00-14:00 uur  |
-| Vergaderplaats  | Microsoft Teams |
+| Vergaderdatum en -tijd | 06-03-2024 - 10:00-14:00 uur  |
+| Vergaderplaats  | Beatrix gebouw - Jaarbeursplein 6 - Utrecht - |
 
 
 | Tijd | Onderwerp |
 | --- | --- |
-| 11:00 | Welkom & Mededelingen        |    
-| 11:05 | FSC : Federated Service Connectivity |
+| 10:00 | Inloop        | 
+| 10:30 | Welkom & Mededelingen        |    
+| 10:40 | FSC : Federated Service Connectivity (presentatie) |
+| 11:10 | FSC : Federated Service Connectivity (discussie) |
 | 12:00 | Lunch|
-| 12:30 | eDelivery EBMS3/AS4 stakeholderonderzoek (PBLQ) |
-| 11:35 | Grote en kleine wijzigingen -zie onderstaand |
-| 11:40 | Roadmap: (concept) 2024-2025 |
-| 11:55 | Rondvraag / Afsluiting |
+| 12:45 | Advies tav FSC aan Programmeringstafel GU |
+| 13:10 | Grote en kleine wijzigingen -zie onderstaand |
+| 13:30 | Roadmap: (concept) 2024-2025 |
+| 13:45 | Rondvraag / Afsluiting |
+| 14:00 | Einde |
 
 ## Onderwerpen
 
