@@ -6,7 +6,7 @@ Agenda en Verslag van de Werkgroep API Design Rules 25 januari 2024 - Online ove
 
 - Martin van der Plas (Logius)
 - Lizzy Wellink (Logius)
--Joost Farla (Geonovum)
+- Joost Farla (Geonovum)
 - Alexander Green (Logius)
 - Edwin Wisse (Logius)
 - Peter Haasnoot (Logius)
