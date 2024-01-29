@@ -14,7 +14,7 @@
 | 10:40 | FSC : Federated Service Connectivity (presentatie) |
 | 11:10 | FSC : Federated Service Connectivity (discussie) |
 | 12:00 | Lunch|
-| 12:35 | Advies tav FSC aan Programmeringstafel GU |
+| 12:30 | Advies tav FSC aan Programmeringstafel GU |
 | 12:55 | Grote en kleine wijzigingen -zie onderstaand |
 | 13:10 | Roadmap: (concept) 2024-2025 |
 | 13:25 | Rondvraag / Afsluiting |
