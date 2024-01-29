@@ -25,19 +25,22 @@ woensdag 6 maart 2024
 |  |   |
 |------------------------|-------------------------------------| 
 | Betreft  | **Technisch Overleg Digikoppeling** |
-| Vergaderdatum en -tijd | 06-03-2024 - 11:00-14:00 uur  |
-| Vergaderplaats  | Microsoft Teams |
+| Vergaderdatum en -tijd | 06-03-2024 - 10:00-14:00 uur  |
+| Vergaderplaats  | Beatrix gebouw - Jaarbeursplein 6 - Utrecht - |
 
 
 | Tijd | Onderwerp |
 | --- | --- |
-| 11:00 | Welkom & Mededelingen        |    
-| 11:05 | FSC : Federated Service Connectivity |
+| 10:00 | Inloop        | 
+| 10:30 | Welkom & Mededelingen        |    
+| 10:40 | Wijzigingsvoorstel FSC : Federated Service Connectivity (presentatie) |
+| 11:10 | Wijzigingsvoorstel FSC : Federated Service Connectivity (discussie) |
 | 12:00 | Lunch|
-| 12:30 | eDelivery EBMS3/AS4 stakeholderonderzoek (PBLQ) |
-| 11:35 | Grote en kleine wijzigingen -zie onderstaand |
-| 11:40 | Roadmap: (concept) 2024-2025 |
-| 11:55 | Rondvraag / Afsluiting |
+| 12:45 | Wijzigingsvoorstel FSC : Advies TO aan Programmeringstafel GU t.a.v. FSC |
+| 13:10 | Grote en kleine wijzigingen -zie onderstaand |
+| 13:30 | Roadmap 2024-2025 |
+| 13:45 | Rondvraag / Afsluiting |
+| 14:00 | Einde |
 
 ## Onderwerpen
 
@@ -45,10 +48,6 @@ woensdag 6 maart 2024
 * Digikoppeling-Koppelvlakstandaard-REST-API [issue #26] [Federatieve Service Connectiviteit opnemen in het Digikoppeling voor REST API's profiel](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/26) (18 december 2023), _Status: In onderzoek_
   * [Wijzigingsvoorstel](https://github.com//Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/pull/27/files)
 * Digikoppeling-Koppelvlakstandaard-ebMS2 [issue #6] [Digikoppeling baseren op ebMS3](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-ebMS2/issues/6) (3 februari 2022), _Status: In onderzoek_
-
-### Kleine wijzigingen
-* OIN-Stelsel [issue #5] [RSIN of Kvk nummer leidend voor OIN?](https://github.com/Logius-standaarden/OIN-Stelsel/issues/5) (29 maart 2022), _Status: Klaar voor release_
-  * [Wijzigingsvoorstel](https://github.com//Logius-standaarden/OIN-Stelsel/pull/7/files)
 
 ### Overige punten
 * Digikoppeling-Koppelvlakstandaard-GB [issue #13] [Gebruik van de S3 protocol om de payload te uploaden/downloaden](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-GB/issues/13) (15 januari 2024)
