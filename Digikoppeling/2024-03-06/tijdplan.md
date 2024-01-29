@@ -11,8 +11,8 @@
 | --- | --- |
 | 10:00 | Inloop        | 
 | 10:30 | Welkom & Mededelingen        |    
-| 10:40 | FSC : Federated Service Connectivity (presentatie) |
-| 11:10 | FSC : Federated Service Connectivity (discussie) |
+| 10:40 | Wijzigingsvoorstel FSC : Federated Service Connectivity (presentatie) |
+| 11:10 | Wijzigingsvoorstel FSC : Federated Service Connectivity (discussie) |
 | 12:00 | Lunch|
 | 12:45 | Advies TO aan Programmeringstafel GU t.a.v. FSC|
 | 13:10 | Grote en kleine wijzigingen -zie onderstaand |
