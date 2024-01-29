@@ -4,7 +4,7 @@
 |------------------------|-------------------------------------| 
 | Betreft  | **Technisch Overleg Digikoppeling** |
 | Vergaderdatum en -tijd | 06-03-2024 - 10:00-14:00 uur  |
-| Vergaderplaats  | Microsoft Teams |
+| Vergaderplaats  | Beatrix gebouw - Jaarbeursplein 6 - Utrecht - |
 
 
 | Tijd | Onderwerp |
