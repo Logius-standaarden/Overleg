@@ -40,4 +40,4 @@ _Zie Rapport [Impactanalyse modernisering Digikoppeling ebMS - van ebMS2 naar eD
 ### Definitieve Roadmap 2024-2025 (geactualiseerd 31/1)
 https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2024_2025.md
 
-_Verzoek aan het TO is akoord te geven op de definieve roadmap , de roadmap zal vervolgens in de MIDO programmeringstafel Gegevensuitwisseling worden vastgesteld__
+_Verzoek aan het TO is akoord te geven op de definitieve roadmap , de roadmap zal vervolgens in de MIDO programmeringstafel Gegevensuitwisseling worden vastgesteld__
