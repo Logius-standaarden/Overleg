@@ -32,11 +32,8 @@ uitgevoerd door PBLQ. Peter Seignette van PBLQ ligt het onderzoek kort toe.
 _Zie Rapport [Impactanalyse modernisering Digikoppeling ebMS - van ebMS2 naar eDelivery](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2023-12-14/Rapport%20Impactanalyse%20modernisering%20Digikoppeling%20ebMS%20-%20definitief%208%20december%202023.pdf)_
 
 
-
-
-
-### Concept Roadmap 2024-2025
+(geactualiseerd 31/1)
+### Definitieve Roadmap 2024-2025
 https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2024_2025.md
 
-
-_Verzoek aan het TO is commentaar en aanvullingen te geven op de opgenomen concept onderwerpen - Deze zullen nog begin 2024 definitief door het TO worden vastgesteld_
+_Verzoek aan het TO is akoord te geven op de definieve roadmap , de roadmap zal vervolgens in de MIDO programmeringstafel Gegevensuitwisseling worden vastgesteld__
