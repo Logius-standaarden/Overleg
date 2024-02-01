@@ -15,7 +15,7 @@
 | 11:10 | Wijzigingsvoorstel FSC : Federated Service Connectivity (discussie) |
 | 12:00 | Lunch|
 | 12:45 | Wijzigingsvoorstel FSC : Advies TO aan Programmeringstafel GU t.a.v. FSC|| 
-| 13:10 | Grote en kleine wijzigingen -zie onderstaand <BR>          eDelivery ebMS3 Wijzigingsvoorstel JustID impactanalyse|Raymond Kers|
+| 13:10 | eDelivery ebMS3 Wijzigingsvoorstel JustID impactanalyse|Raymond Kers|
 | 13:30 | [Roadmap 2024-2025](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2024_2025.md#tijdlijn-roadmap-digikoppeling-standaarden) |Peter Haasnoot|
 | 13:45 | Rondvraag / Afsluiting |
 | 14:00 | Einde |
