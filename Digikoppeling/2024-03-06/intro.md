@@ -1,14 +1,12 @@
-TO DO / OUD !
 
 ### Mededelingen
 
-- ADR 2.0 in consultatie geweest incl. modulaire opbouw , Digikoppeling REST API profiel zal hierop worden aangepast
+- ADR versie 2.0 met modulaire opbouw en opname van modules Geo en Transport security wordt in het MIDO behandeld voor vaststelling. Het Digikoppeling REST API profiel zal worden aangepast voor aansluiting op de nieuwe versie
 - Digipoort is onderzoek en voorbereiding aan het doen naar toepassing van APIs binnen de Digipoort koppelvlakken op basis van eDelivery REST.
 
 ### Toelichting bij Overige Punten
 
-#### Signing & Encryptie toevoegen aan RESTful API profiel (geactualiseerd 31/1)
-
+#### Signing & Encryptie toevoegen aan RESTful API profiel 
 
 Werkgroep ADR Beveiliging (specifiek sub-werkgroep signing) heeft een vergelijking gemaakt van 2 standaarden voor signing van REST-API's :
 [Vergelijking REST API Signing Standaarden](https://geonovum.github.io/KP-APIs/publicaties/REST_API_Signing_Standaarden) 
@@ -27,8 +25,7 @@ In het Digikoppeling REST-API profiel zullen deze modules gebruikt worden icm me
 _Vraag aan het TO : zijn er op dit gebied ontwikkelingen binnen de eigen organisatie?_
 
 
-
-### eDelivery EBMS3/AS4 stakeholderonderzoek 
+### eDelivery EBMS3/AS4 stakeholderonderzoek  [TO DO]
 
 Logius heeft opdracht gegeven voor het uitvoeren van een stakeholder onderzoek naar de impact van 
 een overgang naar een eDelivery koppelvlakspecificatie voor Digikoppeling. Dit onderzoek wordt 
@@ -37,7 +34,7 @@ uitgevoerd door PBLQ. Peter Seignette van PBLQ ligt het onderzoek kort toe.
 _Zie Rapport [Impactanalyse modernisering Digikoppeling ebMS - van ebMS2 naar eDelivery](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2023-12-14/Rapport%20Impactanalyse%20modernisering%20Digikoppeling%20ebMS%20-%20definitief%208%20december%202023.pdf)_
 
 
-### Definitieve Roadmap 2024-2025 (geactualiseerd 31/1)
+### Definitieve Roadmap 2024-2025 
 https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2024_2025.md
 
 _Verzoek aan het TO is akoord te geven op de definitieve roadmap , de roadmap zal vervolgens in de MIDO programmeringstafel Gegevensuitwisseling worden vastgesteld__
