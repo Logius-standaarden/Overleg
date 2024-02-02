@@ -11,7 +11,7 @@
 | --- | --- | --- |
 | 10:00 | Inloop        | 
 | 10:30 | Welkom & Mededelingen        |    Peter Haasnoot |
-| 10:40 | Wijzigingsvoorstel FSC : Federated Service Connectivity (presentatie) |Edward van Gelderen |
+| 10:40 | Wijzigingsvoorstel FSC : [Federated Service Connectivity](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/26) (presentatie)] |Edward van Gelderen |
 | 11:10 | Wijzigingsvoorstel FSC : Federated Service Connectivity (discussie) |
 | 12:00 | Lunch|
 | 12:45 | Wijzigingsvoorstel FSC : Advies TO aan Programmeringstafel GU t.a.v. FSC|| 
