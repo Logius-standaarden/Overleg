@@ -20,7 +20,7 @@ Zie : https://geonovum.github.io/KP-APIs/publicaties/review/module-signing-jades
 Zie : https://github.com/Geonovum/KP-APIs/blob/add-module-encryption/API-strategie-modules/encryption/ch01.md
 
 Deze modules zijn toegevoegd aan de lijst optionele modules van de ADR van het Kennisplatform API's voor verdere uitwerking.
-In het Digikoppeling REST-API profiel zullen deze modules gebruikt worden icm met verdere profielering. 
+In het Digikoppeling REST-API profiel zullen deze modules gebruikt worden icm met verdere profilering. 
 
 _Vraag aan het TO : zijn er op dit gebied ontwikkelingen binnen de eigen organisatie?_
 
