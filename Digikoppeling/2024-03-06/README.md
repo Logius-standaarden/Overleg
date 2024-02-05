@@ -85,12 +85,7 @@ _Vraag aan het TO : zijn er op dit gebied ontwikkelingen binnen de eigen organis
 
 ### eDelivery EBMS3/AS4 stakeholderonderzoek  [TO DO]
 
-Logius heeft opdracht gegeven voor het uitvoeren van een stakeholder onderzoek naar de impact van 
-een overgang naar een eDelivery koppelvlakspecificatie voor Digikoppeling. Dit onderzoek wordt 
-uitgevoerd door PBLQ. Peter Seignette van PBLQ ligt het onderzoek kort toe.
-
-_Zie Rapport [Impactanalyse modernisering Digikoppeling ebMS - van ebMS2 naar eDelivery](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2023-12-14/Rapport%20Impactanalyse%20modernisering%20Digikoppeling%20ebMS%20-%20definitief%208%20december%202023.pdf)_
-
+PBLQ heeft een update van hun eindrapport opgeleverd met de input van JenV/Justid. _Zie Rapport [Impactanalyse modernisering Digikoppeling ebMS - van ebMS2 naar eDelivery, v1.1](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-03-06/Rapport%20Impactanalyse%20modernisering%20Digikoppeling%20ebMS%20-%20v1.1%20definitief%2019%20januari%202024.pdf). Logius heeft ontwikkelingen afgestemd met het EU eDelivery team.
 
 ### Definitieve Roadmap 2024-2025 
 https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2024_2025.md
