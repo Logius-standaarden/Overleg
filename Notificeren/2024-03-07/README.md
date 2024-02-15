@@ -26,7 +26,7 @@ Voorlopige agenda
 |--------|----------------------------------------------|----------------------------|
 |  10:00 | Welkom en mededelingen                                      | Logius                     |
 |  10:05 | Beheermodel API standaarden zie: toelichting              | Logius                     |
-| 10:10| Kleine wijzigingen
+| 10:10| Kleine wijzigingen | Logius |
 
 
 ## Onderwerpen
