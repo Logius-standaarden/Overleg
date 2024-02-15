@@ -19,6 +19,15 @@
 # Notificeren
 
 donderdag 7 maart 2024
+
+Voorlopige agenda
+
+|  Tijd  | Over                                         | Door                       |
+|--------|----------------------------------------------|----------------------------|
+|  10:00 | Welkom                                       | Logius                     |
+|  10:05 | Beheermodel API standaarden                  | Logius                     |
+
+
 ## Onderwerpen
 
 ### Kleine wijzigingen
@@ -27,3 +36,12 @@ donderdag 7 maart 2024
 
 ### Overige punten
 * NL-GOV-profile-for-CloudEvents [issue #3] [Als gebruiker van de standaard wil ik een neutrale beschrijving zodat ik zelf kan bepalen met welk doel ik de standaard toepas ](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents/issues/3) (17 oktober 2022), _Status: In onderzoek_
+
+## Toelichting
+
+
+# Toelichting
+
+## Beheermodel
+Het [beheermodel voor API standaarden](https://logius-standaarden.github.io/API-Standaarden-Beheermodel/#de-api-standaarden) 
+gaat op dit moment door de besluitvorming. Logius heeft CloudEvents als een van de API standaarden genoemd in het beheermodel. 
