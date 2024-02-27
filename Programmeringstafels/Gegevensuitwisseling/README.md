@@ -23,9 +23,6 @@
 * Digikoppeling-Beheermodel [issue #3] [Aanpassing beheermodel op BOMOS principes en MIDO governance](https://github.com/Logius-standaarden/Digikoppeling-Beheermodel/issues/3) (16 maart 2022), _Status: Gereed_
 * Digikoppeling-Koppelvlakstandaard-ebMS2 [issue #6] [Digikoppeling baseren op ebMS3](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-ebMS2/issues/6) (3 februari 2022), _Status: In onderzoek_
 
-### Kleine wijzigingen
-* Digikoppeling-Beveiligingsstandaarden-en-voorschriften [issue #6] [RFC OAuth](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/issues/6) (19 februari 2024)
-
 ## Toelichting
 
 
