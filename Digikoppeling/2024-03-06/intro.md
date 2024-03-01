@@ -12,12 +12,12 @@ Werkgroep ADR Beveiliging (specifiek sub-werkgroep signing) heeft een vergelijki
 [Vergelijking REST API Signing Standaarden](https://geonovum.github.io/KP-APIs/publicaties/REST_API_Signing_Standaarden) 
 
 Laatste ontwikkelingen:
-* De internationale standaard [httpbis-message-signatures](https://datatracker.ietf.org/doc/draft-ietf-httpbis-message-signatures/) komt dichter bij formele publicatie vanuit IETF als vastgestelde standaard
+* De internationale standaard [httpbis-message-signatures](https://datatracker.ietf.org/doc/rfc9421/) is gepubliceerd vanuit IETF als Proposed Standard (per Feb 2024) als rfc9421
 * Er is een concept ADR module voor JAdES gemaakt gebaseerd op het eDelivery API profiel : 
-Zie : https://geonovum.github.io/KP-APIs/publicaties/review/module-signing-jades/
+Zie : [KP-APIs/API-strategie-modules/signing-jades/](https://geonovum.github.io/KP-APIs/API-strategie-modules/signing-jades/)
 
 * Er is een concept ADR module voor encryptie gemaakt (gebaseerd op JWE) :
-Zie : https://github.com/Geonovum/KP-APIs/blob/add-module-encryption/API-strategie-modules/encryption/ch01.md
+Zie : [KP-APIs/API-strategie-modules/encryption/](https://geonovum.github.io/KP-APIs/API-strategie-modules/encryption/)
 
 Deze modules zijn toegevoegd aan de lijst optionele modules van de ADR van het Kennisplatform API's voor verdere uitwerking.
 In het Digikoppeling REST-API profiel zullen deze modules gebruikt worden icm met verdere profilering. 
