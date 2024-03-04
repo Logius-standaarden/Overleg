@@ -27,7 +27,9 @@ _Vraag aan het TO : zijn er op dit gebied ontwikkelingen binnen de eigen organis
 
 ### eDelivery EBMS3/AS4 stakeholderonderzoek en EU nieuws
 
-PBLQ heeft een update van hun eindrapport opgeleverd met de input van JenV/Justid. _Zie Rapport [Impactanalyse modernisering Digikoppeling ebMS - van ebMS2 naar eDelivery, v1.1](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-03-06/Rapport%20Impactanalyse%20modernisering%20Digikoppeling%20ebMS%20-%20v1.1%20definitief%2019%20januari%202024.pdf). Logius heeft ontwikkelingen afgestemd met het EU eDelivery team.
+PBLQ heeft een update van hun eindrapport opgeleverd met de input van JenV/Justid. Zie Rapport [Impactanalyse modernisering Digikoppeling ebMS - van ebMS2 naar eDelivery, v1.1](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-03-06/Rapport%20Impactanalyse%20modernisering%20Digikoppeling%20ebMS%20-%20v1.1%20definitief%2019%20januari%202024.pdf). JenV en Justid lichten hun stakeholderanalyse toe. 
+
+Logius heeft ontwikkelingen afgestemd met het EU eDelivery team.
 
 Het EU eDelivery team heeft een update gegeven over de [AS4 en SMP 2.0 profielen](https://ec.europa.eu/digital-building-blocks/sites/pages/viewpage.action?pageId=711492329). Onder meer over de consultatie van 2023, TO lid Sander Fieten heeft op beiden een reactie gegeven. Verder heeft de EU een [_Adoption timeline for eDelivery AS4 and SMP 2.0 profiles_](https://ec.europa.eu/digital-building-blocks/sites/pages/viewpage.action?pageId=708411562) gepubliceerd.
 
