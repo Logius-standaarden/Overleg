@@ -25,7 +25,8 @@ Voorlopige agenda
 |  Tijd  | Over                                         | Door                       |
 |--------|----------------------------------------------|----------------------------|
 |  10:00 | Welkom                                       | Logius                     |
-|  10:05 | Beheermodel API standaarden                  | Logius                     |
+|  10:05 | Beheermodel API standaarden en proces Forum Standaardisatie | Logius      |
+|  10:30 | Voorgestelde wijzigingen                     | Logius                     |
 
 
 ## Onderwerpen
@@ -34,7 +35,8 @@ Voorlopige agenda
 * CloudEvents-NL-Guidelines [issue #4] [https://github.com/Logius-standaarden/CloudEvents-NL-Guidelines/blob/develop/NL-GOV-Guideline-for-CloudEvents-Webhook.mdRFC ...](https://github.com/Logius-standaarden/CloudEvents-NL-Guidelines/issues/4) (13 oktober 2023), _Status: In onderzoek_
 
 ### Overige punten
-* NL-GOV-profile-for-CloudEvents [issue #3] [Als gebruiker van de standaard wil ik een neutrale beschrijving zodat ik zelf kan bepalen met welk doel ik de standaard toepas ](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents/issues/3) (17 oktober 2022), _Status: In onderzoek_
+* NL-GOV-profile-for-CloudEvents [issue #11] [Opnemen use cases om toepassing van het profiel te verduidelijken](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents/issues/11) (27 februari 2024)
+* NL-GOV-profile-for-CloudEvents [issue #3] [Als gebruiker van de standaard wil ik een neutrale beschrijving zodat ik zelf kan bepalen met welk doel ik de standaard toepas ](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents/issues/3) (17 oktober 2022), _Status: Gereed_
 
 ## Toelichting
 
