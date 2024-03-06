@@ -32,7 +32,7 @@ Voorlopige agenda
 ## Onderwerpen
 
 ### Kleine wijzigingen
-* CloudEvents-NL-Guidelines [issue #4] [https://github.com/Logius-standaarden/CloudEvents-NL-Guidelines/blob/develop/NL-GOV-Guideline-for-CloudEvents-Webhook.mdRFC ...](https://github.com/Logius-standaarden/CloudEvents-NL-Guidelines/issues/4) (13 oktober 2023), _Status: In onderzoek_
+* CloudEvents-NL-Guidelines [issue #4] [Authorization Grant in Webhook guideline](https://github.com/Logius-standaarden/CloudEvents-NL-Guidelines/issues/4) (13 oktober 2023), _Status: In onderzoek_
 
 ### Overige punten
 * NL-GOV-profile-for-CloudEvents [issue #11] [Opnemen use cases om toepassing van het profiel te verduidelijken](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents/issues/11) (27 februari 2024)
