@@ -21,6 +21,9 @@
 donderdag 6 juni 2024
 ## Onderwerpen
 
+### Grote wijzigingen
+* NL-GOV-profile-for-CloudEvents [issue #12] [Functioneel toepassingsgebied van de standaard benoemen](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents/issues/12) (8 maart 2024), _Status: In onderzoek_
+
 ### Kleine wijzigingen
 * CloudEvents-NL-Guidelines [issue #4] [Authorization Grant in Webhook guideline](https://github.com/Logius-standaarden/CloudEvents-NL-Guidelines/issues/4) (13 oktober 2023), _Status: In onderzoek_
 
