@@ -1,6 +1,6 @@
 
 
-Zie voor de discussiepunten uit het vorig overleg
+Zie voor de discussiepunten uit het vorig overleg [FSC_Discussie_Onderwerpen_Q&A](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-05-29/Wijzigingsvoorstel_FSC/FSC_Discussie_Onderwerpen_Q%26A.md)
 
 Voor de voorbereiding van de bespreking van het wijzigingsvoorstel FSC in het TO Digikoppeling 29/5 hanteren we onderstaande data :
 
