@@ -10,6 +10,6 @@
 | Tijd | Onderwerp |Spreker|
 | --- | --- | --- |
 | 10:00 | Aftrap en kennismaking & Mededelingen    Alexander Green
-| 10:10 | Komende releases reviewen | Alexander Green |
+| 10:10 | Komende releases reviewen | Martin van der Plas |
 | 10:25 | Openstaande issues| Alexander Green |
 | 10:45 | Rondvraag / Afsluiting |
