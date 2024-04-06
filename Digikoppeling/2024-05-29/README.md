@@ -27,6 +27,9 @@ woensdag 29 mei 2024
   * [Wijzigingsvoorstel](https://github.com//Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/pull/27/files)
 * Digikoppeling-Koppelvlakstandaard-ebMS2 [issue #6] [Digikoppeling baseren op ebMS3](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-ebMS2/issues/6) (3 februari 2022), _Status: In onderzoek_
 
+### Kleine wijzigingen
+* Digikoppeling-Architectuur [issue #15] [Review q1 2024](https://github.com/Logius-standaarden/Digikoppeling-Architectuur/pull/15) (16 januari 2024), _Status: Klaar voor release_
+
 ### Overige punten
 * OIN-Stelsel [issue #21] [Begrippenkader OIN](https://github.com/Logius-standaarden/OIN-Stelsel/issues/21) (25 maart 2024), _Status: In bewerking_
   * [Wijzigingsvoorstel](https://github.com//Logius-standaarden/OIN-Stelsel/pull/20/files)
