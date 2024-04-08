@@ -6,7 +6,7 @@ Deze uitwerking is input voor de beoordeling en bespreking van het wijzigingsvoo
 
 
 ## Onderwerpen
-| Thema                        | Vraag/opmerking                                              | organisatie  | Type      | Antwoord (_Logius Standaarden Beheer_)                                                     |
+| Thema                        | Vraag/opmerking                                              | organisatie  | Type      | Antwoord (_Vanuit het team FSC_)                                                     |
 | ---------------------------- | ------------------------------------------------------------ | ------------ | --------- | ------------------------------------------------------------ |
 | Zorgen over tijd en impact   | Is overwogen deze standaard afzonderlijk te standaardiseren? | JenV         | vraag     | Ja maar de samenhang en het toepassingsgebied met Digikoppeling REST is dermate groot dat deze 2 standaarden naast elkaar op de PTOLU lijst meer vragen en onduidelijkheid opleveren dan deze aanpak. |
 | Zorgen over tijd en impact   | Mis de nodige input. Wat gaat dit exact voor ons betekenen   | JenV         | vraag     | Dit is verschillend voor iedere organisatie. Kijkend naar de landelijke behoefte om de onderlinge technische interoperabiliteit te verbeteren, moet er wel gestandaardiseerd worden. Het tijdspad van de transitie is iets wat bij de PGDI of het OBDO besproken zou moet worden.  |
