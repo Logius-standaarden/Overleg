@@ -41,9 +41,11 @@ donderdag 11 april 2024
 
 ### Grote wijzigingen
 * OAuth-NL-profiel [issue #3] [Client Credentials Flow - 1.3.3.4 Client Keys](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/3) (16 april 2019), _Status: In review_
+  * [Wijzigingsvoorstel](https://github.com//Logius-standaarden/OAuth-NL-profiel/pull/32/files)
 
 ### Kleine wijzigingen
 * OAuth-NL-profiel [issue #34] [Allow direct access clients to authenticate with an X.509 certificate](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/34) (6 februari 2024), _Status: In review_
+  * [Wijzigingsvoorstel](https://github.com//Logius-standaarden/OAuth-NL-profiel/pull/33/files)
 * OAuth-NL-profiel [issue #33] [PR: Allow direct access clients to authenticate with an X.509 certi…](https://github.com/Logius-standaarden/OAuth-NL-profiel/pull/33) (6 februari 2024), _Status: In review_
 * OAuth-NL-profiel [issue #28] [RFC ACR claim](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/28) (26 januari 2023), _Status: In onderzoek_
 * OAuth-NL-profiel [issue #27] [Lessons learned uit eDelivery REST API toepassen](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/27) (25 november 2022), _Status: In onderzoek_
