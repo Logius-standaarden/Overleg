@@ -9,7 +9,7 @@ jobs:
     name: Check issues
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - run: pip install --upgrade PyGitHub bs4
       - name: Labels
         if: ${{ github.event_name == 'schedule'}}
@@ -27,7 +27,7 @@ jobs:
       - name: Clean-up
         run: rm -f labels.py issues.py
       - name: Commit
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update issue reports
           commit_user_name: GitHub Actions
