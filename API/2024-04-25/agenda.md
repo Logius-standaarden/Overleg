@@ -1,7 +1,7 @@
 # Agenda
 
+| Technisch Overleg API Design Rules | |
 |------------------------|-------------------------------------| 
-| Betreft  | **Technisch Overleg API Design Rules** |
 | Vergaderdatum en -tijd | 25-04-2024 - 11:00-12:00 uur  |
 | Vergaderplaats  | Online |
 
