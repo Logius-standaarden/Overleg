@@ -33,7 +33,6 @@ Voorlopige agenda
 ## Toelichting
 
 
-# Toelichting
 
 ## AI voor implementatieondersteuning
 
