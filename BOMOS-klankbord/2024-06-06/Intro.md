@@ -14,4 +14,5 @@ de Haagse Hogeschool een implementatieplan uitgwerkt in het kader vna diens afst
 Open source staat (weer) in de aandacht voor overheidssoftware. We denkan dat de BOMOS activiteiten 
 grotendeels ook van toepassing zijn op het beheer van software code. We willen in 2024 een beheermodel
 voor een open source project van Logius uitwerken. Dat moet uiteindelijk resulteren in _BOMOSS_, 
-BOMOS voor Open Source.
+BOMOS voor Open Source. Bijgesloten een [presentatie hierover gegeven in de Interoperable Europe Academy 
+in Leuven](Open%20standards%20and%20open%20source.pdf)
