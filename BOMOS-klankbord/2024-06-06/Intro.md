@@ -1,4 +1,3 @@
-# Toelichting
 
 ## AI voor implementatieondersteuning
 

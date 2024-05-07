@@ -1,4 +1,6 @@
-# Toelichting
+In het overleg zullen de ingediende issues punt voor punt behandeld worden.
+
+## Ontwerp
 
 In het laatste TO (7 december 2023) voor Terugmelden hebben we besloten DMKS niet 
 verder te ontwikkelen en terugmeldingen volgens afspraken tussen bronhouders en gebruikers
