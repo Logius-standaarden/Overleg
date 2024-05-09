@@ -33,6 +33,10 @@ Voorlopige agenda
 ## Toelichting
 
 
+## Stand van zaken
+
+- vacature bij Logius voor BOMOS beheerder/ambassadeur
+- [BOMOS assessment](https://regelhulpenvoorbedrijven.nl/bomos-assessment-tool/) online sinds september 2023: [resultaten 2023](BOMOSassessment2023.pdf)
 
 ## AI voor implementatieondersteuning
 
