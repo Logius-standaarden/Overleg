@@ -1,5 +1,5 @@
 ## Agenda
-> CONCEPT
+
 
 | Betreft  | **Technisch Overleg Digikoppeling** |
 |:------------------------|:-------------------------------------| 
