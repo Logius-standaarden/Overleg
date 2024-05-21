@@ -21,7 +21,7 @@
 woensdag 29 mei 2024
 
 ## Agenda
-> CONCEPT
+
 
 | Betreft  | **Technisch Overleg Digikoppeling** |
 |:------------------------|:-------------------------------------| 
