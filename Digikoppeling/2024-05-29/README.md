@@ -31,10 +31,11 @@ woensdag 29 mei 2024
 | Tijd | Onderwerp |Spreker|
 | --- | --- | --- |
 | 10:30 | Welkom & Mededelingen        | Peter Haasnoot |
-| 10:40 | Actuele ontwikkelingen FSC | Edward van Gelderen|
-| 10:50 | Resultaten van de enquete Wijzigingsvoorstel [FSC Enquete](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-05-29/Wijzigingsvoorstel_FSC/2024_05_01_FSC_Enquete.md)  | Peter Haasnoot |
-| 11:20 | Stemming / Besluit wijzigingsvoorstel [FSC](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/26) @@@Slido | Allen |
-| 11:30 | Vervolg procedure FSC | Peter Haasnoot |
+| 10:35 | [Wijzigingsvoorstel FSC](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/26) - Toelichting besluitvorming <BR> ( Zie ook: [FSC Q&A en Enquete](/#wijzigingsvoorstel-fsc) )| Peter Haasnoot |
+| 10:40 | - _Actuele ontwikkelingen FSC_ | Edward van Gelderen|
+| 10:50 | - _Resultaten van de enquete Wijzigingsvoorstel [FSC Enquete](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-05-29/Wijzigingsvoorstel_FSC/2024_05_01_FSC_Enquete.md)_  | Peter Haasnoot |
+| 11:20 | - _Stemming / Besluit wijzigingsvoorstel [FSC](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/26) @@@Slido_ | Allen |
+| 11:30 | - _Vervolg procedure FSC_ | Peter Haasnoot |
 | 11:40 | Stand van zaken [Roadmap 2024-2025](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2024_2025.md#tijdlijn-roadmap-digikoppeling-standaarden) |Peter Haasnoot|
 | 11:50 | Rondvraag / Afsluiting | Allen |
 | 12:00 | Einde |
@@ -63,6 +64,11 @@ woensdag 29 mei 2024
 
 - ADR versie 2.0 met modulaire opbouw en opname van modules Geo en Transport security is ingediend bij het Forum Standaardisatie voor opname op de PTLU lijst (als vervanger van ADR 1.0)
 - Specifiek verzoek is commentaar te geven op Wijzigingsvoorstel S3
+
+### Wijzigingsvoorstel FSC
+Beoordeling en bespreking wijzigingsvoorstel FSC:
+* Zie voor de discussiepunten uit het vorig overleg [FSC_Discussie_Onderwerpen_Q&A](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-05-29/Wijzigingsvoorstel_FSC/FSC_Discussie_Onderwerpen_Q%26A.md)
+* Zie voor de resultaten van de Enquete mbt beoordeling en impact Wijzigingsvoorstel FSC : [2024_05_01_FSC_Enquete](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-05-29/Wijzigingsvoorstel_FSC/2024_05_01_FSC_Enquete.md)
 
 ### Toelichting bij Overige Punten
 
