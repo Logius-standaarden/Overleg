@@ -4,6 +4,11 @@
 - ADR versie 2.0 met modulaire opbouw en opname van modules Geo en Transport security is ingediend bij het Forum Standaardisatie voor opname op de PTLU lijst (als vervanger van ADR 1.0)
 - Specifiek verzoek is commentaar te geven op Wijzigingsvoorstel S3
 
+### Wijzigingsvoorstel FSC
+Beoordeling en bespreking wijzigingsvoorstel FSC:
+* Zie voor de discussiepunten uit het vorig overleg [FSC_Discussie_Onderwerpen_Q&A](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-05-29/Wijzigingsvoorstel_FSC/FSC_Discussie_Onderwerpen_Q%26A.md)
+* Zie voor de resultaten van de Enquete mbt beoordeling en impact Wijzigingsvoorstel FSC : [2024_05_01_FSC_Enquete](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-05-29/Wijzigingsvoorstel_FSC/2024_05_01_FSC_Enquete.md)
+
 ### Toelichting bij Overige Punten
 
 #### Signing & Encryptie toevoegen aan RESTful API profiel 
