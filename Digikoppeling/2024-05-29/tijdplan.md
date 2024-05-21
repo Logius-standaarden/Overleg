@@ -9,10 +9,11 @@
 | Tijd | Onderwerp |Spreker|
 | --- | --- | --- |
 | 10:30 | Welkom & Mededelingen        | Peter Haasnoot |
-| 10:40 | Actuele ontwikkelingen FSC | Edward van Gelderen|
-| 10:50 | Resultaten van de enquete Wijzigingsvoorstel [FSC Enquete](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-05-29/Wijzigingsvoorstel_FSC/2024_05_01_FSC_Enquete.md)  | Peter Haasnoot |
-| 11:20 | Stemming / Besluit wijzigingsvoorstel [FSC](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/26) @@@Slido | Allen |
-| 11:30 | Vervolg procedure FSC | Peter Haasnoot |
+| 10:35 | [Wijzigingsvoorstel FSC](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/26) - Toelichting besluitvorming <BR> (Zie ook : | Peter Haasnoot |
+| 10:40 | - _Actuele ontwikkelingen FSC_ | Edward van Gelderen|
+| 10:50 | - _Resultaten van de enquete Wijzigingsvoorstel [FSC Enquete](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-05-29/Wijzigingsvoorstel_FSC/2024_05_01_FSC_Enquete.md)_  | Peter Haasnoot |
+| 11:20 | - _Stemming / Besluit wijzigingsvoorstel [FSC](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/26) @@@Slido_ | Allen |
+| 11:30 | - _Vervolg procedure FSC_ | Peter Haasnoot |
 | 11:40 | Stand van zaken [Roadmap 2024-2025](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2024_2025.md#tijdlijn-roadmap-digikoppeling-standaarden) |Peter Haasnoot|
 | 11:50 | Rondvraag / Afsluiting | Allen |
 | 12:00 | Einde |
