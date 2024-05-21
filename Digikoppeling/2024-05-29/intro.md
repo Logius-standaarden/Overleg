@@ -8,6 +8,7 @@
 Beoordeling en bespreking wijzigingsvoorstel FSC:
 * Zie voor de discussiepunten uit het vorig overleg [FSC_Discussie_Onderwerpen_Q&A](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-05-29/Wijzigingsvoorstel_FSC/FSC_Discussie_Onderwerpen_Q%26A.md)
 * Zie voor de resultaten van de Enquete mbt beoordeling en impact Wijzigingsvoorstel FSC : [2024_05_01_FSC_Enquete](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-05-29/Wijzigingsvoorstel_FSC/2024_05_01_FSC_Enquete.md)
+* Geonovum en VNG hebben een praktijkproef mbt rechtendelegatie uitgevoerd : [Verslag Praktijkproef rechtendelegatie Geonovum-VNG](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-05-29/Rapport%20praktijkproef%20rechtendelegatieV3.pdf)
 
 ### Toelichting bij Overige Punten
 
