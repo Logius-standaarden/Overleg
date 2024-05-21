@@ -14,7 +14,7 @@ Beoordeling en bespreking wijzigingsvoorstel FSC:
 
 #### Signing & Encryptie toevoegen aan RESTful API profiel 
 
-De modules voor Signing en Encryptie worden momenteel geconsulteerd binnen het Kennisplatform..
+De modules voor Signing en Encryptie worden momenteel geconsulteerd binnen het Kennisplatform. Zie [ADR Consultatie Modules Signing & Encryptie](https://www.geonovum.nl/over-geonovum/actueel/consultatie-api-strategie-module-signing-en-encryptie-en-update-oauth-nl)
 In het Digikoppeling REST-API profiel zullen deze modules gebruikt worden icm met verdere profilering. 
 
 _Vraag aan het TO : zijn er op dit gebied ontwikkelingen binnen de eigen organisatie?_
