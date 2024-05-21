@@ -2,7 +2,7 @@
 ### Mededelingen
 
 - ADR versie 2.0 met modulaire opbouw en opname van modules Geo en Transport security is ingediend bij het Forum Standaardisatie voor opname op de PTLU lijst (als vervanger van ADR 1.0)
-- Specifiek verzoek is commentaar te geven op Wijzigingsvoorstel S3
+- Specifiek verzoek is commentaar te geven op [Wijzigingsvoorstel S3](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-GB/issues/13) 
 
 ### Wijzigingsvoorstel FSC
 Beoordeling en bespreking wijzigingsvoorstel FSC:
