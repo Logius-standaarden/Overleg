@@ -26,8 +26,8 @@ Voorlopige agenda
 |--------|----------------------------------------------|--------|
 |   9:30 | Welkom                                       | Logius |
 |   9:35 | Stand van zaken en plannen                   |        |
-|   9:45 | Onderzoek implementatieplan AI voor implementatieondersteuning | Merel van der Hoeven, HHS |
-|  10:15 | BOMOSS, een BOMOS variant voor open source   | Logius|
+|   9:55 | Onderzoek implementatieplan AI voor implementatieondersteuning | Merel van der Hoeven, HHS |
+|  1025 | BOMOSS, een BOMOS variant voor open source   | Logius|
 |  10:45 | Rondvraag en afsluiting                      |       |
 
 ## Toelichting
@@ -35,8 +35,11 @@ Voorlopige agenda
 
 ## Stand van zaken
 
-- vacature bij Logius voor BOMOS beheerder/ambassadeur
 - [BOMOS assessment](https://regelhulpenvoorbedrijven.nl/bomos-assessment-tool/) online sinds september 2023: [resultaten 2023](BOMOSassessment2023.pdf)
+- Samenwerking Geonovum/HAN/Logius. Kick-off op 21 november bij oratie Erwin Folmer op de HAN university of applied sciences. Intentie tot doorontwikkeling BOMOS
+  - We stimuleren de adoptie van BOMOS voor het beheer van standaarden. We brengen BOMOS actief in de aandacht om de community te vergroten en te versterken. 
+  - We ontwikkelen BOMOS door om de methodologie breder toe te passen, bijvoorbeeld in afsprakenstelsel en voor beheer van open source code. 
+  - We gaan internationaal door een engelstalige versie van BOMOS te publiceren en te beheren. 
 
 ## AI voor implementatieondersteuning
 
