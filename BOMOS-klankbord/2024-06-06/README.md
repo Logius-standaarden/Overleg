@@ -33,6 +33,9 @@ Voorlopige agenda
 ## Toelichting
 
 
+
+Er zijn geen wijzigingsvoorstellen waarover besloten moet worden.
+
 ## Stand van zaken
 
 - [BOMOS assessment](https://regelhulpenvoorbedrijven.nl/bomos-assessment-tool/) online sinds september 2023: [resultaten 2023](BOMOSassessment2023.pdf)
