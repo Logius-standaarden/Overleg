@@ -17,7 +17,8 @@ _implementatieondersteuning_ zoals we die in BOMOS onderkennen nog beperkt. Om g
 beter te ondersteuning wil Logius de mogelijkheden van AI ondersteuning onderzoeken. Het einddoel
 is AI ondersteuning bij het schrijven van code. Om de randvoorwaarden en aandachtspunten voor 
 de implementatie van een Large Language Model te onderzoeken heeft Merel van der Hoeven van 
-de Haagse Hogeschool een implementatieplan uitgwerkt in het kader vna diens afstuderen.
+de Haagse Hogeschool een implementatieplan uitgewerkt in het kader vna diens afstuderen. Merel geeft
+een eindpresentatie in het klankord.
 
 ## BOMOSS
 
