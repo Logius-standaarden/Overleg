@@ -3,12 +3,11 @@ Er zijn geen wijzigingsvoorstellen waarover besloten moet worden.
 
 ## Stand van zaken
 
-- [BOMOS assessment](https://regelhulpenvoorbedrijven.nl/bomos-assessment-tool/) online sinds september 2023: [resultaten 2023](BOMOSassessment2023.pdf)
 - Samenwerking Geonovum/HAN/Logius. Kick-off op 21 november bij oratie Erwin Folmer op de HAN university of applied sciences. Intentie tot doorontwikkeling BOMOS
   - We stimuleren de adoptie van BOMOS voor het beheer van standaarden. We brengen BOMOS actief in de aandacht om de community te vergroten en te versterken. 
   - We ontwikkelen BOMOS door om de methodologie breder toe te passen, bijvoorbeeld in afsprakenstelsel en voor beheer van open source code. 
   - We gaan internationaal door een engelstalige versie van BOMOS te publiceren en te beheren. 
-
+- [BOMOS assessment](https://regelhulpenvoorbedrijven.nl/bomos-assessment-tool/) online sinds september 2023: [resultaten 2023](BOMOSassessment2023.pdf)
 ## AI voor implementatieondersteuning
 
 Wie een vraag heeft over Digikoppeling implementatie kan contact opnemen met het beheerteam. 
