@@ -1,3 +1,5 @@
+## Federatieve Service Connectiviteit opnemen in het Digikoppeling voor REST API's profiel
+
 ### Achtergrond
 
 Gemeenten hebben een nieuwe, moderne, gezamenlijke informatievoorziening nodig voor het uitwisselen van gegevens. Want het huidige stelsel voor gegevensuitwisseling maakt het lastig om snel en flexibel te vernieuwen, te voldoen aan privacywetgeving en efficiënt om te gaan met data. Dat staat de verbetering van de gemeentelijke dienstverlening in de weg.
