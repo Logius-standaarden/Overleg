@@ -36,7 +36,7 @@ dinsdag 9 juli 2024
 | 10:35 | Besluiten wat we nog opnemen in de nieuwe Release Candidate oauth v1.1  |  Alexander Green |
 | 10:38 | besluit nemen om in te dienen bij MIDO voor vaststelling (welke aandachtspunten zijn er voor de notitie naar het MIDO?) |  Alexander Green |
 | 10:50 | refinement [issues zonder milestone](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues?q=is%3Aopen+is%3Aissue+no%3Amilestone) | Alexander Green |
-| 11:05 | Aandacht voor de [Roadmap API Acces](https://github.com/orgs/Logius-standaarden/projects/2/views/1) |  Martin van der Plas |
+| 11:05 | Aandacht voor de [Roadmap API Access](https://github.com/orgs/Logius-standaarden/projects/2/views/1) |  Martin van der Plas |
 | 11:10 | Rondvraag / Afsluiting | Alexander Green |
 
 ### Publieke consultatie feedback
