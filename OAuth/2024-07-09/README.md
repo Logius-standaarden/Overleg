@@ -40,11 +40,11 @@ dinsdag 9 juli 2024
 | 11:10 | Rondvraag / Afsluiting | Alexander Green |
 
 ### Publieke consultatie feedback
-- besluiten verwerking van de feedback van DUO (in v1.1 )
-  - 1 https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/52
-  - 2 https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/53
-  - 3 https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/54
-  - 4 https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/55
+- besluiten verwerking van de feedback van Kennisnet (in v1.1 )
+  1. https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/52
+  2. https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/53
+  3. https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/54
+  4. https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/55
 - Feedback issue Ad Gerritsen verwerken in v1.1
   - https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/51
 
