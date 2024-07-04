@@ -22,6 +22,11 @@ dinsdag 9 juli 2024
 ## Onderwerpen
 
 ### Kleine wijzigingen
+* OAuth-NL-profiel [issue #55] [publieke consultatie feedback 4-4](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/55) (3 juli 2024), _Status: In bewerking_
+* OAuth-NL-profiel [issue #54] [publieke consultatie feedback 3-4](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/54) (3 juli 2024), _Status: In bewerking_
+* OAuth-NL-profiel [issue #53] [publieke consultatie feedback 2-4](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/53) (3 juli 2024), _Status: In bewerking_
+* OAuth-NL-profiel [issue #52] [publieke consultatie feedback 1-4](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/52) (3 juli 2024), _Status: In bewerking_
+* OAuth-NL-profiel [issue #51] [Tekstblok te verwijderen](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/51) (1 juli 2024), _Status: In review_
 * OAuth-NL-profiel [issue #48] [PR: Claims for Authorization Outside of Delegation Scenarios](https://github.com/Logius-standaarden/OAuth-NL-profiel/pull/48) (29 april 2024), _Status: In review_
 * OAuth-NL-profiel [issue #28] [RFC ACR claim](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/28) (26 januari 2023), _Status: In onderzoek_
 * OAuth-NL-profiel [issue #27] [Lessons learned uit eDelivery REST API toepassen](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/27) (25 november 2022), _Status: In onderzoek_
