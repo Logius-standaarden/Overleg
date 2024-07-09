@@ -32,7 +32,7 @@ dinsdag 9 juli 2024
 | Tijd | Onderwerp |Spreker|
 | --- | --- | --- |
 | 10:00 | Aftrap en kennismaking & Mededelingen  |  Alexander Green |
-| 10:10 | Publieke consultatie feedback  |  Martin van der Plas |
+| 10:10 | Publieke consultatie feedback [pull request](https://github.com/Logius-standaarden/OAuth-NL-profiel/pull/56/) |  Martin van der Plas |
 | 10:35 | Besluiten wat we nog opnemen in de nieuwe Release Candidate oauth v1.1  |  Alexander Green |
 | 10:38 | besluit nemen om in te dienen bij MIDO voor vaststelling (welke aandachtspunten zijn er voor de notitie naar het MIDO?) |  Alexander Green |
 | 10:50 | refinement [issues zonder milestone](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues?q=is%3Aopen+is%3Aissue+no%3Amilestone) | Alexander Green |
