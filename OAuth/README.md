@@ -1,4 +1,4 @@
-# OAuth-NL Technisch Overleg
+# OAuth-NL & OIDC-NL Technisch Overleg
 
 Deze map bevat alle vergaderstukken van het Technisch Overleg. 
 Voor ieder overleg wordt een folder aangemaakt waarin de agenda, de bijlagen en het verslag worden opgenomen.
@@ -6,7 +6,7 @@ Voor ieder overleg wordt een folder aangemaakt waarin de agenda, de bijlagen en 
 ---
 
 De vergaderingen worden gevoerd op basis van de governance zoals [beschreven in de repository van het beheermodel](https://github.com/Logius-standaarden/OAuth-Beheermodel).  
-De vergaderingen hebben altijd betrekking op [de NL GOV Asurrance profile for OAuth 2.0 standaard](https://github.com/Logius-standaarden/OAuth-NL-profiel).  
+De vergaderingen hebben altijd betrekking op [de NL GOV Asurrance profile for OAuth 2.0 standaard](https://github.com/Logius-standaarden/OAuth-NL-profiel) & [de NLGov OpenID Connect (OIDC) profile standaard](https://github.com/Logius-standaarden/OIDC-NLGOV).  
 
 ---
 
