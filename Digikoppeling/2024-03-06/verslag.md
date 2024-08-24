@@ -1,7 +1,9 @@
 # Verslag Technisch Overleg Digikoppeling
 
-Woensdag 6 maart 2024
+Woensdag 6 maart 2024, 10:00-14:00
 
+[Origineel verslag in PDF-formaat
+](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-03-06/2024-03-06%20%20Verslag%20TO%20Digikoppeling%20v1.0.pdf)
 ### Aanwezig
 
 (32 personen) Peter Haasnoot (Logius)(vz), Sjaak Derksen (TNO), Han Welmer (TNO), Raymond Kers (JenV), Antoon Bijen (JustID), Heymen Nicolaij (PinkRoccade), Edward van Gelderen (VNG), Ronald Koster (VNG), Johan van der Velde (RDW), Karl de Boer (Enable-U), Herman Willemsen (Enable-U), Tom Vijlbrief (Kadaster), Tonkie Zwaan (BKWI), Frank Terpstra (Geonovum), Niels Dequeker (VNG), Pim Gaermers (VNG), Ivo Lodewijks (Sigmax), Erwin Kuiper (Dictu), Hans Sinnige (Rinis), Maarten Coemans (SNG), Ronny Kennis (BKWI), Bob te Riele ((RVIG), Jochem IJzermans (UWV), Erwin Reinhoud (Kennisnet), Gerald Groot Roessink (DUO), Adjay Narain (Min IenW), Mark Backer (VNG), Henk van Maanen (VNG), Martin van der Plas (Logius), Edwin Wisse (Logius), Alexander Green (Logius), Lizzy Wellink (secretaris)(Logius). 
@@ -96,15 +98,15 @@ Peter Haasnoot, coördinator van het GU team Logius Standaarden, presenteert de 
 
 Sluiting vergadering om 14:00 uur
 
-Volgende TO-Digikoppeling is online op 29 mei a.s. van 10:30-12:00 uur 
+Volgende TO-Digikoppeling is online op _29 mei a.s. van 10:30-12:00 uur_
 
 ## Actielijst
 
-| Nr     | Actie                                                                                                                          | Naam           | O/G |
-|--------|--------------------------------------------------------------------------------------------------------------------------------|----------------|-----|
-| 324/01 | Vanuit Logius wordt de opgehaalde informatie uitgewerkt en gedeeld op Github.                                                  | Martin vd Plas | G   |
-| 324/02 | POC rechtendelegatie bij de BAG, rapport van Geonovum, wordt ter lering gedeeld met TO-DK leden                                | Frank Terpstra | O   |
-| 324/03 | VNG zal t.b.v. toegankelijkheid voor ontwikkelaars de  GitLab omgeving bijwerken (documentatie, referenties,  auditable, etc). | VNG            | O   |
+| Nr     | Actie                                                                                                                          | Naam           |          |
+|--------|--------------------------------------------------------------------------------------------------------------------------------|----------------|----------|
+| 324/01 | Vanuit Logius wordt de opgehaalde informatie uitgewerkt en gedeeld op Github.                                                  | Martin vd Plas | Gesloten |
+| 324/02 | POC rechtendelegatie bij de BAG, rapport van Geonovum, wordt ter lering gedeeld met TO-DK leden                                | Frank Terpstra | Open     |
+| 324/03 | VNG zal t.b.v. toegankelijkheid voor ontwikkelaars de  GitLab omgeving bijwerken (documentatie, referenties,  auditable, etc). | VNG            | Open     |
 
 ### Voorbereiding bespreking wijzigingsvoorstel FSC in TO Digikoppeling 29/5
 
@@ -115,7 +117,7 @@ Volgende TO-Digikoppeling is online op 29 mei a.s. van 10:30-12:00 uur
 | 3  | 1 Mei - 22 Mei | Samenvoegen en delen impactanalyses                                                        | Logius Standaarden  Beheer |
 | 4  | 29 Mei         | Bespreken wijzigingsvoorstel FSC in TO Digikoppeling                                       | Allen                      |
 
-FSC-inhoudelijke vragen over de technische werking kunnen direct worden voorgelegd aan team FSC
+FSC-inhoudelijke vragen over de technische werking kunnen direct worden voorgelegd aan team FSC.
 
 (Verzoek is ook om voorafgaand aan het volgend TO Digikoppeling alle vragen over de technische werking voor te leggen aan team FSC)
 
