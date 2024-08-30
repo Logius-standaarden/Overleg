@@ -18,4 +18,4 @@
 ----------------------------->
 # BOMOS klankbord
 
-dinsdag 17 oktober 2024
+donderdag 17 oktober 2024
