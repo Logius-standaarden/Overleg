@@ -25,6 +25,9 @@ Voorlopige agenda
 |  Tijd  | Over                                         | Door   |
 |--------|----------------------------------------------|--------|
 |  10:00 | Welkom                                       | Logius |
+|  10:05 | Stand van zaken aanmelding bij het Forum     | Logius |
+|  10:15 | Bespreking van lopende wijzigingsvoorstellen | Allen  |
+
 
 ## Onderwerpen
 
@@ -39,8 +42,12 @@ Voorlopige agenda
 ## Toelichting
 
 
-In het overleg zullen de ingediende issues punt voor punt behandeld worden.
-
 ## Gesprek Logius en PinkRoccade
 
-Naar aanleiding van het vorige TO is er een gesprek geweest tussen Logius en PinkRoccade over hun toepassing van CloudEvents.
+Naar aanleiding van het vorige TO is er een gesprek geweest tussen Logius en PinkRoccade over 
+hun toepassing van CloudEvents.
+
+## Wijzigingsvoorstellen 
+
+In het overleg zullen de ingediende issues punt voor punt behandeld worden.
+ 
