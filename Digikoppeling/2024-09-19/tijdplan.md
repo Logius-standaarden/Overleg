@@ -14,10 +14,10 @@
 | 9:45 | Inloop        | 
 | 10:00| Welkom & Mededelingen        |    Peter Haasnoot |
 | 10:05 | [Wijzigingsvoorstel FSC](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/pull/29) <BR>- Stand van Zaken<BR>- Consultatie | Peter Haasnoot |
-| 10:30 | Digikoppeling Releaseplanning | Alexander Green | 
-| 10:40 | Grote en kleine wijzigingen <BR> - Grote Berichten : Gebruik van S3 protocol <BR> - Begrippenkader OIN<BR>- Signing & Encryptie toevoegen aan RESTful API profiel| Peter Haasnoot / Alexander Green | 
-| 11:10 | Review Beveiligingsvoorschriften |Alexander Green| 
-| 11:45 | Review Architectuur | Peter Haasnoot|
+| 10:30 | [Digikoppeling Releaseplanning](https://github.com/orgs/Logius-standaarden/projects/4) | Alexander Green | 
+| 10:40 | Grote en kleine wijzigingen <BR> - Grote Berichten : Gebruik van S3 protocol   <BR> - Begrippenkader OIN (ter Goedkeuring) <BR>- Signing & Encryptie toevoegen aan RESTful API profiel (ter Goedkeuring) | Peter Haasnoot / Alexander Green | 
+| 11:10 | Review Beveiligingsvoorschriften (ter Goedkeuring) |Alexander Green| 
+| 11:45 | Review Architectuur (ter Goedkeuring) | Peter Haasnoot|
 | 12:00 | Lunch|
 | 12:45 | eDelivery ebMS3 Wijzigingsvoorstel - Stand van Zaken / Vervolg | Edwin Wisse | 
 | 13:15 | [Roadmap 2024-2025](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2024_2025.md#tijdlijn-roadmap-digikoppeling-standaarden) <BR>- Best practice Gebruik OAuth icm Digikoppeling REST_API|Peter Haasnoot|
