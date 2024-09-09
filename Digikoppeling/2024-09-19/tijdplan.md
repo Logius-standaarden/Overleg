@@ -13,7 +13,7 @@
 | --- | --- | --- |
 | 9:45 | Inloop        | 
 | 10:00| Welkom & Mededelingen        |    Peter Haasnoot |
-| 10:05 | Wijzigingsvoorstel FSC <BR>- Stand van Zaken<BR>- Consultatie | Peter Haasnoot |
+| 10:05 | [Wijzigingsvoorstel FSC](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/pull/29) <BR>- Stand van Zaken<BR>- Consultatie | Peter Haasnoot |
 | 10:30 | Digikoppeling Releaseplanning | Alexander Green | 
 | 10:40 | Grote en kleine wijzigingen <BR> - Grote Berichten : Gebruik van S3 protocol <BR> - Begrippenkader OIN<BR>- Signing & Encryptie toevoegen aan RESTful API profiel| Peter Haasnoot / Alexander Green | 
 | 11:10 | Review Beveiligingsvoorschriften |Alexander Green| 
