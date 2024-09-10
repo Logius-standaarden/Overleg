@@ -8,11 +8,14 @@
 
 #### Signing & Encryptie toevoegen aan RESTful API profiel 
 
-De ADR modules voor Signing en Encryptie zijn geconsulteerd en vervolgens vastgesteld binnen het Kennisplatform API's. 
-Zie [ADR Consultatie Modules Signing & Encryptie](https://www.geonovum.nl/over-geonovum/actueel/consultatie-api-strategie-module-signing-en-encryptie-en-update-oauth-nl).
+De ADR modules voor Signing en Encryptie zijn geconsulteerd en vervolgens vastgesteld als stabiel binnen het Kennisplatform API's. 
+
+- [ADR-HTTP Message and payload signing with JAdES](https://docs.geostandaarden.nl/api/cv-hr-API-Strategie-mod-signing-jades-20240417/)
+- [ADR-HTTP Payload encryption](https://docs.geostandaarden.nl/api/cv-hr-API-Strategie-mod-encryption-20240417/)
+
 In het wijzigingsvoorstel 'Signing & Encryptie toevoegen aan RESTful API profiel ' wordt verwezen naar deze modules.
 
-( Zie ook : [Vergelijking REST API Signing Standaarden](https://geonovum.github.io/KP-APIs/publicaties/REST_API_Signing_Standaarden/ )
+( Zie ook : [Vergelijking REST API Signing Standaarden](https://geonovum.github.io/KP-APIs/publicaties/REST_API_Signing_Standaarden/ ) )
 
 ### Review Architectuur (ter Goedkeuring)
 Conform de [Roadmap Digikoppeling](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2024_2025.md) is in Q1 een review uitgevoerd. 
