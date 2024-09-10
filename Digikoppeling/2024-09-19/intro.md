@@ -13,7 +13,7 @@ De ADR modules voor Signing en Encryptie zijn geconsulteerd en vervolgens vastge
 - [ADR-HTTP Message and payload signing with JAdES](https://docs.geostandaarden.nl/api/cv-hr-API-Strategie-mod-signing-jades-20240417/)
 - [ADR-HTTP Payload encryption](https://docs.geostandaarden.nl/api/cv-hr-API-Strategie-mod-encryption-20240417/)
 
-In het wijzigingsvoorstel 'Signing & Encryptie toevoegen aan RESTful API profiel ' wordt verwezen naar deze modules.
+In het wijzigingsvoorstel [Signing & Encryptie toevoegen aan RESTful API profiel](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/pull/30/files) ' wordt verwezen naar deze modules.
 
 ( Zie ook : [Vergelijking REST API Signing Standaarden](https://geonovum.github.io/KP-APIs/publicaties/REST_API_Signing_Standaarden/ ) )
 
