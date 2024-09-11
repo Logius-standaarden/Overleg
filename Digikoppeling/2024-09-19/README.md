@@ -35,7 +35,7 @@ donderdag 19 september 2024
 | --- | --- | --- |
 | 9:45 | Inloop        | 
 | 10:00| Welkom & Mededelingen        |    Peter Haasnoot |
-| 10:05 | [Wijzigingsvoorstel FSC](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/pull/29) <BR>- Stand van Zaken<BR>- [Consultatie](https://github.com/Logius-standaarden/Openbare-Consultaties/tree/master/Digikoppeling%20REST-API%20profiel%20-%20Opnemen%20FSC%20Standaard) : Bespreking Resultaat | Peter Haasnoot |
+| 10:05 | [Wijzigingsvoorstel FSC](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/26) <BR>- Stand van Zaken<BR>- [Consultatie](https://github.com/Logius-standaarden/Openbare-Consultaties/tree/master/Digikoppeling%20REST-API%20profiel%20-%20Opnemen%20FSC%20Standaard) : Bespreking Resultaat | Peter Haasnoot |
 | 10:30 | [Digikoppeling Releaseplanning](https://github.com/orgs/Logius-standaarden/projects/4) | Alexander Green | 
 | 10:40 | Grote en kleine wijzigingen <BR> - Grote Berichten : Gebruik van S3 protocol   <BR> - Begrippenkader OIN (ter Goedkeuring) <BR>- Signing & Encryptie toevoegen aan RESTful API profiel (ter Goedkeuring) | Peter Haasnoot / Alexander Green | 
 | 11:10 | Pauze |Allen| 
@@ -84,7 +84,7 @@ De ADR modules voor Signing en Encryptie zijn geconsulteerd en vervolgens vastge
 - [ADR-HTTP Message and payload signing with JAdES](https://docs.geostandaarden.nl/api/cv-hr-API-Strategie-mod-signing-jades-20240417/)
 - [ADR-HTTP Payload encryption](https://docs.geostandaarden.nl/api/cv-hr-API-Strategie-mod-encryption-20240417/)
 
-In het wijzigingsvoorstel 'Signing & Encryptie toevoegen aan RESTful API profiel ' wordt verwezen naar deze modules.
+In het wijzigingsvoorstel [Signing & Encryptie toevoegen aan RESTful API profiel](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/pull/30/files) wordt verwezen naar deze modules.
 
 ( Zie ook : [Vergelijking REST API Signing Standaarden](https://geonovum.github.io/KP-APIs/publicaties/REST_API_Signing_Standaarden/ ) )
 
