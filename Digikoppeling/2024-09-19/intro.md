@@ -1,9 +1,5 @@
 ### Mededelingen
 
-
-### Toelichting bij Overige Punten
-
-
 ### Grote / Kleine wijzigingen
 
 #### Signing & Encryptie toevoegen aan RESTful API profiel (ter Goedkeuring)
