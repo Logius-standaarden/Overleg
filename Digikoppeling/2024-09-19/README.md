@@ -70,13 +70,9 @@ donderdag 19 september 2024
 
 ### Mededelingen
 
-
-### Toelichting bij Overige Punten
-
-
 ### Grote / Kleine wijzigingen
 
-#### Signing & Encryptie toevoegen aan RESTful API profiel 
+#### Signing & Encryptie toevoegen aan RESTful API profiel (ter Goedkeuring)
 
 De ADR modules voor Signing en Encryptie zijn geconsulteerd en vervolgens vastgesteld als stabiel binnen het Kennisplatform API's. 
 
