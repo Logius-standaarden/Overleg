@@ -1,5 +1,5 @@
 
-## Agenda (concept)
+## Agenda 
 
 |  |   |
 |------------------------|-------------------------------------| 
@@ -22,7 +22,7 @@
 | 11:45 | Review Architectuur (ter Goedkeuring) | Peter Haasnoot|
 | 12:00 | Lunch|
 | 12:45 | eDelivery ebMS3 Wijzigingsvoorstel - Stand van Zaken / Vervolg | Edwin Wisse | 
-| 13:15 | [Roadmap 2024-2025](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2024_2025.md#tijdlijn-roadmap-digikoppeling-standaarden) <BR>- Best practice Gebruik OAuth icm Digikoppeling REST_API|Peter Haasnoot|
-| 13:30 | Discussie: <BR>Uitfaseren koppelvlakstandaarden (WUS)<BR>| Allen |
-| 13:45 | Rondvraag / Afsluiting | Allen | 
-| 14:00 | Einde |
+| 13:00 | [Roadmap 2024-2025](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2024_2025.md#tijdlijn-roadmap-digikoppeling-standaarden) <BR>- Best practice Gebruik OAuth icm Digikoppeling REST_API|Peter Haasnoot|
+| 13:15 | Discussie: <BR>Uitfaseren koppelvlakstandaarden (WUS)<BR>| Allen |
+| 13:30 | Rondvraag / Afsluiting | Allen | 
+| 13:45 | Einde |
