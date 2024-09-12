@@ -33,7 +33,6 @@ Voorlopige agenda
 ## Onderwerpen
 
 ### Overige punten
-* CloudEvents-NL-Guidelines [issue #6] [Abonneringsstandaard](https://github.com/Logius-standaarden/CloudEvents-NL-Guidelines/issues/6) (27 augustus 2024)
 * Terugmelding [issue #4] [Standaardiseren op een hoger abstractieniveau](https://github.com/Logius-standaarden/Terugmelding/issues/4) (30 april 2024), _Status: Gereed_
 * Terugmelding [issue #3] [Toepassingsgebied van de standaard beschrijven](https://github.com/Logius-standaarden/Terugmelding/issues/3) (30 april 2024), _Status: Gereed_
 * NL-GOV-profile-for-CloudEvents [issue #15] [Beschrijven voor welke uitwisselpatronen de standaard is bedoeld](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents/issues/15) (30 april 2024)
