@@ -34,6 +34,7 @@ Voornaamste wijzigingen:
 - Algemene inleiding toegevoegd
 - Verwijderen verstreken deadline voor uitzonderingen TLS
 - Verwijzing naar NCSC/AIVD Post Quantum Cryptografie adviezen toegevoegd;
+- XML encryptie : 3DES afvoeren
 
 _Verzoek aan het Technisch Overleg is deze voorgestelde aanpassingen goed te keuren, deze zullen dan in een volgende versie van de standaard (na publieke consultatie), worden doorgevoerd en gepubliceerd_
 
