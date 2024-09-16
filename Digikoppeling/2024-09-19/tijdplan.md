@@ -19,7 +19,7 @@
 | 11:10 | Pauze |Allen| 
 | 11:20 | Review Beveiligingsvoorschriften (ter Goedkeuring) |Alexander Green| 
 | 11:30 | Review Architectuur (ter Goedkeuring) | Peter Haasnoot|
-| 13:40 | Discussie: <BR>Uitfaseren koppelvlakstandaarden (WUS)<BR>| Allen |
+| 11:40 | Discussie: <BR>Uitfaseren koppelvlakstandaarden (WUS)<BR>| Allen |
 | 12:00 | Lunch|
 | 12:45 | eDelivery ebMS3 Wijzigingsvoorstel - Stand van Zaken / Vervolg | Edwin Wisse | 
 | 13:00 | [Roadmap 2024-2025](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2024_2025.md#tijdlijn-roadmap-digikoppeling-standaarden) <BR>- Best practice Gebruik OAuth icm Digikoppeling REST_API|Peter Haasnoot|
