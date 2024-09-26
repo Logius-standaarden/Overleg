@@ -1,4 +1,4 @@
-_(Concept)_
+
 
 # Consultatie ‘Opnemen FSC in het DigiKoppeling REST-API profiel’
 
