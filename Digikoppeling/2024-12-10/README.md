@@ -57,4 +57,3 @@ dinsdag 10 december 2024
 * Digikoppeling-Architectuur [issue #16] [Update b_dk_bijlage_begrippen.md](https://github.com/Logius-standaarden/Digikoppeling-Architectuur/pull/16) (27 september 2024), _Status: In bewerking_
 * OIN-Stelsel [issue #21] [Begrippenkader OIN](https://github.com/Logius-standaarden/OIN-Stelsel/issues/21) (25 maart 2024), _Status: In bewerking_
   * [Wijzigingsvoorstel](https://github.com//Logius-standaarden/OIN-Stelsel/pull/20/files)
-* Digikoppeling-Architectuur [issue #15] [Review q1-q2 2024](https://github.com/Logius-standaarden/Digikoppeling-Architectuur/pull/15) (16 januari 2024), _Status: Ter goedkeuring_
