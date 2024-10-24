@@ -14,6 +14,7 @@
 | 11:40 | Rondvraag / Afsluiting ||
 
 ## Mededelingen
-- status Forum standaardisatie - https://www.forumstandaardisatie.nl/open-standaarden/rest-api-design-rules
+- status Forum standaardisatie -> https://www.forumstandaardisatie.nl/open-standaarden/rest-api-design-rules
 - Beheer modules ook in scope van dit TO ?
+- milestone na release 2.0.0 -> https://github.com/Geonovum/KP-APIs/milestone/3
 
