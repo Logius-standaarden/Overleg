@@ -34,7 +34,7 @@ dinsdag 10 december 2024
 | Tijd | Onderwerp |Spreker|
 | --- | --- | --- |  
 | __:00| Welkom & Mededelingen        |    Peter Haasnoot |
-| __:05| Verslag vorige vergadering _status vraag token_, besproken met duo, nu g2g en organisatie niveau - is vraag beantwoord of zijn er nog vragen      |    Peter Haasnoot |
+| __:05| Verslag vorige vergadering       |    Peter Haasnoot |
 | __:10 | [Wijzigingsvoorstel FSC](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/26) <BR>- Stand van Zaken| Peter Haasnoot | 
 |  | Grote en kleine wijzigingen <BR> | Peter Haasnoot / Alexander Green | 
 |  | eDelivery ebMS3 Wijzigingsvoorstel - Stand van Zaken / Vervolg | - | 
