@@ -18,5 +18,6 @@
 |  | eDelivery ebMS3 Wijzigingsvoorstel - Stand van Zaken / Vervolg | - | 
 |  | Uitfaseren koppelvlakstandaarden (WUS)<BR> - _reaktie vanuit EZ_| Allen |
 |  | [Roadmap 2024-2025](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2024_2025.md#tijdlijn-roadmap-digikoppeling-standaarden) <BR>- Best practice Gebruik OAuth icm Digikoppeling REST_API|Peter Haasnoot|
+|  | Uitbreidingen - bv Digikoppeling uitbreiden met GraphQL   | Allen | 
 |  | Rondvraag / Afsluiting | Allen | 
 |  | Einde |
