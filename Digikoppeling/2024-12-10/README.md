@@ -35,11 +35,13 @@ dinsdag 10 december 2024
 | --- | --- | --- |  
 | __:00| Welkom & Mededelingen        |    Peter Haasnoot |
 | __:05| Verslag vorige vergadering       |    Peter Haasnoot |
+| __:05| Consultatie       |    Peter Haasnoot |
 | __:10 | [Wijzigingsvoorstel FSC](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/26) <BR>- Stand van Zaken| Peter Haasnoot | 
 |  | Grote en kleine wijzigingen <BR> | Peter Haasnoot / Alexander Green | 
 |  | eDelivery ebMS3 Wijzigingsvoorstel - Stand van Zaken / Vervolg | - | 
-|  | Uitfaseren koppelvlakstandaarden (WUS)<BR>| Allen |
+|  | Uitfaseren koppelvlakstandaarden (WUS)<BR> - _reaktie vanuit EZ_| Allen |
 |  | [Roadmap 2024-2025](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2024_2025.md#tijdlijn-roadmap-digikoppeling-standaarden) <BR>- Best practice Gebruik OAuth icm Digikoppeling REST_API|Peter Haasnoot|
+|  | Uitbreidingen - bv Digikoppeling uitbreiden met GraphQL   | Allen | 
 |  | Rondvraag / Afsluiting | Allen | 
 |  | Einde |
 
