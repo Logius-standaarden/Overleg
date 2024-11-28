@@ -12,8 +12,6 @@
 
 ...
 
-### Wu
-
 ### eDelivery stand van zaken en vervolg (ter informatie)
 
 Het PBLQ rapport is na bespreking in het TO geagendeerd in de Programmeringstafel GU van 27 maart. Leden van de programmeringstafel hebben
