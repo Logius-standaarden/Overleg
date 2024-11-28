@@ -18,7 +18,7 @@
 | 10:40| Grote en kleine wijzigingen <BR> | Peter Haasnoot / Alexander Green | 
 | 11:00 | _Pauze_ | _Allen_ |
 | 11:05  | eDelivery ebMS3 Wijzigingsvoorstel - Stand van Zaken / Vervolg | Peter Haasnoot / Nil Barua| 
-| 11:15  | Uitfaseren koppelvlakstandaarden (WUS)<BR> - _reaktie vanuit EZ_| Allen |
+| 11:15  | Uitfaseren koppelvlakstandaarden (WUS)<BR> - _Behandelen reaktie vanuit EZ_| Peter Haasnoot |
 | 11:25 | [Roadmap 2024-2025](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2024_2025.md#tijdlijn-roadmap-digikoppeling-standaarden) <BR>- Best practice Gebruik OAuth icm Digikoppeling REST_API|Peter Haasnoot|
 | 11:30 | Uitbreidingen - bv Digikoppeling uitbreiden met GraphQL   | Allen | 
 | 11:40  | Rondvraag / Afsluiting | Allen | 
