@@ -1,5 +1,13 @@
 ### Mededelingen
 
+- Nieuwe Collega's
+
+### Releaseplan
+
+- [Digikoppeling Releaseplan](https://github.com/orgs/Logius-standaarden/projects/4)
+- [Consultatie nieuwe Release](https://github.com/Logius-standaarden/Openbare-Consultaties/tree/master/20240919_Digikoppeling)
+
+
 ### Grote / Kleine wijzigingen
 
 #### ---
