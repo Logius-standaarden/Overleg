@@ -25,11 +25,10 @@ Het construct eDelivery is nog onderwerp van nader onderzoek en afhankelijk van 
 
 _Op dit moment geen voorstander van het uitfaseren van WUS:_
 
-_
 * 1)	XML kun je controleren tegen een XSD. Op dit moment is daar voor REST nog geen standaard voor (JSON Schema is nog geen standaard). 
 * 2)	Op dit moment hebben we geen standaard voor signing en encryptie in REST (staat nu op de agenda), dus heb je voorlopig WUS nog nodig als standaard
 * 3)	SOAP/XML kent functies. In de ADR staat een aanwijzing voor functies (GET of POST) maar dat is niet zo goed beschreven als dat bij SOAP wel is.
-* 4)	Reliable Messaging is een feature in WUS en niet in REST (maar ik vraag me af of dit in de praktijk wordt gebruikt?)_
+* 4)	Reliable Messaging is een feature in WUS en niet in REST (maar ik vraag me af of dit in de praktijk wordt gebruikt?)
 
 _Naar mijn idee is het daarom op dit moment te vroeg om WUS uit te faseren._
 
