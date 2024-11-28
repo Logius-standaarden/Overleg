@@ -4,7 +4,7 @@
 |  |   |
 |------------------------|-------------------------------------| 
 | Betreft  | **Technisch Overleg Digikoppeling** |
-| Vergaderdatum en -tijd | 10-12-2024 , 10:00-11:30 |
+| Vergaderdatum en -tijd | 10-12-2024 , 10:00-11:45 |
 | Vergaderplaats  | online |
 
 
