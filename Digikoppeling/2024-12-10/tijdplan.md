@@ -13,7 +13,7 @@
 | --- | --- | --- |  
 | 10:00| Welkom & Mededelingen        |    Peter Haasnoot |
 | 10:05| Verslag vorige vergadering       |    Peter Haasnoot |
-| 10:10| Consultatie       |    Peter Haasnoot |
+| 10:10| Consultatie & Releaseplan      |    Peter Haasnoot |
 | 10:20 | [Wijzigingsvoorstel FSC](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/26) <BR>- Stand van Zaken| Peter Haasnoot | 
 | 10:40| Grote en kleine wijzigingen <BR> | Peter Haasnoot / Alexander Green | 
 | 11:00 | _Pauze_ | _Allen_ |
