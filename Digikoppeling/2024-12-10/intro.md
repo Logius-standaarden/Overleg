@@ -50,8 +50,8 @@ Opmerking vanuit beheer hierbij als input voor de bespreking:
 
 | Status | Toelichting | Datum |
 | -------|--------------|------|
-| END-OF-SUPPORT / Uit te faseren | ||
-| END-OF-LIFE / Uitgefaseerd | | |
+|  Uit te faseren | Het DK WUS koppelvlak dient te worden uit gefaseerd |  xx-xx-xx Einde Ondersteuning |
+|  Buiten gebruik | Het DK WUS koppelvlak is verwijderd uit de actuele versie van de standaard | xx-xx-xx End-of-Life |
 
 
 ### Update Roadmap 2024-2025
