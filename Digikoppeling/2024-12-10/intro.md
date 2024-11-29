@@ -7,10 +7,29 @@
 - [Digikoppeling Releaseplan](https://github.com/orgs/Logius-standaarden/projects/4)
 - [Consultatie nieuwe Release](https://github.com/Logius-standaarden/Openbare-Consultaties/tree/master/20240919_Digikoppeling)
 
-### FSC
+### FSC Wijzigingsvoorstel
+
+#### Behandeling MIDO Programmeringstafel Gegevensuitwisseling
+"Federated Service Connectivity (FSC) standaard opnemen in het Digikoppeling REST-API profiel als aanbevolen" is 20/11 behandeld bij de MIDO Programmeringstafel Gegevensuitwisseling
+
+Advies vanuit MIDO WG Architectuur Gegevensuitwisseling was FSC op te nemen als verplicht 
 
 
-...
+
+#### Stukken MIDO Programmeringstafel Gegevensuitwisseling
+
+- [Aanbiedingsformulier Aanbieden FSC standaard.pdf](https://pgdi.nl/files/view/ecbd5947-f632-4d94-aa16-cc5c486d47e5/20241120-pt-gu-4a.pdf)
+
+- [Logius Notitie Aanbieden FSC standaard_v1.1.pdf](https://pgdi.nl/files/view/e900f4d0-52d4-4d57-9542-fe6abe984d8c/20241120-pt-gu-4b.pdf)
+
+- [Bijlage A - FSC Kwalitatieve businesscase & Implementatie.pdf](https://pgdi.nl/files/view/62ffdc35-702c-4997-b3fd-fbd290a112cc/20241120-pt-gu-4c.pdf)
+
+- [Bijlage B - Behandeling in Technisch Overleg Digikoppeling & Scenario’s.pdf](https://pgdi.nl/files/view/ea2ed7e8-b50a-4769-a528-ffe1218d7d28/20241120-pt-gu-4d.pdf)
+
+- [Advies van Werkgroep Gegevensuitwisseling over FSC.pdf](https://pgdi.nl/files/view/0c6d1df1-6db9-4407-aebd-eda726033804/20241120-pt-gu-4e.pdf)
+
+
+
 
 ### eDelivery stand van zaken en vervolg (ter informatie)
 
@@ -42,8 +61,8 @@ _Naar mijn idee is het daarom op dit moment te vroeg om WUS uit te faseren._
 
 Opmerking vanuit beheer hierbij als input voor de bespreking:
 
-1. XML kan ook via het DK REST API Koppelvlak
-1. Signing en Encryptie zijn toegevoegd aan het REST-API koppelvlak in de komende release
+1. XML kan ook via het DK REST-API Koppelvlak
+1. Signing en Encryptie zijn toegevoegd aan het DK REST-API koppelvlak in de komende  DKrelease
 4. Reliable messaging is buiten scope van het huidige WUS profiel
 
 #### Voorstel vanuit Beheer
