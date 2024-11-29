@@ -40,7 +40,7 @@ dinsdag 10 december 2024
 | 10:40| Grote en kleine wijzigingen <BR> | Peter Haasnoot / Alexander Green | 
 | 11:00 | _Pauze_ | _Allen_ |
 | 11:05  | eDelivery ebMS3 Wijzigingsvoorstel - Stand van Zaken / Vervolg | Peter Haasnoot / Nil Barua| 
-| 11:15  | Uitfaseren koppelvlakstandaarden (WUS)<BR> - _reaktie vanuit EZ_| Allen |
+| 11:15  | Uitfaseren koppelvlakstandaarden (WUS)<BR> - _Behandelen reaktie vanuit EZ_| Peter Haasnoot |
 | 11:25 | [Roadmap 2024-2025](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2024_2025.md#tijdlijn-roadmap-digikoppeling-standaarden) <BR>- Best practice Gebruik OAuth icm Digikoppeling REST_API|Peter Haasnoot|
 | 11:30 | Uitbreidingen - bv Digikoppeling uitbreiden met GraphQL   | Allen | 
 | 11:40  | Rondvraag / Afsluiting | Allen | 
@@ -73,6 +73,7 @@ dinsdag 10 december 2024
 
 ### FSC
 
+
 ...
 
 ### eDelivery stand van zaken en vervolg (ter informatie)
@@ -81,6 +82,27 @@ Het PBLQ rapport is na bespreking in het TO geagendeerd in de Programmeringstafe
 voorgesteld de eDelivery _standaard_ los te koppelen van het _construct_. Het construct omvat de componenten en diensten die nodig zijn een eDelivery 
 netwerk op te zetten.
 Het construct eDelivery is nog onderwerp van nader onderzoek en afhankelijk van besluitvorming in het MIDO
+
+### Uitfasering WUS
+
+#### Reactie DICTU ,
+
+_Op dit moment geen voorstander van het uitfaseren van WUS:_
+
+* 1)	XML kun je controleren tegen een XSD. Op dit moment is daar voor REST nog geen standaard voor (JSON Schema is nog geen standaard). 
+* 2)	Op dit moment hebben we geen standaard voor signing en encryptie in REST (staat nu op de agenda), dus heb je voorlopig WUS nog nodig als standaard
+* 3)	SOAP/XML kent functies. In de ADR staat een aanwijzing voor functies (GET of POST) maar dat is niet zo goed beschreven als dat bij SOAP wel is.
+* 4)	Reliable Messaging is een feature in WUS en niet in REST (maar ik vraag me af of dit in de praktijk wordt gebruikt?)
+
+_Naar mijn idee is het daarom op dit moment te vroeg om WUS uit te faseren._
+
+#### Voorstel vanuit Beheer
+
+| Status | Toelichting | Datum |
+| -------|--------------|------|
+| END-OF-SUPPORT / Uit te faseren | ||
+| END-OF-LIFE / Uitgefaseerd | | |
+
 
 ### Update Roadmap 2024-2025
 
