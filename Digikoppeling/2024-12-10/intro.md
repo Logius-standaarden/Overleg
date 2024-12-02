@@ -73,6 +73,10 @@ Opmerking vanuit beheer hierbij als input voor de bespreking:
 |  Uit te faseren | Het DK WUS koppelvlak dient te worden uit gefaseerd |  xx-xx-xx Einde Ondersteuning |
 |  Buiten gebruik | Het DK WUS koppelvlak is verwijderd uit de actuele versie van de standaard | xx-xx-xx End-of-Life |
 
+•	Na xx-xx-xx is gebruik nog toegestaan voor legacy applicaties tot xx-xx-xx – echter de organisatie is zelf verantwoordelijk voor functionele en security updates;
+
+
+
 
 ### Update Roadmap 2024-2025
 
