@@ -14,9 +14,10 @@
 
 Advies vanuit MIDO WG Architectuur Gegevensuitwisseling was FSC op te nemen als verplicht 
 
+De Programmeringstafel GU heeft de MIDO Programmeringsraad geadviseerd om FSC op te nemen in het Digikoppeling REST-API profiel als verplicht (onder het pas-toe-of-leg-uit beleid van het Forum Standaardisatie zoals dat geldt voor Digikoppeling).
 
 
-#### Stukken MIDO Programmeringstafel Gegevensuitwisseling
+#### Stukken MIDO Programmeringstafel Gegevensuitwisseling 20/11
 
 - [Aanbiedingsformulier Aanbieden FSC standaard.pdf](https://pgdi.nl/files/view/ecbd5947-f632-4d94-aa16-cc5c486d47e5/20241120-pt-gu-4a.pdf)
 
