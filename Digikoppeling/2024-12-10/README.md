@@ -78,9 +78,10 @@ dinsdag 10 december 2024
 
 Advies vanuit MIDO WG Architectuur Gegevensuitwisseling was FSC op te nemen als verplicht 
 
+De Programmeringstafel GU heeft de MIDO Programmeringsraad geadviseerd om FSC op te nemen in het Digikoppeling REST-API profiel als verplicht (onder het pas-toe-of-leg-uit beleid van het Forum Standaardisatie zoals dat geldt voor Digikoppeling).
 
 
-#### Stukken MIDO Programmeringstafel Gegevensuitwisseling
+#### Stukken MIDO Programmeringstafel Gegevensuitwisseling 20/11
 
 - [Aanbiedingsformulier Aanbieden FSC standaard.pdf](https://pgdi.nl/files/view/ecbd5947-f632-4d94-aa16-cc5c486d47e5/20241120-pt-gu-4a.pdf)
 
@@ -126,7 +127,7 @@ _Naar mijn idee is het daarom op dit moment te vroeg om WUS uit te faseren._
 Opmerking vanuit beheer hierbij als input voor de bespreking:
 
 1. XML kan ook via het DK REST-API Koppelvlak
-1. Signing en Encryptie zijn toegevoegd aan het DK REST-API koppelvlak in de komende  DKrelease
+1. Signing en Encryptie zijn toegevoegd aan het DK REST-API koppelvlak in de komende  Digikoppeling release
 4. Reliable messaging is buiten scope van het huidige WUS profiel
 
 #### Voorstel vanuit Beheer
