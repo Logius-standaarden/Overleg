@@ -63,7 +63,7 @@ _Naar mijn idee is het daarom op dit moment te vroeg om WUS uit te faseren._
 Opmerking vanuit beheer hierbij als input voor de bespreking:
 
 1. XML kan ook via het DK REST-API Koppelvlak
-1. Signing en Encryptie zijn toegevoegd aan het DK REST-API koppelvlak in de komende  DKrelease
+1. Signing en Encryptie zijn toegevoegd aan het DK REST-API koppelvlak in de komende  Digikoppeling release
 4. Reliable messaging is buiten scope van het huidige WUS profiel
 
 #### Voorstel vanuit Beheer
