@@ -47,7 +47,7 @@ Aanleiding om dit onderwerp te bespreken:
 - Ondersteuning van WS-I in de grote platformen loopt terug
 - De wens is geuit in eerdere TO discussies om het aantal koppelvlakken te verminderen (en het nieuwe API koppelvlak is een alternatief voor WUS)
   
-#### Reactie DICTU ,
+#### Reactie DICTU
 
 Op de agendering van het onderwerp in het vorige TO is een reaktie van DICTU ingebracht:
 
