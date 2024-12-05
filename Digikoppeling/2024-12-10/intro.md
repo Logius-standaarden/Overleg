@@ -2,10 +2,13 @@
 
 - Nieuwe Collega's
 
-### Releaseplan
+### Consultatie & Releaseplan
+
+- [Consultatie nieuwe Release](https://github.com/Logius-standaarden/Openbare-Consultaties/tree/master/20240919_Digikoppeling)
 
 - [Digikoppeling Releaseplan](https://github.com/orgs/Logius-standaarden/projects/4)
-- [Consultatie nieuwe Release](https://github.com/Logius-standaarden/Openbare-Consultaties/tree/master/20240919_Digikoppeling)
+
+Uit de publieke consultatie zijn geen opmerkingen gekomen, Het TO wordt gevraagd akkoord te gaan met het opnemen van de voorgenomen wijzigingen in de volgende release - conform het releaseplan
 
 ### FSC Wijzigingsvoorstel
 
