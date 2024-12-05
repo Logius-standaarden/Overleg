@@ -21,7 +21,7 @@
 dinsdag 10 december 2024
 
 
-## Agenda  (Concept)
+## Agenda 
 
 |  |   |
 |------------------------|-------------------------------------| 
@@ -35,8 +35,8 @@ dinsdag 10 december 2024
 | --- | --- | --- |  
 | 10:00| Welkom & Mededelingen        |    Peter Haasnoot |
 | 10:05| Verslag vorige vergadering       |    Peter Haasnoot |
-| 10:10| Consultatie & Releaseplan      |    Peter Haasnoot |
-| 10:20 | [Wijzigingsvoorstel FSC](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/26) <BR>- Stand van Zaken| Peter Haasnoot | 
+| 10:10 | [Wijzigingsvoorstel FSC](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/26) <BR>- Stand van Zaken| Peter Haasnoot | 
+| 10:30| Consultatie & Releaseplan      |    Peter Haasnoot |
 | 10:40| Grote en kleine wijzigingen <BR> | Peter Haasnoot / Alexander Green | 
 | 11:00 | _Pauze_ | _Allen_ |
 | 11:05  | eDelivery ebMS3 Wijzigingsvoorstel - Stand van Zaken / Vervolg | Peter Haasnoot / Nil Barua| 
