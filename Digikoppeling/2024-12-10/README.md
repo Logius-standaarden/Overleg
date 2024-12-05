@@ -31,7 +31,7 @@ dinsdag 10 december 2024
 | --- | --- | --- |  
 | 10:00| Welkom & Mededelingen        |    Peter Haasnoot |
 | 10:05| [Verslag vorige vergadering](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-12-10/2024-09-19%20%20Verslag%20TO%20Digikoppeling%20v1.0..pdf)       |    Peter Haasnoot |
-| 10:10 | [Wijzigingsvoorstel FSC](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/26) <BR>- Stand van Zaken| Peter Haasnoot | 
+| 10:10 | [Wijzigingsvoorstel FSC](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/26) <BR>- Stand van Zaken,  Zie [Behandeling FSC in MIDO](#fsc-wijzigingsvoorstel)| Peter Haasnoot | 
 | 10:40| Consultatie & Releaseplan      |    Alexander Green |
 | 10:50| Grote en kleine wijzigingen | Peter Haasnoot / Alexander Green | 
 | 11:00 | _Pauze_ | _Allen_ |
@@ -62,10 +62,13 @@ dinsdag 10 december 2024
 
 - Nieuwe Collega's
 
-### Releaseplan
+### Consultatie & Releaseplan
+
+- [Consultatie nieuwe Release](https://github.com/Logius-standaarden/Openbare-Consultaties/tree/master/20240919_Digikoppeling)
 
 - [Digikoppeling Releaseplan](https://github.com/orgs/Logius-standaarden/projects/4)
-- [Consultatie nieuwe Release](https://github.com/Logius-standaarden/Openbare-Consultaties/tree/master/20240919_Digikoppeling)
+
+Uit de publieke consultatie zijn geen opmerkingen gekomen, Het TO wordt gevraagd akkoord te gaan met het opnemen van de voorgenomen wijzigingen in de volgende release - conform het releaseplan
 
 ### FSC Wijzigingsvoorstel
 
@@ -89,6 +92,9 @@ De Programmeringstafel GU heeft de MIDO Programmeringsraad geadviseerd om FSC op
 
 - [Advies van Werkgroep Gegevensuitwisseling over FSC.pdf](https://pgdi.nl/files/view/0c6d1df1-6db9-4407-aebd-eda726033804/20241120-pt-gu-4e.pdf)
 
+#### Advies van MIDO Programmeringstafel Gegevensuitwisseling aan Programmeringsraad
+
+- [MIDO Programmeringsraad : fsc-standaard-opnemen-in-digikoppeling-rest-api-profiel.pdf]( https://pgdi.nl/files/view/af4d8546-1787-43bc-b23e-83a099a2a5f7/20241212-pgdi-06-fsc-standaard-opnemen-in-digikoppeling-rest-api-profiel.pdf)
 
 
 
