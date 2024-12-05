@@ -20,29 +20,25 @@
 
 dinsdag 10 december 2024
 
-
 ## Agenda 
 
-|  |   |
-|------------------------|-------------------------------------| 
-| Betreft  | **Technisch Overleg Digikoppeling** |
-| Vergaderdatum en -tijd | 10-12-2024 , 10:00-11:45 |
-| Vergaderplaats  | online |
-
-
+| Betreft                | Technisch Overleg Digikoppeling |
+| ---------------------- | ------------------------------- |
+| Vergaderdatum en -tijd | 10-12-2024, 10:00-11:45         |
+| Vergaderplaats         | online                          |
 
 | Tijd | Onderwerp |Spreker|
 | --- | --- | --- |  
 | 10:00| Welkom & Mededelingen        |    Peter Haasnoot |
-| 10:05| Verslag vorige vergadering       |    Peter Haasnoot |
+| 10:05| [Verslag vorige vergadering](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-12-10/2024-09-19%20%20Verslag%20TO%20Digikoppeling%20v1.0..pdf)       |    Peter Haasnoot |
 | 10:10 | [Wijzigingsvoorstel FSC](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/26) <BR>- Stand van Zaken| Peter Haasnoot | 
-| 10:30| Consultatie & Releaseplan      |    Peter Haasnoot |
-| 10:40| Grote en kleine wijzigingen <BR> | Peter Haasnoot / Alexander Green | 
+| 10:40| Consultatie & Releaseplan      |    Alexander Green |
+| 10:50| Grote en kleine wijzigingen | Peter Haasnoot / Alexander Green | 
 | 11:00 | _Pauze_ | _Allen_ |
 | 11:05  | eDelivery ebMS3 Wijzigingsvoorstel - Stand van Zaken / Vervolg | Peter Haasnoot / Nil Barua| 
-| 11:15  | Uitfaseren koppelvlakstandaarden (WUS)<BR> - _Behandelen reaktie vanuit EZ_| Peter Haasnoot |
-| 11:25 | [Roadmap 2024-2025](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2024_2025.md#tijdlijn-roadmap-digikoppeling-standaarden) <BR>- Best practice Gebruik OAuth icm Digikoppeling REST_API|Peter Haasnoot|
-| 11:30 | Uitbreidingen - bv Digikoppeling uitbreiden met GraphQL   | Allen | 
+| 11:15  | Uitfaseren koppelvlakstandaarden (WUS)<BR> - _Behandelen [reactie vanuit DICTU](#reactie-dictu)_| Peter Haasnoot |
+| 11:25 | [Roadmap 2024-2025](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2024_2025.md#tijdlijn-roadmap-digikoppeling-standaarden) <BR>- Best practice Gebruik OAuth i.c.m. Digikoppeling REST_API|Peter Haasnoot|
+| 11:30 | Uitbreidingen - bijv. Digikoppeling uitbreiden met GraphQL   | Allen | 
 | 11:40  | Rondvraag / Afsluiting | Allen | 
 | 11:45 | Einde |
 
@@ -55,7 +51,7 @@ dinsdag 10 december 2024
 * Digikoppeling-Koppelvlakstandaard-ebMS2 [issue #6] [Digikoppeling baseren op ebMS3](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-ebMS2/issues/6) (3 februari 2022), _Status: In onderzoek_
 
 ### Kleine wijzigingen
-* Digikoppeling-Architectuur [issue #16] [Update b_dk_bijlage_begrippen.md](https://github.com/Logius-standaarden/Digikoppeling-Architectuur/pull/16) (27 september 2024), _Status: In bewerking_
+* Digikoppeling-Architectuur [issue #16] [Update b_dk_bijlage_begrippen.md](https://github.com/Logius-standaarden/Digikoppeling-Architectuur/pull/16) (27 september 2024), _Status: Ter goedkeuring_
 * OIN-Stelsel [issue #21] [Begrippenkader OIN](https://github.com/Logius-standaarden/OIN-Stelsel/issues/21) (25 maart 2024), _Status: In bewerking_
   * [Wijzigingsvoorstel](https://github.com//Logius-standaarden/OIN-Stelsel/pull/20/files)
 
@@ -111,7 +107,7 @@ Aanleiding om dit onderwerp te bespreken:
 - Ondersteuning van WS-I in de grote platformen loopt terug
 - De wens is geuit in eerdere TO discussies om het aantal koppelvlakken te verminderen (en het nieuwe API koppelvlak is een alternatief voor WUS)
   
-#### Reactie DICTU ,
+#### Reactie DICTU
 
 Op de agendering van het onderwerp in het vorige TO is een reaktie van DICTU ingebracht:
 
