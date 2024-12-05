@@ -32,6 +32,9 @@ De Programmeringstafel GU heeft de MIDO Programmeringsraad geadviseerd om FSC op
 
 - [Advies van Werkgroep Gegevensuitwisseling over FSC.pdf](https://pgdi.nl/files/view/0c6d1df1-6db9-4407-aebd-eda726033804/20241120-pt-gu-4e.pdf)
 
+#### Advies van MIDO Programmeringstafel Gegevensuitwisseling aan Programmeringsraad
+
+- [MIDO Programmeringsraad : fsc-standaard-opnemen-in-digikoppeling-rest-api-profiel.pdf]( https://pgdi.nl/files/view/af4d8546-1787-43bc-b23e-83a099a2a5f7/20241212-pgdi-06-fsc-standaard-opnemen-in-digikoppeling-rest-api-profiel.pdf)
 
 
 
