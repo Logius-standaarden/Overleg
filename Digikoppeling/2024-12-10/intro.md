@@ -68,12 +68,14 @@ Opmerking vanuit beheer hierbij als input voor de bespreking:
 
 #### Voorstel vanuit Beheer
 
-| Status | Toelichting | Datum |
-| -------|--------------|------|
-|  Uit te faseren | Het DK WUS koppelvlak dient te worden uit gefaseerd |  xx-xx-xx Einde Ondersteuning |
-|  Buiten gebruik | Het DK WUS koppelvlak is verwijderd uit de actuele versie van de standaard | xx-xx-xx End-of-Life |
+In het kader van Life-Cycle Management van de Koppelvlakstandaarden krijgt het DK WUS Koppelvlak de status "Uit te faseren" als volgt:
 
-•	Na xx-xx-xx is gebruik nog toegestaan voor legacy applicaties tot xx-xx-xx – echter de organisatie is zelf verantwoordelijk voor functionele en security updates;
+Koppelvlak Standaard| Status | Toelichting | Einde Ondersteuning| Einde Gebruik |
+|----| -------|--------------|------|---|
+|Digikoppeling WUS |  Uit te faseren | Het DK WUS koppelvlak dient te worden uit gefaseerd |  01-01-2027  | 01-01-2032|
+
+
+•	Na 01-01-2027 is gebruik nog toegestaan voor legacy applicaties tot 01-01-2032 - echter de organisatie is zelf verantwoordelijk voor functionele en security updates;
 
 
 
