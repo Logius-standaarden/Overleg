@@ -9,7 +9,7 @@
 | --- | --- | --- |  
 | 10:00| Welkom & Mededelingen        |    Peter Haasnoot |
 | 10:05| [Verslag vorige vergadering](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-12-10/2024-09-19%20%20Verslag%20TO%20Digikoppeling%20v1.0..pdf)       |    Peter Haasnoot |
-| 10:10 | [Wijzigingsvoorstel FSC](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/26) <BR>- Stand van Zaken| Peter Haasnoot | 
+| 10:10 | [Wijzigingsvoorstel FSC](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/26) <BR>- Stand van Zaken,  Zie [Behandeling FSC in MIDO](#fsc-behandeling)| Peter Haasnoot | 
 | 10:40| Consultatie & Releaseplan      |    Alexander Green |
 | 10:50| Grote en kleine wijzigingen | Peter Haasnoot / Alexander Green | 
 | 11:00 | _Pauze_ | _Allen_ |
