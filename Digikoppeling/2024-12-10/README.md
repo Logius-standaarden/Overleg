@@ -38,7 +38,7 @@ dinsdag 10 december 2024
 | 11:05  | eDelivery ebMS3 Wijzigingsvoorstel - Stand van Zaken / Vervolg | Peter Haasnoot / Nil Barua| 
 | 11:15  | Uitfaseren koppelvlakstandaarden (WUS)<BR> - _Behandelen [reactie vanuit DICTU](#reactie-dictu)_| Peter Haasnoot |
 | 11:25 | [Roadmap 2024-2025](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2024_2025.md#tijdlijn-roadmap-digikoppeling-standaarden) <BR>- Best practice Gebruik OAuth i.c.m. Digikoppeling REST_API|Peter Haasnoot|
-| 11:30 | Uitbreidingen - bijv. Digikoppeling uitbreiden met GraphQL   | Allen | 
+| 11:30 | Uitbreidingen - bijv. Digikoppeling uitbreiden met [GraphQL](https://graphql.org/)   | Allen | 
 | 11:40  | Rondvraag / Afsluiting | Allen | 
 | 11:45 | Einde |
 
