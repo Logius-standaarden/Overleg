@@ -1,15 +1,23 @@
-# Digikoppeling Technisch Overleg
-
-Deze map bevat de agenda, notulen en vergaderstukken van het Technisch Overleg Digikoppeling.
-
-## Eerstvolgend Technisch Overleg
-
-| Datum | Tijd | Locatie | Stukken | Bijzonderheden |
-| ----- | ---- | ------- | ------- | -------------- |
-|   29-05-2024    | 10:00- 11:30    |  Online       |[29-05-2024](https://github.com/Logius-standaarden/Overleg/tree/main/Digikoppeling/2024-05-29)|      |
+<!-----------------------------
 
 
 
-## Archief Technisch Overleg
 
-Zie de bovenstaande folders voor de eerdere overleggen 
+
+
+
+   :warning: Dit bestand wordt automatisch gegenereerd.
+   :warning: Handmatige toevoegingen worden overschreven.
+
+
+
+
+
+
+
+----------------------------->
+# Terugmelden
+## Onderwerpen
+
+### Overige punten
+* NL-GOV-profile-for-CloudEvents [issue #15] [Beschrijven voor welke uitwisselpatronen de standaard is bedoeld](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents/issues/15) (30 april 2024)
