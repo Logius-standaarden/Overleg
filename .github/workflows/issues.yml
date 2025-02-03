@@ -7,7 +7,7 @@ name: Check issues
 jobs:
   link-checker:
     name: Check issues
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
       - run: pip install --upgrade PyGitHub bs4
