@@ -1,4 +1,4 @@
-## Agenda 
+## Agenda (concept)
 
 | Betreft                | Technisch Overleg Digikoppeling |
 | ---------------------- | ------------------------------- |
@@ -11,7 +11,7 @@
 | 10:05| [Verslag vorige vergadering](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-12-10/2024-09-19%20%20Verslag%20TO%20Digikoppeling%20v1.0..pdf)       |    Peter Haasnoot |
 | 10:10 | [FSC](fsc-standaard.nl) <BR>- Stand van Zaken,  | Peter Haasnoot | 
 | 10:50| Grote en kleine wijzigingen | Peter Haasnoot / Alexander Green | 
-| 10:40| Releaseplan      |    Alexander Green |
+| 10:55| Releaseplan      |    Alexander Green |
 | 11:00 | _Pauze_ | _Allen_ |
 | 11:05  | eDelivery ebMS3 Wijzigingsvoorstel - Stand van Zaken / Vervolg | Peter Haasnoot / Nil Barua| 
 | 11:15  | Uitfaseren koppelvlakstandaarden (WUS)<BR> - _Behandelen [reactie vanuit DICTU](#reactie-dictu)_| Peter Haasnoot |
