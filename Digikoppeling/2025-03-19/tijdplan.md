@@ -17,9 +17,10 @@
 | 11:15  | Uitfaseren koppelvlakstandaarden (WUS)<BR> - _Behandelen REST-API als vervanging van WUS_| Peter Haasnoot |
 | 11:25 | [Roadmap 2024-2025](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2024_2025.md#tijdlijn-roadmap-digikoppeling-standaarden) <BR>- Best practice Gebruik OAuth i.c.m. Digikoppeling REST_API|Peter Haasnoot|
 | 11:30 | Presentatie [GraphQL](https://graphql.org/) (+BKWI pilot)  | Martin | 
-|12:00 | lunch
-|13:00| FDS Standaarden
-|13:15 | FSC Demo |
-|13:45 | FSC implementatie ondersteuning | 
+|12:00 | lunch | |
+|12:45 | FDS Standaarden | |
+|13:00 | FSC Wijzigingsvoorstellen | |
+|13:15 | FSC Demo | |
+|13:45 | FSC implementatie ondersteuning | | 
 |13:55  | Rondvraag / Afsluiting | Allen | 
 |14:00 | Einde |
