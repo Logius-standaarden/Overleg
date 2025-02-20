@@ -36,7 +36,7 @@ woensdag 19 maart 2025
 | 11:05 | _Pauze_ | _Allen_ |
 | 11:10 | Releaseplan      |    Alexander Green |
 | 11:15 | S3 - Grote Berichten | Alexander Green |
-| 11:25  | Uitfaseren koppelvlakstandaarden (WUS)<BR> - _Behandelen REST-API als vervanging van WUS_| Peter Haasnoot |
+| 11:25  | Uitfaseren koppelvlakstandaarden (WUS)<BR> - _Behandelen REST-API als vervanging van WUS_| Peter Haasnoot / Nil Baru |
 | 11:35 | Presentatie [GraphQL](https://graphql.org/) (+BKWI pilot)  | Martin | 
 |12:00 | lunch | |
 |12:45 | FDS Standaarden | |
