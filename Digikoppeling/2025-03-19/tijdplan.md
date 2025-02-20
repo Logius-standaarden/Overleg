@@ -9,7 +9,7 @@
 | --- | --- | --- |  
 | 10:00| Welkom & Mededelingen        |    Peter Haasnoot |
 | 10:05| [Verslag vorige vergadering](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-12-10/2024-09-19%20%20Verslag%20TO%20Digikoppeling%20v1.0..pdf)       |    Peter Haasnoot |
-| 10:10 | Digikoppeling Scope en inzetgebied <BR>- (MIDO GU Architectuur),  | Peter Haasnoot | 
+| 10:10 | Digikoppeling Toekomstvisie : Scope en inzetgebied <BR>- (MIDO GU Architectuur),  | Peter Haasnoot / Dennis Passage| 
 | 10:50  | eDelivery ebMS3 Wijzigingsvoorstel - Stand van Zaken / Vervolg | Peter Haasnoot / Nil Barua| 
 | 11:05 | _Pauze_ | _Allen_ |
 | 11:10 | Releaseplan      |    Alexander Green |
