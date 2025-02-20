@@ -15,7 +15,7 @@
 | 11:10 | Releaseplan      |    Alexander Green |
 | 11:15 | Onderzoek S3 - Grote Berichten | Alexander Green |
 | 11:25  | Uitfaseren koppelvlakstandaarden (WUS)<BR> - _Behandelen REST-API als vervanging van WUS_| Peter Haasnoot |
-| 11:35 | Presentatie [GraphQL](https://graphql.org/) (+BKWI pilot)  | Martin | 
+| 11:35 | Presentatie [GraphQL](https://graphql.org/) (+BKWI pilot)  | Martin van der Plas| 
 |12:00 | lunch | |
 |12:45 | FSC Stand van zaken & Beheer | Peter Haasnoot|
 |13:00 | FSC Wijzigingsvoorstellen | Ronald Koster  |
