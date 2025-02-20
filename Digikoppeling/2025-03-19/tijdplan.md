@@ -16,11 +16,11 @@
 | 11:15 | Onderzoek S3 - Grote Berichten | Alexander Green (Logius) |
 | 11:25  | Uitfaseren koppelvlakstandaarden (WUS)<BR> - _Behandelen REST-API als vervanging van WUS_| Peter Haasnoot  / Nil Barua (Logius)|
 | 11:35 | Presentatie [GraphQL](https://graphql.org/) (+BKWI pilot)  | Martin van der Plas (Logius)| 
-|12:00 | Lunch | Allen |
+|12:00 | _Lunch_ | _Allen_ |
 |12:45 | FSC Stand van zaken & Beheer | Peter Haasnoot (Logius)|
 |13:00 | FSC Wijzigingsvoorstellen | Ronald Koster (VNG)  |
 |13:15 | FSC Demo | Lonneke Dikmans (RINIS) |
-|13:45 | FSC implementatie ondersteuning | Lonneke Dikmans (RINIS) | 
+|13:45 | FSC Implementatie ondersteuning | Lonneke Dikmans (RINIS) | 
 |13:55  | Rondvraag / Afsluiting | Allen | 
 |14:00 | Einde |
 
