@@ -28,4 +28,4 @@
 
 
 ### Voorraad Agenda
-| 11:25 | [Roadmap 2024-2025](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2024_2025.md#tijdlijn-roadmap-digikoppeling-standaarden) <BR>- Best practice Gebruik OAuth i.c.m. Digikoppeling REST_API|Peter Haasnoot|
+| -- | [Roadmap 2024-2025](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap_2024-2026/Digikoppeling_Roadmap_2024_2025.md#tijdlijn-roadmap-digikoppeling-standaarden) <BR>- Best practice Gebruik OAuth i.c.m. Digikoppeling REST_API|Peter Haasnoot|
