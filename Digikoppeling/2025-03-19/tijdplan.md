@@ -17,10 +17,10 @@
 | 11:25  | Uitfaseren koppelvlakstandaarden (WUS)<BR> - _Behandelen REST-API als vervanging van WUS_| Peter Haasnoot |
 | 11:35 | Presentatie [GraphQL](https://graphql.org/) (+BKWI pilot)  | Martin | 
 |12:00 | lunch | |
-|12:45 | FDS Standaarden | |
-|13:00 | FSC Wijzigingsvoorstellen | |
-|13:15 | FSC Demo | |
-|13:45 | FSC implementatie ondersteuning | | 
+|12:45 | FSC Stand van zaken & Beheer | Peter Haasnoot|
+|13:00 | FSC Wijzigingsvoorstellen | Ronald Koster  |
+|13:15 | FSC Demo | Lonneke Dikmans |
+|13:45 | FSC implementatie ondersteuning | Lonneke Dikmans | 
 |13:55  | Rondvraag / Afsluiting | Allen | 
 |14:00 | Einde |
 
