@@ -13,7 +13,7 @@
 | 10:50  | eDelivery ebMS3 Wijzigingsvoorstel - Stand van Zaken / Vervolg | Peter Haasnoot / Nil Barua| 
 | 11:05 | _Pauze_ | _Allen_ |
 | 11:10 | Releaseplan      |    Alexander Green |
-| 11:15 | Grote / Kleine wijzigingen | Alexander Green |
+| 11:15 | S3 - Grote Berichten | Alexander Green |
 | 11:25  | Uitfaseren koppelvlakstandaarden (WUS)<BR> - _Behandelen REST-API als vervanging van WUS_| Peter Haasnoot |
 | 11:35 | Presentatie [GraphQL](https://graphql.org/) (+BKWI pilot)  | Martin | 
 |12:00 | lunch | |
