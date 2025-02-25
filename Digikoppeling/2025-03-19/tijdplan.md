@@ -20,7 +20,7 @@
 |12:45 | FSC Stand van zaken & Beheer | Peter Haasnoot (Logius)|
 |13:00 | FSC Wijzigingsvoorstellen | Ronald Koster (VNG)  |
 |13:15 | FSC Demo | Lonneke Dikmans (RINIS) |
-|13:45 | FSC Implementatie ondersteuning | Ronald Koster (VNG) | 
+|13:45 | FSC Implementatie ondersteuning | Lonneke Dikmans (RINIS) | 
 |13:55  | Rondvraag / Afsluiting | Allen | 
 |14:00 | Einde |
 
