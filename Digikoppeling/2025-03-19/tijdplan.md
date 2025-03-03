@@ -1,4 +1,4 @@
-## Agenda (concept)
+## Agenda
 
 | Betreft                | Technisch Overleg Digikoppeling |
 | ---------------------- | ------------------------------- |
