@@ -20,7 +20,7 @@
 
 woensdag 19 maart 2025
 
-## Agenda (concept)
+## Agenda
 
 | Betreft                | Technisch Overleg Digikoppeling |
 | ---------------------- | ------------------------------- |
