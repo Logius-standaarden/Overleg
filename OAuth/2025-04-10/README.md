@@ -26,7 +26,6 @@ donderdag 10 april 2025
 
 ### Kleine wijzigingen
 * OIDC-NLGOV [issue #21] [Tussenvoegsels in OIDC](https://github.com/Logius-standaarden/OIDC-NLGOV/issues/21) (24 februari 2025), _Status: In onderzoek_
-* OAuth-NL-profiel [issue #28] [RFC ACR claim](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/28) (26 januari 2023), _Status: In bewerking_
 * OAuth-Inleiding [issue #4] [Lessons learned uit eDelivery REST API toepassen](https://github.com/Logius-standaarden/OAuth-Inleiding/issues/4) (25 november 2022), _Status: In onderzoek_
 * OAuth-NL-profiel [issue #26] [Inhoud access token in lijn brengen met RFC9068](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/26) (9 november 2022), _Status: Uitwerking door derden_
 
