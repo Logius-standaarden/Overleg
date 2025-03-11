@@ -59,7 +59,7 @@ REST kent OPENAPI specificatie en JSON Schema met tot op bepaalde hoogte vergeli
 
 Wat betreft _"Kan het Digikoppeling WUS profiel vervangen worden door het Digikoppeling REST-API profiel"_
 
-DK WUS SOAP services die niet sterk afhankelijk zijn van Encryptie, reliable messaging, multi step transacties en stateful interacties, denk hierbij bijvoorbeeld aan "bevragingen" (en simpele "transacties") zijn te vervangen door DK REST-API services;
+DK WUS SOAP services die niet sterk afhankelijk zijn van encryptie van bericht onderdelen, reliable messaging, multi step transacties en stateful interacties, denk hierbij bijvoorbeeld aan "bevragingen" (en simpele "transacties") zijn te vervangen door DK REST-API services;
 
 Voor DK WUS SOAP services die gebruik maken van aanvullende WS-I functionaliteiten en die juist wel sterk leunen op deze functionaliteiten zou het nodig zijn om de benodigde extra functionaliteit bovenop het DK REST-API (zelf) extra te implementeren, Ook in de REST-API context zijn hier patronen en technieken voor beschikbaar;
 
