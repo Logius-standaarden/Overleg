@@ -34,7 +34,7 @@ UWV heeft een analyse gemaakt mbt functionaliteit,  deze analyse zal hierbij ook
 
 _Het TO wordt gevraagd een reaktie te geven op het in de Notitie opgenomen voorstel_
 
-_Bij voldoende overeenstemming op dit punt zal het TO gevraagd worden ook goedkeuring te geven aan de voorgestelde aanpassing en termijnen, de wijziging en de termijnen zullen vervolgens publiek geconsulteerd kunnen worden_
+_Bij voldoende overeenstemming op dit punt zal het TO gevraagd worden ook goedkeuring te geven aan de voorgestelde aanpassing en termijnen, de wijziging en de termijnen zullen vervolgens publiek geconsulteerd worden_
 
 
 
