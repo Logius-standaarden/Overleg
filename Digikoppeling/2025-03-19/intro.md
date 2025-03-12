@@ -11,9 +11,7 @@ Zie [Notitie Vervanging Digikoppeling ebMS2 door eDelivery ebMS3/AS4](https://gi
 
 _Het TO wordt gevraagd een reaktie te geven op het in de Notitie opgenomen voorstel tav de invoering van een eDelivery ebMS3/AS4 koppelvlak specificatie in het kader van de uitfasering van ebMS2_
 
-## Overgang ebMS2 naar eDelivery ebMS3/AS4
-
-### eDelivery 2.0
+### BIJLAGE - eDelivery 2.0
 [eDelivery 2.0](https://ec.europa.eu/digital-building-blocks/sites/pages/viewpage.action?pageId=848625744) is eind vorig jaar uitgebracht
 
 
