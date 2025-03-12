@@ -9,7 +9,7 @@ In deze sessie bespreken we gezamenlijk deze punten met als doel de toekomstvisi
 
 Zie [Notitie Vervanging Digikoppeling ebMS2 door eDelivery ebMS3/AS4](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-03-19/vergaderstukken/Notitie_Invoering_Digikoppeling_eDelivery_ebMS3-AS4.md)
 
-_Het TO wordt gevraagd een reaktie te geven op het in de Notitie opgenomen voorstel tav de invoering van een eDelivery ebMS3/AS4 koppelvlak specificatie in het kader van de uitfasering van ebMS2__
+_Het TO wordt gevraagd een reaktie te geven op het in de Notitie opgenomen voorstel tav de invoering van een eDelivery ebMS3/AS4 koppelvlak specificatie in het kader van de uitfasering van ebMS2_
 
 ## Overgang ebMS2 naar eDelivery ebMS3/AS4
 
