@@ -19,3 +19,18 @@ _Het TO wordt gevraagd een reaktie te geven op het in de Notitie opgenomen voors
 
 [PBLQ Rapport Impactanalyse modernisering Digikoppeling ebMS: 
 van ebMS2 naar eDelivery (ebMS3/AS4)](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-03-06/Rapport%20Impactanalyse%20modernisering%20Digikoppeling%20ebMS%20-%20v1.1%20definitief%2019%20januari%202024.pdf)
+
+## Onderzoek S3 - Grote Berichten
+
+_todo_
+
+## Uitfaseren koppelvlakstandaarden (WUS)
+
+_(Concept)_
+
+Zie [Notitie WUS vs REST](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-03-19/concepten/WUS_vs_REST.md) voor het concept voorstel vanuit Beheer Digikoppeling
+
+_Het TO wordt gevraagd een reaktie te geven op het in de Notitie opgenomen voorstel_
+
+
+
