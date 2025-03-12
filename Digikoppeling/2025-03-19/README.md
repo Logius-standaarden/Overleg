@@ -35,12 +35,12 @@ woensdag 19 maart 2025
 | 10:50  | [Overgang ebMS2 naar eDelivery ebMS3/AS4](#overgang-ebms2-naar-edelivery-ebms3as4) - Stand van Zaken / Vervolg  | Peter Haasnoot / Nil Barua (Logius)| 
 | 11:05 | _Pauze_ | _Allen_ |
 | 11:10 | [Releaseplan Digikoppeling](https://github.com/orgs/Logius-standaarden/projects/4)      |    Alexander Green (Logius) |
-| 11:15 | Onderzoek S3 - Grote Berichten | Alexander Green (Logius) |
+| 11:15 | [Onderzoek S3 - Grote Berichten](#onderzoek-s3---grote-berichten) | Alexander Green (Logius) |
 | 11:25  | [Uitfaseren koppelvlakstandaarden (WUS)](#uitfaseren-koppelvlakstandaarden-wus)<BR> - _Behandelen REST-API als vervanging van WUS_| Peter Haasnoot  / Nil Barua (Logius)|
 | 11:35 | Presentatie [GraphQL](https://graphql.org/)   | Martin van der Plas (Logius)| 
 |12:00 | _Lunch_ | _Allen_ |
 |12:45 | FSC Stand van zaken & Beheer | Peter Haasnoot (Logius)|
-|13:00 | FSC Wijzigingsvoorstellen | Ronald Koster (VNG)  |
+|13:00 | [FSC Wijzigingsvoorstellen](https://github.com/Logius-standaarden/fsc-core/pulls) | Ronald Koster (VNG)  |
 |13:15 | FSC Demo | Lonneke Dikmans (RINIS) |
 |13:45 | FSC Implementatie ondersteuning | Lonneke Dikmans (RINIS) | 
 |13:55  | Rondvraag / Afsluiting | Allen | 
@@ -82,7 +82,7 @@ van ebMS2 naar eDelivery (ebMS3/AS4)](https://github.com/Logius-standaarden/Over
 
 ## Onderzoek S3 - Grote Berichten
 
-_todo_
+Alhoewel S3 niet open source is, bestaan er wel open source alternatieven die de S3 API nabootsen. Een populair alternatief is [MinIO](https://github.com/minio/minio) dat bij Digipoort is toegepast. Het is een open source project dat “S3 compatible” is door zelf een API te hebben gebouwd dat de S3 API volgt qua berichtformaat van een groot deel van de mogelijke operaties op basis van de publieke API-documentatie van Amazon.
 
 ## Uitfaseren koppelvlakstandaarden (WUS)
 
