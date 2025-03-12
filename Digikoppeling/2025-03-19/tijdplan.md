@@ -14,7 +14,7 @@
 | 11:05 | _Pauze_ | _Allen_ |
 | 11:10 | [Releaseplan Digikoppeling](https://github.com/orgs/Logius-standaarden/projects/4)      |    Alexander Green (Logius) |
 | 11:15 | Onderzoek S3 - Grote Berichten | Alexander Green (Logius) |
-| 11:25  | Uitfaseren koppelvlakstandaarden (WUS)<BR> - _Behandelen REST-API als vervanging van WUS_| Peter Haasnoot  / Nil Barua (Logius)|
+| 11:25  | [Uitfaseren koppelvlakstandaarden (WUS)](#uitfaseren-koppelvlakstandaarden-wus)<BR> - _Behandelen REST-API als vervanging van WUS_| Peter Haasnoot  / Nil Barua (Logius)|
 | 11:35 | Presentatie [GraphQL](https://graphql.org/) (+BKWI pilot)  | Martin van der Plas (Logius)| 
 |12:00 | _Lunch_ | _Allen_ |
 |12:45 | FSC Stand van zaken & Beheer | Peter Haasnoot (Logius)|
