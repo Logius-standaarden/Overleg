@@ -13,12 +13,12 @@
 | 10:50  | [Overgang ebMS2 naar eDelivery ebMS3/AS4](#overgang-ebms2-naar-edelivery-ebms3as4) - Stand van Zaken / Vervolg  | Peter Haasnoot / Nil Barua (Logius)| 
 | 11:05 | _Pauze_ | _Allen_ |
 | 11:10 | [Releaseplan Digikoppeling](https://github.com/orgs/Logius-standaarden/projects/4)      |    Alexander Green (Logius) |
-| 11:15 | Onderzoek S3 - Grote Berichten | Alexander Green (Logius) |
+| 11:15 | [Onderzoek S3 - Grote Berichten](#onderzoek-s3---grote-berichten) | Alexander Green (Logius) |
 | 11:25  | [Uitfaseren koppelvlakstandaarden (WUS)](#uitfaseren-koppelvlakstandaarden-wus)<BR> - _Behandelen REST-API als vervanging van WUS_| Peter Haasnoot  / Nil Barua (Logius)|
 | 11:35 | Presentatie [GraphQL](https://graphql.org/)   | Martin van der Plas (Logius)| 
 |12:00 | _Lunch_ | _Allen_ |
 |12:45 | FSC Stand van zaken & Beheer | Peter Haasnoot (Logius)|
-|13:00 | FSC Wijzigingsvoorstellen | Ronald Koster (VNG)  |
+|13:00 | [FSC Wijzigingsvoorstellen](https://github.com/Logius-standaarden/fsc-core/pulls) | Ronald Koster (VNG)  |
 |13:15 | FSC Demo | Lonneke Dikmans (RINIS) |
 |13:45 | FSC Implementatie ondersteuning | Lonneke Dikmans (RINIS) | 
 |13:55  | Rondvraag / Afsluiting | Allen | 
