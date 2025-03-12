@@ -82,9 +82,9 @@ In het kader van Life-Cycle Management van de Koppelvlakstandaarden krijgt het D
 
 Koppelvlak Standaard| Status | Toelichting | Einde Ondersteuning| Einde Gebruik |
 |----| -------|--------------|------|---|
-|Digikoppeling WUS |  Uit te faseren | Het DK WUS koppelvlak dient te worden uit gefaseerd |  01-01-2027  | 01-01-2032|
+|Digikoppeling WUS |  Uit te faseren | Het DK WUS koppelvlak dient te worden uit gefaseerd |  01-01-2028  | 01-01-2033|
 
-•	Na 01-01-2027 is gebruik nog toegestaan voor legacy applicaties tot 01-01-2032 - echter de organisatie is zelf verantwoordelijk voor functionele en security updates;
+•	Na 01-01-2028 is gebruik nog toegestaan voor legacy applicaties tot 01-01-2033 - echter de organisatie is zelf verantwoordelijk voor functionele en security updates;
 
 
 Digikoppeling koppelvlakken:
