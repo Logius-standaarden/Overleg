@@ -40,7 +40,7 @@ woensdag 19 maart 2025
 | 11:35 | Presentatie [GraphQL](https://graphql.org/)   | Martin van der Plas (Logius)| 
 |12:00 | _Lunch_ | _Allen_ |
 |12:45 | FSC Stand van zaken & Beheer | Peter Haasnoot (Logius)|
-|13:00 | [FSC Wijzigingsvoorstellen](https://github.com/Logius-standaarden/fsc-core/pulls?q=is%3Apr+is%3Aopen+created%3A%3C%3D2025-02-01) | Ronald Koster (VNG)  |
+|13:00 | [FSC Wijzigingsvoorstellen](https://github.com/Logius-standaarden/fsc-core/pulls) | Ronald Koster (VNG)  |
 |13:15 | FSC Demo | Lonneke Dikmans (RINIS) |
 |13:45 | FSC Implementatie ondersteuning | Lonneke Dikmans (RINIS) | 
 |13:55  | Rondvraag / Afsluiting | Allen | 
