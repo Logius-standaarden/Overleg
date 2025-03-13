@@ -1,9 +1,10 @@
 
 ## Digikoppeling Toekomstvisie : Scope en inzetgebied
 
-In de MIDO Domeinarchitectuur Gegevensuitwisseling zijn enkele mogelijke vernieuwingen en uitbreidingen voor Digikoppeling genoemd;
+In de [MIDO Domeinarchitectuur Gegevensuitwisseling](https://github.com/MinBZK/gdi-gegevensuitwisseling) zijn enkele mogelijke vernieuwingen en uitbreidingen voor Digikoppeling genoemd;
 
 In deze sessie bespreken we gezamenlijk deze punten met als doel de toekomstvisie Digikoppeling nader te bepalen.
+
 
 ## Overgang ebMS2 naar eDelivery ebMS3/AS4
 
