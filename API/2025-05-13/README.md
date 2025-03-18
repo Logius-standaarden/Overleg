@@ -38,6 +38,5 @@ dinsdag 13 mei 2025
 * API-Design-Rules [issue #160] [Voeg RELEASING.md toe](https://github.com/Logius-standaarden/API-Design-Rules/pull/160) (21 januari 2025), _Status: Ter goedkeuring_
 
 ### Kleine wijzigingen
-* API-Design-Rules [issue #177] [Beheer: voeg Spectral configuratie toe als bijlage](https://github.com/Logius-standaarden/API-Design-Rules/pull/177) (7 maart 2025), _Status: In bewerking_
 * API-Design-Rules [issue #165] [Definieer nieuwe regel voor publiceren van landing page](https://github.com/Logius-standaarden/API-Design-Rules/pull/165) (11 februari 2025), _Status: Ter goedkeuring_
 * API-Design-Rules [issue #158] [Voeg naming-conventions toe aan standaard](https://github.com/Logius-standaarden/API-Design-Rules/pull/158) (17 januari 2025), _Status: Ter goedkeuring_
