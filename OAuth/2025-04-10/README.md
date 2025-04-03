@@ -20,6 +20,8 @@
 
 donderdag 10 april 2025
 
+🗳️ Poll: [Te bespreken onderwerpen](https://github.com/Logius-standaarden/OAuth-NL-profiel/discussions/103)
+
 ## Agenda
 
 | Tijd | Onderwerp |
