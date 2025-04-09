@@ -34,7 +34,13 @@ donderdag 10 april 2025
 
 ## Onderwerpen
 
-### https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/37
+### Visie standaard
+* Willen wij meer richten op het beschrijven van patronen en gebruik van OAuth?
+* Minder vrijheid maar je krijgt er meer interoperabiliteit voor terug door inperking
+* Hoe kijken we naar de wallet?
+* Hoe kijken we naar FTV/authzen?
+
+### [iGov sync ](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/37)
 Willen wij (en dus ook iGOV) support bieden voor native clients?
 
 ### Grote wijzigingen
