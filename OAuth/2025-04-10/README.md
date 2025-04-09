@@ -41,7 +41,9 @@ donderdag 10 april 2025
 * Hoe kijken we naar FTV/authzen?
 
 ### [iGov sync ](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/37)
-Willen wij (en dus ook iGOV) support bieden voor native clients?
+* Willen wij (en dus ook iGOV) support bieden voor native clients?
+* Hoe kijken we naar het gebruik van claims in JWT's? https://github.com/Logius-standaarden/OAuth-NL-profiel/pull/104
+* En zijn we het eens met de nieuwe verplichtingen vanuit iGov (scope + cnf)
 
 ### Grote wijzigingen
 * OAuth-NL-profiel [issue #63] [Use case: Relatie met SAML en eHerkenning / SSOOnRijk](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/63) (2 augustus 2024), _Status: In onderzoek_
