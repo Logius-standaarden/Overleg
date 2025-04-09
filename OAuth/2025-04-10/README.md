@@ -34,6 +34,9 @@ donderdag 10 april 2025
 
 ## Onderwerpen
 
+### https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/37
+Willen wij (en dus ook iGOV) support bieden voor native clients?
+
 ### Grote wijzigingen
 * OAuth-NL-profiel [issue #63] [Use case: Relatie met SAML en eHerkenning / SSOOnRijk](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/63) (2 augustus 2024), _Status: In onderzoek_
 
