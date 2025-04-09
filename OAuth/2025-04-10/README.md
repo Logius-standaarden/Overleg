@@ -45,6 +45,17 @@ donderdag 10 april 2025
 * Hoe kijken we naar het gebruik van claims in JWT's? https://github.com/Logius-standaarden/OAuth-NL-profiel/pull/104
 * En zijn we het eens met de nieuwe verplichtingen vanuit iGov (scope + cnf)
 
+* [ ] TLS client auth mogelijk (rfc8705)
+* [ ] PKCE verplicht wanneer client authorization server benaderd (inclusief extra maatregelen)
+* [ ] Ondersteuning voor PS256 signing algorithm [RFC7518] for the signing of the private_key_jwt.
+* [ ] Gebruik PKIOverheid en OIN
+* [ ] Claims for Authorization Outside of Delegation Scenarios [rfc9068]
+* [ ] Geen access tokens in query parameters
+* [ ] Richtlijnen voor proof of possession implementatie
+* [ ] TLS volgens NCSC
+![image](https://github.com/user-attachments/assets/7f5afe20-719c-4894-b228-4fb9cf747977)
+
+
 ### Grote wijzigingen
 * OAuth-NL-profiel [issue #63] [Use case: Relatie met SAML en eHerkenning / SSOOnRijk](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/63) (2 augustus 2024), _Status: In onderzoek_
 
