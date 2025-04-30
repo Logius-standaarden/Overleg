@@ -37,6 +37,10 @@ dinsdag 13 mei 2025
 | 10:20 | ADR 2.1 milestone vaststellen | Tim van der Lippe (Logius) |
 | 10:30 | Einde |
 
+## Aanmelden
+
+Dit overleg is openbaar. Aanmelden kan door te mailen naar api@logius.nl
+
 ## Onderwerpen
 
 ### Grote wijzigingen
