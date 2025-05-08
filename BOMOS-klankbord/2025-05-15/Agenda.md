@@ -11,11 +11,10 @@
 
 
 2 Wijzigingsverzoek : Standaard kosten en opbrengsten · Issue #32 · Logius-standaarden/BOMOS-Verdieping
-
-Zie ook : Betaling voor gebruik standaard versus gebruik specificatiedocument by Paapst · Pull Request #34
 - https://github.com/Logius-standaarden/BOMOS-Verdieping/issues/32
 
-Betaling voor gebruik standaard versus gebruik specificatiedocument by Paapst · Pull Request #34 
+Zie ook : Betaling voor gebruik standaard versus gebruik specificatiedocument by Paapst · Pull Request #34
+
 - https://github.com/Logius-standaarden/BOMOS-Verdieping/pull/34
 
 - https://github.com/Logius-standaarden/BOMOS-Verdieping/pull/34/files
