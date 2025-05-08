@@ -1,5 +1,5 @@
 
-# AGENDA Klankbordgroep 15-05-2025
+# Agenda BOMOS Klankbordgroep 15-05-2025
 
 1	Opening en mededelingen
 
