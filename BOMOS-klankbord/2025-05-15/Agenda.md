@@ -7,7 +7,7 @@
 
 - b.	Sinds okt 2024 is het BOMOS boek beschikbaar (samenwerking HAN, Geonovum, Logius en Forum voor Standaardisatie)
 
-- c.	2e bijeenkomst BOMOS community in februari 2025 (Beeld & Geluid Hilversum) 
+- c.	2e bijeenkomst BOMOS community in februari 2025 (Beeld & Geluid Hilversum) en voorbereiding community event 14 oktober (Erwin Folmer)
 
 
 2 Wijzigingsverzoek : Standaard kosten en opbrengsten · Issue #32 · Logius-standaarden/BOMOS-Verdieping
