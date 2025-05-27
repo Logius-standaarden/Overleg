@@ -12,7 +12,7 @@
 | --- | --- | --- |  
 | 10:00| Welkom & Mededelingen   <BR> _Consultatie WUS uitfasering_|    Peter Haasnoot (Logius) |
 | 10:05| [Verslag vorige vergadering](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-03-19/2024-12-10%20%20Verslag%20TO%20Digikoppeling%20v1.0.pdf)       |    Peter Haasnoot (Logius) |
-| 10:10 | [Digikoppeling Toekomstvisie : Scope en inzetgebied](#digikoppeling-toekomstvisie) <BR>| Peter Haasnoot (Logius) | 
+| 10:10 | [Digikoppeling Toekomstvisie : Stand van zaken](#digikoppeling-toekomstvisie) <BR>| Peter Haasnoot (Logius) | 
 | 10:50  | [Overgang ebMS2 naar eDelivery ebMS3/AS4](#overgang-ebms2-naar-edelivery-ebms3as4) - Stand van Zaken / Vervolg  | Peter Haasnoot / Nil Barua (Logius)| 
 | 11:05 | _Pauze_ | _Allen_ |
 | 11:10 | [Releaseplan Digikoppeling](https://github.com/orgs/Logius-standaarden/projects/4)      |    Alexander Green (Logius) |
