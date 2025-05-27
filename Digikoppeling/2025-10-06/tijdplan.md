@@ -17,7 +17,7 @@
 | 11:05 | _Pauze_ | _Allen_ |
 | 11:10 | [Releaseplan Digikoppeling](https://github.com/orgs/Logius-standaarden/projects/4)      |    Alexander Green (Logius) |
 | 11:15 | [Onderzoek S3 - Grote Berichten](#onderzoek-s3---grote-berichten) | Alexander Green (Logius) |
-| 11:25  | [Uitfaseren koppelvlakstandaarden (WUS)](#uitfaseren-koppelvlakstandaarden-wus)<BR> - _Behandelen REST-API als vervanging van WUS_| Peter Haasnoot  / Nil Barua (Logius)|
+| 11:25  | OIN Stelsel - wijzigingen mbt buitenlandse partijen & nieuw OIN beleid<BR> | Peter Haasnoot  / Nil Barua (Logius)|
 |12:45 | FSC Stand van zaken & Beheer | Peter Haasnoot (Logius)|
 |13:00 | [FSC Wijzigingsvoorstellen](https://github.com/Logius-standaarden/fsc-core/pulls?q=is%3Apr+is%3Aopen+created%3A%3C%3D2025-02-01) | Ronald Koster (VNG)  |
 |13:55  | Rondvraag / Afsluiting | Allen | 
