@@ -18,7 +18,7 @@
 ----------------------------->
 # Technisch Overleg Digikoppeling
 
-maandag 6 oktober 2025
+dinsdag 10 juni 2025
 
 
 # Concept / In Ontwikkeling
