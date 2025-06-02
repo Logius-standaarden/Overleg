@@ -5,6 +5,8 @@ In de [MIDO Domeinarchitectuur Gegevensuitwisseling](https://github.com/MinBZK/g
 
 In de vorige sessie bespraken we gezamenlijk deze punten met als doel de toekomstvisie Digikoppeling nader te bepalen, in deze sessie een korte terugkoppeling;
 
+Zie ook : [2025-03-19-TO-Digikoppeling-poll-results](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-06-10/2025-03-19-TO-Digikoppeling-poll-results.pdf)
+
 
 ## Overgang ebMS2 naar eDelivery ebMS3/AS4
 
@@ -21,9 +23,8 @@ van ebMS2 naar eDelivery (ebMS3/AS4)](https://github.com/Logius-standaarden/Over
 
 Alhoewel S3 niet open source is, bestaan er wel open source alternatieven die de S3 API nabootsen. Een populair alternatief is [MinIO](https://github.com/minio/minio) dat bij Digipoort is toegepast. Het is een open source project dat “S3 compatible” is door zelf een API te hebben gebouwd dat de S3 API volgt qua berichtformaat van een groot deel van de mogelijke operaties op basis van de publieke API-documentatie van Amazon.
 
-## Uitfaseren koppelvlakstandaarden (WUS)
 
-_(Concept)_
+
 
 
 
