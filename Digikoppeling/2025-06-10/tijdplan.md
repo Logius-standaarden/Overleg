@@ -5,7 +5,7 @@
 
 | Betreft                | Technisch Overleg Digikoppeling |
 | ---------------------- | ------------------------------- |
-| Vergaderdatum en -tijd | 10-06-2025, 10:00-12:00         |
+| Vergaderdatum en -tijd | 10-06-2025, 10:00-11:30        |
 | Vergaderplaats         | online |                         |
 
 | Tijd | Onderwerp |Spreker|
