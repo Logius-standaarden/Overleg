@@ -33,12 +33,12 @@ dinsdag 10 juni 2025
 | Tijd | Onderwerp |Spreker|
 | --- | --- | --- |  
 | 10:00| Welkom & Mededelingen   <BR> -  _Consultatie WUS uitfasering_|    Peter Haasnoot (Logius) |
-| 10:05| [Verslag vorige vergadering](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-03-19/2024-12-10%20%20Verslag%20TO%20Digikoppeling%20v1.0.pdf)       |    Peter Haasnoot (Logius) |
+| 10:05| [Verslag vorige vergadering](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-03-19/2025-03-19%20%20Verslag%20TO%20Digikoppeling%20v1.0..pdf)       |    Peter Haasnoot (Logius) |
 | 10:10 | [Digikoppeling Toekomstvisie : Stand van zaken](#digikoppeling-toekomstvisie) <BR>| Peter Haasnoot (Logius) | 
 | 10:20  | [Overgang ebMS2 naar eDelivery ebMS3/AS4](#overgang-ebms2-naar-edelivery-ebms3as4) - Stand van Zaken / Vervolg  | Peter Haasnoot / Nil Barua (Logius)| 
 | 10:30 | [Releaseplan Digikoppeling](https://github.com/orgs/Logius-standaarden/projects/4)      |    Alexander Green (Logius) |
 | 10:35 | [Onderzoek S3 - Grote Berichten](#onderzoek-s3---grote-berichten) | Alexander Green (Logius) |
-| 10:45  | OIN Stelsel - [Wijzigingen mbt buitenlandse partijen & nieuw OIN beleid](https://github.com/Logius-standaarden/OIN-Stelsel/pull/27)<BR> _Wijziging wordt ter goedkeuring aan TO voorgelegd_ | Peter Haasnoot  / Nil Barua (Logius)|
+| 10:45  | OIN Stelsel - wijzigingen mbt buitenlandse partijen & nieuw OIN beleid<BR> | Peter Haasnoot  / Nil Barua (Logius)|
 | 10:55 | _Pauze_ | _Allen_ |
 |11:05| FSC Stand van zaken & Beheer | Stas Mironov (Logius)|
 |11:10 | [FSC Wijzigingsvoorstellen](https://github.com/Logius-standaarden/fsc-core/pulls?q=is%3Apr+is%3Aopen+created%3A%3C%3D2025-02-01) | Ronald Koster (VNG)  |
@@ -71,6 +71,8 @@ In de [MIDO Domeinarchitectuur Gegevensuitwisseling](https://github.com/MinBZK/g
 
 In de vorige sessie bespraken we gezamenlijk deze punten met als doel de toekomstvisie Digikoppeling nader te bepalen, in deze sessie een korte terugkoppeling;
 
+Zie ook : [2025-03-19-TO-Digikoppeling-poll-results](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-06-10/2025-03-19-TO-Digikoppeling-poll-results.pdf)
+
 
 ## Overgang ebMS2 naar eDelivery ebMS3/AS4
 
@@ -87,9 +89,8 @@ van ebMS2 naar eDelivery (ebMS3/AS4)](https://github.com/Logius-standaarden/Over
 
 Alhoewel S3 niet open source is, bestaan er wel open source alternatieven die de S3 API nabootsen. Een populair alternatief is [MinIO](https://github.com/minio/minio) dat bij Digipoort is toegepast. Het is een open source project dat “S3 compatible” is door zelf een API te hebben gebouwd dat de S3 API volgt qua berichtformaat van een groot deel van de mogelijke operaties op basis van de publieke API-documentatie van Amazon.
 
-## Uitfaseren koppelvlakstandaarden (WUS)
 
-_(Concept)_
+
 
 
 
