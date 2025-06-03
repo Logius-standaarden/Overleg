@@ -39,7 +39,7 @@ dinsdag 10 juni 2025
 | 10:30  | OIN Stelsel - [Wijzigingen mbt buitenlandse partijen & nieuw OIN beleid](https://github.com/Logius-standaarden/OIN-Stelsel/pull/27)<BR>_Wijziging wordt ter goedkeuring aan het TO voorgelegd_ | Peter Haasnoot  / Nil Barua (Logius)|
 |10:40| FSC Stand van zaken & Beheer | Stas Mironov (Logius)|
 |10:45 | [FSC Wijzigingsvoorstellen](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-06-10/intro.md#fsc-wijzigingsvoorstellen) <BR> _Wijziging wordt ter goedkeuring aan het TO voorgelegd_ | Ronald Koster (VNG)  |
-|11:00  | Rondvraag / Afsluiting | Allen | 
+|11:05  | Rondvraag / Afsluiting | Allen | 
 |11:15 | Einde |
 
 ## Aanmelden
