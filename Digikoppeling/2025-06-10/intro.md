@@ -25,8 +25,10 @@ Alhoewel S3 niet open source is, bestaan er wel open source alternatieven die de
 
 ## FSC Wijzigingsvoorstellen
 
+_Ter goedkeuring voorgelegd aan het TO:_
 - https://github.com/Logius-standaarden/fsc-core/pull/24 : Nieuwe PR. Omschrijving van het hash algoritme is aangepast. Is een verduidelijking. 
-- https://github.com/Logius-standaarden/fsc-core/pull/14/ : Een stukje non normatief die uitlegt welk effect het verlopen van een certificaat kan hebben op een contract.
+- https://github.com/Logius-standaarden/fsc-core/pull/14/: Een stukje non normatief die uitlegt welk effect het verlopen van een certificaat kan hebben op een contract.
+- https://github.com/Logius-standaarden/fsc-core/pull/25 : Add properties object to Grants 
 
 
 
