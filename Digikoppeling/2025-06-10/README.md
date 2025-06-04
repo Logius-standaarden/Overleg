@@ -21,7 +21,6 @@
 dinsdag 10 juni 2025
 
 
-# Concept / In Ontwikkeling
 
 ## Agenda
 
