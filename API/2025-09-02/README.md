@@ -33,7 +33,6 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar api@logius.nl
 ### Kleine wijzigingen
 * API-Design-Rules [issue #197] [Rule suggestie: Operation id's must be in PascalCase (upper camel case)](https://github.com/Logius-standaarden/API-Design-Rules/issues/197) (10 april 2025), _Status: In onderzoek_
 * API-Design-Rules [issue #196] [Rule suggestie: HTTP headers must be in Hyphenated-Pascal-Case](https://github.com/Logius-standaarden/API-Design-Rules/issues/196) (10 april 2025), _Status: In onderzoek_
-* API-Design-Rules [issue #165] [Definieer nieuwe regel voor publiceren van landing page](https://github.com/Logius-standaarden/API-Design-Rules/pull/165) (11 februari 2025), _Status: Ter goedkeuring_
 
 ### Overige punten
 * API-Design-Rules [issue #191] [Voeg example projecten toe met veelgebruikte frameworks om te laten zien hoe er kan worden voldaan aan de API design rules](https://github.com/Logius-standaarden/API-Design-Rules/issues/191) (4 april 2025)
