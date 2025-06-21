@@ -31,6 +31,7 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar api@logius.nl
 * API-Design-Rules [issue #158] [Voeg naming-conventions toe aan standaard](https://github.com/Logius-standaarden/API-Design-Rules/pull/158) (17 januari 2025), _Status: Ter goedkeuring_
 
 ### Kleine wijzigingen
+* API-Design-Rules [issue #240] [Voeg uitzondering op trailing slash toe voor root resource](https://github.com/Logius-standaarden/API-Design-Rules/pull/240) (20 juni 2025), _Status: In bewerking_
 * API-Design-Rules [issue #208] [Enforceer informatie van servers](https://github.com/Logius-standaarden/API-Design-Rules/issues/208) (24 april 2025), _Status: In onderzoek_
 * API-Design-Rules [issue #188] [Voeg regel toe voor problem+json responses](https://github.com/Logius-standaarden/API-Design-Rules/issues/188) (31 maart 2025), _Status: In bewerking_
 * API-Design-Rules [issue #164] [Definineer regel voor base URL slash die compatibel is met OData en OpenAPI specification](https://github.com/Logius-standaarden/API-Design-Rules/issues/164) (11 februari 2025), _Status: In bewerking_
