@@ -22,13 +22,23 @@ donderdag 10 juli 2025
 
 ## Agenda
 
-| Tijd | Onderwerp |
-| ----- | -------- |
-| 10:00 |          | 
-| 10:15 |          |
-| 10:25 |          |
-| 10:40 |          |
-| 10:55 | Rondvraag / Afsluiting |
+| Tijd  | Onderwerp                                     |
+| ----- | --------------------------------------------- |
+| 10:00 | Mededelingen en goedkeuring vorig verslag     |
+| 10:05 | Bespreken [onderstaande punten](#punten)      |
+| 10:30 | Bespreken [onderstaande issues](#onderwerpen) |
+| 10:55 | Rondvraag / Afsluiting                        |
+
+## Punten
+
+- Update FvS traject v1.1
+- Toelichting token exchange op iGOV niveau (Stas)
+- Dubbelchecken RC en start MIDO process
+- Werkgroep security mededelingen en samenwerking met TO
+
+### Optioneel
+
+- PAR verplicht stellen
 
 ## Aanmelden
 
@@ -36,14 +46,11 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar api@logius.nl
 
 ## Onderwerpen
 
-### Grote wijzigingen
-* OAuth-NL-profiel [issue #63] [Use case: Relatie met SAML en eHerkenning / SSOOnRijk](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/63) (2 augustus 2024), _Status: In onderzoek_
-
 ### Kleine wijzigingen
 * OIDC-NLGOV [issue #21] [Tussenvoegsels in OIDC](https://github.com/Logius-standaarden/OIDC-NLGOV/issues/21) (24 februari 2025), _Status: In onderzoek_
 
 ### Overige punten
+* OIDC-NLGOV [issue #31] [Sender constrained access tokens wel of juist niet verplicht stellen in NLGOV](https://github.com/Logius-standaarden/OIDC-NLGOV/issues/31) (27 mei 2025)
 * OIDC-NLGOV [issue #12] [[bug] De betekenis van 'sub' is niet compatibel met de OAuth 2.0 standaard](https://github.com/Logius-standaarden/OIDC-NLGOV/issues/12) (3 december 2024), _Status: In onderzoek_
-* OIDC-NLGOV [issue #9] [Forum Standaardisatie adoptieadviezen](https://github.com/Logius-standaarden/OIDC-NLGOV/issues/9) (26 april 2024)
-* OAuth-NL-profiel [issue #35] [RFC 8705; OAuth 2.0 Mutual-TLS Client Authentication and Certificate-Bound Access Tokens en PKI-Overheid certificaten](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/35) (13 maart 2024)
+* OAuth-NL-profiel [issue #59] [Use cases voor: Rich Authorization request (RAR, rfc9396)](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/59) (2 augustus 2024), _Status: In bewerking_
 * OAuth-NL-profiel [issue #25] [Aanbevelen of verplichten van response_mode=form_post](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/25) (2 augustus 2022), _Status: In onderzoek_
