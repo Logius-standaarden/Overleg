@@ -7,3 +7,10 @@
 | 10:25 |          |
 | 10:40 |          |
 | 10:55 | Rondvraag / Afsluiting |
+
+
+## Onderwerpen
+- 
+
+### Optioneel
+- PAR verplicht stellen
