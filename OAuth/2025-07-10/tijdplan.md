@@ -10,6 +10,7 @@
 
 
 ## Onderwerpen
+- Toelichting token exchange op iGOV niveau (Stas)
 - 
 
 ### Optioneel
