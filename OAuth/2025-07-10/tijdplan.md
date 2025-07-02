@@ -3,9 +3,9 @@
 | Tijd  | Onderwerp                                     |
 | ----- | --------------------------------------------- |
 | 10:00 | Mededelingen en goedkeuring vorig verslag     |
-| 10:05 | Bespreken [onderstaande punten](#punten)      |
-| 10:30 | Bespreken [onderstaande issues](#onderwerpen) |
-| 10:55 | Rondvraag / Afsluiting                        |
+| 10:10 | Bespreken [onderstaande punten](#punten)      |
+| 10:40 | Bespreken [onderstaande issues](#onderwerpen) |
+| 11:10 | Rondvraag / Afsluiting                        |
 
 ## Punten
 
