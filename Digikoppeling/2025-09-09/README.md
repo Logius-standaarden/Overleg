@@ -31,6 +31,3 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.
 
 ### Kleine wijzigingen
 * OIN-Stelsel [issue #21] [Begrippenkader OIN](https://github.com/Logius-standaarden/OIN-Stelsel/issues/21) (25 maart 2024), _Status: In bewerking_
-
-### Overige punten
-* OIN-Stelsel [issue #27] [2025 nieuw beleid / TRR buitenlandse partijen](https://github.com/Logius-standaarden/OIN-Stelsel/pull/27) (8 april 2025)
