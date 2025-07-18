@@ -40,4 +40,3 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar api@logius.nl
 
 ### Overige punten
 * API-Design-Rules [issue #248] [Releaseplan API Design rules 2.2](https://github.com/Logius-standaarden/API-Design-Rules/issues/248) (15 juli 2025)
-* API-Design-Rules [issue #191] [Voeg example projecten toe met veelgebruikte frameworks om te laten zien hoe er kan worden voldaan aan de API design rules](https://github.com/Logius-standaarden/API-Design-Rules/issues/191) (4 april 2025)
