@@ -36,7 +36,7 @@ dinsdag 9 september 2025
 | 10:10| [Openbare Consultaties](https://github.com/Logius-standaarden/Openbare-Consultaties) :  _Consultatie WUS uitfasering_      |    Peter Haasnoot (Logius) |
 | 10:20 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--scope-en-inzetgebied) <BR>| Dennis Passage / Peter Haasnoot (Logius) | 
 | 10:45  | [Overgang ebMS2 naar eDelivery ebMS3/AS4](#overgang-ebms2-naar-edelivery-ebms3as4) - Invoering Standaard & Ondersteunende voorzieningen  | Peter Haasnoot / Nil Barua (Logius)| 
-| 11:15  | TLS 1.3 , XML Signing/Encryptie | Peter Haasnoot / Nil Barua (Logius)| 
+| 11:15  | TLS 1.3 , XML Signing/Encryptie |  Nil Barua (Logius)| 
 |11:30| (Overige) lopende wijzigingsvoorstellen Digikoppeling | Alexander Green (Logius)|
 |12:00| Lunch | Allen|
 |12:45| FSC Stand van zaken & Beheer | Stas Mironov (Logius)|
