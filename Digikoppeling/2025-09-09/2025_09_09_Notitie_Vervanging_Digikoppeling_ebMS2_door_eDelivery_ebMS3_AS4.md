@@ -72,7 +72,7 @@ Dit is bepalend voor de planning van de migratie en het daadwerkelijk kunnen ove
 Vanuit beheer van Digikoppeling stellen we voor om in te zetten op invoer van het AS4 profiel onder Digikoppeling met als uitgangspunt dat dit in beginsel conform optie 3 wordt ingevoerd; 
 Maar dat niet gewacht wordt met de invoering/aanpassing van de standaard tot een centraal adresboek is gerealiseerd - Dit maakt het mogelijk om op relatief korte termijn al te starten met migratie (en hierbij gebruik te maken van optie 1 & 2);
 
- Het tijdpad voor de invoering van een centraal adresboek (SMP/SML) is afhankelijk van de besluitvorming in het MIDO , maar een indicatie hiervoor is ca 4 maanden na goedkeuring ;
+ Het tijdpad voor de invoering van een centraal adresboek (SMP/SML) is afhankelijk van de besluitvorming in het MIDO , maar een indicatie hiervoor is ca 6 maanden na goedkeuring ;
 
 ## Bijlage A ebCore Agreements
 De volgende functionaliteit wordt in het eDelivery AS4 profiel 2.0 ondersteund:
