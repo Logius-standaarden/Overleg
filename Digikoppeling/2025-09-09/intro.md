@@ -3,9 +3,15 @@
 
 In de [MIDO Domeinarchitectuur Gegevensuitwisseling](https://github.com/MinBZK/gdi-gegevensuitwisseling) zijn enkele mogelijke vernieuwingen en uitbreidingen voor Digikoppeling genoemd;
 
-In de vorige sessie bespraken we gezamenlijk deze punten met als doel de toekomstvisie Digikoppeling nader te bepalen, in deze sessie bespreken we dit verder
+In de vorige sessie bespraken we gezamenlijk deze punten met als doel de toekomstvisie Digikoppeling nader te bepalen, in deze sessie bespreken we dit verder.
 
-Zie ook : [2025-03-19-TO-Digikoppeling-poll-results](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-06-10/2025-03-19-TO-Digikoppeling-poll-results.pdf)
+Zie __Toekomstvisie Digikoppeling__ (notitie volgt)
+
+_Het TO wordt gevraagd goedkeuring te geven aan de toekomstvisie, deze zal dan basis zijn voor de toekomstige aanpassingen en ontwikkelrichting van de standaard en de roadmap voor 2026-2027_
+
+Zie ook : 
+- [2025-03-19-TO-Digikoppeling-poll-results](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-06-10/2025-03-19-TO-Digikoppeling-poll-results.pdf)
+- [Enquete ebMS2/3 Polls-per-participant-2025-06-10_TO_Digikoppeling](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-09-09/Polls-per-participant-2025-06-10_TO_Digikoppeling_Totaal.xlsx)
 
 
 ## Overgang ebMS2 naar eDelivery ebMS3/AS4
@@ -22,8 +28,6 @@ _Het TO wordt gevraagd in te stemmen met het voorstel om ebMS3/AS4 als vervanger
 
 [PBLQ Rapport Impactanalyse modernisering Digikoppeling ebMS: 
 van ebMS2 naar eDelivery (ebMS3/AS4)](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-03-06/Rapport%20Impactanalyse%20modernisering%20Digikoppeling%20ebMS%20-%20v1.1%20definitief%2019%20januari%202024.pdf)
-
-### Bijlage - Poll ebMS2/3 TO Digikoppeling 2025-06-10 
 
 
 ## Onderzoek S3 - Grote Berichten
