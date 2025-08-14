@@ -26,6 +26,7 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar api@logius.nl
 ## Onderwerpen
 
 ### Grote wijzigingen
+* API-Design-Rules [issue #252] [Added `/core/date-time`](https://github.com/Logius-standaarden/API-Design-Rules/pull/252) (24 juli 2025), _Status: In bewerking_
 * API-Design-Rules [issue #195] [Rules voor Date en DateTime attributen](https://github.com/Logius-standaarden/API-Design-Rules/issues/195) (9 april 2025), _Status: In onderzoek_
 * API-Design-Rules [issue #160] [Voeg RELEASING.md toe](https://github.com/Logius-standaarden/API-Design-Rules/pull/160) (21 januari 2025), _Status: Ter goedkeuring_
 * API-Design-Rules [issue #158] [Voeg naming-conventions toe aan standaard](https://github.com/Logius-standaarden/API-Design-Rules/pull/158) (17 januari 2025), _Status: Ter goedkeuring_
