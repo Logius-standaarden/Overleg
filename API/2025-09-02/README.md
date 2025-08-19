@@ -19,6 +19,27 @@
 # Technisch Overleg API
 
 dinsdag 2 september 2025
+
+## Agenda
+
+| Betreft                | Technisch Overleg API |
+| ---------------------- | ------------------------------- |
+| Vergaderdatum en -tijd | 2025-09-02, 10:00-11:15         |
+| Vergaderplaats         | Online |                         |
+
+| Tijd | Onderwerp |Spreker|
+| --- | --- | --- |  
+| 10:00| Welkom & Mededelingen        |    Tim van der Lippe (Logius) |
+| 10:05 | Updates vanuit beheer | Tim van der Lippe (Logius) |
+| 10:15 | Release versioning | Iedereen |
+| 10:20 | Uitzondering op slash | Iedereen |
+| 10:25 | Naming conventions | Iedereen |
+| 10:30 | Verwoording bestaande regels (CORS, taal, HTTP) | Iedereen |
+| 10:45 | Problem details voor HTTP errors | Iedereen |
+| 11:00 | Date and time (request/response) | Iedereen |
+| 11:10 | WVTTK | Tim van der Lippe (Logius) |
+| 11:15 | Einde | |
+
 ## Aanmelden
 
 Dit overleg is openbaar. Aanmelden kan door te mailen naar api@logius.nl
@@ -27,7 +48,6 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar api@logius.nl
 
 ### Grote wijzigingen
 * API-Design-Rules [issue #252] [Added `/core/date-time`](https://github.com/Logius-standaarden/API-Design-Rules/pull/252) (24 juli 2025), _Status: In bewerking_
-* API-Design-Rules [issue #195] [Rules voor Date en DateTime attributen](https://github.com/Logius-standaarden/API-Design-Rules/issues/195) (9 april 2025), _Status: In onderzoek_
 * API-Design-Rules [issue #160] [Voeg RELEASING.md toe](https://github.com/Logius-standaarden/API-Design-Rules/pull/160) (21 januari 2025), _Status: Ter goedkeuring_
 * API-Design-Rules [issue #158] [Voeg naming-conventions toe aan standaard](https://github.com/Logius-standaarden/API-Design-Rules/pull/158) (17 januari 2025), _Status: Ter goedkeuring_
 
@@ -36,9 +56,4 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar api@logius.nl
 * API-Design-Rules [issue #245] [Verduidelijk gebruik van CORS header in combinatie met `openapi.json`](https://github.com/Logius-standaarden/API-Design-Rules/pull/245) (23 juni 2025), _Status: Ter goedkeuring_
 * API-Design-Rules [issue #244] [Verduidelijk gebruik van officiele Nederlandse termen](https://github.com/Logius-standaarden/API-Design-Rules/pull/244) (23 juni 2025), _Status: Ter goedkeuring_
 * API-Design-Rules [issue #240] [Voeg uitzondering op trailing slash toe voor root resource](https://github.com/Logius-standaarden/API-Design-Rules/pull/240) (20 juni 2025), _Status: Ter goedkeuring_
-* API-Design-Rules [issue #208] [Enforceer informatie van servers](https://github.com/Logius-standaarden/API-Design-Rules/issues/208) (24 april 2025), _Status: In onderzoek_
-* API-Design-Rules [issue #188] [Voeg regel toe voor problem+json responses](https://github.com/Logius-standaarden/API-Design-Rules/issues/188) (31 maart 2025), _Status: In bewerking_
-* API-Design-Rules [issue #164] [Definineer regel voor base URL slash die compatibel is met OData en OpenAPI specification](https://github.com/Logius-standaarden/API-Design-Rules/issues/164) (11 februari 2025), _Status: In bewerking_
-
-### Overige punten
-* API-Design-Rules [issue #248] [Releaseplan API Design rules 2.2](https://github.com/Logius-standaarden/API-Design-Rules/issues/248) (15 juli 2025)
+* API-Design-Rules [issue #223] [Voeg meer http methods toe aan core/http-methods](https://github.com/Logius-standaarden/API-Design-Rules/pull/223) (13 mei 2025), _Status: Ter goedkeuring_
