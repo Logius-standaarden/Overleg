@@ -8,7 +8,7 @@ In deze notitie wordt specifiek ingegaan wat nodig is binnen de Digikoppeling st
 
 Het onderzoeksrapport is besproken in het MIDO bij de Programmeringstafel GU, hier is afgesproken dat de koppelvlakstandaard los gezien wordt van het eDelivery construct (dwz de benodigde centrale voorzieningen en (stelsel) afspraken); Dit om voortgang mogelijk te maken op de standaard in afwachting van ontwikkelingen rond de architectuur visie op eDelivery in de GDI;
 
-In deze notitie wordt dieper ingegaan op de inbedding van de standaard in Digikoppeling, hiermee wordt ook duidelijk wat verder nodig is aan voorzieningen/afspraken, deze notitie is daarmee ook input voor de visie op de GDI architectuur en de besluitvorming omtrent gebruik van het Digikoppeling eDelivery ebMS3/AS4 koppelvlak standaard in de GDI;
+In deze notitie wordt dieper ingegaan op de inbedding van de standaard in Digikoppeling, hiermee wordt ook duidelijk wat verder nodig is aan voorzieningen/afspraken, deze notitie is daarmee ook input voor de visie op de GDI architectuur en de besluitvorming omtrent gebruik van de Digikoppeling eDelivery ebMS3/AS4 koppelvlak standaard in de GDI;
 
 ## Opname van het eDelivery ebMS3/AS4 profiel binnen Digikoppeling
 Het eDelivery ebMS3/AS4 profiel kan 1 op 1 opgenomen worden als document binnen de standaard;
