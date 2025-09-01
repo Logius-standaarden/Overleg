@@ -37,6 +37,8 @@ van ebMS2 naar eDelivery (ebMS3/AS4)](https://github.com/Logius-standaarden/Over
 
 ## XML Signing & Encryptie
 
+Ter goedkeuring voorgelegd aan het TO:
+
 [Wijzigingsvoorstel XML Signing & Encryptie](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/pull/17)
 
 [Preview / Diff - Wijzigingsvoorstel XML Signing & Encryptie](https://services.w3.org/htmldiff?doc1=https://logius-standaarden.github.io/Digikoppeling-Beveiligingsstandaarden-en-voorschriften&doc2=https://logius-standaarden.github.io/Publicatie-Preview/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/Nil-NMB01-patch-1#xml-signing)
