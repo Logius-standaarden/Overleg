@@ -48,6 +48,8 @@ Ter goedkeuring voorgelegd aan het TO:
 
 Discussie - is aanscherping van TLS 1.3 richtlijn wenselijk n.a.v. [nieuwe NSCS richtlijnen](https://www.ncsc.nl/documenten/publicaties/2025/juni/01/ict-beveiligingsrichtlijnen-voor-transport-layer-security-2025-05) 
 
+Huidige TLS afspraken : [Digikoppeling beveiligingsvoorschriften](https://gitdocumentatie.logius.nl/publicatie/dk/beveilig/2.0.1/#tls-transport-layer-security)
+
 ## Uitfasering WUS
 
 Vanuit de publieke consultatie waren we geen opmerkingen, het voorstel is 20/8 in de programmeringstafel GU besproken. De programmeringstafel GU heeft gevraagd eerst nader onderzoek te doen naar de impact op GDI en organisaties - voordat dit formeel kan worden aangenomen.
