@@ -1,4 +1,5 @@
 
+
 ## Digikoppeling Toekomstvisie : Scope en inzetgebied
 
 In de [MIDO Domeinarchitectuur Gegevensuitwisseling](https://github.com/MinBZK/gdi-gegevensuitwisseling) zijn enkele mogelijke vernieuwingen en uitbreidingen voor Digikoppeling genoemd;
@@ -38,7 +39,9 @@ Alhoewel S3 niet open source is, bestaan er wel open source alternatieven die de
 
 _Ter goedkeuring voorgelegd aan het TO:_
 
+## Uitfasering WUS
 
+Vanuit de consultatie waren we geen opmerkingen, het voorstel is 20/8 in de programmeringstafel GU besproken; De programmeringstafel GU heeft gevraagd eerst nader onderzoek te doen naar de impact op GDI en organisaties - voordat dit formeel kan worden aangenomen ; Een indicatie voor de impact is de hoeveelheid WUS koppelingen; Het TO wordt daarom gevraagd om (indien mogelijk) een schatting te geven van het aantal WUS koppelingen (in een dienstaanbieder rol) en het aantal WUS koppelingen (in een dienstafnemer rol) per organisatie
 
 
 
