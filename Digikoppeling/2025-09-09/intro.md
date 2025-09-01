@@ -58,6 +58,8 @@ Vanuit de publieke consultatie waren we geen opmerkingen, het voorstel is 20/8 i
 
 _Ter goedkeuring voorgelegd aan het TO:_
 
+https://github.com/Logius-standaarden/fsc-core/pull/25
+
 
 
 
