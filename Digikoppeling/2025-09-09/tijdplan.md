@@ -14,7 +14,7 @@
 |10:10| [Onderzoek S3 Grote Berichten](#onderzoek-s3---grote-berichten)| Alexander Green (Logius)|
 | 10:20 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--scope-en-inzetgebied) <BR>| Dennis Passage / Peter Haasnoot (Logius) | 
 | 10:45  | [Overgang ebMS2 naar eDelivery ebMS3/AS4](#overgang-ebms2-naar-edelivery-ebms3as4) - Invoering Standaard & Ondersteunende voorzieningen  | Peter Haasnoot / Nil Barua (Logius)| 
-| 11:15  | <BR> [XML Signing/Encryptie - TLS 1.3](#xml-signing--encryptie) |  Nil Barua (Logius)| 
+| 11:15  | [Wijzigingsvoorstel XML Signing/Encryptie - TLS 1.3](#xml-signing--encryptie) |  Nil Barua (Logius)| 
 |11:30| [Wijzigingsvoorstel WUS uitfasering - Stand van Zaken ](#uitfasering-wus)      |    Peter Haasnoot (Logius) |
 |12:00| Lunch | Allen|
 |12:45| FSC Stand van zaken & Beheer | Stas Mironov (Logius)|
