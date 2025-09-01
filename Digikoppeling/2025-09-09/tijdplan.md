@@ -18,6 +18,6 @@
 |11:30| [Wijzigingsvoorstel WUS uitfasering - Stand van Zaken ](#uitfasering-wus)      |    Peter Haasnoot (Logius) |
 |12:00| Lunch | Allen|
 |12:45| FSC Stand van zaken & Beheer | Stas Mironov (Logius)|
-|13:00 | [FSC Wijzigingsvoorstellen](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-06-10/intro.md#fsc-wijzigingsvoorstellen) <BR> _Wijziging wordt ter goedkeuring aan het TO voorgelegd_ | Niels de Queker (VNG)  |
+|13:00 | [FSC Wijzigingsvoorstellen](#fsc-wijzigingsvoorstellen) <BR> _Wijziging wordt ter goedkeuring aan het TO voorgelegd_ | Niels de Queker (VNG)  |
 |13:30  | Rondvraag / Afsluiting | Allen | 
 |13:45 | Einde |
