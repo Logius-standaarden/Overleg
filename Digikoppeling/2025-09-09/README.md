@@ -36,7 +36,7 @@ dinsdag 9 september 2025
 |10:10| [Onderzoek S3 Grote Berichten](#onderzoek-s3---grote-berichten)| Alexander Green (Logius)|
 | 10:20 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--scope-en-inzetgebied) <BR>| Dennis Passage / Peter Haasnoot (Logius) | 
 | 10:45  | [Overgang ebMS2 naar eDelivery ebMS3/AS4](#overgang-ebms2-naar-edelivery-ebms3as4) - Invoering Standaard & Ondersteunende voorzieningen  | Peter Haasnoot / Nil Barua (Logius)| 
-| 11:15  | TLS 1.3 , XML Signing/Encryptie |  Nil Barua (Logius)| 
+| 11:15  | [Wijzigingsvoorstel XML Signing/Encryptie - TLS 1.3](#xml-signing--encryptie---tls-13) |  Nil Barua (Logius)| 
 |11:30| [Wijzigingsvoorstel WUS uitfasering - Stand van Zaken ](#uitfasering-wus)      |    Peter Haasnoot (Logius) |
 |12:00| Lunch | Allen|
 |12:45| FSC Stand van zaken & Beheer | Stas Mironov (Logius)|
@@ -98,11 +98,20 @@ _Het TO wordt gevraagd in te stemmen met het voorstel om ebMS3/AS4 als vervanger
 van ebMS2 naar eDelivery (ebMS3/AS4)](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-03-06/Rapport%20Impactanalyse%20modernisering%20Digikoppeling%20ebMS%20-%20v1.1%20definitief%2019%20januari%202024.pdf)
 
 
-## XML Signing & Encryptie
+## XML Signing & Encryptie - TLS 1.3
+
+### Wijziginsvoorstel XML Signing & Encryptie
+Ter goedkeuring voorgelegd aan het TO:
 
 [Wijzigingsvoorstel XML Signing & Encryptie](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/pull/17)
 
 [Preview / Diff - Wijzigingsvoorstel XML Signing & Encryptie](https://services.w3.org/htmldiff?doc1=https://logius-standaarden.github.io/Digikoppeling-Beveiligingsstandaarden-en-voorschriften&doc2=https://logius-standaarden.github.io/Publicatie-Preview/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/Nil-NMB01-patch-1#xml-signing)
+
+### TLS 1.3
+
+Discussie - is aanscherping van TLS 1.3 richtlijn wenselijk n.a.v. [nieuwe NSCS richtlijnen](https://www.ncsc.nl/documenten/publicaties/2025/juni/01/ict-beveiligingsrichtlijnen-voor-transport-layer-security-2025-05) 
+
+Huidige TLS afspraken : [Digikoppeling beveiligingsvoorschriften](https://gitdocumentatie.logius.nl/publicatie/dk/beveilig/2.0.1/#tls-transport-layer-security)
 
 ## Uitfasering WUS
 
