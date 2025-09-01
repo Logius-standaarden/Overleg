@@ -121,6 +121,8 @@ Vanuit de publieke consultatie waren we geen opmerkingen, het voorstel is 20/8 i
 
 _Ter goedkeuring voorgelegd aan het TO:_
 
+[Add properties object to Grants & update hashing algorithm (breaking)](https://github.com/Logius-standaarden/fsc-core/pull/25)
+
 
 
 
