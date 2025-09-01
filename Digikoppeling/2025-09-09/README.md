@@ -33,11 +33,11 @@ dinsdag 9 september 2025
 | --- | --- | --- |  
 | 10:00| Welkom & Mededelingen   <BR>- [Review Architectuur Q2](https://gitdocumentatie.logius.nl/publicatie/dk/roadmap/2024-2025/#periodiek-actualiseren-architectuur) afgerond |    Peter Haasnoot (Logius) |
 | 10:05| [Verslag vorige vergadering](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-03-19/2025-03-19%20%20Verslag%20TO%20Digikoppeling%20v1.0..pdf)       |    Peter Haasnoot (Logius) |
-| 10:10| [Openbare Consultaties](https://github.com/Logius-standaarden/Openbare-Consultaties) :  _Consultatie WUS uitfasering_      |    Peter Haasnoot (Logius) |
+|10:10| [Onderzoek S3 Grote Berichten](#onderzoek-s3---grote-berichten)| Alexander Green (Logius)|
 | 10:20 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--scope-en-inzetgebied) <BR>| Dennis Passage / Peter Haasnoot (Logius) | 
 | 10:45  | [Overgang ebMS2 naar eDelivery ebMS3/AS4](#overgang-ebms2-naar-edelivery-ebms3as4) - Invoering Standaard & Ondersteunende voorzieningen  | Peter Haasnoot / Nil Barua (Logius)| 
 | 11:15  | TLS 1.3 , XML Signing/Encryptie |  Nil Barua (Logius)| 
-|11:30| (Overige) lopende wijzigingsvoorstellen Digikoppeling | Alexander Green (Logius)|
+|11:30| [Wijzigingsvoorstel WUS uitfasering - Stand van Zaken ](#uitfasering-wus)      |    Peter Haasnoot (Logius) |
 |12:00| Lunch | Allen|
 |12:45| FSC Stand van zaken & Beheer | Stas Mironov (Logius)|
 |13:00 | [FSC Wijzigingsvoorstellen](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-06-10/intro.md#fsc-wijzigingsvoorstellen) <BR> _Wijziging wordt ter goedkeuring aan het TO voorgelegd_ | Ronald Koster (VNG)  |
@@ -60,6 +60,11 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.
 
 ## Toelichting
 
+
+
+## Onderzoek S3 - Grote Berichten
+
+Alhoewel S3 niet open source is, bestaan er wel open source alternatieven die de S3 API nabootsen. Een populair alternatief is [MinIO](https://github.com/minio/minio) dat bij Digipoort is toegepast. Het is een open source project dat “S3 compatible” is door zelf een API te hebben gebouwd dat de S3 API volgt qua berichtformaat van een groot deel van de mogelijke operaties op basis van de publieke API-documentatie van Amazon.
 
 
 ## Digikoppeling Toekomstvisie : Scope en inzetgebied
@@ -93,9 +98,15 @@ _Het TO wordt gevraagd in te stemmen met het voorstel om ebMS3/AS4 als vervanger
 van ebMS2 naar eDelivery (ebMS3/AS4)](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-03-06/Rapport%20Impactanalyse%20modernisering%20Digikoppeling%20ebMS%20-%20v1.1%20definitief%2019%20januari%202024.pdf)
 
 
-## Onderzoek S3 - Grote Berichten
+## XML Signing & Encryptie
 
-Alhoewel S3 niet open source is, bestaan er wel open source alternatieven die de S3 API nabootsen. Een populair alternatief is [MinIO](https://github.com/minio/minio) dat bij Digipoort is toegepast. Het is een open source project dat “S3 compatible” is door zelf een API te hebben gebouwd dat de S3 API volgt qua berichtformaat van een groot deel van de mogelijke operaties op basis van de publieke API-documentatie van Amazon.
+[Wijzigingsvoorstel XML Signing & Encryptie](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/pull/17)
+
+[Preview / Diff - Wijzigingsvoorstel XML Signing & Encryptie](https://services.w3.org/htmldiff?doc1=https://logius-standaarden.github.io/Digikoppeling-Beveiligingsstandaarden-en-voorschriften&doc2=https://logius-standaarden.github.io/Publicatie-Preview/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/Nil-NMB01-patch-1#xml-signing)
+
+## Uitfasering WUS
+
+Vanuit de publieke consultatie waren we geen opmerkingen, het voorstel is 20/8 in de programmeringstafel GU besproken. De programmeringstafel GU heeft gevraagd eerst nader onderzoek te doen naar de impact op GDI en organisaties - voordat dit formeel kan worden aangenomen.
 
 ## FSC Wijzigingsvoorstellen
 
