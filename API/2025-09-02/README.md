@@ -52,5 +52,4 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar api@logius.nl
 ### Kleine wijzigingen
 * API-Design-Rules [issue #251] [Regel voor gebruik RFC 9457](https://github.com/Logius-standaarden/API-Design-Rules/pull/251) (24 juli 2025), _Status: In bewerking_
 * API-Design-Rules [issue #245] [Verduidelijk gebruik van CORS header in combinatie met `openapi.json`](https://github.com/Logius-standaarden/API-Design-Rules/pull/245) (23 juni 2025), _Status: Ter goedkeuring_
-* API-Design-Rules [issue #240] [Voeg uitzondering op trailing slash toe voor root resource](https://github.com/Logius-standaarden/API-Design-Rules/pull/240) (20 juni 2025), _Status: Ter goedkeuring_
 * API-Design-Rules [issue #223] [Voeg meer http methods toe aan core/http-methods](https://github.com/Logius-standaarden/API-Design-Rules/pull/223) (13 mei 2025), _Status: Ter goedkeuring_
