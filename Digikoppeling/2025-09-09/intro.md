@@ -37,7 +37,7 @@ van ebMS2 naar eDelivery (ebMS3/AS4)](https://github.com/Logius-standaarden/Over
 
 ## XML Signing & Encryptie - TLS 1.3
 
-### Wijziginsvoorstel XML Signing & Encryptie
+### Wijzigingsvoorstel XML Signing & Encryptie
 Ter goedkeuring voorgelegd aan het TO:
 
 [Wijzigingsvoorstel XML Signing & Encryptie](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/pull/17)
