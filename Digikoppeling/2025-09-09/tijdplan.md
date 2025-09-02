@@ -1,10 +1,10 @@
 
 
-## Agenda _Concept_
+## Agenda 
 
 | Betreft                | Technisch Overleg Digikoppeling |
 | ---------------------- | ------------------------------- |
-| Vergaderdatum en -tijd | 09-09-2025, 10:00-13:30        |
+| Vergaderdatum en -tijd | 09-09-2025, 10:00-13:45        |
 | Vergaderplaats         | Fysieke Bijeenkomst - Utrecht - Bar Beton |                         |
 
 | Tijd | Onderwerp |Spreker|
