@@ -9,7 +9,7 @@
 
 | Tijd | Onderwerp |Spreker|
 | --- | --- | --- |  
-| 10:00| Welkom & Mededelingen   <BR>- [Review Architectuur Q2](https://gitdocumentatie.logius.nl/publicatie/dk/roadmap/2024-2025/#periodiek-actualiseren-architectuur) afgerond |    Peter Haasnoot (Logius) |
+| 10:00| Welkom & Mededelingen   <BR>- [Review Architectuur Q2](https://gitdocumentatie.logius.nl/publicatie/dk/roadmap/2024-2025/#periodiek-actualiseren-architectuur) afgerond (alleen [tekstuele verbeteringen](https://github.com/Logius-standaarden/Digikoppeling-Architectuur/pull/26/files)) |    Peter Haasnoot (Logius) |
 | 10:05| [Verslag vorige vergadering](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-03-19/2025-03-19%20%20Verslag%20TO%20Digikoppeling%20v1.0..pdf)       |    Peter Haasnoot (Logius) |
 |10:10| [Onderzoek S3 Grote Berichten](#onderzoek-s3---grote-berichten)| Alexander Green (Logius)|
 | 10:20 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--scope-en-inzetgebied) <BR>| Dennis Passage / Peter Haasnoot (Logius) | 
