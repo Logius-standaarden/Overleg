@@ -1,8 +1,4 @@
 
-## Onderzoek S3 - Grote Berichten
-
-Alhoewel S3 niet open source is, bestaan er wel open source alternatieven die de S3 API nabootsen. Een populair alternatief is [MinIO](https://github.com/minio/minio) dat bij Digipoort is toegepast. Het is een open source project dat “S3 compatible” is door zelf een API te hebben gebouwd dat de S3 API volgt qua berichtformaat van een groot deel van de mogelijke operaties op basis van de publieke API-documentatie van Amazon.
-
 
 ## Digikoppeling Toekomstvisie : Scope en inzetgebied
 
