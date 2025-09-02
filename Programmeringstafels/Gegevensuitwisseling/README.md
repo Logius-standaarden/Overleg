@@ -22,9 +22,6 @@
 ### Grote wijzigingen
 * Digikoppeling-Koppelvlakstandaard-ebMS2 [issue #6] [Digikoppeling baseren op ebMS3](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-ebMS2/issues/6) (3 februari 2022), _Status: In onderzoek_
 
-### Overige punten
-* API-Design-Rules [issue #228] [API Design Rules release 2.1 indienen bij MIDO](https://github.com/Logius-standaarden/API-Design-Rules/issues/228) (16 mei 2025)
-
 ## Toelichting
 
 
