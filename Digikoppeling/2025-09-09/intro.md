@@ -21,7 +21,7 @@ Zie ook :
 
 ## Overgang ebMS2 naar eDelivery ebMS3/AS4
 
-Zie Notitie : [Notitie_Vervanging_Digikoppeling_ebMS2_door_eDelivery_ebMS3_AS4](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-09-09/2025_09_09_Notitie_Vervanging_Digikoppeling_ebMS2_door_eDelivery_ebMS3_AS4.md)
+Zie Notitie : [Vervanging_Digikoppeling_ebMS2_door_eDelivery_ebMS3_AS4](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-09-09/2025_09_09_Notitie_Vervanging_Digikoppeling_ebMS2_door_eDelivery_ebMS3_AS4.md)
 
 _Het TO wordt gevraagd in te stemmen met het voorstel om ebMS3/AS4 als vervanger van ebMS2 toe te voegen aan de standaard_
 
