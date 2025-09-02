@@ -35,9 +35,9 @@ dinsdag 9 september 2025
 | 10:05| [Verslag vorige vergadering](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-09-09/2025-06-10%20%20Verslag%20TO%20Digikoppeling%20v1.0.pdf)       |    Peter Haasnoot (Logius) |
 |10:10| [Onderzoek S3 Grote Berichten](#onderzoek-s3---grote-berichten)| Alexander Green (Logius)|
 | 10:20 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--scope-en-inzetgebied) <BR>| Dennis Passage / Peter Haasnoot (Logius) | 
-| 10:45  | [Overgang ebMS2 naar eDelivery ebMS3/AS4](#overgang-ebms2-naar-edelivery-ebms3as4) - Invoering Standaard & Ondersteunende voorzieningen  | Peter Haasnoot / Nil Barua (Logius)| 
+| 10:45  | [Overgang ebMS2 naar eDelivery ebMS3/AS4](#overgang-ebms2-naar-edelivery-ebms3as4) <BR> Invoering Standaard & Ondersteunende voorzieningen  | Peter Haasnoot / Nil Barua (Logius)| 
 | 11:15  | [Wijzigingsvoorstel XML Signing/Encryptie - TLS 1.3](#xml-signing--encryptie---tls-13) |  Nil Barua (Logius)| 
-|11:30| [Wijzigingsvoorstel WUS uitfasering - Stand van Zaken ](#uitfasering-wus)      |    Peter Haasnoot (Logius) |
+|11:30| [Wijzigingsvoorstel WUS uitfasering - Stand van zaken ](#uitfasering-wus)      |    Peter Haasnoot (Logius) |
 |12:00| Lunch | Allen|
 |12:45| FSC Stand van zaken & Beheer | Stas Mironov (Logius)|
 |13:00 | [FSC Wijzigingsvoorstellen](#fsc-wijzigingsvoorstellen) <BR> _Wijziging wordt ter goedkeuring aan het TO voorgelegd_ | Niels de Queker (VNG)  |
@@ -73,9 +73,9 @@ In de [MIDO Domeinarchitectuur Gegevensuitwisseling](https://github.com/MinBZK/g
 
 In de vorige sessie bespraken we gezamenlijk deze punten met als doel de toekomstvisie Digikoppeling nader te bepalen, in deze sessie bespreken we dit verder.
 
-Zie [Toekomstvisie Digikoppeling](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-09-09/2025-09-09_Toekomstvisie%20Digikoppeling.md)
+Zie Notitie : [Toekomstvisie Digikoppeling](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-09-09/2025-09-09_Toekomstvisie%20Digikoppeling.md)
 
-_Het TO wordt gevraagd goedkeuring te geven aan de toekomstvisie, deze zal dan basis zijn voor de toekomstige aanpassingen en ontwikkelrichting van de standaard en de roadmap voor 2026-2027_
+_Het TO wordt gevraagd goedkeuring te geven op de toekomstvisie, deze zal dan basis zijn voor de toekomstige aanpassingen en ontwikkelrichting van de standaard en de roadmap voor 2026-2027_
 
 Zie ook : 
 - [2025-03-19-TO-Digikoppeling-poll-results](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-06-10/2025-03-19-TO-Digikoppeling-poll-results.pdf)
@@ -84,7 +84,7 @@ Zie ook :
 
 ## Overgang ebMS2 naar eDelivery ebMS3/AS4
 
-Zie Notitie : [Notitie_Vervanging_Digikoppeling_ebMS2_door_eDelivery_ebMS3_AS4](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-09-09/2025_09_09_Notitie_Vervanging_Digikoppeling_ebMS2_door_eDelivery_ebMS3_AS4.md)
+Zie Notitie : [Vervanging_Digikoppeling_ebMS2_door_eDelivery_ebMS3_AS4](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-09-09/2025_09_09_Notitie_Vervanging_Digikoppeling_ebMS2_door_eDelivery_ebMS3_AS4.md)
 
 _Het TO wordt gevraagd in te stemmen met het voorstel om ebMS3/AS4 als vervanger van ebMS2 toe te voegen aan de standaard_
 
@@ -100,7 +100,7 @@ van ebMS2 naar eDelivery (ebMS3/AS4)](https://github.com/Logius-standaarden/Over
 
 ## XML Signing & Encryptie - TLS 1.3
 
-### Wijziginsvoorstel XML Signing & Encryptie
+### Wijzigingsvoorstel XML Signing & Encryptie
 Ter goedkeuring voorgelegd aan het TO:
 
 [Wijzigingsvoorstel XML Signing & Encryptie](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/pull/17)
@@ -115,7 +115,7 @@ Huidige TLS afspraken : [Digikoppeling beveiligingsvoorschriften](https://gitdoc
 
 ## Uitfasering WUS
 
-Vanuit de publieke consultatie waren we geen opmerkingen, het voorstel is 20/8 in de programmeringstafel GU besproken. De programmeringstafel GU heeft gevraagd eerst nader onderzoek te doen naar de impact op GDI en organisaties - voordat dit formeel kan worden aangenomen.
+Vanuit de publieke consultatie waren we geen opmerkingen, het voorstel is 20/8/2025 in de programmeringstafel GU besproken. De programmeringstafel GU heeft gevraagd eerst nader onderzoek te doen naar de impact op GDI en organisaties - voordat dit formeel kan worden aangenomen.
 
 ## FSC Wijzigingsvoorstellen
 
