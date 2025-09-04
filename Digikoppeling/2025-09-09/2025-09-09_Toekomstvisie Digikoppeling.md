@@ -152,9 +152,9 @@ Gezien de verwachte doorlooptijd van verdere standaardisatie (rond REST-API) is 
 
 ## 3.1     2025-03-19 Technisch Overleg
 
-- [2025-03-18\_Visievorming - TO DigiKoppeling.pptx](https://logius-prd.confluence.odc-noord.nl/download/attachments/367002287/2025-03-18_Visievorming%20-%20TO%20DigiKoppeling.pptx?api=v2&modificationDate=1743414900970&version=1) > Presentatie op TO 19-mrt-2025 
+- [2025-03-18\_Visievorming - TO DigiKoppeling.pptx](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-03-19/vergaderstukken/2025-03-18_Visievorming%20-%20TO%20DigiKoppeling.pptx) > Presentatie op TO 19-mrt-2025 
 
-- [Polls-per-participant-2025-03-25\_Technische\_Overleg\_DigiKoppeling\_-\_Toek.xlsx](https://logius-prd.confluence.odc-noord.nl/download/attachments/367002287/Polls-per-participant-2025-03-25_Technische_Overleg_DigiKoppeling_-_Toek.xlsx?api=v2&modificationDate=1743415058343&version=1) > Slido resultaten TO 19-mrt-2025 
+- [Polls-per-participant-2025-03-25\_Technische\_Overleg\_DigiKoppeling\_-\_Toek.xlsx](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-09-09/Polls-per-participant-2025-03-25_Technische_Overleg_DigiKoppeling_-_Toek.xlsx) > Slido resultaten TO 19-mrt-2025 
 
 Samenvatting Sessie Toekomstvisie/Enquete TO Digikoppeling 2025-03-18
 
@@ -188,7 +188,7 @@ In het geval dat het ebMS2 koppelvlak uitgefaseerd wordt
 
 Enquete ebMS3 , met toelichting per deelnemer
 
-- [Polls-per-participant-2025-06-10\_TO\_Digikoppeling\_Totaal.xlsx](https://logius-prd.confluence.odc-noord.nl/download/attachments/367002287/Polls-per-participant-2025-06-10_TO_Digikoppeling_Totaal.xlsx?api=v2&modificationDate=1753799545373&version=1)
+- [Polls-per-participant-2025-06-10\_TO\_Digikoppeling\_Totaal.xlsx](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-09-09/Polls-per-participant-2025-06-10_TO_Digikoppeling_Totaal.xlsx)
 
 # 4       Bijlage Digikoppeling Standaarden - welke standaard waar te gebruiken
 
