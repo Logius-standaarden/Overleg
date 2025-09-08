@@ -112,7 +112,7 @@ Huidige TLS afspraken : [Digikoppeling beveiligingsvoorschriften](https://gitdoc
 
 ## Uitfasering WUS
 
-Vanuit de publieke consultatie waren we geen opmerkingen, het voorstel is 20/8/2025 in de programmeringstafel GU besproken. De programmeringstafel GU heeft gevraagd eerst nader onderzoek te doen naar de impact op GDI en organisaties - voordat dit formeel kan worden aangenomen.
+Vanuit de publieke consultatie waren er geen opmerkingen, het voorstel is 20/8/2025 in de programmeringstafel GU besproken. De programmeringstafel GU heeft gevraagd eerst nader onderzoek te doen naar de impact op GDI en organisaties - voordat dit formeel kan worden aangenomen.
 
 ## FSC Wijzigingsvoorstellen
 
