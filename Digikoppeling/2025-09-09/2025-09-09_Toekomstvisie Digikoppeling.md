@@ -1,4 +1,5 @@
-
+> _Toelichting status :<BR>
+>  Dit stuk is besproken in het technisch overleg 09-09-2025. De toekomstvisie zal nog worden aangepast / verder doorontwikkeld naar aanleiding van deze bespreking;_
 
 # 1       Toekomstvisie Digikoppeling 
 
