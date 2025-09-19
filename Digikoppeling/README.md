@@ -6,7 +6,7 @@ Deze map bevat de agenda, notulen en vergaderstukken van het Technisch Overleg D
 
 | Datum | Tijd | Locatie | Stukken | Bijzonderheden |
 | ----- | ---- | ------- | ------- | -------------- |
-|   19-3-2025    | 10:00- 14:00    |  Op locatie       |[19-03-2025](https://github.com/Logius-standaarden/Overleg/tree/main/Digikoppeling/2025-03-19)|      |
+|   11-12-2025    | 10:00- 12:00    |  online       ||      |
 
 
 
