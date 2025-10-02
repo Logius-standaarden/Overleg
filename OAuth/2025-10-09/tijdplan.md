@@ -26,5 +26,6 @@ Inhoudelijk aandacht voor de volgende punten:
 ## Toepassingsgebied
 
 Tijdens het intakegesprek bij het Forum is aan ons gevraagd of de huidige versie van het functioneel toepassings gebied (oorspronkelijk uit 2017) nog wel correct en/of relevant was.
+
 :pushpin: Gelieve dit voorstel alvorens het overleg door te nemen en indien gewenst reageren:
 - https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/126
