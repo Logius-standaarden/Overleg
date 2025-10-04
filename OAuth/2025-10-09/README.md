@@ -39,7 +39,7 @@ donderdag 9 oktober 2025
 
 Inhoudelijk aandacht voor de volgende punten:
 - RAR
-- Feedback van de solution architect van het integratieteam bij de Politie
+- Feedback Politie
 - DPoP vs mTLS
   - sender-constrained
   - schaalbaarheid doordat RS alleen tokens hoeft te checken i.p.v. certificaten
