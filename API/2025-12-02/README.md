@@ -44,7 +44,7 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar api@logius.nl
 ## Onderwerpen
 
 ### Grote wijzigingen
-* API-Design-Rules [issue #276] [Voeg signing en encryption modules toe als normatief](https://github.com/Logius-standaarden/API-Design-Rules/pull/276) (30 oktober 2025), _Status: In bewerking_
+* API-Design-Rules [issue #276] [Voeg signing en encryption modules toe als normatief](https://github.com/Logius-standaarden/API-Design-Rules/pull/276) (30 oktober 2025), _Status: Ter goedkeuring_
 * API-Design-Rules [issue #252] [Added `/core/date-time`](https://github.com/Logius-standaarden/API-Design-Rules/pull/252) (24 juli 2025), _Status: Ter goedkeuring_
 * API-Design-Rules [issue #251] [Regel voor gebruik RFC 9457](https://github.com/Logius-standaarden/API-Design-Rules/pull/251) (24 juli 2025), _Status: In bewerking_
 
