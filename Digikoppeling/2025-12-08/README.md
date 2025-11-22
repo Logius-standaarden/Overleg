@@ -19,6 +19,31 @@
 # Technisch Overleg Digikoppeling
 
 maandag 8 december 2025
+
+_Status : Concept_
+
+## Agenda 
+
+| Betreft                | Technisch Overleg Digikoppeling |
+| ---------------------- | ------------------------------- |
+| Vergaderdatum en -tijd | 08-12-2025, 10:00-12:00        |
+| Vergaderplaats         | Online Bijeenkomst |      |
+
+| Tijd | Onderwerp |Spreker|
+| --- | --- | --- |  
+| 10:00| Welkom & Mededelingen  
+| 10:05| [Verslag vorige vergadering](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-09-09/2025-06-10%20%20Verslag%20TO%20Digikoppeling%20v1.0.pdf)       |    Peter Haasnoot (Logius) |
+| 10:10 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--scope-en-inzetgebied) <BR>| Peter Haasnoot (Logius) | 
+| 10:30| REST-API profiel - onderdeel signing header| Tim van der Lippe (Logius)|
+| 10:40  | [Overgang ebMS2 naar eDelivery ebMS3/AS4](#overgang-ebms2-naar-edelivery-ebms3as4) <BR> Invoering Standaard & Ondersteunende voorzieningen  | Peter Haasnoot / Nil Barua (Logius)| 
+| 11:05 | Pauze | Allen|
+| 11:10  | Post Quantum Cryptografie & TLS 1.3]|  Nil Barua (Logius)| 
+|11:30| [Wijzigingsvoorstel WUS uitfasering - Stand van zaken ](#uitfasering-wus)      |    Peter Haasnoot (Logius) |
+|11:35| FSC Stand van zaken & Beheer | Stas Mironov (Logius)|
+|11:40 | [FSC Wijzigingsvoorstellen](#fsc-wijzigingsvoorstellen) ? <BR> _Wijziging wordt ter goedkeuring aan het TO voorgelegd_ | Niels de Queker (VNG)  |
+|11:55  | Rondvraag / Afsluiting | Allen | 
+|12:00 | Einde |
+
 ## Aanmelden
 
 Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.nl
@@ -37,3 +62,70 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.
 
 ### Overige punten
 * Digikoppeling-Koppelvlakstandaard-REST-API [issue #52] [Mogelijk OAuth toevoegen aan koppelvlak](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/52) (12 september 2025), _Status: In bewerking_
+
+## Toelichting
+
+
+
+
+## Digikoppeling Toekomstvisie : Scope en inzetgebied
+
+In de [MIDO Domeinarchitectuur Gegevensuitwisseling](https://github.com/MinBZK/gdi-gegevensuitwisseling) zijn enkele mogelijke vernieuwingen en uitbreidingen voor Digikoppeling genoemd;
+
+In de vorige sessie bespraken we gezamenlijk deze punten met als doel de toekomstvisie Digikoppeling nader te bepalen, in deze sessie bespreken we dit verder.
+
+Zie Notitie : [Toekomstvisie Digikoppeling](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-09-09/2025-09-09_Toekomstvisie%20Digikoppeling.md)
+
+_Het TO wordt gevraagd goedkeuring te geven op de toekomstvisie, deze zal dan basis zijn voor de toekomstige aanpassingen en ontwikkelrichting van de standaard en de roadmap voor 2026-2027_
+
+Zie ook : 
+- [2025-03-19-TO-Digikoppeling-poll-results](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-06-10/2025-03-19-TO-Digikoppeling-poll-results.pdf)
+- [Enquete ebMS2/3 Polls-per-participant-2025-06-10_TO_Digikoppeling](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-09-09/Polls-per-participant-2025-06-10_TO_Digikoppeling_Totaal.xlsx)
+
+
+## Overgang ebMS2 naar eDelivery ebMS3/AS4
+
+Zie Notitie : [Vervanging_Digikoppeling_ebMS2_door_eDelivery_ebMS3_AS4](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-09-09/2025_09_09_Notitie_Vervanging_Digikoppeling_ebMS2_door_eDelivery_ebMS3_AS4.md)
+
+_Het TO wordt gevraagd in te stemmen met het voorstel om ebMS3/AS4 als vervanger van ebMS2 toe te voegen aan de standaard_
+
+### Bijlage - eDelivery 2.0
+[eDelivery 2.0](https://ec.europa.eu/digital-building-blocks/sites/pages/viewpage.action?pageId=848625744) is eind vorig jaar uitgebracht
+
+
+### Bijlage - PBLQ Rapport Impactanalyse Digikoppeling : Overgang ebMS2 naar eDelivery (ebMS3/AS4)
+
+[PBLQ Rapport Impactanalyse modernisering Digikoppeling ebMS: 
+van ebMS2 naar eDelivery (ebMS3/AS4)](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-03-06/Rapport%20Impactanalyse%20modernisering%20Digikoppeling%20ebMS%20-%20v1.1%20definitief%2019%20januari%202024.pdf)
+
+
+## XML Signing & Encryptie - TLS 1.3
+
+### Wijzigingsvoorstel XML Signing & Encryptie
+Ter goedkeuring voorgelegd aan het TO:
+
+[Wijzigingsvoorstel XML Signing & Encryptie](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/pull/17)
+
+[Preview / Diff - Wijzigingsvoorstel XML Signing & Encryptie](https://services.w3.org/htmldiff?doc1=https://logius-standaarden.github.io/Digikoppeling-Beveiligingsstandaarden-en-voorschriften&doc2=https://logius-standaarden.github.io/Publicatie-Preview/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/Nil-NMB01-patch-1#xml-signing)
+
+### TLS 1.3
+
+Discussie - is aanscherping van TLS 1.3 richtlijn wenselijk n.a.v. [nieuwe NSCS richtlijnen](https://www.ncsc.nl/documenten/publicaties/2025/juni/01/ict-beveiligingsrichtlijnen-voor-transport-layer-security-2025-05) 
+
+Huidige TLS afspraken : [Digikoppeling beveiligingsvoorschriften](https://gitdocumentatie.logius.nl/publicatie/dk/beveilig/2.0.1/#tls-transport-layer-security)
+
+## Uitfasering WUS
+
+Vanuit de publieke consultatie waren er geen opmerkingen, het voorstel is 20/8/2025 in de programmeringstafel GU besproken. De programmeringstafel GU heeft gevraagd eerst nader onderzoek te doen naar de impact op GDI en organisaties - voordat dit formeel kan worden aangenomen.
+
+## FSC Wijzigingsvoorstellen
+
+_Ter goedkeuring voorgelegd aan het TO:_
+
+[Add properties object to Grants & update hashing algorithm (breaking)](https://github.com/Logius-standaarden/fsc-core/pull/25)
+
+
+
+
+
+
