@@ -14,10 +14,8 @@ _Status : Concept_
 | 13:10 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--scope-en-inzetgebied) <BR>| Peter Haasnoot (Logius) | 
 | 13:20 | [Digikoppeling Roadmap 2026-2027](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap-2026-2027/roadmap/onderwerpen.md) <BR>| Peter Haasnoot (Logius) | 
 | 13:30| REST-API profiel - onderdeel signing header| Tim van der Lippe (Logius)|
-| 13:40  | [Overgang ebMS2 naar eDelivery ebMS3/AS4](#overgang-ebms2-naar-edelivery-ebms3as4) <BR> Invoering Standaard & Ondersteunende voorzieningen  | Peter Haasnoot / Nil Barua (Logius)| 
-| 14:05 | Pauze | Allen|
-| 14:10  | Post Quantum Cryptografie & TLS 1.3]|  Nil Barua (Logius)| 
-|14:30| [Wijzigingsvoorstel WUS uitfasering - Stand van zaken ](#uitfasering-wus)      |    Peter Haasnoot (Logius) |
+| 13:40  | Post Quantum Cryptografie & TLS 1.3]|  Nil Barua (Logius)| 
+| 14:00 | Pauze | Allen|
 |14:35| FSC Stand van zaken & Beheer | Stas Mironov (Logius)|
 |14:40 | [FSC Wijzigingsvoorstellen](#fsc-wijzigingsvoorstellen) ? <BR> _Wijziging wordt ter goedkeuring aan het TO voorgelegd_ | Niels de Queker (VNG)  |
 |14:55  | Rondvraag / Afsluiting | Allen | 
