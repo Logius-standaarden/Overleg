@@ -101,7 +101,13 @@ Huidige TLS afspraken : [Digikoppeling beveiligingsvoorschriften](https://gitdoc
 
 _Ter goedkeuring voorgelegd aan het TO:_
 
-[Add properties object to Grants & update hashing algorithm (breaking)](https://github.com/Logius-standaarden/fsc-core/pull/25)
+- [Recap properties](https://github.com/Logius-standaarden/fsc-core/pull/25) + [nieuwe extensie voor een referentie naar een bestaand (papieren) contract](https://github.com/Logius-standaarden/fsc-external-contract-reference)
+- [FSC logging update](https://github.com/Logius-standaarden/fsc-logging/pull/1)
+- [Nieuwe error codes in Open FSC](https://github.com/Logius-standaarden/fsc-core/pull/55)
+- [Open FSC versie in het contract opgenomen](https://github.com/Logius-standaarden/fsc-core/pull/51)
+- [Outway autorisatie op basis van een domeinnaam](https://github.com/Logius-standaarden/fsc-core/pull/53)
+- Nieuwe digikoppeling groep update (Rinis)
+- [Test-suite in core standaard](https://github.com/Logius-standaarden/fsc-test-suite)
 
 
 
