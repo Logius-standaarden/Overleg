@@ -38,8 +38,9 @@ _Status : Concept_
 | 13:35| REST-API profiel - onderdeel signing header| Tim van der Lippe (Logius)|
 | 13:45  | Post Quantum Cryptografie & TLS 1.3 |  Nil Barua (Logius)| 
 | 14:00 | Pauze | Allen|
-|14:05 | FSC Major release <br> [Wijzigingsvoorstellen](#fsc-wijzigingsvoorstellen) <BR> _Wijziging wordt ter goedkeuring aan het TO voorgelegd_ | Ronald Koster (RINIS)  |
-|14:20  | Rondvraag / Afsluiting | Allen | 
+|14:05| FSC Stand van zaken & Beheer | Stas Mironov (Logius)|
+|14:10 | [FSC Wijzigingsvoorstellen](#fsc-wijzigingsvoorstellen) ? <BR> _Wijziging wordt ter goedkeuring aan het TO voorgelegd_ | Niels de Queker (VNG)  |
+|14:55  | Rondvraag / Afsluiting | Allen | 
 |15:00 | Einde |
 
 ## Aanmelden
@@ -101,13 +102,7 @@ Huidige TLS afspraken : [Digikoppeling beveiligingsvoorschriften](https://gitdoc
 
 _Ter goedkeuring voorgelegd aan het TO:_
 
-- [Recap properties](https://github.com/Logius-standaarden/fsc-core/pull/25) + [nieuwe extensie voor een referentie naar een bestaand (papieren) contract](https://github.com/Logius-standaarden/fsc-external-contract-reference) + [bijbehorende test cases](https://github.com/Logius-standaarden/fsc-test-suite/pull/3)
-- [FSC logging update](https://github.com/Logius-standaarden/fsc-logging/pull/1)
-- [Nieuwe error codes in Open FSC](https://github.com/Logius-standaarden/fsc-core/pull/55)
-- [Open FSC versie in het contract opgenomen](https://github.com/Logius-standaarden/fsc-core/pull/51)
-- [Outway autorisatie op basis van een domeinnaam](https://github.com/Logius-standaarden/fsc-core/pull/53)
-- Nieuwe digikoppeling groep update (Rinis)
-- [Test-suite in core standaard](https://github.com/Logius-standaarden/fsc-test-suite)
+[Add properties object to Grants & update hashing algorithm (breaking)](https://github.com/Logius-standaarden/fsc-core/pull/25)
 
 
 
