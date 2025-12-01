@@ -38,10 +38,26 @@ _Status : Concept_
 | 13:35| REST-API profiel - onderdeel signing header| Tim van der Lippe (Logius)|
 | 13:45  | Post Quantum Cryptografie & TLS 1.3 |  Nil Barua (Logius)| 
 | 14:00 | Pauze | Allen|
-|14:05| FSC Stand van zaken & Beheer | Stas Mironov (Logius)|
-|14:10 | [FSC Wijzigingsvoorstellen](#fsc-wijzigingsvoorstellen) ? <BR> _Wijziging wordt ter goedkeuring aan het TO voorgelegd_ | Niels de Queker (VNG)  |
-|14:55  | Rondvraag / Afsluiting | Allen | 
+|14:05| FSC sub-wekgroep update | Stas Mironov (Logius)|
+|14:10 |  FSC Major release <br> [Wijzigingsvoorstellen](#fsc-wijzigingsvoorstellen) <BR> _Wijziging wordt ter goedkeuring aan het TO voorgelegd_ | Ronald Koster (RINIS)  |
+|14:25  | Rondvraag / Afsluiting | Allen | 
 |15:00 | Einde |
+
+
+
+
+
+## FSC Wijzigingsvoorstellen
+
+_Ter goedkeuring voorgelegd aan het TO:_
+
+- [Recap properties](https://github.com/Logius-standaarden/fsc-core/pull/25) + [nieuwe extensie voor een referentie naar een bestaand (papieren) contract](https://github.com/Logius-standaarden/fsc-external-contract-reference) + [bijbehorende test cases](https://github.com/Logius-standaarden/fsc-test-suite/pull/3)
+- [FSC logging update](https://github.com/Logius-standaarden/fsc-logging/pull/1)
+- [Nieuwe error codes in Open FSC](https://github.com/Logius-standaarden/fsc-core/pull/55)
+- [Open FSC versie in het contract opgenomen](https://github.com/Logius-standaarden/fsc-core/pull/51)
+- [Outway autorisatie op basis van een domeinnaam](https://github.com/Logius-standaarden/fsc-core/pull/53)
+- Nieuwe digikoppeling groep update (Rinis)
+- [Test-suite in core standaard](https://github.com/Logius-standaarden/fsc-test-suite)
 
 ## Aanmelden
 
@@ -50,9 +66,13 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.
 ## Onderwerpen
 
 ### Grote wijzigingen
+* fsc-test-suite [issue #3] [Properties](https://github.com/Logius-standaarden/fsc-test-suite/pull/3) (23 november 2025), _Status: Ter goedkeuring_
+* fsc-core [issue #53] [allow outways based on domain name](https://github.com/Logius-standaarden/fsc-core/pull/53) (31 oktober 2025), _Status: Ter goedkeuring_
 * fsc-core [issue #48] [Lokaal Testen van Federative Service Connectivity (FSC) Compliance](https://github.com/Logius-standaarden/fsc-core/issues/48) (26 september 2025)
 
 ### Kleine wijzigingen
+* fsc-logging [issue #1] [add additional data to transaction log record](https://github.com/Logius-standaarden/fsc-logging/pull/1) (12 november 2025), _Status: Ter goedkeuring_
+* fsc-core [issue #55] [Add error code for unknown FSC version](https://github.com/Logius-standaarden/fsc-core/pull/55) (4 november 2025), _Status: Ter goedkeuring_
 * Digikoppeling-Algemeen [issue #21] [FSC aanvullen met nieuw profiel diginetwerk](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/21) (10 september 2025), _Status: In bewerking_
 * fsc-core [issue #12] [Minor compatibility changes met OAuth NL GOV](https://github.com/Logius-standaarden/fsc-core/issues/12) (4 maart 2025), _Status: In bewerking_
 
@@ -80,8 +100,6 @@ In de [MIDO Domeinarchitectuur Gegevensuitwisseling](https://github.com/MinBZK/g
 In de vorige sessie bespraken we gezamenlijk deze punten met als doel de toekomstvisie Digikoppeling nader te bepalen, in deze sessie bespreken we dit verder.
 
 Zie Notitie : [Toekomstvisie Digikoppeling](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-09-09/2025-09-09_Toekomstvisie%20Digikoppeling.md)
-
-_Het TO wordt gevraagd goedkeuring te geven op de toekomstvisie, deze zal dan basis zijn voor de toekomstige aanpassingen en ontwikkelrichting van de standaard en de roadmap voor 2026-2027_
 
 Zie ook : 
 - [2025-03-19-TO-Digikoppeling-poll-results](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-06-10/2025-03-19-TO-Digikoppeling-poll-results.pdf)
