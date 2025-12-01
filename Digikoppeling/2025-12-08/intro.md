@@ -16,9 +16,6 @@ In de [MIDO Domeinarchitectuur Gegevensuitwisseling](https://github.com/MinBZK/g
 In de vorige sessie bespraken we gezamenlijk deze punten met als doel de toekomstvisie Digikoppeling nader te bepalen, in deze sessie bespreken we dit verder.
 
 Zie Notitie : [Toekomstvisie Digikoppeling](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-09-09/2025-09-09_Toekomstvisie%20Digikoppeling.md)
-
-_Het TO wordt gevraagd goedkeuring te geven op de toekomstvisie, deze zal dan basis zijn voor de toekomstige aanpassingen en ontwikkelrichting van de standaard en de roadmap voor 2026-2027_
-
 Zie ook : 
 - [2025-03-19-TO-Digikoppeling-poll-results](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-06-10/2025-03-19-TO-Digikoppeling-poll-results.pdf)
 - [Enquete ebMS2/3 Polls-per-participant-2025-06-10_TO_Digikoppeling](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-09-09/Polls-per-participant-2025-06-10_TO_Digikoppeling_Totaal.xlsx)
