@@ -16,7 +16,7 @@ _Status : Concept_
 | 13:35| REST-API profiel - onderdeel signing header| Tim van der Lippe (Logius)|
 | 13:45  | Post Quantum Cryptografie & TLS 1.3 |  Nil Barua (Logius)| 
 | 14:00 | Pauze | Allen|
-|14:05| FSC sub-wekgroep update | Stas Mironov (Logius)|
+|14:05| FSC sub-werkgroep update | Stas Mironov (Logius)|
 |14:10 |  FSC Major release <br> [Wijzigingsvoorstellen](#fsc-wijzigingsvoorstellen) <BR> _Wijziging wordt ter goedkeuring aan het TO voorgelegd_ | Ronald Koster (RINIS)  |
 |14:25  | Rondvraag / Afsluiting | Allen | 
 |15:00 | Einde |
