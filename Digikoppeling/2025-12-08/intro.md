@@ -31,15 +31,14 @@ Discussie - is aanscherping van TLS 1.3 richtlijn wenselijk n.a.v. [nieuwe NSCS 
 
 Huidige TLS afspraken : [Digikoppeling beveiligingsvoorschriften](https://gitdocumentatie.logius.nl/publicatie/dk/beveilig/2.0.1/#tls-transport-layer-security)
 
-
 ## FSC Wijzigingsvoorstellen
 
 _Ter goedkeuring voorgelegd aan het TO:_
 
-[Add properties object to Grants & update hashing algorithm (breaking)](https://github.com/Logius-standaarden/fsc-core/pull/25)
-
-
-
-
-
-
+- [Recap properties](https://github.com/Logius-standaarden/fsc-core/pull/25) + [nieuwe extensie voor een referentie naar een bestaand (papieren) contract](https://github.com/Logius-standaarden/fsc-external-contract-reference) + [bijbehorende test cases](https://github.com/Logius-standaarden/fsc-test-suite/pull/3)
+- [FSC logging update](https://github.com/Logius-standaarden/fsc-logging/pull/1)
+- [Nieuwe error codes in Open FSC](https://github.com/Logius-standaarden/fsc-core/pull/55)
+- [Open FSC versie in het contract opgenomen](https://github.com/Logius-standaarden/fsc-core/pull/51)
+- [Outway autorisatie op basis van een domeinnaam](https://github.com/Logius-standaarden/fsc-core/pull/53)
+- Nieuwe digikoppeling groep update (Rinis)
+- [Test-suite in core standaard](https://github.com/Logius-standaarden/fsc-test-suite)
