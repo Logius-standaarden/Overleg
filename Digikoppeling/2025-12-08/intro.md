@@ -4,7 +4,7 @@
 
 ### Update 08/12/2025
 
-- Toekomstvisie en Life-Cycle_Management op de koppelvlakstandaarden wordt afgestemd met MIDO WG Architectuur GU en MIDO Programmeringstafel, eerstvolgende bespreking februari 2026
+- Toekomstvisie en Life-Cycle_Management op de koppelvlakstandaarden wordt afgestemd met MIDO WG Architectuur GU en MIDO Programmeringstafel, eerstvolgende bespreking februari 2026 (Zie ook [Toekomstvisie Scenario's](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-12-08/2025_12_08_Scenario%E2%80%99s%20Toekomstvisie%20Digikoppeling%20Koppelvlak%20Standaarden.pdf))
 - Met J&V en RINIS is gesproken over de tijdlijnen in [PBLQ Rapport Impactanalyse modernisering Digikoppeling ebMS: 
 van ebMS2 naar eDelivery (ebMS3/AS4)](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2024-03-06/Rapport%20Impactanalyse%20modernisering%20Digikoppeling%20ebMS%20-%20v1.1%20definitief%2019%20januari%202024.pdf) en eerdere Notitie. Deze worden niet haalbaar geacht, eerst ervaring opdoen met de nieuwe koppelvlakken en een beeld krijgen van wat bij een overgang komt kijken voordat uitfasering en tijdlijnen worden gekozen wordt aanbevolen;
 
