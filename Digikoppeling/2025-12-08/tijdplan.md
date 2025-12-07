@@ -14,7 +14,7 @@
 | 13:10 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--scope-en-inzetgebied) <BR>| Peter Haasnoot (Logius) | 
 | 13:25 | [Digikoppeling Roadmap 2026-2027](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap-2026-2027/roadmap/onderwerpen.md) <BR>| Peter Haasnoot (Logius) | 
 | 13:35| REST-API profiel - onderdeel signing header| Tim van der Lippe (Logius)|
-| 13:45  | Post Quantum Cryptografie & TLS 1.3 |  Nil Barua (Logius)| 
+| 13:45  | G4 certificaten, Post Quantum Cryptografie & TLS 1.3 |  Nil Barua (Logius)| 
 | 14:00 | Pauze | Allen|
 |14:05| FSC sub-werkgroep update | Stas Mironov (Logius)|
 |14:10 |  FSC Major release <br> [Wijzigingsvoorstellen](#fsc-wijzigingsvoorstellen) <BR> _Wijziging wordt ter goedkeuring aan het TO voorgelegd_ | Ronald Koster (RINIS)  |
