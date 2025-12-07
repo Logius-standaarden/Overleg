@@ -9,7 +9,7 @@
 
 | Tijd | Onderwerp |Spreker|
 | --- | --- | --- |  
-| 13:00| Welkom & Mededelingen <BR>- [Draft Best Practice integratiepatronen, berichten en protocollen](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-12-08/Best%20Practice%20integratiepatronen%2C%20berichten%20en%20protocollen.pdf) <BR> opgesteld door UWV, commentaar en feedback welkom  |    Peter Haasnoot (Logius) |
+| 13:00| Welkom & Mededelingen <BR>- [Draft Best Practice integratiepatronen, berichten en protocollen](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-12-08/Best%20Practice%20integratiepatronen%2C%20berichten%20en%20protocollen.pdf) <BR> opgesteld door UWV, commentaar en feedback welkom <BR> - ADR 2.0 formeel vastgesteld voor PTLU lijst Forum Standaardisatie in OBDO 25/11/2025   |    Peter Haasnoot (Logius) |
 | 13:05| [Verslag vorige vergadering](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-12-08/2025-09-09%20%20Verslag%20TO%20Digikoppeling_v1.0.pdf)       |    Peter Haasnoot (Logius) |
 | 13:10 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--scope-en-inzetgebied) <BR>| Peter Haasnoot (Logius) | 
 | 13:25 | [Digikoppeling Roadmap 2026-2027](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap-2026-2027/roadmap/onderwerpen.md) <BR>| Peter Haasnoot (Logius) | 
