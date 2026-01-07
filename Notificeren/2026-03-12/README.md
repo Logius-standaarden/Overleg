@@ -31,5 +31,6 @@ donderdag 12 maart 2026
 ## Onderwerpen
 
 ### Overige punten
+* NL-GOV-profile-for-CloudEvents [issue #35] [RFC Introductie zin loopt niet goed](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents/issues/35) (31 december 2025)
 * CloudEvents-NL-Guidelines [issue #6] [Abonneringsstandaard](https://github.com/Logius-standaarden/CloudEvents-NL-Guidelines/issues/6) (27 augustus 2024)
 * NL-GOV-profile-for-CloudEvents [issue #11] [Opnemen use cases om toepassing van het profiel te verduidelijken](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents/issues/11) (27 februari 2024)
