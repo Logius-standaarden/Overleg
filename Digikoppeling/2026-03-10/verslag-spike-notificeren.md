@@ -83,7 +83,7 @@ Als er in de toekomst onduidelijkheid is, dan kan organisatie A terugvallen op h
 Het is dus nodig om het ontvangstbericht te ontvangen, omdat daaruit de onweerlegbaarheid voortvloeit.
 Dit kan extra afspraken vereisen over bijvoorbeeld op welk tijdstip dit plaatsvond.
 Het vereist dus ook dat de ontvangstberichten worden opgeslagen voor een van tevoren afgesproken termijn.
-Deze afspraken worden vastgelegd bij het opzetten van de berichtenstroom in een contract en met certificaten van beide organisaties ondertekend.
+Deze afspraken worden vastgelegd bij het opzetten van de berichtenstroom in een contract (CPA) waarin ook de publieke certificaten van beide organisaties zijn opgenomen.
 
 ### Foutafhandeling (retries)
 
@@ -182,3 +182,4 @@ Dit staat in contrast met een PUSH mechanisme waar er direct een bericht aankomt
 In een PUSH mechanisme kan zowel informatie-arm als -rijk worden genotificeerd.
 Het verschil tussen PUSH en PULL is dus wie actie moet ondernemen om de notificatie te ontvangen.
 Bij PUSH ligt de actie bij de aanbieder, bij PULL bij de afnemer.
+
