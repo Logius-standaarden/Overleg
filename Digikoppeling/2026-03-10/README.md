@@ -41,9 +41,6 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.
 * Digikoppeling-Algemeen [issue #21] [FSC aanvullen met nieuw profiel diginetwerk](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/21) (10 september 2025), _Status: In bewerking_
 * fsc-core [issue #12] [Minor compatibility changes met OAuth NL GOV](https://github.com/Logius-standaarden/fsc-core/issues/12) (4 maart 2025), _Status: In bewerking_
 
-### Overige punten
-* Digikoppeling-Koppelvlakstandaard-REST-API [issue #52] [Mogelijk OAuth toevoegen aan koppelvlak](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/52) (12 september 2025), _Status: In bewerking_
-
 ## Toelichting
 
 
