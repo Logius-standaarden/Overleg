@@ -13,6 +13,7 @@
 | 10:05| [Verslag vorige vergadering](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-09-09/2025-06-10%20%20Verslag%20TO%20Digikoppeling%20v1.0.pdf)       |    Peter Haasnoot (Logius) |
 | 10:10 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--scope-en-inzetgebied) <BR>| Peter Haasnoot (Logius) | 
 |10:30| Roadmap Digikoppeling|  Peter Haasnoot (Logius)|
+|10:30| UWV Best practice robuuste api -koppelingen|  UWV|
 | 11:05 | Pauze | Allen|
 |12:00| Lunch | Allen|
 |12:45| FSC Stand van zaken & Beheer | Stas Mironov (Logius)|
