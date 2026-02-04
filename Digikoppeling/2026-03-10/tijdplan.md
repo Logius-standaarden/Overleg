@@ -14,6 +14,7 @@
 | 10:10 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--scope-en-inzetgebied) <BR>| Peter Haasnoot (Logius) | 
 |10:30| Roadmap Digikoppeling|  Peter Haasnoot (Logius)|
 |10:30| UWV - Best Practice integratiepatronen, berichten en protocollen|  UWV|
+|10:30| Publieke consultatie DK/FSC| Peter Haasnoot (Logius)|
 | 11:05 | Pauze | Allen|
 |12:00| Lunch | Allen|
 |12:45| FSC Stand van zaken & Beheer | Stas Mironov (Logius)|
