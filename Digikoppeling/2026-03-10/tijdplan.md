@@ -9,7 +9,7 @@
 
 | Tijd | Onderwerp |Spreker|
 | --- | --- | --- |  
-| 10:00| Welkom & Mededelingen   <BR>- |    Peter Haasnoot (Logius) |
+| 10:00| Welkom & Mededelingen   <BR>-Rapport Onderzoek Notificeren obv REST-API/Cloudevents |    Peter Haasnoot (Logius) |
 | 10:05| [Verslag vorige vergadering](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2025-09-09/2025-06-10%20%20Verslag%20TO%20Digikoppeling%20v1.0.pdf)       |    Peter Haasnoot (Logius) |
 | 10:10 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--scope-en-inzetgebied) <BR>| Peter Haasnoot (Logius) | 
 |10:30| Roadmap Digikoppeling|  Peter Haasnoot (Logius)|
