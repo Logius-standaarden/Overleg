@@ -19,6 +19,20 @@
 # Technisch Overleg API
 
 dinsdag 3 maart 2026
+
+## Agenda
+
+| Betreft                | Technisch Overleg API   |
+| ---------------------- | ----------------------- |
+| Vergaderdatum en -tijd | 2026-03-03, 13:00-14:15 |
+| Vergaderplaats         | Online                  |
+
+| Tijd | Onderwerp |Spreker|
+| --- | --- | --- |  
+| 13:00| Welkom & Mededelingen        |    Tim van der Lippe (Logius) |
+| 14:10 | WVTTK | Tim van der Lippe (Logius) |
+| 14:15 | Einde | |
+
 ## Aanmelden
 
 Dit overleg is openbaar. Aanmelden kan door te mailen naar api@logius.nl
@@ -34,7 +48,6 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar api@logius.nl
 * API-Design-Rules [issue #277] [Clarify how TLS works and when sensitive information in URIs should not be used](https://github.com/Logius-standaarden/API-Design-Rules/pull/277) (7 november 2025), _Status: Ter goedkeuring_
 
 ### Overige punten
-* API-Design-Rules [issue #301] [Bump qs from 6.14.1 to 6.14.2 in /examples/express](https://github.com/Logius-standaarden/API-Design-Rules/pull/301) (14 februari 2026), _Status: In bewerking_
 * API-Design-Rules [issue #294] [Voeg regel toe over het documenteren van server URLs](https://github.com/Logius-standaarden/API-Design-Rules/pull/294) (28 januari 2026), _Status: In bewerking_
 * API-Design-Rules [issue #292] [DELETE hetzelfde behandelen als GET voor 400 bad request](https://github.com/Logius-standaarden/API-Design-Rules/pull/292) (21 januari 2026), _Status: In bewerking_
 * API-Design-Rules [issue #291] [Sta relatieve Server API URL toe.](https://github.com/Logius-standaarden/API-Design-Rules/pull/291) (21 januari 2026), _Status: In bewerking_
