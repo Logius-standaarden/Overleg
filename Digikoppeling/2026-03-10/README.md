@@ -52,6 +52,7 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.
 ## Onderwerpen
 
 ### Grote wijzigingen
+* fsc-logging [issue #6] [Hernoem `transaction_id` naar `trace_id`](https://github.com/Logius-standaarden/fsc-logging/issues/6) (19 februari 2026), _Status: In onderzoek_
 * fsc-core [issue #48] [Lokaal Testen van Federative Service Connectivity (FSC) Compliance](https://github.com/Logius-standaarden/fsc-core/issues/48) (26 september 2025)
 
 ### Kleine wijzigingen
@@ -59,6 +60,9 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.
 * Digikoppeling-Beveiligingsstandaarden-en-voorschriften [issue #19] [Nieuwe G4 PKIoverheid roots beschikbaar](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/issues/19) (1 december 2025)
 * Digikoppeling-Algemeen [issue #21] [FSC aanvullen met nieuw profiel diginetwerk](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/issues/21) (10 september 2025), _Status: In bewerking_
 * fsc-core [issue #12] [Minor compatibility changes met OAuth NL GOV](https://github.com/Logius-standaarden/fsc-core/issues/12) (4 maart 2025), _Status: In bewerking_
+
+### Overige punten
+* fsc-core [issue #65] [add security scheme to OAS](https://github.com/Logius-standaarden/fsc-core/pull/65) (19 februari 2026), _Status: In bewerking_
 
 ## Toelichting
 
