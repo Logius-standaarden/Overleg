@@ -48,5 +48,4 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar api@logius.nl
 * API-Design-Rules [issue #277] [Clarify how TLS works and when sensitive information in URIs should not be used](https://github.com/Logius-standaarden/API-Design-Rules/pull/277) (7 november 2025), _Status: Ter goedkeuring_
 
 ### Overige punten
-* API-Design-Rules [issue #304] [Bump ajv from 8.17.1 to 8.18.0 in /examples/express](https://github.com/Logius-standaarden/API-Design-Rules/pull/304) (22 februari 2026), _Status: In bewerking_
 * API-Design-Rules [issue #294] [Voeg regel toe over het documenteren van server URLs](https://github.com/Logius-standaarden/API-Design-Rules/pull/294) (28 januari 2026), _Status: In bewerking_
