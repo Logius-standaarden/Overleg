@@ -9,7 +9,7 @@
 
 | Tijd | Onderwerp |Spreker|
 | --- | --- | --- |  
-| 10:00| Welkom & Mededelingen   <BR>-Rapport Onderzoek Notificeren obv REST-API/Cloudevents |    Peter Haasnoot (Logius) |
+| 10:00| Welkom & Mededelingen   <BR>-Rapport Onderzoek Notificeren obv REST-API/Cloudevents <BR>-Stemrecht Deelnemers |    Peter Haasnoot (Logius) |
 | 10:05| [Verslag vorige vergadering](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-03-10/2025-12-08%20%20Verslag%20TO%20Digikoppelingv1.0.pdf)       |    Peter Haasnoot (Logius) |
 |10:05| OIN-Stelsel : Nieuwe nummer reeks voor DEZI Stelsel |  Peter Haasnoot (Logius)|
 | 10:10 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--scope-en-inzetgebied) <BR>| Peter Haasnoot (Logius) | 
