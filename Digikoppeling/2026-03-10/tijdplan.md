@@ -14,7 +14,7 @@
 |10:05| OIN-Stelsel : Nieuwe nummer reeks voor DEZI Stelsel |  Peter Haasnoot (Logius)|
 | 10:10 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--scope-en-inzetgebied) <BR>| Peter Haasnoot (Logius) | 
 |10:30| Roadmap Digikoppeling|  Peter Haasnoot (Logius)|
-|10:30 | Beveligingsvoorschriften en Best Practice Certificaten | Nil Barua (Logius) 
+|10:30 | Beveiligingsvoorschriften en Best Practice Certificaten | Nil Barua (Logius) 
 |10:30| Publieke consultatie DK/FSC| Peter Haasnoot (Logius)|
 | 11:05 | Pauze | Allen|
 |12:00| Lunch | Allen|
