@@ -27,11 +27,18 @@ dinsdag 3 maart 2026
 | Vergaderdatum en -tijd | 2026-03-03, 13:00-14:15 |
 | Vergaderplaats         | Online                  |
 
-| Tijd | Onderwerp |Spreker|
-| --- | --- | --- |  
-| 13:00| Welkom & Mededelingen        |    Tim van der Lippe (Logius) |
-| 14:10 | WVTTK | Tim van der Lippe (Logius) |
-| 14:15 | Einde | |
+| Tijd | Onderwerp |
+| --- | --- | 
+| 13:00 | Welkom & Mededelingen |
+| 13:05 | Updates vanuit beheer |
+| 13:10 | Date & Time |
+| 13:25 | Error Handling |
+| 13:40 | TLS & Sensitive information |
+| 13:45 | Relatieve server URL |
+| 13:55 | ADR 2.2 milestone |
+| 14:00 | ADR 2.3 planning |
+| 14:10 | WVTTK |
+| 14:15 | Einde |
 
 ## Aanmelden
 
@@ -48,4 +55,5 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar api@logius.nl
 * API-Design-Rules [issue #277] [Clarify how TLS works and when sensitive information in URIs should not be used](https://github.com/Logius-standaarden/API-Design-Rules/pull/277) (7 november 2025), _Status: Ter goedkeuring_
 
 ### Overige punten
+* API-Design-Rules [issue #305] [Update designRules.md](https://github.com/Logius-standaarden/API-Design-Rules/pull/305) (23 februari 2026), _Status: In bewerking_
 * API-Design-Rules [issue #294] [Voeg regel toe over het documenteren van server URLs](https://github.com/Logius-standaarden/API-Design-Rules/pull/294) (28 januari 2026), _Status: In bewerking_
