@@ -16,7 +16,7 @@
 |10:40| Roadmap Digikoppeling|  Peter Haasnoot (Logius)|
 |10:50 | Beveiligingsvoorschriften en Best Practice Certificaten | Nil Barua (Logius) 
 | 11:05 | Pauze | Allen|
-|11:15| Publieke consultatie Digikoppeling/FSC Release 2026-1<BR> mTLS, bi-directioneel verkeer manager<->directory, gebruik W3C trace in FSCLog <BR> DUO verplichte karakter fsc TODO: Peter| Peter Haasnoot (Logius)|
+|11:15| [Publieke consultatie Digikoppeling/FSC Release 2026-1](#publieke-consultatie-digikoppelingfsc)| Peter Haasnoot (Logius)|
 |12:00| Lunch | Allen|
 |12:45| FSC Stand van zaken & Beheer | Nil Barua (Logius)|
 |13:00 | [FSC Updates vanuit de sub-wg](#fsc-wijzigingsvoorstellen) <BR> - HLD signing service<BR> - Recap werking FSC<BR> - JAdES compliance FSC<BR> - Stroomlijnen token Oauth <BR> _Wijziging wordt ter goedkeuring aan het TO voorgelegd_ | Lonneke Dikmans (RINIS) |
