@@ -6,7 +6,8 @@
 
 In mei wordt ter voorbereiding op MIDO besluitvorming een MIDO thema sessie georganiseerd , specifiek voor het onderwerp toekomstvisie en specifiek de scenario's rond ebMS / API;
 
-
+## Publieke consultatie Digikoppeling/FSC
 
 ## FSC Wijzigingsvoorstellen
+
 
