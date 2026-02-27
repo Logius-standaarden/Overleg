@@ -15,10 +15,10 @@
 | 10:20 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--scope-en-inzetgebied) <BR>| Peter Haasnoot (Logius) | 
 |10:40| Roadmap Digikoppeling|  Peter Haasnoot (Logius)|
 |10:50 | Beveiligingsvoorschriften en Best Practice Certificaten | Nil Barua (Logius) 
-| 11:00 | Pauze | Allen|
-|11:10| Publieke consultatie DK/FSC <BR> mTLS, bi-directioneel verkeer manager<->directory, gebruik W3C trace in FSCLog <BR> DUO verplichte karakter fsc TODO: Peter| Peter Haasnoot (Logius)|
+| 11:05 | Pauze | Allen|
+|11:15| Publieke consultatie Digikoppeling/FSC Release 2026-1<BR> mTLS, bi-directioneel verkeer manager<->directory, gebruik W3C trace in FSCLog <BR> DUO verplichte karakter fsc TODO: Peter| Peter Haasnoot (Logius)|
 |12:00| Lunch | Allen|
 |12:45| FSC Stand van zaken & Beheer | Nil Barua (Logius)|
-|13:00 | [FSC Updates vanuit de sub-wg](#fsc-wijzigingsvoorstellen) <BR> - HLD signing service - Recap werking FSC - JAdES compliance FSC - Stroomlijnen token Oauth <BR> _Wijziging wordt ter goedkeuring aan het TO voorgelegd_ | Lonneke Dikmans (RINIS) |
+|13:00 | [FSC Updates vanuit de sub-wg](#fsc-wijzigingsvoorstellen) <BR> - HLD signing service<BR> - Recap werking FSC<BR> - JAdES compliance FSC<BR> - Stroomlijnen token Oauth <BR> _Wijziging wordt ter goedkeuring aan het TO voorgelegd_ | Lonneke Dikmans (RINIS) |
 |13:30  | Rondvraag / Afsluiting | Allen | 
 |13:45 | Einde |
