@@ -11,7 +11,7 @@
 | --- | --- | --- |  
 | 10:00| Welkom & Mededelingen   <BR>-Rapport Onderzoek Notificeren obv REST-API/Cloudevents <BR>-Stemrecht Deelnemers |    Peter Haasnoot (Logius) |
 | 10:05| [Verslag vorige vergadering](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-03-10/2025-12-08%20%20Verslag%20TO%20Digikoppelingv1.0.pdf)       |    Peter Haasnoot (Logius) |
-|10:10| [OIN-Stelsel : Nieuwe nummer reeks voor DEZI Stelsel](OIN-Stelsel - Aanvraag nummerreeks DEZI-Stelsel.md) |  Peter Haasnoot (Logius)| 
+|10:10| [OIN-Stelsel : Nieuwe nummer reeks voor DEZI Stelsel](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-03-10/OIN-Stelsel%20-%20Aanvraag%20nummerreeks%20DEZI-Stelsel.md) |  Peter Haasnoot (Logius)| 
 | 10:20 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--scope-en-inzetgebied) <BR>| Peter Haasnoot (Logius) | 
 |10:40| [Roadmap Digikoppeling](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap-2026-2027/roadmap/onderwerpen.md#tijdlijn-roadmap-digikoppeling-standaarden)|  Peter Haasnoot (Logius)|
 |10:50 | Beveiligingsvoorschriften en Best Practice Certificaten | Nil Barua (Logius) 
