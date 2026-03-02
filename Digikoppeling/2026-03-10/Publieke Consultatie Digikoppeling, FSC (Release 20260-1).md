@@ -1,6 +1,6 @@
 # Inhoudsopgave
 1. [Reactie vanuit JustID t.a.v. FSC](##reactie-vanuit-justid-tav-fsc)
-2. [Reactie vanuit Kadaster t.a.v. FSC](#example2)
+2. [Reactie vanuit Kadaster t.a.v. FSC](#reactie-vanuit-kadaster-tav-fsc)
 
 # Reactie vanuit JustID t.a.v. FSC
 
