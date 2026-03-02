@@ -1,3 +1,7 @@
+# Inhoudsopgave
+1. [Reactie vanuit JustID t.a.v. FSC](##reactie-vanuit-justid-tav-fsc)
+2. [Reactie vanuit Kadaster t.a.v. FSC](#example2)
+
 # Reactie vanuit JustID t.a.v. FSC
 
 ## Aanleiding 
@@ -36,5 +40,9 @@ Maak de communicatie tussen de FSC Directory en de Managers unidirectioneel (out
 * Dit voorkomt het onnodig openzetten van inbound poorten op het interne netwerk van de aangesloten organisatie.
 * Het opzetten van een outbound verbinding is technisch eenvoudiger, veiliger en sluit beter aan bij de netwerkbeveiligingsrichtlijnen binnen de overheid.
  
+# Reactie vanuit Kadaster t.a.v. FSC
 
+## Vraag
+Deze vraag gaat over FSC logging: in de standaard FSC logging wordt een TransactionID gedefinieerd. Kadaster is van mening dat dit overlapt met de W3C Trace Context. Het voorstel is dan dus ook om hier gebruiken we hier de W3C Trace Context voor te gebruiken. Veel componenten in het landschap ondersteunen deze standaard waaronder Open Telemetry (OTEL).
+ 
 
