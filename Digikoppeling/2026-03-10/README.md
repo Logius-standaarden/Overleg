@@ -55,7 +55,9 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.
 * fsc-logging [issue #6] [Hernoem `transaction_id` naar `trace_id`](https://github.com/Logius-standaarden/fsc-logging/issues/6) (19 februari 2026), _Status: In onderzoek_
 
 ### Kleine wijzigingen
-* Digikoppeling-Architectuur [issue #30] [Toelichting reliable / betrouwbare gegevensuitwisseling REST API Koppelvlak](https://github.com/Logius-standaarden/Digikoppeling-Architectuur/pull/30) (27 februari 2026)
+* Digikoppeling-Architectuur [issue #30] [Toelichting reliable / betrouwbare gegevensuitwisseling REST API Koppelvlak](https://github.com/Logius-standaarden/Digikoppeling-Architectuur/pull/30) (27 februari 2026), _Status: Ter goedkeuring_
+* Digikoppeling-Beveiligingsstandaarden-en-voorschriften [issue #26] [Voeg richtlijnen toe over PKIo certificaat in Digikoppeling](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/pull/26) (26 februari 2026)
+* Digikoppeling-Beveiligingsstandaarden-en-voorschriften [issue #25] [Extra scenario's toegevoegd](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/pull/25) (18 februari 2026)
 * Digikoppeling-Beveiligingsstandaarden-en-voorschriften [issue #22] [Opmerking over certificaten](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/issues/22) (13 januari 2026), _Status: In onderzoek_
 * Digikoppeling-Beveiligingsstandaarden-en-voorschriften [issue #19] [Nieuwe G4 PKIoverheid roots beschikbaar](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/issues/19) (1 december 2025)
 
