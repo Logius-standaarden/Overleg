@@ -19,6 +19,6 @@
 |11:15| [Publieke consultatie Digikoppeling/FSC Release 2026-1](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-03-10/Publieke%20Consultatie%20Digikoppeling%2C%20FSC%20(Release%2020260-1).md)| Peter Haasnoot (Logius)|
 |12:00| Lunch | Allen|
 |12:45| FSC Stand van zaken & Beheer | Nil Barua (Logius)|
-|13:00 | [FSC Updates vanuit de sub-wg](#fsc-wijzigingsvoorstellen) <BR> - HLD signing service<BR> - Recap werking FSC<BR> - [JAdES compliance FSC](https://github.com/Logius-standaarden/fsc-core/issues/64)<BR> - Stroomlijnen token Oauth <BR> | Lonneke Dikmans (RINIS) |
+|12:50 | [FSC Updates vanuit de sub-wg](#fsc-wijzigingsvoorstellen) <BR> - HLD signing service<BR> - Recap werking FSC<BR> - [JAdES compliance FSC](https://github.com/Logius-standaarden/fsc-core/issues/64)<BR> - Stroomlijnen token Oauth <BR> | Lonneke Dikmans (RINIS) |
 |13:30  | Rondvraag / Afsluiting | Allen | 
 |13:45 | Einde |
