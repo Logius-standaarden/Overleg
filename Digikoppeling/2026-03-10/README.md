@@ -22,7 +22,7 @@ dinsdag 10 maart 2026
 
 
 
-## Agenda (Concept)
+## Agenda 
 
 | Betreft                | Technisch Overleg Digikoppeling |
 | ---------------------- | ------------------------------- |
