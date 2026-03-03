@@ -1,6 +1,7 @@
 # Inhoudsopgave
 1. [Reactie vanuit JustID t.a.v. FSC](##reactie-vanuit-justid-tav-fsc)
 2. [Reactie vanuit Kadaster t.a.v. FSC](#reactie-vanuit-kadaster-tav-fsc)
+3. [Reactie vanuit Kadaster t.a.v. reliable messaging / API](#reactie-vanuit-kadaster-tav-reliable-messaging-tekstuele-verduidelijking)
 
 # Reactie vanuit JustID t.a.v. FSC
 
@@ -45,4 +46,14 @@ Maak de communicatie tussen de FSC Directory en de Managers unidirectioneel (out
 ## Vraag
 Deze vraag gaat over FSC logging: in de standaard FSC logging wordt een TransactionID gedefinieerd. Kadaster is van mening dat dit overlapt met de W3C Trace Context. Het voorstel is dan dus ook om hier gebruiken we hier de W3C Trace Context voor te gebruiken. Veel componenten in het landschap ondersteunen deze standaard waaronder Open Telemetry (OTEL).
  
+# Reactie vanuit Kadaster t.a.v. Reliable Messaging (Tekstuele verduidelijking)
+
+## Vraag
+Kan bij de tekst over 'reliable' messaging in de toelichting worden aangegeven dat met REST-API's ook betrouwbare overdracht kan worden gerealiseerd:
+
+_Hoewel REST op protocolniveau geen 'reliable' profiel bevat  zoals ebMS2 (ten behoeve van gegarandeerde aflevering van berichten), is het echter een dusdanig robuust communicatieprotocol dat met toevoeging van bijvoorbeeld conversatie- en/of publish-subscribe patronen (en technologie) zeer betrouwbare communicatie kan worden gerealiseerd._
+
+Voorgestelde tekst aanpassing:
+https://github.com/Logius-standaarden/Digikoppeling-Architectuur/pull/30
+
 
