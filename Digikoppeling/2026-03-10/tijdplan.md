@@ -1,6 +1,6 @@
 
 
-## Agenda (Concept)
+## Agenda 
 
 | Betreft                | Technisch Overleg Digikoppeling |
 | ---------------------- | ------------------------------- |
