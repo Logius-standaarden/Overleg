@@ -3,7 +3,7 @@
 2. [Reactie vanuit Kadaster t.a.v. FSC](#reactie-vanuit-kadaster-tav-fsc)
 3. [Reactie vanuit Kadaster t.a.v. reliable messaging / API](#reactie-vanuit-kadaster-tav-reliable-messaging-tekstuele-verduidelijking)
 4. [Reactie vanuit Min J&V t.a.v. sensitive information in URL](#reactie-vanuit-min-jv-tav-sensitive-information-in-url)
-5. [Reactie vanuit Logius n.a.v. vragen vanuit Rechtspraak](#reactie-vanuit-logius-nav-vragen-vanuit-rechtspraak-tav-bestaande-implementaties-zonder-fsc)
+5. [Reactie vanuit Logius n.a.v. vragen vanuit Rechtspraak t.a.v. bestaande implementaties zonder FSC](#reactie-vanuit-logius-nav-vragen-vanuit-rechtspraak-tav-bestaande-implementaties-zonder-fsc)
 
 # Reactie vanuit JustID t.a.v. FSC
 
