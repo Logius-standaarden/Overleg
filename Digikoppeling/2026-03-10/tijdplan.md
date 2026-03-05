@@ -14,7 +14,7 @@
 |10:10| [OIN-Stelsel : Nieuwe nummer reeks voor DEZI Stelsel](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-03-10/OIN-Stelsel%20-%20Aanvraag%20nummerreeks%20DEZI-Stelsel.md) |  Peter Haasnoot (Logius)| 
 | 10:20 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--scope-en-inzetgebied) <BR>| Peter Haasnoot (Logius) | 
 |10:40| [Roadmap Digikoppeling](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/roadmap-2026-2027/roadmap/onderwerpen.md#tijdlijn-roadmap-digikoppeling-standaarden)|  Peter Haasnoot (Logius)|
-|10:50 | Beveiligingsvoorschriften en Best Practice Certificaten | Nil Barua (Logius) 
+|10:50 | [Beveiligingsvoorschriften en Best Practice Certificaten](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-03-10/PKIo%20Digikoppeling%20TO%2010-03-2026.pdf) | Nil Barua (Logius) 
 | 11:05 | Pauze | Allen|
 |11:15| [Publieke consultatie Digikoppeling/FSC Release 2026-1](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-03-10/Publieke%20Consultatie%20Digikoppeling%2C%20FSC%20(Release%2020260-1).md)| Peter Haasnoot (Logius)|
 |12:00| Lunch | Allen|
