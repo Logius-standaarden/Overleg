@@ -41,7 +41,7 @@ dinsdag 10 maart 2026
 |11:15| [Publieke consultatie Digikoppeling/FSC Release 2026-1](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-03-10/Publieke%20Consultatie%20Digikoppeling%2C%20FSC%20(Release%2020260-1).md)| Peter Haasnoot (Logius)|
 |12:00| Lunch | Allen|
 |12:45| FSC Stand van zaken & Beheer | Nil Barua (Logius)|
-|12:50 | [FSC Updates vanuit de sub-wg](#fsc-wijzigingsvoorstellen) <BR> - HLD signing service<BR> - Recap werking FSC<BR> - [JAdES compliance FSC](https://github.com/Logius-standaarden/fsc-core/issues/64)<BR> | Lonneke Dikmans (RINIS) |
+|12:50 | [FSC Updates vanuit de sub-wg](#fsc-wijzigingsvoorstellen) <BR> - HLD signing service<BR> - Recap werking FSC<BR> - [JAdES compliance FSC](https://github.com/Logius-standaarden/fsc-core/issues/64)<BR> - Stroomlijnen token Oauth <BR> | Lonneke Dikmans (RINIS) |
 |13:30  | Rondvraag / Afsluiting | Allen | 
 |13:45 | Einde |
 
@@ -59,6 +59,9 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.
 * Digikoppeling-Beveiligingsstandaarden-en-voorschriften [issue #26] [Beschrijf benodigde PKIo certificaten voor DK](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/pull/26) (26 februari 2026), _Status: Ter goedkeuring_
 * Digikoppeling-Beveiligingsstandaarden-en-voorschriften [issue #25] [Aanvullend informatie rondom certificaatgeldigheid](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/pull/25) (18 februari 2026), _Status: Ter goedkeuring_
 
+### Overige punten
+* automatisering-test [issue #13] [Test genereren van consultatie README](https://github.com/Logius-standaarden/automatisering-test/pull/13) (5 maart 2026), _Status: In bewerking_
+
 ## Toelichting
 
 
@@ -71,7 +74,6 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.
 In mei wordt ter voorbereiding op MIDO besluitvorming een MIDO thema sessie georganiseerd , specifiek voor het onderwerp toekomstvisie en specifiek de scenario's rond ebMS / API;
 
 Zie ook : [2026-02-18-Toekomstvisie-Digikoppeling-standaarden](2026-02-18-Toekomstvisie-Digikoppeling-standaarden.pdf)
-
 
 
 
