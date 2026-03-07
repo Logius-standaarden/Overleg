@@ -59,9 +59,6 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.
 * Digikoppeling-Beveiligingsstandaarden-en-voorschriften [issue #26] [Beschrijf benodigde PKIo certificaten voor DK](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/pull/26) (26 februari 2026), _Status: Ter goedkeuring_
 * Digikoppeling-Beveiligingsstandaarden-en-voorschriften [issue #25] [Aanvullend informatie rondom certificaatgeldigheid](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/pull/25) (18 februari 2026), _Status: Ter goedkeuring_
 
-### Overige punten
-* automatisering-test [issue #13] [Test genereren van consultatie README](https://github.com/Logius-standaarden/automatisering-test/pull/13) (5 maart 2026), _Status: In bewerking_
-
 ## Toelichting
 
 
