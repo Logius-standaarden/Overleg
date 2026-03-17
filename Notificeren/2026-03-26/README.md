@@ -18,7 +18,7 @@
 ----------------------------->
 # Notificeren
 
-donderdag 26 maart 2026
+TO CloudEvents donderdag 26 maart 2026
 
 |  Tijd  | Onderwerp                                         |
 |--------|----------------------------------------------|
