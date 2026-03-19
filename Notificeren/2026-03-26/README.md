@@ -28,8 +28,7 @@ donderdag 26 maart 2026
 |  10:10 | Update Werkgroep Notificeren (evt notulen delen)||
    10:20 | Specificatie gewenst van URN formats #32 (wijzigingsvoorstel)|
 |  10:30 | Een toevoeging willen doen aan CloudEvents met W3C PROV (eventueel)|
-|  |
-|  10:50 | Rondvraag|
+|  10:45 | Rondvraag|
 ## Onderwerpen
 
 ### Overige punten
