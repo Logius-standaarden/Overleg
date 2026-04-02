@@ -1,8 +1,8 @@
-|  Tijd  | Onderwerp                                         |
-|--------|----------------------------------------------|
-|  11:00 | Welkom                                       |
-|  11:10 | Mededelingen              |
-|  10:20 |   |
-|  10:30 |   |
-|  10:40 | Toekomstvisie |
-|  10:50 | Rondvraag|
+| Tijd  | Onderwerp                               |
+| ----- | --------------------------------------- |
+| 10:00 | Welkom & Mededelingen                   |
+| 10:10 | Evaluatie toevoeging Nederlands profiel ([#131](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/131)) |
+| 10:40 | iGov update                             |
+| 10:50 | Verzoek tot usecases                    |
+| 11:00 | Overig                                  |
+| 11:20 | Rondvraag                               |
