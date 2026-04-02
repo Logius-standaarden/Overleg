@@ -22,6 +22,9 @@
 ### Grote wijzigingen
 * Digikoppeling-Koppelvlakstandaard-ebMS2 [issue #6] [Digikoppeling baseren op ebMS3](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-ebMS2/issues/6) (3 februari 2022), _Status: In onderzoek_
 
+### Overige punten
+* OAuth-NL-profiel [issue #130] [iGov 09 foundation review commentaar](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/130) (2 april 2026)
+
 ## Toelichting
 
 
