@@ -52,7 +52,7 @@ Tristan: Mee eens. Hooguit zouden de tokens onderschept kunnen worden.
 
 Dit onderwerp werd reeds bij de mededelingen besproken.
 Nil meldt nog wel dat Identity and Access Management breder wordt opgepakt binnen Logius wat kansen biedt dit profiel te bespreken als alternatief voor SAML.
-Daarnaast werd het ICTU-project "Generieke Bronontsluiting" kort toegelicht waarbij dit profiel mogelijk ook toegepast zou worden.
+Daarnaast werd het ICTU-project ["Generieke Bronontsluiting"](https://github.com/ICTU/GBO) kort toegelicht waarbij dit profiel mogelijk ook toegepast zou worden.
 
 ## Beslisboom OAuth vs Digikoppeling ([#126](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/126))
 
