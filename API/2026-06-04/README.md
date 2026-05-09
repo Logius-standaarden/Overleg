@@ -29,6 +29,7 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar api@logius.nl
 * API-Design-Rules [issue #290] [Sta relatieve Server API URL toe.](https://github.com/Logius-standaarden/API-Design-Rules/issues/290) (21 januari 2026), _Status: In onderzoek_
 
 ### Overige punten
+* API-Design-Rules [issue #330] [Bump fast-uri from 3.0.6 to 3.1.2 in /examples/express](https://github.com/Logius-standaarden/API-Design-Rules/pull/330) (8 mei 2026), _Status: In bewerking_
 * API-Design-Rules [issue #326] [Voeg expliciete velden toe aan `info.contact` regel](https://github.com/Logius-standaarden/API-Design-Rules/pull/326) (6 mei 2026), _Status: Ter goedkeuring_
 * API-Design-Rules [issue #310] [Voeg regel toe voor error structuur bij Bad Requests](https://github.com/Logius-standaarden/API-Design-Rules/pull/310) (5 maart 2026), _Status: In bewerking_
 * API-Design-Rules [issue #294] [Voeg regel toe over het documenteren van server URLs](https://github.com/Logius-standaarden/API-Design-Rules/pull/294) (28 januari 2026), _Status: In bewerking_
