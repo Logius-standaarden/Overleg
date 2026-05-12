@@ -18,7 +18,7 @@
 ----------------------------->
 # Notificeren
 
-dinsdag 16 juni 2026
+dinsdag 23 juni 2026
 ## Onderwerpen
 
 ### Kleine wijzigingen
