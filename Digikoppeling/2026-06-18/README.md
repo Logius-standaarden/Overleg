@@ -54,3 +54,6 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.
 * Digikoppeling-Architectuur [issue #30] [Toelichting reliable / betrouwbare gegevensuitwisseling REST API Koppelvlak](https://github.com/Logius-standaarden/Digikoppeling-Architectuur/pull/30) (27 februari 2026), _Status: Ter goedkeuring_
 * Digikoppeling-Beveiligingsstandaarden-en-voorschriften [issue #26] [Beschrijf benodigde PKIo certificaten voor DK](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/pull/26) (26 februari 2026), _Status: Ter goedkeuring_
 * Digikoppeling-Beveiligingsstandaarden-en-voorschriften [issue #25] [Aanvullend informatie rondom certificaatgeldigheid](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/pull/25) (18 februari 2026), _Status: Ter goedkeuring_
+
+### Overige punten
+* OIN-Stelsel [issue #44] [Beheer: Introduceer ETSI Legal Person Semantics Identifier](https://github.com/Logius-standaarden/OIN-Stelsel/pull/44) (13 mei 2026)
