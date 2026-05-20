@@ -25,9 +25,6 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar api@logius.nl
 
 ## Onderwerpen
 
-### Kleine wijzigingen
-* API-Design-Rules [issue #290] [Sta relatieve Server API URL toe.](https://github.com/Logius-standaarden/API-Design-Rules/issues/290) (21 januari 2026), _Status: In onderzoek_
-
 ### Overige punten
 * API-Design-Rules [issue #333] [Voeg regel toe voor informatie over talen](https://github.com/Logius-standaarden/API-Design-Rules/pull/333) (13 mei 2026), _Status: In bewerking_
 * API-Design-Rules [issue #326] [Voeg expliciete velden toe aan `info.contact` regel](https://github.com/Logius-standaarden/API-Design-Rules/pull/326) (6 mei 2026), _Status: Ter goedkeuring_
