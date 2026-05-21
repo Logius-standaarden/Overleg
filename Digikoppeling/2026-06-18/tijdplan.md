@@ -9,7 +9,7 @@
 
 | Tijd | Onderwerp |Spreker|
 | --- | --- | --- |  
-| 10:00| Welkom & Mededelingen   <BR>-[Rapport Onderzoek Notificeren obv REST-API/Cloudevents](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-03-10/verslag-spike-notificeren.md) <BR>-Stemrecht Deelnemers |    Peter Haasnoot (Logius) |
+| 10:00| Welkom & Mededelingen  |
 | 10:05| [Verslag vorige vergadering](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-03-10/2025-12-08%20%20Verslag%20TO%20Digikoppelingv1.0.pdf)       |    Peter Haasnoot (Logius) |
 |10:10| Presentatie PKIO - G4 <BR>| PKIo |
 |10:35 | - Wijzigingsvoorstel OIN format in Subject.OrganizationIdentifier : https://github.com/Logius-standaarden/OIN-Stelsel/issues/42 <BR> -Subject.organizationalUnitName niet meer toegestaan in G4 :   PKIo| Peter Haasnoot|
