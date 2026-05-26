@@ -12,6 +12,6 @@
 | 10:15 | `info.contact` kleine wijziging |
 | 10:20 | Bad request errors |
 | 10:35 | Taalcodes RFC 5646 |
-| 10:50 | Pagination module |
+| 10:50 | [Pagination module](https://logius-standaarden.github.io/API-mod-pagination/) |
 | 11:10 | WVTTK |
 | 11:15 | Einde |
