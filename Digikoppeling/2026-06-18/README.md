@@ -52,9 +52,5 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.
 ### Grote wijzigingen
 * fsc-logging [issue #6] [Hernoem `transaction_id` naar `trace_id`](https://github.com/Logius-standaarden/fsc-logging/issues/6) (19 februari 2026), _Status: In onderzoek_
 
-### Kleine wijzigingen
-* Digikoppeling-Beveiligingsstandaarden-en-voorschriften [issue #26] [Beschrijf benodigde PKIo certificaten voor DK](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/pull/26) (26 februari 2026), _Status: Ter goedkeuring_
-* Digikoppeling-Beveiligingsstandaarden-en-voorschriften [issue #25] [Aanvullend informatie rondom certificaatgeldigheid](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/pull/25) (18 februari 2026), _Status: Ter goedkeuring_
-
 ### Overige punten
 * OIN-Stelsel [issue #42] [[RFC] Prefix definiëren voor de ETSI Legal Person Semantics Identifier](https://github.com/Logius-standaarden/OIN-Stelsel/issues/42) (8 april 2026)
