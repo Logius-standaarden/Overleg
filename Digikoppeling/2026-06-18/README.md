@@ -37,7 +37,6 @@ donderdag 18 juni 2026
 |10:35 | PKIo & OIN <BR>- Wijzigingsvoorstel OIN format in Subject.OrganizationIdentifier : https://github.com/Logius-standaarden/OIN-Stelsel/issues/42 <BR> - Subject.organizationalUnitName niet meer toegestaan in G4 :   PKIo| Peter Haasnoot (Logius)|
 |10:45| Versiebeheer Digikoppeling standaard & implementaties <BR>[Presentatie Versiebeheer](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-06-18/20260618%20TO%20Digikoppeling%20Versiebeheer%20BvH%20v3.pdf)|  Bas van Hengstum <BR> (IVO Rechtspraak) | 
 |11:10 | Pauze|
-|11:15 | Presentatie API-Koppelingen  |  - | 
 |11:15 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--scope-en-inzetgebied) <BR> - 24/6 Themadag Digikoppeling| Peter Haasnoot (Logius) | 
 |11:25 | FSC Stand van zaken & Beheer | Stas Mironov (Logius)|
 |11:35 | Rondvraag / Afsluiting | Allen | 
@@ -54,3 +53,22 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.
 
 ### Overige punten
 * OIN-Stelsel [issue #42] [[RFC] Prefix definiëren voor de ETSI Legal Person Semantics Identifier](https://github.com/Logius-standaarden/OIN-Stelsel/issues/42) (8 april 2026)
+
+## Toelichting
+
+
+
+
+## Digikoppeling Toekomstvisie : Scope en inzetgebied
+
+### Update 18/06/2026
+
+24/06 wordt ter voorbereiding op MIDO besluitvorming een MIDO thema sessie georganiseerd , specifiek voor het onderwerp toekomstvisie Digikoppeling en specifiek de scenario's rond ebMS / API;
+
+Zie ook : [2026-02-18-Toekomstvisie-Digikoppeling-standaarden](2026-02-18-Toekomstvisie-Digikoppeling-standaarden.pdf)
+
+
+
+
+
+
