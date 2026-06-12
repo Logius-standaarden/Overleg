@@ -6,7 +6,7 @@
 
 24/06 wordt ter voorbereiding op MIDO besluitvorming een MIDO thema sessie georganiseerd , specifiek voor het onderwerp toekomstvisie Digikoppeling en specifiek de scenario's rond ebMS / API;
 
-Zie ook : [2026-02-18-Toekomstvisie-Digikoppeling-standaarden](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-03-10/2026-02-18-Toekomstvisie-Digikoppeling-standaarden.pdf)
+Zie ook : [2026-02-18-Toekomstvisie-Digikoppeling-standaarden](2026-02-18-Toekomstvisie-Digikoppeling-standaarden.pdf)
 
 
 
