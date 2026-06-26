@@ -41,6 +41,7 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar api@logius.nl
 ## Onderwerpen
 
 ### Overige punten
+* OAuth-NL-profiel [issue #135] [Deprecation of TLS client authentication on Public CA's](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/135) (24 juni 2026), _Status: In onderzoek_
 * OAuth-NL-profiel [issue #131] [Verschillen ten opzichte van iGov](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/131) (2 april 2026)
 * OAuth-NL-profiel [issue #130] [iGov 09 foundation review commentaar](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/130) (2 april 2026)
 * OAuth-NL-profiel [issue #126] [[FS] Actualiseren van (functioneel en/of organisatorisch) werkgebied van OAuth NL Gov](https://github.com/Logius-standaarden/OAuth-NL-profiel/issues/126) (30 september 2025), _Status: In onderzoek_
