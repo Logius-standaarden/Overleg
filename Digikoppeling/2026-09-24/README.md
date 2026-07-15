@@ -49,7 +49,7 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.
 ## Onderwerpen
 
 ### Grote wijzigingen
-* fsc-logging [issue #6] [Hernoem `transaction_id` naar `trace_id`](https://github.com/Logius-standaarden/fsc-logging/issues/6) (19 februari 2026), _Status: In onderzoek_
+* fsc-logging [issue #6] [Voeg `trace_id` toe aan log record](https://github.com/Logius-standaarden/fsc-logging/issues/6) (19 februari 2026), _Status: In onderzoek_
 
 ### Overige punten
 * OIN-Stelsel [issue #42] [[RFC] Prefix definiëren voor de ETSI Legal Person Semantics Identifier](https://github.com/Logius-standaarden/OIN-Stelsel/issues/42) (8 april 2026), _Status: Gereed_
