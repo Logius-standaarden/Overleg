@@ -18,7 +18,7 @@
 ----------------------------->
 # Notificeren
 
-dinsdag 22 september 2026
+dinsdag 29 september 2026
 ## Onderwerpen
 
 ### Kleine wijzigingen
