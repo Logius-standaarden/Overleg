@@ -18,7 +18,7 @@ Er is aandacht gevraagd voor het ontbreken van een duidelijk verslag van de vori
 
 ## 2. Terugblik op eerdere conclusies
 
-Het oorspronkelijke doel van de werkgroep was te onderzoeken of de header hergebruikt kon worden. Dit bleek tot mogelijke conflicten te leiden, waarna alle use cases zijn doorgenomen. De conclusie was dat de header niet wordt hergebruikt.  
+Het oorspronkelijke doel van de werkgroep was te onderzoeken of de header hergebruikt kon worden. Dit bleek tot mogelijke conflicten te leiden, waarna alle use cases zijn doorgenomen. De conclusie was dat de header (voorlopig) niet wordt hergebruikt tussen de twee standaarden.  
 
 De use cases zijn daarna vooral gebruikt ter verduidelijking: wanneer wordt OAuth ingezet en wanneer FSC? Het oorspronkelijke doel om iets te consolideren of te wijzigen in FSC is voorlopig niet haalbaar. Wat resteert is een set use cases die nuttig is om aan derden uit te leggen wanneer welke standaard van toepassing is.
 
@@ -34,7 +34,7 @@ Er is uitgebreid gesproken over de interpretatie van het werkingsgebied van FSC 
 - Formeel is het werkingsgebied van Digikoppeling beperkter: het betreft met name de GDI (basisregistraties en daaraan gerelateerde voorzieningen) en sector-overstijgende gegevensuitwisseling, en alleen daar waar tweezijdige authenticatie nodig is.
 - Het verschil tussen de formele afspraken en de beleving in de praktijk (met name binnen gemeenten) is precies wat de use cases moeten helpen verduidelijken.
 
-Er is nadrukkelijk vastgesteld dat FSC niet “altijd” van toepassing is. Een volledig open publieke API (bijvoorbeeld de BAG) kan niet de eis stellen dat een burger over een PKI-certificaat en FSC-connector beschikt.
+Er is nadrukkelijk vastgesteld dat FSC niet "altijd" van toepassing is. Een volledig open publieke API (bijvoorbeeld de BAG) kan niet de eis stellen dat een burger over een PKI-certificaat en FSC-connector beschikt.
 
 ---
 
@@ -43,7 +43,7 @@ Er is nadrukkelijk vastgesteld dat FSC niet “altijd” van toepassing is. Een 
 Verschillende voorstellen zijn gedaan om de complexiteit te verminderen:
 
 - OAuth / OpenID Connect consequent inzetten voor de beveiliging van de API zelf.
-- FSC gebruiken voor het contractuele / trust-aspect (het “mogen gebruiken” van een API).
+- FSC gebruiken voor het contractuele / trust-aspect (het "mogen gebruiken" van een API).
 - De focus leggen op de vraag wanneer FSC wel of niet aan de orde is.
 
 Tegelijkertijd is geconstateerd dat er twee perspectieven naast elkaar bestaan:
@@ -68,7 +68,7 @@ Relevante criteria die tijdens de discussie zijn genoemd:
 - Is tweezijdige authenticatie nodig?
 - Zijn er binnen de eigen sector of organisatie al afspraken gemaakt die als override gelden?
 
-Er is aandacht gevraagd voor heldere definities (onder meer “gebruiker” en “rechten-delegatie”), zonder dat deze tot een te theoretische of protocol-gedreven discussie leiden. De voorkeur gaat uit naar een top-down benadering vanuit functionele situaties.
+Er is aandacht gevraagd voor heldere definities (onder meer "gebruiker" en "rechten-delegatie"), zonder dat deze tot een te theoretische of protocol-gedreven discussie leiden. De voorkeur gaat uit naar een top-down benadering vanuit functionele situaties.
 
 De beslisboom moet richting geven aan de meest voorkomende situaties en niet pretenderen alle denkbare gevallen te dekken. Complexe of uitzonderlijke casussen blijven buiten scope; daarvoor kunnen specialisten worden geraadpleegd.
 
@@ -91,11 +91,11 @@ Het document moet helpen om herhaalde discussies in toekomstige bijeenkomsten te
 
 | Actie | Wie | Wanneer |
 |-------|-----|---------|
-| Eerste opzet maken van de beslisboom / uitwerking van bestaande use cases | ??? | Na 10 augustus (na vakantie) |
-| Concept rondsturen voor review | ??? | Na opstellen concept |
-| Volgende bijeenkomst voorbereiden met duidelijke focus op uitwerking | Allen | Voor volgende sessie |
+| Eerste opzet maken van de beslisboom / uitwerking van bestaande use cases | Lonneke en Floris | Na 10 augustus (na vakantie) |
+| Concept document rondsturen voor review | Wilbert | Na opstellen concept |
+| Volgende bijeenkomst voorbereiden met duidelijke focus op uitwerking | Allen | Voor volgende sessie (planning over de mail?)|
 
-In de volgende bijeenkomst wordt niet opnieuw stilgestaan bij de vraag “waar ging het ook alweer over?”, maar wordt direct verder gewerkt aan de deliverable.
+In de volgende bijeenkomst wordt niet opnieuw stilgestaan bij de vraag "waar ging het ook alweer over?", maar wordt direct verder gewerkt aan de deliverable.
 
 ---
 
@@ -107,5 +107,5 @@ In de volgende bijeenkomst wordt niet opnieuw stilgestaan bij de vraag “waar g
 
 ---
 
-**Volgende bijeenkomst:** nader te bepalen  
+**Volgende bijeenkomst:** nader te bepalen (afhankelijk van uitwerking acties) 
 **Opname:** beschikbaar
