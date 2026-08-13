@@ -7,7 +7,10 @@
 
 ## 1. Opening en doel van de bijeenkomst
 
-De bijeenkomst stond in het teken van de key deliverables van de werkgroep. Het oorspronkelijke idee was om de tabel met use cases verder in te vullen en de door Wilbert aangedragen vragen te beantwoorden.  
+De bijeenkomst werd afgetrapt door een discussie en herhaling van de initiele doelstellingen samen met de beoogde deliverables van de werkgroep. 
+Het oorspronkelijke idee was om FSC standaard te verrijken met gangbare OAuth RFC's zoals RFC 9396 Rich Authorization Requests. Na een proefopstelling gemaakt door Geonovum en Ronald Koster is gebleken dat dit niet gewenst is.
+
+Tegelijk was er ook een andere stroming vande werkgroep waar we vooral de keuzes tussen de standaarden in verschillende scenario's wouden toelichten. Daar is een tabel met beschrijvingen van use cases uit voortgevloeid. Deze zouden we deze meeting verder  willen in vullen en daarmee ook antwoord te geven op de binnengekomen vragen uit de review van WIlbert.  
 
 Er is aandacht gevraagd voor het ontbreken van een duidelijk verslag van de vorige bijeenkomst. Meerdere deelnemers gaven aan dat hierdoor het risico bestaat dat discussies opnieuw worden gevoerd. De conclusie van de vorige sessie was dat het grote document nog te veel open vragen bevatte en dat deze in een volgende bijeenkomst in meer detail zouden worden bekeken. Dat was ook de insteek van deze sessie.
 
