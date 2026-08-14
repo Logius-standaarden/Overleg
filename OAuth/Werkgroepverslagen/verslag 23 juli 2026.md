@@ -95,7 +95,7 @@ Het document moet helpen om herhaalde discussies in toekomstige bijeenkomsten te
 | Concept document rondsturen voor review | Wilbert | Na opstellen concept |
 | Volgende bijeenkomst voorbereiden met duidelijke focus op uitwerking | Allen | Voor volgende sessie (planning over de mail?)|
 
-In de volgende bijeenkomst wordt niet opnieuw stilgestaan bij de vraag "waar ging het ook alweer over?", maar wordt direct verder gewerkt aan de deliverable.
+In de volgende bijeenkomst wordt direct verder gewerkt aan de deliverable.
 
 ---
 
