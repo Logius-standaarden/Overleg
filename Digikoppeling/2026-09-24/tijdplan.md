@@ -15,9 +15,9 @@
 |10:15 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--scope-en-inzetgebied) <BR> - vervolg 24/6 Themadag Digikoppeling| Peter Haasnoot (Logius) | 
 |10:45| GraphQL Onderzoek (Q4) <BR>- BKWI Karwei <BR> - Gemeenschappelijke Bron ontsluiting : https://ictu.github.io/GBO-GO/latest/| Nil Barua (Logius)  |
 |10:55 | Pauze|
-|11:05| | Nil Barua (Logius)  |
+|11:05|  Grote Berichten| Alexander Green (Logius)  |
+|11:15| Update werkgroep Versiebeheer Digikoppeling/FSC standaard & implementaties| Aarnout Pluijgers (BKWI)  |
 |12:00 | Lunch|
-|10:15| Update werkgroep Versiebeheer Digikoppeling/FSC standaard & implementaties| Arnout Pluijgers (BKWI)  |
-|13:00 | FSC Stand van zaken & Beheer <BR> - [Opname EU Interoperability Solution Catalog ](https://interoperable-europe.ec.europa.eu/collection/api4dt/solution/federated-service-connectivity-core-specification])| Stas Mironov (Logius)|
-|11:35 | Rondvraag / Afsluiting | Allen | 
-|12:00 | Lunch|
+|12:45 | FSC Stand van zaken & Beheer <BR> - [Opname EU Interoperability Solution Catalog ](https://interoperable-europe.ec.europa.eu/collection/api4dt/solution/federated-service-connectivity-core-specification])| Stas Mironov (Logius)|
+|13:30 | Rondvraag / Afsluiting | Allen | 
+
