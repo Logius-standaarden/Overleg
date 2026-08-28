@@ -9,7 +9,7 @@
 | --- | --- | --- |
 | 9:45 | Welkom & Mededelingen | Tim |
 | 9:50 | Updates vanuit beheer | Tim |
-| 10:00 | Talen formaat | Tim |
+| 10:00 | Taalcodes BCP47 | Tim |
 | 10:10 | [Pagination module](https://logius-standaarden.github.io/API-mod-pagination/) | Alexander |
 | 10:20 | [Transfer module](https://logius-standaarden.github.io/API-mod-transfer/) | Alexander |
 | 10:30 | Return altijd objecten | Tim |
