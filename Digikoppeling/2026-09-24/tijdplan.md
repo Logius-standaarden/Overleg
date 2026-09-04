@@ -17,6 +17,7 @@
 |10:55 | Pauze|
 |11:05|  Grote Berichten| Alexander Green (Logius)  |
 |11:15| Update werkgroep Versiebeheer Digikoppeling/FSC standaard & implementaties| Aarnout Pluijgers (BKWI)  |
+|11:45| Bespreken Wijzigingen (OIN)
 |12:00 | Lunch|
 |12:45 | FSC Stand van zaken & Beheer <BR> - [Opname EU Interoperability Solution Catalog ](https://interoperable-europe.ec.europa.eu/collection/api4dt/solution/federated-service-connectivity-core-specification])| Stas Mironov (Logius)|
 |13:30 | Rondvraag / Afsluiting | Allen | 
