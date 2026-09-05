@@ -39,6 +39,7 @@ donderdag 24 september 2026
 |10:55 | Pauze|
 |11:05|  Grote Berichten| Alexander Green (Logius)  |
 |11:15| Update werkgroep Versiebeheer Digikoppeling/FSC standaard & implementaties| Aarnout Pluijgers (BKWI)  |
+|11:45| Bespreken Wijzigingen (OIN)
 |12:00 | Lunch|
 |12:45 | FSC Stand van zaken & Beheer <BR> - [Opname EU Interoperability Solution Catalog ](https://interoperable-europe.ec.europa.eu/collection/api4dt/solution/federated-service-connectivity-core-specification])| Stas Mironov (Logius)|
 |13:30 | Rondvraag / Afsluiting | Allen | 
@@ -54,4 +55,6 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.
 * fsc-logging [issue #6] [Voeg `trace_id` toe aan log record](https://github.com/Logius-standaarden/fsc-logging/issues/6) (19 februari 2026), _Status: In onderzoek_
 
 ### Overige punten
+* automatisering-test [issue #29] [Naar main vanaf aparte branch](https://github.com/Logius-standaarden/automatisering-test/pull/29) (4 september 2026), _Status: In bewerking_
+* OIN-Stelsel [issue #49] [RFC ...](https://github.com/Logius-standaarden/OIN-Stelsel/issues/49) (3 september 2026), _Status: In onderzoek_
 * OIN-Stelsel [issue #42] [[RFC] Prefix definiëren voor de ETSI Legal Person Semantics Identifier](https://github.com/Logius-standaarden/OIN-Stelsel/issues/42) (8 april 2026), _Status: Gereed_
