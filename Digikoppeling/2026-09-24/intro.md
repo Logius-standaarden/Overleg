@@ -15,7 +15,9 @@ Er zijn ook al ideeën over wat waardevol is om in een GraphQL profiel op te nem
 
 Binnen het Kennisplatform API's is GraphQL ook al langere tijd op de radar. Daarom is het voorstel om een GraphQL profiel binnen / in samenwerking met  het Kennisplatform APi's te ontwikkelen.
 Bij de eerstvolgende bijeenkomst van het Kennisplatform API's in novemnber zal een sessie worden gewijd aan GraphQL en een oproep worden gedaan voor deelname aan de werkgroep (bij voldoende belangstelling)
- 
+
+_De leden van het TO wordt gevraagd in te stemmen met deze aanpak_ 
+
 Ter informatie:
 Op developer.overheid heeft Joost Farla een aantal artikelen geschreven over GraphQL
 
@@ -23,3 +25,8 @@ https://developer.overheid.nl/blog/2026/07/30/graphql-1-introductie
 https://developer.overheid.nl/blog/2026/08/18/graphql-2-flexibiliteit-en-limieten
 https://developer.overheid.nl/blog/2026/08/26/graphql-3-schema-ontwerp
 https://developer.overheid.nl/blog/2026/09/02/graphql-4-afwegingskader
+
+## Grote Berichten
+
+..._
+De leden van het TO wordt gevraagd...._
