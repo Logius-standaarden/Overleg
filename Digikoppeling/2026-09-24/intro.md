@@ -28,5 +28,4 @@ https://developer.overheid.nl/blog/2026/09/02/graphql-4-afwegingskader
 
 ## Grote Berichten
 
-..._
-De leden van het TO wordt gevraagd...._
+_De leden van het TO wordt gevraagd...._
