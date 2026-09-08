@@ -8,7 +8,7 @@ _De TO leden wordt gevraagd in te stemmen met het voorstel dan wel de richting v
 
 Onderzoek GraphQL is opgenomen op de Digikoppelikng Roadmap voor kwartaal 2026-4 : [Onderzoek GraphQL](https://gitdocumentatie.logius.nl/publicatie/dk/roadmap/2026-2027/#onderzoek-uitbreiding-digikoppeling-met-graphql)
 
-Vanuit programma GBO is specifiek gevraagd naar de mogelijkheden om GraphQL ook status te geven binnen de GDI standaarden;
+Vanuit programma [Gemeenschappeliijke Bronontsluiting (GBO)](https://ictu.github.io/GBO/latest/) is specifiek gevraagd naar de mogelijkheden om GraphQL ook status te geven binnen de GDI standaarden;
 
 Omdat GraphQL een waardevolle standaard is voor data resource georiënteerde architectuur is deze ook in de voorgestelde toekomstvisie opgenomen als een kandidaat voor opname onder Digikoppeling;
 Er zijn ook al ideeën over wat waardevol is om in een GraphQL profiel op te nemen : bv het standaardiseren van error afhandeling;
