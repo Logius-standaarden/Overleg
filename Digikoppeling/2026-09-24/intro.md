@@ -28,7 +28,19 @@ Op developer.overheid heeft Joost Farla een aantal artikelen geschreven over Gra
 
 ## Grote Berichten
 
-_De leden van het TO wordt gevraagd...._
+In voorgaande TO's kwam naar voren dat Grote Berichten complex is om te implementeren.
+Ook is het koppelvlak toegespitst op een messaging aanpak op basis van XML, zoals beschreven in [het leidend principe](https://gitdocumentatie.logius.nl/publicatie/dk/gb/3.8.1/#leidend-principe).
+Daarom was er behoefte om een REST API equivalent te schrijven voor grote berichten.
+
+Een initiele opzet hiervoor hebben we beschikbaar gemaakt als [ADR module Transfer](https://logius-standaarden.github.io/API-mod-transfer/).
+Deze module maakt gebruik van bestaande HTTP RFC's en veelgebruikte headers zoals "Range" en "Content-Digest".
+Logius heeft als haalbaarheidstoets deze module geimplementeerd in zowel Java als Dotnet, om daarmee ervaring op te doen uit de praktijk.
+Uit deze twee voorbeelden blijkt dat het goed te doen is.
+
+De leden van het TO worden gevraagd deze initiele versie door te nemen en aan te geven welke organisaties dit willen uitproberen in een prototype.
+Nadat er een succesvolle implementatie is die naar tevredenheid van de organisatie(s) functioneert, willen we deze module vaststellen binnen Kennisplatform API's en daarna in een toekomstig TO Digikoppeling deze module toevoegen aan het REST API Profiel.
+
+_De leden van het TO wordt gevraagd in te stemmen met deze aanpak_ 
 
 ## FSC Stand van zaken & Beheer
 
