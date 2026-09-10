@@ -58,6 +58,8 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.
 * automatisering-test [issue #29] [Naar main vanaf aparte branch](https://github.com/Logius-standaarden/automatisering-test/pull/29) (4 september 2026), _Status: In bewerking_
 * OIN-Stelsel [issue #49] [RFC ...](https://github.com/Logius-standaarden/OIN-Stelsel/issues/49) (3 september 2026), _Status: In onderzoek_
 * OIN-Stelsel [issue #42] [[RFC] Prefix definiëren voor de ETSI Legal Person Semantics Identifier](https://github.com/Logius-standaarden/OIN-Stelsel/issues/42) (8 april 2026), _Status: Gereed_
+* Digikoppeling-Koppelvlakstandaard-GB [issue #19] [Toevoegen acknowledge bericht na bestandoverdracht.](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-GB/issues/19) (10 februari 2026), _Status: In onderzoek_
+* Digikoppeling-Koppelvlakstandaard-GB [issue #18] [Toevoegen POLL Principe](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-GB/issues/18) (10 februari 2026), _Status: Ter goedkeuring_
 
 ## Toelichting
 
@@ -92,7 +94,19 @@ Op developer.overheid heeft Joost Farla een aantal artikelen geschreven over Gra
 
 ## Grote Berichten
 
-_De leden van het TO wordt gevraagd...._
+In voorgaande TO's kwam naar voren dat Grote Berichten complex is om te implementeren.
+Ook is het koppelvlak toegespitst op een messaging aanpak op basis van XML, zoals beschreven in [het leidend principe](https://gitdocumentatie.logius.nl/publicatie/dk/gb/3.8.1/#leidend-principe).
+Daarom was er behoefte om een REST API equivalent te schrijven voor grote berichten.
+
+Een initiele opzet hiervoor hebben we beschikbaar gemaakt als [ADR module Transfer](https://logius-standaarden.github.io/API-mod-transfer/).
+Deze module maakt gebruik van bestaande HTTP RFC's en veelgebruikte headers zoals "Range" en "Content-Digest".
+Logius heeft als haalbaarheidstoets deze module geimplementeerd in zowel Java als Dotnet, om daarmee ervaring op te doen uit de praktijk.
+Uit deze twee voorbeelden blijkt dat het goed te doen is.
+
+De leden van het TO worden gevraagd deze initiele versie door te nemen en aan te geven welke organisaties dit willen uitproberen in een prototype.
+Nadat er een succesvolle implementatie is die naar tevredenheid van de organisatie(s) functioneert, willen we deze module vaststellen binnen Kennisplatform API's en daarna in een toekomstig TO Digikoppeling deze module toevoegen aan het REST API Profiel.
+
+_De leden van het TO wordt gevraagd in te stemmen met deze aanpak_ 
 
 ## FSC Stand van zaken & Beheer
 
