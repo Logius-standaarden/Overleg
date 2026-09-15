@@ -16,10 +16,10 @@
 |10:45| GraphQL Onderzoek (Q4) <BR>- BKWI Karwei <BR> - Gemeenschappelijke Bron ontsluiting : https://ictu.github.io/GBO-GO/latest/| Nil Barua (Logius)  |
 |10:55 | Pauze|
 |11:05|  Grote Berichten| Alexander Green (Logius)  |
-|11:15| Update werkgroep Versiebeheer Digikoppeling/FSC standaard & implementaties| Aarnout Pluijgers (BKWI)  |
-|11:45| Bespreken (overige) Wijzigingsvoorstellen |Peter Haasnoot (Logius)|
+|11:25 | Update werkgroep Versiebeheer Digikoppeling/FSC standaard & implementaties| Aarnout Pluijgers (BKWI)  |
 |12:00 | Lunch|
-|12:45| Architectuurprincipes Logging |Tim van der Lippe (Logius)|
-|13:05 | FSC Stand van zaken & Beheer <BR> - [Opname EU Interoperability Solution Catalog ](https://interoperable-europe.ec.europa.eu/collection/api4dt/solution/federated-service-connectivity-core-specification])| Stas Mironov (Logius)|
-|13:30 | Rondvraag / Afsluiting | Allen | 
+|12:45| Bespreken (overige) Wijzigingsvoorstellen |Peter Haasnoot (Logius)|
+|13:05| Architectuurprincipes Logging |Tim van der Lippe (Logius)|
+|13:25 | FSC Stand van zaken & Beheer <BR> - [Opname EU Interoperability Solution Catalog ](https://interoperable-europe.ec.europa.eu/collection/api4dt/solution/federated-service-connectivity-core-specification])| Stas Mironov (Logius)|
+|13:50 | Rondvraag / Afsluiting | Allen | 
 
