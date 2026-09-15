@@ -46,6 +46,12 @@ Nadat er een succesvolle implementatie is die naar tevredenheid van de organisat
 
 _De leden van het TO wordt gevraagd in te stemmen met deze aanpak_ 
 
-## FSC Stand van zaken & Beheer
+## FSC Signing Service (v1.0.0, concept)
 
-_De leden van het TO wordt gevraagd...._
+FSC Signing Service is een extensie op FSC Core waarmee organisaties zonder eigen FSC Manager toch als Delegator kunnen deelnemen aan een FSC Group. Een Signing Service is zelf een Peer die een multi-tenant Manager exploiteert en namens Managed Peers Contracten aanmaakt, ontvangt en ondertekent. 
+Ondertekenen kan pas nadat een bevoegd vertegenwoordiger zich heeft geauthenticeerd via een vertrouwde authenticatiedienst (bv eHerkenning of eIDAS); de handtekening bevat een authentication proof zonder persoonsgegevens, dat andere Peers via de audit trail API kunnen verifiëren. 
+De scope is beperkt - de Delegatee en de niet-gedelegeerde provider houden een eigen Manager. De extensie vervangt `External Contract Reference` door cryptografisch verifieerbare delegatie.
+
+- [het conceptdocument](https://gitlab.com/rinis-oss/fsc/signing-service/-/blob/main/docs/fsc-signing-service-extension-v1.0.0.md?ref_type=heads&plain=0)
+- [Notulen FSC sub-WG](https://github.com/Logius-standaarden/Overleg/blob/main/FSC/notulen/20260716.md#3-demonstratie-proof-of-concept-signing-service)
+- [Presentatie](../Overleg/FSC/presentaties/presentaties/delegation-high-level-design-v1.2.pdf)
