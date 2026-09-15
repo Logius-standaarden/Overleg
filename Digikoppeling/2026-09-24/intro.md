@@ -54,4 +54,4 @@ De scope is beperkt - de Delegatee en de niet-gedelegeerde provider houden een e
 
 - [het conceptdocument](https://gitlab.com/rinis-oss/fsc/signing-service/-/blob/main/docs/fsc-signing-service-extension-v1.0.0.md?ref_type=heads&plain=0)
 - [Notulen FSC sub-WG](https://github.com/Logius-standaarden/Overleg/blob/main/FSC/notulen/20260716.md#3-demonstratie-proof-of-concept-signing-service)
-- [Presentatie](../Overleg/FSC/presentaties/delegation-high-level-design-v1.2.pdf)
+- [Presentatie](../../../FSC/presentaties/delegation-high-level-design-v1.2.pdf)
