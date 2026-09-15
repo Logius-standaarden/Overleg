@@ -56,6 +56,7 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.
 * fsc-logging [issue #6] [Voeg `trace_id` toe aan log record](https://github.com/Logius-standaarden/fsc-logging/issues/6) (19 februari 2026), _Status: In onderzoek_
 
 ### Overige punten
+* fsc-core [issue #73] [update api version in the OAS](https://github.com/Logius-standaarden/fsc-core/pull/73) (15 september 2026), _Status: In bewerking_
 * OIN-Stelsel [issue #51] [Verwijder geldigheidsduur SubOIN](https://github.com/Logius-standaarden/OIN-Stelsel/pull/51) (10 september 2026)
 * OIN-Stelsel [issue #49] [RFC ...](https://github.com/Logius-standaarden/OIN-Stelsel/issues/49) (3 september 2026), _Status: In onderzoek_
 * OIN-Stelsel [issue #42] [[RFC] Prefix definiëren voor de ETSI Legal Person Semantics Identifier](https://github.com/Logius-standaarden/OIN-Stelsel/issues/42) (8 april 2026), _Status: Gereed_
@@ -67,9 +68,13 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.
 
 ## Digikoppeling Toekomstvisie : Uitwerking nav Themadag 
 
-zie (todo)
+zie [Toekomstbeeld Digikoppeling](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-09-24/2026_09_15_Toekomstbeeld%20Digikoppeling_concept.pdf)
 
-_De TO leden wordt gevraagd in te stemmen met het voorstel dan wel de richting van de doorontwikkeling van de Toekomstvisie_
+In dit document wordt een toekomstbeeld geschetst voor de Digikoppeling standaard, input hiervoor is de themamiddag Digikoppeling van 24/6 zie bijlage voor het verslag van de themamiddag.
+
+_De TO leden wordt gevraagd in te stemmen met het voorstel voor de richting van de doorontwikkeling van de Toekomstvisie_
+
+
 
 ## GraphQL
 
