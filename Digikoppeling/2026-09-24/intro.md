@@ -1,8 +1,8 @@
 ## Digikoppeling Toekomstvisie : Uitwerking nav Themadag 
 
-zie [Toekomstbeeld Digikoppeling](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-09-24/2026_09_15_Toekomstbeeld%20Digikoppeling_concept.pdf)
+Zie Notitie [Toekomstbeeld Digikoppeling](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-09-24/2026_09_15_Toekomstbeeld%20Digikoppeling_concept.pdf)
 
-In dit document wordt een toekomstbeeld geschetst voor de Digikoppeling standaard, input hiervoor is de themamiddag Digikoppeling van 24/6 zie bijlage voor het verslag van de themamiddag.
+In dit document wordt een toekomstbeeld geschetst voor de Digikoppeling standaard. Input hiervoor is de themamiddag Toekomstbeeld Digikoppeling van 24/6 (zie: [Verslag themamiddag Toekomstbeeld Digikoppeling 24/6](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-09-24/20260624_Themadag%20Digikoppeling_verslag.md) )
 
 _De TO leden wordt gevraagd in te stemmen met het voorstel voor de richting van de doorontwikkeling van de Toekomstvisie_
 
