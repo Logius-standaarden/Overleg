@@ -119,6 +119,7 @@ De Digikoppeling standaard richt zich op een uniforme manier van system2system g
 Door gebruik van standaarden worden gegevens op een uniforme manier uitgewisseld en ervaren bedrijven en overheden een gelijk mechanisme bij het maken van koppelingen met de verschillende overheidsdiensten.
 
 ### Open Diensten en Gesloten Diensten
+Digikoppeling biedt ondersteuning voor zowel gesloten diensten als open diensten.
 
 |Type | Open Dienst | Gesloten Dienst|
 |---|---|---|
