@@ -13,13 +13,13 @@
 | 10:05| [Verslag vorige vergadering](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-09-24/2026-6-18%20%20Verslag%20TO%20Digikoppeling%20v1.0..pdf)       |    Peter Haasnoot (Logius) |
 | 10:10| [Review Architectuur](https://github.com/Logius-standaarden/Digikoppeling-Architectuur/compare/main..develop) <BR> Toelichting op de uitgevoerde [review Architectuur](https://gitdocumentatie.logius.nl/publicatie/dk/roadmap/2026-2027/#periodiek-actualiseren-architectuur)   | Peter Haasnoot (Logius) |
 |10:15 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--uitwerking-nav-themadag) <BR> - vervolg 24/6 Themadag Digikoppeling| Peter Haasnoot (Logius) | 
-|10:45| GraphQL Onderzoek (Q4) | Nil Barua (Logius)  |
+|10:45| [GraphQL Onderzoek (Q4)](#graphql) | Nil Barua (Logius)  |
 |10:55 | Pauze|
-|11:05|  Grote Berichten| Alexander Green (Logius)  |
+|11:05|  [Grote Berichten / Transfer module](#grote-berichten)| Alexander Green (Logius)  |
 |11:25 | Update werkgroep Versiebeheer Digikoppeling/FSC standaard & implementaties| Aarnout Pluijgers (BKWI)  |
 |12:00 | Lunch|
 |12:45| Bespreken (overige) Wijzigingsvoorstellen |Peter Haasnoot (Logius)|
 |13:05| Architectuurprincipes Logging |Tim van der Lippe (Logius)|
-|13:25 | FSC Stand van zaken & Beheer <BR> - [Opname EU Interoperability Solution Catalog ](https://interoperable-europe.ec.europa.eu/collection/api4dt/solution/federated-service-connectivity-core-specification])| Stas Mironov (Logius)|
+|13:25 | [FSC Stand van zaken & Beheer](#fsc-signing-service-v100-concept) <BR> - [Opname EU Interoperability Solution Catalog ](https://interoperable-europe.ec.europa.eu/collection/api4dt/solution/federated-service-connectivity-core-specification])| Stas Mironov (Logius)|
 |13:50 | Rondvraag / Afsluiting | Allen | 
 
