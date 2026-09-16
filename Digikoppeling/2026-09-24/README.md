@@ -73,7 +73,7 @@ Zie Notitie [Toekomstbeeld Digikoppeling](2026-09-24_Toekomstbeeld_Digikoppeling
 
 In dit document wordt een toekomstbeeld geschetst voor de Digikoppeling standaard. Input hiervoor is de themamiddag Toekomstbeeld Digikoppeling van 24/6 (zie: [Verslag themamiddag Toekomstbeeld Digikoppeling 24/6](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-09-24/20260624_Themadag%20Digikoppeling_verslag.md) )
 
-_De TO leden wordt gevraagd in te stemmen met het voorstel voor de richting van de doorontwikkeling van de Toekomstvisie_
+_De TO leden wordt gevraagd in te stemmen met het voorstel / de richting van de doorontwikkeling van de Toekomstvisie_
 
 
 
