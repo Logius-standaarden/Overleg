@@ -34,7 +34,7 @@ donderdag 24 september 2026
 | 10:00| Welkom & Mededelingen <BR> - MIDO PT GU zaken <BR> - Beschikbaarheid G4 PKIo certificaten vanaf november  | Peter Haasnoot (Logius) |
 | 10:05| [Verslag vorige vergadering](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-09-24/2026-6-18%20%20Verslag%20TO%20Digikoppeling%20v1.0..pdf)       |    Peter Haasnoot (Logius) |
 | 10:10| Review Architectuur   | Peter Haasnoot (Logius) |
-|10:15 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--scope-en-inzetgebied) <BR> - vervolg 24/6 Themadag Digikoppeling| Peter Haasnoot (Logius) | 
+|10:15 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--uitwerking-nav-themadag) <BR> - vervolg 24/6 Themadag Digikoppeling| Peter Haasnoot (Logius) | 
 |10:45| GraphQL Onderzoek (Q4) <BR>- BKWI Karwei <BR> - Gemeenschappelijke Bron ontsluiting : https://ictu.github.io/GBO-GO/latest/| Nil Barua (Logius)  |
 |10:55 | Pauze|
 |11:05|  Grote Berichten| Alexander Green (Logius)  |
@@ -56,8 +56,9 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.
 * fsc-logging [issue #6] [Voeg `trace_id` toe aan log record](https://github.com/Logius-standaarden/fsc-logging/issues/6) (19 februari 2026), _Status: In onderzoek_
 
 ### Overige punten
+* OIN-Stelsel [issue #52] [SubOIN niet onder externe numer reeksen](https://github.com/Logius-standaarden/OIN-Stelsel/pull/52) (15 september 2026)
 * fsc-core [issue #73] [update api version in the OAS](https://github.com/Logius-standaarden/fsc-core/pull/73) (15 september 2026), _Status: In bewerking_
-* OIN-Stelsel [issue #51] [Verwijder geldigheidsduur SubOIN](https://github.com/Logius-standaarden/OIN-Stelsel/pull/51) (10 september 2026)
+* OIN-Stelsel [issue #51] [Verwijder geldigheidsduur SubOIN](https://github.com/Logius-standaarden/OIN-Stelsel/pull/51) (10 september 2026), _Status: Ter goedkeuring_
 * OIN-Stelsel [issue #49] [RFC ...](https://github.com/Logius-standaarden/OIN-Stelsel/issues/49) (3 september 2026), _Status: In onderzoek_
 * OIN-Stelsel [issue #42] [[RFC] Prefix definiëren voor de ETSI Legal Person Semantics Identifier](https://github.com/Logius-standaarden/OIN-Stelsel/issues/42) (8 april 2026), _Status: Gereed_
 * Digikoppeling-Koppelvlakstandaard-GB [issue #19] [Toevoegen acknowledge bericht na bestandoverdracht.](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-GB/issues/19) (10 februari 2026), _Status: In onderzoek_
@@ -68,7 +69,7 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.
 
 ## Digikoppeling Toekomstvisie : Uitwerking nav Themadag 
 
-Zie Notitie [Toekomstbeeld Digikoppeling](2026-09-24_Toekomstbeeld_DIgikoppeling.md)
+Zie Notitie [Toekomstbeeld Digikoppeling](2026-09-24_Toekomstbeeld_Digikoppeling.md)
 
 In dit document wordt een toekomstbeeld geschetst voor de Digikoppeling standaard. Input hiervoor is de themamiddag Toekomstbeeld Digikoppeling van 24/6 (zie: [Verslag themamiddag Toekomstbeeld Digikoppeling 24/6](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-09-24/20260624_Themadag%20Digikoppeling_verslag.md) )
 
