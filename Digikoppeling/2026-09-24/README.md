@@ -38,12 +38,12 @@ donderdag 24 september 2026
 |10:45| GraphQL Onderzoek (Q4) <BR>- BKWI Karwei <BR> - Gemeenschappelijke Bron ontsluiting : https://ictu.github.io/GBO-GO/latest/| Nil Barua (Logius)  |
 |10:55 | Pauze|
 |11:05|  Grote Berichten| Alexander Green (Logius)  |
-|11:15| Update werkgroep Versiebeheer Digikoppeling/FSC standaard & implementaties| Aarnout Pluijgers (BKWI)  |
-|11:45| Bespreken (overige) Wijzigingsvoorstellen |Peter Haasnoot (Logius)|
+|11:25 | Update werkgroep Versiebeheer Digikoppeling/FSC standaard & implementaties| Aarnout Pluijgers (BKWI)  |
 |12:00 | Lunch|
-|12:45| Architectuurprincipes Logging |Tim van der Lippe (Logius)|
-|13:05 | FSC Stand van zaken & Beheer <BR> - [Opname EU Interoperability Solution Catalog ](https://interoperable-europe.ec.europa.eu/collection/api4dt/solution/federated-service-connectivity-core-specification])| Stas Mironov (Logius)|
-|13:30 | Rondvraag / Afsluiting | Allen | 
+|12:45| Bespreken (overige) Wijzigingsvoorstellen |Peter Haasnoot (Logius)|
+|13:05| Architectuurprincipes Logging |Tim van der Lippe (Logius)|
+|13:25 | FSC Stand van zaken & Beheer <BR> - [Opname EU Interoperability Solution Catalog ](https://interoperable-europe.ec.europa.eu/collection/api4dt/solution/federated-service-connectivity-core-specification])| Stas Mironov (Logius)|
+|13:50 | Rondvraag / Afsluiting | Allen | 
 
 
 ## Aanmelden
@@ -68,9 +68,9 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.
 
 ## Digikoppeling Toekomstvisie : Uitwerking nav Themadag 
 
-zie [Toekomstbeeld Digikoppeling](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-09-24/2026_09_15_Toekomstbeeld%20Digikoppeling_concept.pdf)
+Zie Notitie [Toekomstbeeld Digikoppeling](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-09-24/2026_09_15_Toekomstbeeld%20Digikoppeling_concept.pdf)
 
-In dit document wordt een toekomstbeeld geschetst voor de Digikoppeling standaard, input hiervoor is de themamiddag Digikoppeling van 24/6 zie bijlage voor het verslag van de themamiddag.
+In dit document wordt een toekomstbeeld geschetst voor de Digikoppeling standaard. Input hiervoor is de themamiddag Toekomstbeeld Digikoppeling van 24/6 (zie: [Verslag themamiddag Toekomstbeeld Digikoppeling 24/6](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-09-24/20260624_Themadag%20Digikoppeling_verslag.md) )
 
 _De TO leden wordt gevraagd in te stemmen met het voorstel voor de richting van de doorontwikkeling van de Toekomstvisie_
 
@@ -114,6 +114,12 @@ Nadat er een succesvolle implementatie is die naar tevredenheid van de organisat
 
 _De leden van het TO wordt gevraagd in te stemmen met deze aanpak_ 
 
-## FSC Stand van zaken & Beheer
+## FSC Signing Service (v1.0.0, concept)
 
-_De leden van het TO wordt gevraagd...._
+FSC Signing Service is een extensie op FSC Core waarmee organisaties zonder eigen FSC Manager toch als Delegator kunnen deelnemen aan een FSC Group. Een Signing Service is zelf een Peer die een multi-tenant Manager exploiteert en namens Managed Peers Contracten aanmaakt, ontvangt en ondertekent. 
+Ondertekenen kan pas nadat een bevoegd vertegenwoordiger zich heeft geauthenticeerd via een vertrouwde authenticatiedienst (bv eHerkenning of eIDAS); de handtekening bevat een authentication proof zonder persoonsgegevens, dat andere Peers via de audit trail API kunnen verifiëren. 
+De scope is beperkt - de Delegatee en de niet-gedelegeerde provider houden een eigen Manager. De extensie vervangt `External Contract Reference` door cryptografisch verifieerbare delegatie.
+
+- [het conceptdocument](https://gitlab.com/rinis-oss/fsc/signing-service/-/blob/main/docs/fsc-signing-service-extension-v1.0.0.md?ref_type=heads&plain=0)
+- [Notulen FSC sub-WG](https://github.com/Logius-standaarden/Overleg/blob/main/FSC/notulen/20260716.md#3-demonstratie-proof-of-concept-signing-service)
+- [Presentatie](../../../main/FSC/presentaties/delegation-high-level-design-v1.2.pdf)
