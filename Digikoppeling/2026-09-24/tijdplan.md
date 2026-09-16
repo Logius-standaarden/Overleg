@@ -13,7 +13,7 @@
 | 10:05| [Verslag vorige vergadering](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-09-24/2026-6-18%20%20Verslag%20TO%20Digikoppeling%20v1.0..pdf)       |    Peter Haasnoot (Logius) |
 | 10:10| [Review Architectuur](https://github.com/Logius-standaarden/Digikoppeling-Architectuur/compare/main..develop) <BR> Toelichting op de uitgevoerde [review Architectuur](https://gitdocumentatie.logius.nl/publicatie/dk/roadmap/2026-2027/#periodiek-actualiseren-architectuur)   | Peter Haasnoot (Logius) |
 |10:15 | [Digikoppeling Toekomstvisie](#digikoppeling-toekomstvisie--uitwerking-nav-themadag) <BR> - vervolg 24/6 Themadag Digikoppeling| Peter Haasnoot (Logius) | 
-|10:45| GraphQL Onderzoek (Q4) <BR>- BKWI Karwei <BR> - Gemeenschappelijke Bron ontsluiting : https://ictu.github.io/GBO-GO/latest/| Nil Barua (Logius)  |
+|10:45| GraphQL Onderzoek (Q4) | Nil Barua (Logius)  |
 |10:55 | Pauze|
 |11:05|  Grote Berichten| Alexander Green (Logius)  |
 |11:25 | Update werkgroep Versiebeheer Digikoppeling/FSC standaard & implementaties| Aarnout Pluijgers (BKWI)  |
