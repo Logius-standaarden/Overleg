@@ -21,7 +21,7 @@ Versie: 16-09-26
 - [4 Knelpunten/aandachtspunten in de huidige situatie](4-knelpuntenaandachtspunten-in-de-huidige-situatie)
    * [4.1 Algemeen](#41-algemeen)
    * [4.2 Themadag](#42-themadag)
-- [5 Toekomstbeeld  (SOLL)](#5-toekomstbeeld-soll)
+- [5 Toekomstbeeld  (SOLL)](#5-toekomstbeeld--soll) 
   * [5.1 Doel](#51-doel)
   * [5.2 Scope](#52-scope)
   * [5.3 Positionering in de GDI](#53-positionering-in-de-gdi)
@@ -110,11 +110,20 @@ Digikoppeling biedt standaarden voor veilige en betrouwbare gegevensuitwisseling
 5.2 Scope
 ---------
 
-De Digikoppeling standaard richt zich op een uniforme manier van system2system gegevensuitwisseling tussen overheden (G2G) en tussen overheden en private partijen (G2B).
 
+De Digikoppeling standaard richt zich op een uniforme manier van system2system gegevensuitwisseling tussen overheden (G2G) en tussen overheden en private partijen (G2B). Digikoppeling biedt daarbij ondersteuning voor zowel gesloten diensten als open diensten;
+
+### Overheid naar Overheid / Overheid naar Bedrijven
 ![](media/fig_G2G_G2B.png)
 
 Door gebruik van standaarden worden gegevens op een uniforme manier uitgewisseld en ervaren bedrijven en overheden een gelijk mechanisme bij het maken van koppelingen met de verschillende overheidsdiensten.
+
+### Open Diensten en Gesloten Diensten
+
+|Type | Open Dienst | Gesloten Dienst|
+|---|---|---|
+|G2G | (G2G) Koppelvlakstandaarden <BR> zonder beveiligingsvoorschriften | (G2G) Koppelvlakstandaarden <BR> met beveiligingsvoorschriften |
+|G2B | (G2B) Koppelvlakstandaarden <BR> zonder beveiligingsvoorschriften | (G2B) Koppelvlakstandaarden <BR> met  beveiligingsvoorschriften |
 
 5.3 Positionering in de GDI
 ---------------------------
