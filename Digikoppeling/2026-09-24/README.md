@@ -57,7 +57,6 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar digikoppeling@logius.
 
 ### Overige punten
 * OIN-Stelsel [issue #52] [SubOIN niet onder externe numer reeksen](https://github.com/Logius-standaarden/OIN-Stelsel/pull/52) (15 september 2026)
-* fsc-core [issue #73] [update api version in the OAS](https://github.com/Logius-standaarden/fsc-core/pull/73) (15 september 2026), _Status: In bewerking_
 * OIN-Stelsel [issue #51] [Verwijder geldigheidsduur SubOIN](https://github.com/Logius-standaarden/OIN-Stelsel/pull/51) (10 september 2026), _Status: Ter goedkeuring_
 * OIN-Stelsel [issue #49] [RFC ...](https://github.com/Logius-standaarden/OIN-Stelsel/issues/49) (3 september 2026), _Status: In onderzoek_
 * OIN-Stelsel [issue #42] [[RFC] Prefix definiëren voor de ETSI Legal Person Semantics Identifier](https://github.com/Logius-standaarden/OIN-Stelsel/issues/42) (8 april 2026), _Status: Gereed_
