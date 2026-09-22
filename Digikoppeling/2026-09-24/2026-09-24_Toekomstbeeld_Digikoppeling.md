@@ -80,15 +80,15 @@ Geautomatiseerde gegevensuitwisseling tussen informatiesystemen op basis van NEN
 4.1 Algemeen
 ------------
 
-Verouderde koppelvlakken moeten worden uitgefaseerd en vervanging hiervoor moet worden ingevoerd daarbij moet overlap in functionaliteit zoveel mogelijk worden voorkomen.
+Verouderde koppelvlakken moeten worden uitgefaseerd en vervangen daarbij moet overlap in functionaliteit zoveel mogelijk worden voorkomen.
 
--   WUS en ebMS2  worden niet meer doorontwikkeld en kennen een teruglopende ondersteuning vanuit leveranciers en ontwikkelplaforms
--   WUS en REST-API kennen overlap wat betreft functionaliteit en toepassing (bevragingen/synchrone transacties),  REST-API kan gezien worden als vervanger van de WUS standaard
+-   WUS en ebMS2 worden niet meer doorontwikkeld en kennen een teruglopende ondersteuning vanuit leveranciers en ontwikkelplatforms
+-   WUS en REST-API kennen overlap wat betreft functionaliteit en toepassing (bevragingen/synchrone transacties), REST-API kan gezien worden als vervanger van de WUS standaard
 
 4.2 Themadag 
 -------------
 
-BIj de Themadag bleek met name draagvlak voor:
+Bij de Themadag bleek met name draagvlak voor:
 
 -   Invoeren van ebMS3/AS4 (eDelivery) 
 -   Faciliteren van verschillende standaarden voor gegevensuitwisseling als dat voordelen heeft voor bepaalde toepassingen, architecturen en use cases.
@@ -100,7 +100,7 @@ BIj de Themadag bleek met name draagvlak voor:
 5 Toekomstbeeld  (SOLL)
 =======================
 
-In dit hoofstuk wordt het toekomstbeeld Digikoppeling geschetst op basis van de eerdere geconstateerde aandachtspunten, de visie vanuit het Technisch Overleg Digikoppeling en de inzichten van de Themadag Digikoppeling Toekomstvisie .  
+In dit hoofdstuk wordt het toekomstbeeld Digikoppeling geschetst op basis van de eerdere geconstateerde aandachtspunten, de visie vanuit het Technisch Overleg Digikoppeling en de inzichten van de Themadag Digikoppeling Toekomstvisie .  
 
 5.1 Doel
 --------
@@ -130,7 +130,7 @@ Digikoppeling biedt ondersteuning voor zowel gesloten diensten als open diensten
 ---------------------------
 
 Digikoppeling is het GDI bouwblok voor standaarden voor Gegevensuitwisseling en is gericht op de transport afspraken en de specificatie van koppelvlakken/interfaces van systemen;\
-Digikoppeling is opgenomen op de pas toe of leg uit lijst van het Forum Standaardisatie dit heeft als voordeel dat de onderliggende koppelvlakstandaarden niet los met hetzelfde toepassingsgebied op de pas toe of leg uit lijst staan maar in samenhang kunnen worden aangeboden en onderhouden (life-cycle-management) met daarbij ook een afwegingskader/advies over gebruik en toepassing.
+Digikoppeling is opgenomen op de pas toe of leg uit lijst van het Forum Standaardisatie. Dit heeft als voordeel dat de onderliggende koppelvlakstandaarden niet los met hetzelfde toepassingsgebied op de pas toe of leg uit lijst staan maar in samenhang kunnen worden aangeboden en onderhouden (life-cycle-management) met daarbij ook een afwegingskader/advies over gebruik en toepassing.
 
 5.4 Inhoud & Opbouw van de standaard
 ------------------------------------
@@ -139,7 +139,7 @@ Digikoppeling is opgenomen op de pas toe of leg uit lijst van het Forum Standaar
 
 Doel van Digikoppeling is geschikte standaarden aan te bieden voor de verschillende soorten gegevensuitwisseling die in de praktijk voorkomen. Hierbij is het wenselijk om te sturen op standaarden en functionele overlap te beperken.
 
-Digikoppeling vormt een gereedschapkist van standaarden waarbij standaarden worden opgenomen die voor een bepaalde toepassing en architectuur het meest geschikt zijn.
+Digikoppeling vormt een gereedschapskist van standaarden waarbij standaarden worden opgenomen die voor een bepaalde toepassing en architectuur het meest geschikt zijn.
 
 Om innovatie mogelijk te maken en legacy te voorkomen is actief life-cycle management op de set toegestane standaarden nodig.
 
@@ -190,7 +190,7 @@ Per architectuur worden hieronder de standaarden  weergegeven die zijn opgenomen
 
 
 *V : de standaard biedt specifieke functionaliteit voor deze architectuur\
-v:  de standaard biedt voor bepaalde use cases mogelijk voldoende functionalteit*
+v:  de standaard biedt voor bepaalde use cases mogelijk voldoende functionaliteit*
 
 Let op!, De standaard is met V opgenomen in de digikoppeling 'toolbox' omdat deze specifieke functionaliteiten biedt voor deze architectuur, het is mogelijk voor bepaalde usecases een andere standaard te gebruiken - ,maar het is verstandig om bij afwijkingen een zorgvuldige afweging te maken;
 
@@ -219,7 +219,7 @@ Een standaard wordt toegevoegd wanneer :
 
 -   De standaard wordt gezien als opvolger van een uit te faseren standaard\
     (en/of)
--   De standaard biedt functionaliteit die meerwaarde biedt tov de reeds aanwezige standaarden voor bepaalde architecturen en use-cases daarbinnen
+-   De standaard functionaliteit biedt die meerwaarde levert tov de reeds aanwezige standaarden voor bepaalde architecturen en use-cases daarbinnen
 
 Algemene eisen hierbij in de beoordeling:
 
@@ -234,7 +234,7 @@ Algemene eisen hierbij in de beoordeling:
 
 ### 5.6.1 Uitgangspunten
 
--   Digikoppeling is het GDI bouwblok dat aangeeft welke standaarden voor welke architectuur te gerbuiken zijn;
+-   Digikoppeling is het GDI bouwblok dat aangeeft welke standaarden voor welke architectuur te gebruiken zijn;
 -   Digikoppeling levert voor standaarden NLgov profielen in geval aanvullende afspraken op de (internationale) standaard nodig zijn
 -   Digikoppeling verwijst alleen naar de internationale standaard in het geval dat dit volstaat (of wanneer een profiel nog in ontwikkeling is)
 -   Digikoppeling biedt algemene beveiligingsvoorschriften voor de verschillende koppelvlakstandaarden (zodat deze niet in aparte profielen hoeven te worden bijgehouden)
@@ -255,7 +255,7 @@ Per standaard wordt bijgehouden of dit een profiel of internationale standaard i
 | WUS | Profiel | Uit te faseren ||
 
 
-Aanpassingen op de status en invoering van nieuwe standaarden verloopt via Technisch overleg Digikoppeling, en MIDO governance conform het Digikoppeling Beheermodel
+Aanpassingen op de status en invoering van nieuwe standaarden verloopt via het Technisch overleg Digikoppeling, en de MIDO governance conform het Digikoppeling Beheermodel
 
 6 Transitiepad 
 ===============
@@ -275,7 +275,7 @@ De uitfaseringsplanning is als volgt (voorbeeld):
 
 (NB Datums zijn nog nader te bepalen)
 
-Na einde ondersteuning is gebruik nog toegestaan voor legacy applicaties tot datum einde gebruik. De organisatie is zelf verantwoordelijk voor functionele en security updates.
+Na einde ondersteuning is gebruik nog toegestaan voor legacy applicaties tot datum einde gebruik. De organisatie is in deze periode zelf verantwoordelijk voor functionele en security updates.
 
 6.2 Transitie van Koppelvlakstandaarden
 ---------------------------------------
