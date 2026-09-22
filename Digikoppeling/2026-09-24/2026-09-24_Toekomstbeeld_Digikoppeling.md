@@ -100,7 +100,20 @@ Bij de Themadag bleek met name draagvlak voor:
 5 Toekomstbeeld  (SOLL)
 =======================
 
-In dit hoofdstuk wordt het toekomstbeeld Digikoppeling geschetst op basis van de eerdere geconstateerde aandachtspunten, de visie vanuit het Technisch Overleg Digikoppeling en de inzichten van de Themadag Digikoppeling Toekomstvisie .  
+In dit hoofdstuk wordt het toekomstbeeld Digikoppeling geschetst op basis van de eerdere geconstateerde aandachtspunten, de visie vanuit het Technisch Overleg Digikoppeling en de inzichten van de Themadag Digikoppeling Toekomstvisie .
+
+>__Uitgangspunten voor het toekomstbeeld:__
+>
+>- De Digikoppeling standaard is de GDI bouwsteen voor (systeem naar systeem) gegevensuitwisseling,
+>
+>- Digikoppeling heeft een duidelijk en eenduidig toepassingsgebied door de volgende scope te hanteren:
+>    - Digikoppeling richt zich op zowel Overheid naar Overheid als Overheid naar Bedrijfsleven.
+>    - Digikoppeling richt zich op zowel Open als Gesloten vormen van Gegevensuitwisseling.
+>
+>- Digikoppeling is een bruikbare en actuele standaard:
+>    - Digikoppeling dient voldoende functionaliteit te bieden voor de verschillende architecturen voor gegevensuitwisseling.
+>    - Digikoppeling dient bij te blijven met de ontwikkelingen in het Domein Gegevensuitwisseling en moet innovatie en gebruik van nieuwe standaarden mogelijk maken.
+
 
 5.1 Doel
 --------
