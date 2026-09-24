@@ -20,6 +20,6 @@
 |12:00 | Lunch|
 |12:45| Bespreken (overige) Wijzigingsvoorstellen |Peter Haasnoot (Logius)|
 |13:05| Architectuurprincipes Logging |Tim van der Lippe (Logius)|
-|13:25 | [FSC Stand van zaken & Beheer](#fsc-signing-service-v100-concept) <BR> - [Opname EU Interoperability Solution Catalog ](https://interoperable-europe.ec.europa.eu/collection/api4dt/solution/federated-service-connectivity-core-specification])| Stas Mironov (Logius)|
+|13:25 | [FSC Stand van zaken & Beheer](#fsc-signing-service-v100-concept) <BR> - [Opname EU Interoperability Solution Catalog ](https://interoperable-europe.ec.europa.eu/collection/api4dt/solution/federated-service-connectivity-core-specification)| Stas Mironov (Logius)|
 |13:50 | Rondvraag / Afsluiting | Allen | 
 
