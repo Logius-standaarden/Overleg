@@ -9,5 +9,5 @@ _In bewerking_
 | | Required value for specversion|
 | 10:30 | Nadere specificatie URN-formaten|
 | 10:40 | Website Logius.nl - Standaarden - CloudEvents|
-| 11:00 | Samenvatting en vragen/discussie                              |
-| 11:10 | Rondvraag en afsluiting                                       |
+| 10:50 | Samenvatting en vragen/discussie                              |
+| 11:00 | Rondvraag en afsluiting                                       |
