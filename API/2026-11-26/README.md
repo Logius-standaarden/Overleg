@@ -40,6 +40,10 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar api@logius.nl
 
 ## Onderwerpen
 
+### Kleine wijzigingen
+* API-Design-Rules [issue #366] [Maak operationId verplicht](https://github.com/Logius-standaarden/API-Design-Rules/issues/366) (6 november 2026), _Status: In onderzoek_
+* API-Design-Rules [issue #365] [Gebruik tags voor het identificeren van endpoints die een bepaalde module implementeren](https://github.com/Logius-standaarden/API-Design-Rules/issues/365) (6 november 2026), _Status: In onderzoek_
+
 ### Overige punten
 * API-Design-Rules [issue #358] [Beperk servers-use-https tot plekken waar servers mag voorkomen](https://github.com/Logius-standaarden/API-Design-Rules/pull/358) (30 september 2026), _Status: In bewerking_
 * API-Design-Rules [issue #353] [Breid regel "trailing slashes" uit](https://github.com/Logius-standaarden/API-Design-Rules/pull/353) (11 augustus 2026), _Status: In bewerking_
