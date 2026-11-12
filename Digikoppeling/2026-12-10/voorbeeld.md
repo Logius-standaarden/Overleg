@@ -13,3 +13,7 @@ Lizzy.wellink@logius.nl
 xx-xx-2026
 </div>
 <p align="right">
+
+## Opening en mededelingen
+
+Hartelijk welkom namens de voorzitter.
