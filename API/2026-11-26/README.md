@@ -46,9 +46,8 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar api@logius.nl
 ### Kleine wijzigingen
 * API-Design-Rules [issue #366] [Maak operationId verplicht](https://github.com/Logius-standaarden/API-Design-Rules/issues/366) (6 november 2026), _Status: In onderzoek_
 * API-Design-Rules [issue #365] [Gebruik tags voor het identificeren van endpoints die een bepaalde module implementeren](https://github.com/Logius-standaarden/API-Design-Rules/issues/365) (6 november 2026), _Status: In onderzoek_
+* API-Design-Rules [issue #353] [Breid regel "trailing slashes" uit](https://github.com/Logius-standaarden/API-Design-Rules/pull/353) (11 augustus 2026), _Status: In bewerking_
 
 ### Overige punten
 * API-mod-pagination [issue #14] [Relatie met DSO API standaarden (HAL)](https://github.com/Logius-standaarden/API-mod-pagination/issues/14) (5 november 2026)
 * API-mod-pagination [issue #13] [Statisch/dynamisch vs monotoon groeiende collecties](https://github.com/Logius-standaarden/API-mod-pagination/issues/13) (5 november 2026)
-* API-Design-Rules [issue #358] [Beperk servers-use-https tot plekken waar servers mag voorkomen](https://github.com/Logius-standaarden/API-Design-Rules/pull/358) (30 september 2026), _Status: In bewerking_
-* API-Design-Rules [issue #353] [Breid regel "trailing slashes" uit](https://github.com/Logius-standaarden/API-Design-Rules/pull/353) (11 augustus 2026), _Status: In bewerking_
