@@ -5,8 +5,8 @@ Logius
 Naam (vz.)</br>
 T	nummer</br>
 xx@logius.nl</br>
-
-Lizzy Wellink (secr.)
+</br>
+Lizzy Wellink (secr.)</br>
 T 06 2531 0240</br>
 Lizzy.wellink@logius.nl
 <h4>Datum</h4>
