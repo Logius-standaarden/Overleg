@@ -14,6 +14,15 @@ xx-xx-2026
 </div>
 <p align="right">
 
+# Verslag
+
+| Omschrijving           |   |
+|------------------------|---|
+| Vergaderdatum en -tijd |   |
+| Vergaderplaats         |   |
+| Aanwezig               |   |
+| Afwezig                |   |
+
 ## Opening en mededelingen
 
 Hartelijk welkom namens de voorzitter.
