@@ -9,5 +9,9 @@
 | --- | --- | --- |
 | 10:00 | Welkom & Mededelingen | Tim |
 | 10:05 | Updates vanuit beheer | Tim |
+| 10:15 | Empty path segments | Tim |
+| 10:25 | Geospatial module | Geonovum |
+| 10:40 | Pagination consultatie reacties (tot nu toe) | Tim |
+| 11:00 | Acknowledgements | Tim |
 | 11:10 | WVTTK | Tim |
 | 11:15 | Einde | Tim |
