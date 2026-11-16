@@ -18,7 +18,7 @@ xx-xx-2026
 
 | Omschrijving           |   |
 |------------------------|---|
-| Vergaderdatum en -tijd |   |
+| Vergaderdatum en -tijd | 10:00 - 11:00  |
 | Vergaderplaats         |   |
 | Aanwezig               |   |
 | Afwezig                |   |
