@@ -49,9 +49,9 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar api@logius.nl
 
 ### Kleine wijzigingen
 * API-Design-Rules [issue #365] [Gebruik tags voor het identificeren van endpoints die een bepaalde module implementeren](https://github.com/Logius-standaarden/API-Design-Rules/issues/365) (6 november 2026), _Status: In onderzoek_
+* API-mod-pagination [issue #14] [Relatie met DSO API standaarden (HAL)](https://github.com/Logius-standaarden/API-mod-pagination/issues/14) (5 november 2026)
+* API-mod-pagination [issue #13] [Statisch/dynamisch vs monotoon groeiende collecties](https://github.com/Logius-standaarden/API-mod-pagination/issues/13) (5 november 2026)
 * API-Design-Rules [issue #353] [Breid regel "trailing slashes" uit](https://github.com/Logius-standaarden/API-Design-Rules/pull/353) (11 augustus 2026), _Status: In bewerking_
 
 ### Overige punten
 * API-Design-Rules [issue #369] [Beheer: voeg acknowledgement sectie toe](https://github.com/Logius-standaarden/API-Design-Rules/issues/369) (16 november 2026)
-* API-mod-pagination [issue #14] [Relatie met DSO API standaarden (HAL)](https://github.com/Logius-standaarden/API-mod-pagination/issues/14) (5 november 2026)
-* API-mod-pagination [issue #13] [Statisch/dynamisch vs monotoon groeiende collecties](https://github.com/Logius-standaarden/API-mod-pagination/issues/13) (5 november 2026)
