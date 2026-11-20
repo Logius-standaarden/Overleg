@@ -45,7 +45,7 @@ Dit overleg is openbaar. Aanmelden kan door te mailen naar api@logius.nl
 ## Onderwerpen
 
 ### Grote wijzigingen
-* API-mod-geospatial [issue #25] [Geomodule update voor JSON-FG](https://github.com/Logius-standaarden/API-mod-geospatial/pull/25) (22 september 2026), _Status: Ter goedkeuring_
+* API-mod-geospatial [issue #27] [Voeg JSON FG toe als uitwisselformaat](https://github.com/Logius-standaarden/API-mod-geospatial/pull/27) (19 november 2026), _Status: Ter goedkeuring_
 
 ### Kleine wijzigingen
 * API-Design-Rules [issue #365] [Gebruik tags voor het identificeren van endpoints die een bepaalde module implementeren](https://github.com/Logius-standaarden/API-Design-Rules/issues/365) (6 november 2026), _Status: In onderzoek_
